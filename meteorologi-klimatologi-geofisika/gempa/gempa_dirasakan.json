@@ -1,0 +1,270 @@
+[
+  {
+    "waktu": "04/08/2024 15:03:26 WIB",
+    "lintang": "3.65 LS",
+    "bujur": "128.46 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "123 Km",
+    "wilayah": "Pusat gempa berada di Laut 23 Km Barat Saparua",
+    "warning": [
+      "II Ambon",
+      "II Ambon"
+    ]
+  },
+  {
+    "waktu": "04/08/2024 13:23:25 WIB",
+    "lintang": "5.67 LS",
+    "bujur": "113.08 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "33 Km",
+    "wilayah": "Pusat gempa berada di laut 153 km Timur laut Bangkalan",
+    "warning": [
+      "II Bawean",
+      "II Bawean"
+    ]
+  },
+  {
+    "waktu": "04/08/2024 11:11:10 WIB",
+    "lintang": "2.45 LS",
+    "bujur": "140.42 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "18 Km",
+    "wilayah": "Pusat gempa berada di laut 15 Km TimurLaut Kab. Jayapura",
+    "warning": [
+      "II Kota Jayapura",
+      "II Kota Jayapura"
+    ]
+  },
+  {
+    "waktu": "04/08/2024 03:39:58 WIB",
+    "lintang": "6.89 LS",
+    "bujur": "109.74 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di darat, 2 km TimurLaut Batang",
+    "warning": [
+      "II Batang",
+      "II Batang"
+    ]
+  },
+  {
+    "waktu": "03/08/2024 22:37:55 WIB",
+    "lintang": "3.27 LS",
+    "bujur": "135.49 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "24 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km barat laut Nabire",
+    "warning": [
+      "II-III Nabire",
+      "II-III Nabire"
+    ]
+  },
+  {
+    "waktu": "03/08/2024 12:32:58 WIB",
+    "lintang": "3.39 LS",
+    "bujur": "138.09 BT",
+    "magnitudo": "5",
+    "kedalaman": "100 Km",
+    "wilayah": "Pusat gempa berada di 28 km Timurlaut Puncakjaya",
+    "warning": [
+      "II Wamena",
+      "III Puncakjaya",
+      "II Wamena",
+      "III Puncakjaya"
+    ]
+  },
+  {
+    "waktu": "02/08/2024 00:07:47 WIB",
+    "lintang": "5.87 LS",
+    "bujur": "105.12 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 52 km Tenggara Pesawaran",
+    "warning": [
+      "I-II Kelumbayan Barat (Kab. Tanggamus)",
+      "I-II Punduh Pidada (Kab. Pesawaran)",
+      "I-II Kelumbayan Barat (Kab. Tanggamus)",
+      "I-II Punduh Pidada (Kab. Pesawaran)"
+    ]
+  },
+  {
+    "waktu": "01/08/2024 07:00:07 WIB",
+    "lintang": "0.11 LS",
+    "bujur": "123.29 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "129 Km",
+    "wilayah": "Pusat gempa berada di Laut 73 km Tenggara Bonebolango",
+    "warning": [
+      "III Kota Gorontalo",
+      "III Kab. Gorontalo",
+      "III Kab. Gorontalo Utara",
+      "III Kota Gorontalo",
+      "III Kab. Gorontalo",
+      "III Kab. Gorontalo Utara"
+    ]
+  },
+  {
+    "waktu": "31/07/2024 23:36:00 WIB",
+    "lintang": "5.37 LS",
+    "bujur": "105.16 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km Timutlaut Pesawaran",
+    "warning": [
+      "I-II Pesawaran",
+      "I-II Pesawaran"
+    ]
+  },
+  {
+    "waktu": "31/07/2024 06:30:31 WIB",
+    "lintang": "6.92 LS",
+    "bujur": "109.72 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di darat 1 km baratdaya Batang",
+    "warning": [
+      "II Batang",
+      "II Batang"
+    ]
+  },
+  {
+    "waktu": "29/07/2024 22:01:02 WIB",
+    "lintang": "1.01 LS",
+    "bujur": "99.68 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "37 Km",
+    "wilayah": "Pusat gempa berada di laut 64 km Barat Daya Pariaman",
+    "warning": [
+      "II-III Padang",
+      "II-III Padang Pariaman",
+      "II Padang Panjang",
+      "II-III Padang",
+      "II-III Padang Pariaman",
+      "II Padang Panjang"
+    ]
+  },
+  {
+    "waktu": "29/07/2024 19:50:59 WIB",
+    "lintang": "8.3 LS",
+    "bujur": "116.59 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada didarat 38 km Baratlaut Pulau Panjang",
+    "warning": [
+      "II Lombok Timur",
+      "II Lombok Timur"
+    ]
+  },
+  {
+    "waktu": "27/07/2024 16:32:36 WIB",
+    "lintang": "3.23 LS",
+    "bujur": "128.35 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km utara Kairatu",
+    "warning": [
+      "III Kairatu",
+      "III Kairatu"
+    ]
+  },
+  {
+    "waktu": "26/07/2024 14:30:01 WIB",
+    "lintang": "1.67 LU",
+    "bujur": "125.29 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di laut 31 km Timur laut Bitung",
+    "warning": [
+      "III Bitung",
+      "III Bitung"
+    ]
+  },
+  {
+    "waktu": "26/07/2024 10:49:45 WIB",
+    "lintang": "6.92 LS",
+    "bujur": "108.46 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 6 Km Baratlaut Kuningan",
+    "warning": [
+      "II - III Kuningan",
+      "I-II Ciamis",
+      "I-II Banjar",
+      "II - III Kuningan",
+      "I-II Ciamis",
+      "I-II Banjar"
+    ]
+  },
+  {
+    "waktu": "26/07/2024 03:32:18 WIB",
+    "lintang": "7.6 LS",
+    "bujur": "128.71 BT",
+    "magnitudo": "6.3",
+    "kedalaman": "157 Km",
+    "wilayah": "Pusat gempa berada di laut 121 km TimurLaut MALUKUBRTDAYA",
+    "warning": [
+      "II - III Tiakur",
+      "II - III Tiakur"
+    ]
+  },
+  {
+    "waktu": "26/07/2024 00:11:41 WIB",
+    "lintang": "6.02 LS",
+    "bujur": "102.87 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 100 km tenggara Enggano",
+    "warning": [
+      "II - III Kec. Pesisir Selatan",
+      "II - III Kec. Pesisir Selatan"
+    ]
+  },
+  {
+    "waktu": "25/07/2024 19:14:21 WIB",
+    "lintang": "2.46 LS",
+    "bujur": "120.79 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 44 km barat laut Luwutimur",
+    "warning": [
+      "II Tomoni",
+      "II Tomoni"
+    ]
+  },
+  {
+    "waktu": "25/07/2024 17:36:41 WIB",
+    "lintang": "6.98 LS",
+    "bujur": "108.5 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 1 km Tenggara Kab. Kuningan",
+    "warning": [
+      "III Kuningan",
+      "II-III Ciamis",
+      "II-III Banjar",
+      "II - III Talaga",
+      "II-III Panawangan",
+      "II-III Luragung",
+      "II - III Cikijing",
+      "III Kuningan",
+      "II-III Ciamis",
+      "II-III Banjar",
+      "II - III Talaga",
+      "II-III Panawangan",
+      "II-III Luragung",
+      "II - III Cikijing"
+    ]
+  },
+  {
+    "waktu": "25/07/2024 04:01:58 WIB",
+    "lintang": "6.98 LS",
+    "bujur": "108.51 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km tenggara Kab. Kuningan",
+    "warning": [
+      "II-III Kuningan",
+      "II-III Kuningan"
+    ]
+  }
+]
