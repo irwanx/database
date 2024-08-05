@@ -35,7 +35,7 @@ const fetchKurs = async () => {
       }
     });
 
-    await fs.writeFile('../ekonomi/kurs.json', JSON.stringify(result, null, 2));
+    await fs.writeFile('./ekonomi/kurs.json', JSON.stringify(result, null, 2));
     console.log('Data kurs telah disimpan.');
   } catch (error) {
     console.error('Error fetching kurs data:', error);

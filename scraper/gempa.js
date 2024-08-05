@@ -23,7 +23,7 @@ const fetchGempaTerkini = async () => {
       }
     });
 
-    await fs.writeFile('../meteorologi-klimatologi-geofisika/gempa/gempa_terkini.json', JSON.stringify(result, null, 2));
+    await fs.writeFile('./meteorologi-klimatologi-geofisika/gempa/gempa_terkini.json', JSON.stringify(result, null, 2));
     console.log('Gempa terkini data has been written.');
   } catch (error) {
     console.error('Error fetching gempa terkini data:', error);
@@ -58,7 +58,7 @@ const fetchGempaDirasakan = async () => {
       }
     });
 
-    await fs.writeFile('../meteorologi-klimatologi-geofisika/gempa/gempa_dirasakan.json', JSON.stringify(result, null, 2));
+    await fs.writeFile('./meteorologi-klimatologi-geofisika/gempa/gempa_dirasakan.json', JSON.stringify(result, null, 2));
     console.log('Gempa dirasakan data has been written.');
   } catch (error) {
     console.error('Error fetching gempa dirasakan data:', error);
