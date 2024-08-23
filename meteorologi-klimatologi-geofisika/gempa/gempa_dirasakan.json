@@ -1,1 +1,312 @@
-[]
+[
+  {
+    "waktu": "23/08/2024 10:55:58 WIB",
+    "lintang": "9.04 LS",
+    "bujur": "119.36 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 43 km timurlaut Tambolaka",
+    "warning": [
+      "III-IV Labuhan Bajo",
+      "III-IV Tambolaka",
+      "III Dompu",
+      "III Bima",
+      "III Sumba Barat",
+      "III Sumba Timur",
+      "II Ruteng",
+      "II Sumbawa",
+      "III-IV Sumba Tengah",
+      "III-IV Labuhan Bajo",
+      "III-IV Tambolaka",
+      "III Dompu",
+      "III Bima",
+      "III Sumba Barat",
+      "III Sumba Timur",
+      "II Ruteng",
+      "II Sumbawa",
+      "III-IV Sumba Tengah"
+    ]
+  },
+  {
+    "waktu": "21/08/2024 18:58:30 WIB",
+    "lintang": "10 LS",
+    "bujur": "116.5 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "100 Km",
+    "wilayah": "Pusat gempa berada di laut 143 km barat daya Sumbawa Barat",
+    "warning": [
+      "III Lombok Utara",
+      "III Lombok Barat",
+      "III Lombok Timur",
+      "III Lombok Tengah",
+      "II Denpasar",
+      "II Badung",
+      "II Klungkung",
+      "II Karangasem",
+      "III Mataram",
+      "III Lombok Utara",
+      "III Lombok Barat",
+      "III Lombok Timur",
+      "III Lombok Tengah",
+      "II Denpasar",
+      "II Badung",
+      "II Klungkung",
+      "II Karangasem",
+      "III Mataram"
+    ]
+  },
+  {
+    "waktu": "21/08/2024 07:01:17 WIB",
+    "lintang": "2.47 LU",
+    "bujur": "116.85 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "51 Km",
+    "wilayah": "Pusat gempa berada di darat 50 km barat daya Bulungan",
+    "warning": [
+      "II - III Berau",
+      "III Tanjung Selor",
+      "II - III Berau",
+      "III Tanjung Selor"
+    ]
+  },
+  {
+    "waktu": "20/08/2024 00:29:48 WIB",
+    "lintang": "4.08 LS",
+    "bujur": "121.93 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km Tenggara KOLAKATIMUR",
+    "warning": [
+      "II - III Kolaka Timur",
+      "II - III Kolaka Timur"
+    ]
+  },
+  {
+    "waktu": "19/08/2024 10:48:57 WIB",
+    "lintang": "10 LS",
+    "bujur": "123.74 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "27 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km barat daya Kab. Kupang",
+    "warning": [
+      "II-III Kota Kupang",
+      "III - IV Kab. Kupang",
+      "II-III Kota Kupang",
+      "III - IV Kab. Kupang"
+    ]
+  },
+  {
+    "waktu": "18/08/2024 22:27:17 WIB",
+    "lintang": "3.39 LS",
+    "bujur": "135.74 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 26 km tenggara Nabire",
+    "warning": [
+      "II-III Nabire",
+      "II-III Nabire"
+    ]
+  },
+  {
+    "waktu": "17/08/2024 08:25:28 WIB",
+    "lintang": "2.49 LS",
+    "bujur": "121.18 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km TimurLaut LUWUTIMUR",
+    "warning": [
+      "III Malili",
+      "III Malili"
+    ]
+  },
+  {
+    "waktu": "15/08/2024 19:40:14 WIB",
+    "lintang": "8.65 LS",
+    "bujur": "120.42 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km barat daya Ruteng",
+    "warning": [
+      "III Ruteng",
+      "III Ruteng"
+    ]
+  },
+  {
+    "waktu": "15/08/2024 00:55:42 WIB",
+    "lintang": "7.7 LS",
+    "bujur": "106.08 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 87 km barat daya Bayah",
+    "warning": [
+      "III Cianjur",
+      "III Kabupaten Sukabumi",
+      "III Kabupaten Bandung",
+      "II Bogor",
+      "II Garut",
+      "III Cianjur",
+      "III Kabupaten Sukabumi",
+      "III Kabupaten Bandung",
+      "II Bogor",
+      "II Garut"
+    ]
+  },
+  {
+    "waktu": "14/08/2024 21:14:03 WIB",
+    "lintang": "9.63 LS",
+    "bujur": "114.02 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 156 km barat daya Jembrana",
+    "warning": [
+      "III - IV Banyuwangi",
+      "II-III Badung",
+      "II - III Tabanan",
+      "II Denpasar",
+      "II Karangkates",
+      "III - IV Banyuwangi",
+      "II-III Badung",
+      "II - III Tabanan",
+      "II Denpasar",
+      "II Karangkates"
+    ]
+  },
+  {
+    "waktu": "14/08/2024 16:15:08 WIB",
+    "lintang": "6.65 LS",
+    "bujur": "104.37 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 134 km barat daya Tanggamus",
+    "warning": [
+      "II Bengkunat",
+      "II Bengkunat"
+    ]
+  },
+  {
+    "waktu": "14/08/2024 02:54:01 WIB",
+    "lintang": "3.4 LS",
+    "bujur": "135.42 BT",
+    "magnitudo": "4",
+    "kedalaman": "35 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km barat daya Nabire",
+    "warning": [
+      "III Nabire",
+      "III Nabire"
+    ]
+  },
+  {
+    "waktu": "13/08/2024 21:00:27 WIB",
+    "lintang": "2.4 LS",
+    "bujur": "134.29 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 43 km BaratLaut Teluk Wondama",
+    "warning": [
+      "II Teluk Wondama",
+      "II Teluk Wondama"
+    ]
+  },
+  {
+    "waktu": "13/08/2024 20:41:17 WIB",
+    "lintang": "3.68 LS",
+    "bujur": "128.15 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di laut 4 km barat Ambon",
+    "warning": [
+      "II Ambon",
+      "II Ambon"
+    ]
+  },
+  {
+    "waktu": "13/08/2024 20:27:27 WIB",
+    "lintang": "5.28 LU",
+    "bujur": "95.51 BT",
+    "magnitudo": "4",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km BaratLaut Jantho",
+    "warning": [
+      "III Jantho",
+      "II - III Aceh Besar",
+      "III Jantho",
+      "II - III Aceh Besar"
+    ]
+  },
+  {
+    "waktu": "13/08/2024 20:04:38 WIB",
+    "lintang": "5.29 LU",
+    "bujur": "95.51 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km barat laut Jantho-Aceh Besar",
+    "warning": [
+      "III-IV Banda Aceh",
+      "III-IV Aceh Besar",
+      "II Lammo",
+      "III-IV Banda Aceh",
+      "III-IV Aceh Besar",
+      "II Lammo"
+    ]
+  },
+  {
+    "waktu": "13/08/2024 10:03:52 WIB",
+    "lintang": "9.18 LS",
+    "bujur": "112.59 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "57 Km",
+    "wilayah": "Pusat gempa berada di laut 115 km Tenggara Kab. Malang",
+    "warning": [
+      "III - IV Kabupaten Malang",
+      "III Blitar",
+      "II Jember",
+      "II Lumajang",
+      "III - IV Kabupaten Malang",
+      "III Blitar",
+      "II Jember",
+      "II Lumajang"
+    ]
+  },
+  {
+    "waktu": "12/08/2024 18:36:13 WIB",
+    "lintang": "2.38 LU",
+    "bujur": "126.65 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut, 125km BaratLaut Pulaudoi",
+    "warning": [
+      "II-III Tagulandang",
+      "II-III Minahasa Tenggara",
+      "II-III Tagulandang",
+      "II-III Minahasa Tenggara"
+    ]
+  },
+  {
+    "waktu": "12/08/2024 04:44:58 WIB",
+    "lintang": "3.15 LS",
+    "bujur": "118.82 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km barat daya Majene",
+    "warning": [
+      "II - III Majene",
+      "II - III Majene"
+    ]
+  },
+  {
+    "waktu": "10/08/2024 15:20:23 WIB",
+    "lintang": "2.8 LU",
+    "bujur": "117.74 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 63 km tenggara Tarakan",
+    "warning": [
+      "III-IV Tarakan",
+      "III-IV Tanjung Selor",
+      "III-IV Berau",
+      "III-IV Tarakan",
+      "III-IV Tanjung Selor",
+      "III-IV Berau"
+    ]
+  }
+]
