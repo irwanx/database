@@ -18,7 +18,10 @@
     "magnitudo": "3.2",
     "kedalaman": "8 Km",
     "wilayah": "Pusat gempa berada di darat 21 km BaratLaut Kab. Garut",
-    "warning": []
+    "warning": [
+      "II Pasirwangi",
+      "II Pasirwangi"
+    ]
   },
   {
     "waktu": "18/09/2024 09:41:08 WIB",
