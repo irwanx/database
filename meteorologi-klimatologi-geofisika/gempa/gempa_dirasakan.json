@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "22/10/2024 12:48:20 WIB",
+    "lintang": "5.66 LS",
+    "bujur": "104.77 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di laut 22 km Tenggara Tanggamus",
+    "warning": [
+      "II Kota Agung",
+      "II Bulok",
+      "II Kota Agung",
+      "II Bulok"
+    ]
+  },
+  {
     "waktu": "22/10/2024 12:16:31 WIB",
     "lintang": "5.56 LS",
     "bujur": "104.76 BT",
@@ -20,7 +34,10 @@
     "magnitudo": "2.8",
     "kedalaman": "18 Km",
     "wilayah": "Pusat gempa berada di darat 14 km barat laut Kab. Sorong",
-    "warning": []
+    "warning": [
+      "II Sorong",
+      "II Sorong"
+    ]
   },
   {
     "waktu": "22/10/2024 08:02:52 WIB",
@@ -242,18 +259,6 @@
     "warning": [
       "III Sorong",
       "III Sorong"
-    ]
-  },
-  {
-    "waktu": "20/10/2024 12:24:50 WIB",
-    "lintang": "0.31 LU",
-    "bujur": "121.01 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "86 Km",
-    "wilayah": "Pusat gempa berada di laut 37 km Tenggara PARIGIMOUTONG-SULTENG",
-    "warning": [
-      "III Parigi Moutong",
-      "III Parigi Moutong"
     ]
   }
 ]
