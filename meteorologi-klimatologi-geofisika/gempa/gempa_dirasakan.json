@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "22/10/2024 12:16:31 WIB",
+    "lintang": "5.56 LS",
+    "bujur": "104.76 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di laut 20 km Tenggara TANGGAMUS-LAMPUNG",
+    "warning": [
+      "I - II Limau",
+      "I - II Kota Agung",
+      "I - II Limau",
+      "I - II Kota Agung"
+    ]
+  },
+  {
     "waktu": "22/10/2024 08:46:41 WIB",
     "lintang": "0.91 LS",
     "bujur": "131.27 BT",
@@ -240,24 +254,6 @@
     "warning": [
       "III Parigi Moutong",
       "III Parigi Moutong"
-    ]
-  },
-  {
-    "waktu": "20/10/2024 01:07:13 WIB",
-    "lintang": "0.51 LU",
-    "bujur": "119.85 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "34 Km",
-    "wilayah": "Pusat gempa berada di laut 103 timurlaut Donggala",
-    "warning": [
-      "II - III Berau",
-      "III Parigi Moutong",
-      "III Toli-toli",
-      "II - III Marisa",
-      "II - III Berau",
-      "III Parigi Moutong",
-      "III Toli-toli",
-      "II - III Marisa"
     ]
   }
 ]
