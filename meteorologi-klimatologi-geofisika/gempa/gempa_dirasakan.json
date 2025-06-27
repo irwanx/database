@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "waktu": "27 Jun 2025 11:53:53 WIB",
+    "lintang": "4.12 LS",
+    "bujur": "121.88 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "5 km",
+    "dirasakan": "III - IV Kolaka Timur"
+  },
+  {
+    "waktu": "27 Jun 2025 06:08:35 WIB",
+    "lintang": "8.39 LS",
+    "bujur": "121.91 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 km",
+    "dirasakan": "II Ende"
+  },
+  {
+    "waktu": "25 Jun 2025 02:39:35 WIB",
+    "lintang": "4.09 LS",
+    "bujur": "121.87 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Kolaka Timur"
+  },
+  {
+    "waktu": "24 Jun 2025 22:18:37 WIB",
+    "lintang": "1.27 LU",
+    "bujur": "117.94 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "7 km",
+    "dirasakan": "II-III Sangkulirang"
+  },
+  {
+    "waktu": "24 Jun 2025 12:21:56 WIB",
+    "lintang": "3.41 LS",
+    "bujur": "128.68 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 km",
+    "dirasakan": "III Saparua"
+  },
+  {
+    "waktu": "23 Jun 2025 22:07:41 WIB",
+    "lintang": "6.73 LS",
+    "bujur": "106.54 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "6 km",
+    "dirasakan": "II Kab. Bogor"
+  },
+  {
+    "waktu": "22 Jun 2025 18:47:22 WIB",
+    "lintang": "3.21 LS",
+    "bujur": "130.32 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "dirasakan": "III Werinama"
+  },
+  {
+    "waktu": "22 Jun 2025 16:31:20 WIB",
+    "lintang": "3.47 LS",
+    "bujur": "128.65 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 km",
+    "dirasakan": "III Ambon, III Kairatu, III Saparua"
+  },
+  {
+    "waktu": "21 Jun 2025 23:34:58 WIB",
+    "lintang": "6.73 LS",
+    "bujur": "105.15 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "17 km",
+    "dirasakan": "II-III Kec. Malingping, II Pandeglang, II Labuan, II Kec. Kabandungan"
+  },
+  {
+    "waktu": "21 Jun 2025 12:53:06 WIB",
+    "lintang": "8.10 LS",
+    "bujur": "108.24 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "22 km",
+    "dirasakan": "II-III Caringin , II - III Pamengpeuk, II-III Cisompet, II-III Pasirwangi, II-III Garut Kota, II-III Sindangkasih"
+  },
+  {
+    "waktu": "21 Jun 2025 10:13:34 WIB",
+    "lintang": "2.83 LS",
+    "bujur": "122.03 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "4 km",
+    "dirasakan": "II-III Bahadopi"
+  },
+  {
+    "waktu": "19 Jun 2025 19:40:05 WIB",
+    "lintang": "3.45 LS",
+    "bujur": "128.63 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 km",
+    "dirasakan": "II - III Ambon, II - III Saparua, II-III Amahai"
+  },
+  {
+    "waktu": "19 Jun 2025 19:26:13 WIB",
+    "lintang": "8.35 LS",
+    "bujur": "116.45 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 km",
+    "dirasakan": "Lombok Timur II"
+  },
+  {
+    "waktu": "19 Jun 2025 10:48:58 WIB",
+    "lintang": "2.88 LS",
+    "bujur": "122.33 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "7 km",
+    "dirasakan": "III Bahodopi, II-III Morowali"
+  },
+  {
+    "waktu": "19 Jun 2025 08:41:31 WIB",
+    "lintang": "2.75 LS",
+    "bujur": "134.50 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Wasior"
+  }
+]

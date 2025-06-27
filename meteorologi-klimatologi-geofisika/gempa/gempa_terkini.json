@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "waktu": "25 Jun 2025 06:12:11 WIB",
+    "lintang": "6.38 LS",
+    "bujur": "130.44 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "187 km",
+    "wilayah": "201 km BaratLaut TANIMBAR"
+  },
+  {
+    "waktu": "22 Jun 2025 18:47:22 WIB",
+    "lintang": "3.21 LS",
+    "bujur": "130.32 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "wilayah": "22 km BaratDaya SERAMBAGIANTIMUR-MALUKU"
+  },
+  {
+    "waktu": "17 Jun 2025 13:25:35 WIB",
+    "lintang": "2.21 LU",
+    "bujur": "126.59 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "50 km",
+    "wilayah": "132 km BaratDaya PULAUDOI-MALUT"
+  },
+  {
+    "waktu": "13 Jun 2025 09:28:06 WIB",
+    "lintang": "10.94 LS",
+    "bujur": "119.33 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "59 km",
+    "wilayah": "118 km BaratDaya KARERA-SUMBATIMUR-NTT"
+  },
+  {
+    "waktu": "12 Jun 2025 21:23:26 WIB",
+    "lintang": "5.97 LS",
+    "bujur": "130.41 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "138 km",
+    "wilayah": "243 km BaratLaut TANIMBAR"
+  },
+  {
+    "waktu": "12 Jun 2025 16:41:23 WIB",
+    "lintang": "3.25 LS",
+    "bujur": "130.35 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "wilayah": "22 km BaratDaya SERAMBAGIANTIMUR-MALUKU"
+  },
+  {
+    "waktu": "09 Jun 2025 23:55:06 WIB",
+    "lintang": "8.08 LS",
+    "bujur": "108.72 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "47 km",
+    "wilayah": "48 km Tenggara KAB-PANGANDARAN-JABAR"
+  },
+  {
+    "waktu": "05 Jun 2025 17:05:08 WIB",
+    "lintang": "4.33 LU",
+    "bujur": "125.83 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "76 km",
+    "wilayah": "88 km TimurLaut TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
+    "waktu": "04 Jun 2025 10:43:11 WIB",
+    "lintang": "3.18 LS",
+    "bujur": "131.12 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "58 km",
+    "wilayah": "70 km Tenggara SERAMBAGIANTIMUR-MALUKU"
+  },
+  {
+    "waktu": "31 Mei 2025 22:21:18 WIB",
+    "lintang": "9.13 LS",
+    "bujur": "124.04 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "60 km",
+    "wilayah": "71 km BaratLaut TIMORTENGAHUT-NTT"
+  },
+  {
+    "waktu": "29 Mei 2025 06:36:27 WIB",
+    "lintang": "1.87 LS",
+    "bujur": "140.09 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "wilayah": "86 km BaratLaut KAB-JAYAPURA-PAPUA"
+  },
+  {
+    "waktu": "27 Mei 2025 07:55:05 WIB",
+    "lintang": "10.41 LS",
+    "bujur": "110.25 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "10 km",
+    "wilayah": "265 km BaratDaya PACITAN-JATIM"
+  },
+  {
+    "waktu": "23 Mei 2025 02:52:37 WIB",
+    "lintang": "4.17 LS",
+    "bujur": "102.17 BT",
+    "magnitudo": "6.3",
+    "kedalaman": "10 km",
+    "wilayah": "43 km BaratDaya BENGKULU-BENGKULU"
+  },
+  {
+    "waktu": "20 Mei 2025 04:36:10 WIB",
+    "lintang": "11.05 LS",
+    "bujur": "111.07 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "wilayah": "319 km BaratDaya PACITAN-JATIM"
+  },
+  {
+    "waktu": "18 Mei 2025 11:53:55 WIB",
+    "lintang": "10.54 LS",
+    "bujur": "116.16 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "wilayah": "204 km BaratDaya LOMBOKTENGAH-NTB"
+  }
+]
