@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Jun 2025 18:10:55 WIB",
+    "lintang": "2.60 LS",
+    "bujur": "121.24 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "5 km",
+    "dirasakan": "II Wasuponda"
+  },
+  {
     "waktu": "28 Jun 2025 11:03:15 WIB",
     "lintang": "3.97 LS",
     "bujur": "122.40 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.9",
     "kedalaman": "10 km",
     "dirasakan": "Lombok Timur II"
-  },
-  {
-    "waktu": "19 Jun 2025 10:48:58 WIB",
-    "lintang": "2.88 LS",
-    "bujur": "122.33 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "7 km",
-    "dirasakan": "III Bahodopi, II-III Morowali"
   }
 ]
