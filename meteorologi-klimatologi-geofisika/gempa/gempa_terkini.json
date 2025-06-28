@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "28 Jun 2025 06:41:45 WIB",
+    "lintang": "5.40 LU",
+    "bujur": "126.02 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "47 km",
+    "wilayah": "137 km BaratLaut PULAUKARATUNG-SULUT"
+  },
+  {
+    "waktu": "28 Jun 2025 06:07:10 WIB",
+    "lintang": "5.25 LU",
+    "bujur": "126.24 BT",
+    "magnitudo": "6.4",
+    "kedalaman": "77 km",
+    "wilayah": "108 km BaratLaut PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "25 Jun 2025 06:12:11 WIB",
     "lintang": "6.38 LS",
     "bujur": "130.44 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "6.3",
     "kedalaman": "10 km",
     "wilayah": "43 km BaratDaya BENGKULU-BENGKULU"
-  },
-  {
-    "waktu": "20 Mei 2025 04:36:10 WIB",
-    "lintang": "11.05 LS",
-    "bujur": "111.07 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 km",
-    "wilayah": "319 km BaratDaya PACITAN-JATIM"
-  },
-  {
-    "waktu": "18 Mei 2025 11:53:55 WIB",
-    "lintang": "10.54 LS",
-    "bujur": "116.16 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "wilayah": "204 km BaratDaya LOMBOKTENGAH-NTB"
   }
 ]
