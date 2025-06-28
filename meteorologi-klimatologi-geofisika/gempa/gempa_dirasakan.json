@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Jun 2025 11:03:15 WIB",
+    "lintang": "3.97 LS",
+    "bujur": "122.40 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "11 km",
+    "dirasakan": "II Kendari, II-III Konawe"
+  },
+  {
     "waktu": "27 Jun 2025 11:53:53 WIB",
     "lintang": "4.12 LS",
     "bujur": "121.88 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "7 km",
     "dirasakan": "III Bahodopi, II-III Morowali"
-  },
-  {
-    "waktu": "19 Jun 2025 08:41:31 WIB",
-    "lintang": "2.75 LS",
-    "bujur": "134.50 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Wasior"
   }
 ]
