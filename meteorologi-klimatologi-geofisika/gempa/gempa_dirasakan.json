@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30 Jun 2025 00:31:16 WIB",
+    "lintang": "7.26 LS",
+    "bujur": "106.11 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "24 km",
+    "dirasakan": "II Simpenan, II Jampang Kulon"
+  },
+  {
     "waktu": "29 Jun 2025 20:52:36 WIB",
     "lintang": "8.88 LS",
     "bujur": "112.46 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "17 km",
     "dirasakan": "II-III Kec. Malingping, II Pandeglang, II Labuan, II Kec. Kabandungan"
-  },
-  {
-    "waktu": "21 Jun 2025 12:53:06 WIB",
-    "lintang": "8.10 LS",
-    "bujur": "108.24 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "22 km",
-    "dirasakan": "II-III Caringin , II - III Pamengpeuk, II-III Cisompet, II-III Pasirwangi, II-III Garut Kota, II-III Sindangkasih"
   }
 ]
