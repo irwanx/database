@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Jun 2025 17:29:01 WIB",
+    "lintang": "5.16 LS",
+    "bujur": "102.51 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "12 km",
+    "dirasakan": "III Enggano"
+  },
+  {
     "waktu": "29 Jun 2025 08:49:42 WIB",
     "lintang": "6.76 LS",
     "bujur": "107.63 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.9",
     "kedalaman": "4 km",
     "dirasakan": "II-III Bahadopi"
-  },
-  {
-    "waktu": "19 Jun 2025 19:40:05 WIB",
-    "lintang": "3.45 LS",
-    "bujur": "128.63 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 km",
-    "dirasakan": "II - III Ambon, II - III Saparua, II-III Amahai"
   }
 ]
