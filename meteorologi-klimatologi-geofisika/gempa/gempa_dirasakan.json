@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Jun 2025 08:49:42 WIB",
+    "lintang": "6.76 LS",
+    "bujur": "107.63 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "6 km",
+    "dirasakan": "II-III lembang"
+  },
+  {
     "waktu": "28 Jun 2025 18:10:55 WIB",
     "lintang": "2.60 LS",
     "bujur": "121.24 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "10 km",
     "dirasakan": "II - III Ambon, II - III Saparua, II-III Amahai"
-  },
-  {
-    "waktu": "19 Jun 2025 19:26:13 WIB",
-    "lintang": "8.35 LS",
-    "bujur": "116.45 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 km",
-    "dirasakan": "Lombok Timur II"
   }
 ]
