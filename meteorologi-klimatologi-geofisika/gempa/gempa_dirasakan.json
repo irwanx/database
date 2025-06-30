@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "01 Jul 2025 00:31:23 WIB",
+    "lintang": "2.49 LS",
+    "bujur": "140.70 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Kota Jayapura"
+  },
+  {
+    "waktu": "30 Jun 2025 23:49:16 WIB",
+    "lintang": "0.55 LU",
+    "bujur": "99.59 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 km",
+    "dirasakan": "IV Kab. Mandailing Natal, II-III Kab. Pasaman, II-III Pasaman Barat, II-III Padang Sidempuan"
+  },
+  {
     "waktu": "30 Jun 2025 00:31:16 WIB",
     "lintang": "7.26 LS",
     "bujur": "106.11 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "dirasakan": "III Werinama"
-  },
-  {
-    "waktu": "22 Jun 2025 16:31:20 WIB",
-    "lintang": "3.47 LS",
-    "bujur": "128.65 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 km",
-    "dirasakan": "III Ambon, III Kairatu, III Saparua"
-  },
-  {
-    "waktu": "21 Jun 2025 23:34:58 WIB",
-    "lintang": "6.73 LS",
-    "bujur": "105.15 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "17 km",
-    "dirasakan": "II-III Kec. Malingping, II Pandeglang, II Labuan, II Kec. Kabandungan"
   }
 ]
