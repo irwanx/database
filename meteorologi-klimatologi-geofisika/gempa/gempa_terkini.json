@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30 Jun 2025 06:38:40 WIB",
+    "lintang": "6.49 LS",
+    "bujur": "131.39 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "138 km",
+    "wilayah": "164 km TimurLaut TANIMBAR"
+  },
+  {
     "waktu": "28 Jun 2025 06:41:45 WIB",
     "lintang": "5.40 LU",
     "bujur": "126.02 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.7",
     "kedalaman": "10 km",
     "wilayah": "265 km BaratDaya PACITAN-JATIM"
-  },
-  {
-    "waktu": "23 Mei 2025 02:52:37 WIB",
-    "lintang": "4.17 LS",
-    "bujur": "102.17 BT",
-    "magnitudo": "6.3",
-    "kedalaman": "10 km",
-    "wilayah": "43 km BaratDaya BENGKULU-BENGKULU"
   }
 ]
