@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Jul 2025 20:08:46 WIB",
+    "lintang": "1.55 LU",
+    "bujur": "97.01 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "11 km",
+    "dirasakan": "III Nias Utara"
+  },
+  {
     "waktu": "01 Jul 2025 09:00:44 WIB",
     "lintang": "2.32 LU",
     "bujur": "117.12 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "10 km",
     "dirasakan": "III Saparua"
-  },
-  {
-    "waktu": "23 Jun 2025 22:07:41 WIB",
-    "lintang": "6.73 LS",
-    "bujur": "106.54 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "6 km",
-    "dirasakan": "II Kab. Bogor"
   }
 ]
