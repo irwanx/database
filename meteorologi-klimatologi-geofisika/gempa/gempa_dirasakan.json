@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Jul 2025 22:18:01 WIB",
+    "lintang": "2.27 LU",
+    "bujur": "117.13 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "8 km",
+    "dirasakan": "II - III Muara Segah, II - III Tanjung Redep"
+  },
+  {
     "waktu": "01 Jul 2025 20:08:46 WIB",
     "lintang": "1.55 LU",
     "bujur": "97.01 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "7 km",
     "dirasakan": "II-III Sangkulirang"
-  },
-  {
-    "waktu": "24 Jun 2025 12:21:56 WIB",
-    "lintang": "3.41 LS",
-    "bujur": "128.68 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 km",
-    "dirasakan": "III Saparua"
   }
 ]
