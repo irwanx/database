@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Jul 2025 09:00:44 WIB",
+    "lintang": "2.32 LU",
+    "bujur": "117.12 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "6 km",
+    "dirasakan": "II - III Berau"
+  },
+  {
     "waktu": "01 Jul 2025 00:31:23 WIB",
     "lintang": "2.49 LS",
     "bujur": "140.70 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "6 km",
     "dirasakan": "II Kab. Bogor"
-  },
-  {
-    "waktu": "22 Jun 2025 18:47:22 WIB",
-    "lintang": "3.21 LS",
-    "bujur": "130.32 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "dirasakan": "III Werinama"
   }
 ]
