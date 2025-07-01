@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Jul 2025 23:34:09 WIB",
+    "lintang": "4.08 LS",
+    "bujur": "121.86 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "3 km",
+    "dirasakan": "II - III Kolaka Timur"
+  },
+  {
     "waktu": "01 Jul 2025 22:18:01 WIB",
     "lintang": "2.27 LU",
     "bujur": "117.13 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "5 km",
     "dirasakan": "II-III Kolaka Timur"
-  },
-  {
-    "waktu": "24 Jun 2025 22:18:37 WIB",
-    "lintang": "1.27 LU",
-    "bujur": "117.94 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "7 km",
-    "dirasakan": "II-III Sangkulirang"
   }
 ]
