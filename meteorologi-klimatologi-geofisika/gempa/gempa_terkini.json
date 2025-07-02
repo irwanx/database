@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Jul 2025 17:33:16 WIB",
+    "lintang": "1.23 LS",
+    "bujur": "134.02 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "wilayah": "32 km BaratLaut RANSIKI-PAPUABRT"
+  },
+  {
     "waktu": "30 Jun 2025 06:38:40 WIB",
     "lintang": "6.49 LS",
     "bujur": "131.39 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "wilayah": "86 km BaratLaut KAB-JAYAPURA-PAPUA"
-  },
-  {
-    "waktu": "27 Mei 2025 07:55:05 WIB",
-    "lintang": "10.41 LS",
-    "bujur": "110.25 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "10 km",
-    "wilayah": "265 km BaratDaya PACITAN-JATIM"
   }
 ]

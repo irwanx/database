@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "02 Jul 2025 18:21:19 WIB",
+    "lintang": "3.39 LS",
+    "bujur": "128.68 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "10 km",
+    "dirasakan": "II Amalatu"
+  },
+  {
+    "waktu": "02 Jul 2025 17:33:16 WIB",
+    "lintang": "1.23 LS",
+    "bujur": "134.02 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Manokwari, III Ransiki"
+  },
+  {
     "waktu": "01 Jul 2025 23:34:09 WIB",
     "lintang": "4.08 LS",
     "bujur": "121.86 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "5 km",
     "dirasakan": "III - IV Kolaka Timur"
-  },
-  {
-    "waktu": "27 Jun 2025 06:08:35 WIB",
-    "lintang": "8.39 LS",
-    "bujur": "121.91 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 km",
-    "dirasakan": "II Ende"
-  },
-  {
-    "waktu": "25 Jun 2025 02:39:35 WIB",
-    "lintang": "4.09 LS",
-    "bujur": "121.87 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Kolaka Timur"
   }
 ]
