@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Jul 2025 21:27:38 WIB",
+    "lintang": "3.78 LS",
+    "bujur": "101.85 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "20 km",
+    "dirasakan": "III Kota Bengkulu, III Bengkulu Utara, II-III Kepahiang, II-III Rejang Lebong"
+  },
+  {
     "waktu": "02 Jul 2025 18:21:19 WIB",
     "lintang": "3.39 LS",
     "bujur": "128.68 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.9",
     "kedalaman": "11 km",
     "dirasakan": "II Kendari, II-III Konawe"
-  },
-  {
-    "waktu": "27 Jun 2025 11:53:53 WIB",
-    "lintang": "4.12 LS",
-    "bujur": "121.88 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "5 km",
-    "dirasakan": "III - IV Kolaka Timur"
   }
 ]
