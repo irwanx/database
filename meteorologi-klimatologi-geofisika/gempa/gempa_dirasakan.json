@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Jul 2025 07:43:47 WIB",
+    "lintang": "4.80 LU",
+    "bujur": "94.62 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "7 km",
+    "dirasakan": "II-III Aceh Jaya, II Banda Aceh, II Aceh Besar"
+  },
+  {
     "waktu": "02 Jul 2025 21:27:38 WIB",
     "lintang": "3.78 LS",
     "bujur": "101.85 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.3",
     "kedalaman": "5 km",
     "dirasakan": "II Wasuponda"
-  },
-  {
-    "waktu": "28 Jun 2025 11:03:15 WIB",
-    "lintang": "3.97 LS",
-    "bujur": "122.40 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "11 km",
-    "dirasakan": "II Kendari, II-III Konawe"
   }
 ]
