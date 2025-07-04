@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "04 Jul 2025 12:39:57 WIB",
+    "lintang": "5.99 LU",
+    "bujur": "94.68 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "6 km",
+    "dirasakan": "II Sabang"
+  },
+  {
+    "waktu": "04 Jul 2025 12:33:51 WIB",
+    "lintang": "6.20 LU",
+    "bujur": "94.68 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "dirasakan": "III Sabang, III Banda Aceh, III Aceh Besar, II Sigli, II Pidie"
+  },
+  {
+    "waktu": "04 Jul 2025 11:39:01 WIB",
+    "lintang": "2.68 LS",
+    "bujur": "121.28 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "2 km",
+    "dirasakan": "III - IV Malili"
+  },
+  {
     "waktu": "03 Jul 2025 07:43:47 WIB",
     "lintang": "4.80 LU",
     "bujur": "94.62 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "60 km",
     "dirasakan": "II-III Lumajang"
-  },
-  {
-    "waktu": "29 Jun 2025 17:29:01 WIB",
-    "lintang": "5.16 LS",
-    "bujur": "102.51 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "12 km",
-    "dirasakan": "III Enggano"
-  },
-  {
-    "waktu": "29 Jun 2025 08:49:42 WIB",
-    "lintang": "6.76 LS",
-    "bujur": "107.63 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "6 km",
-    "dirasakan": "II-III lembang"
-  },
-  {
-    "waktu": "28 Jun 2025 18:10:55 WIB",
-    "lintang": "2.60 LS",
-    "bujur": "121.24 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "5 km",
-    "dirasakan": "II Wasuponda"
   }
 ]

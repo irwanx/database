@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04 Jul 2025 12:33:51 WIB",
+    "lintang": "6.20 LU",
+    "bujur": "94.98 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "wilayah": "50 km BaratLaut KOTA-SABANG-ACEH"
+  },
+  {
     "waktu": "02 Jul 2025 17:33:16 WIB",
     "lintang": "1.23 LS",
     "bujur": "134.02 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "60 km",
     "wilayah": "71 km BaratLaut TIMORTENGAHUT-NTT"
-  },
-  {
-    "waktu": "29 Mei 2025 06:36:27 WIB",
-    "lintang": "1.87 LS",
-    "bujur": "140.09 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "wilayah": "86 km BaratLaut KAB-JAYAPURA-PAPUA"
   }
 ]
