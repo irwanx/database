@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04 Jul 2025 18:21:02 WIB",
+    "lintang": "4.08 LS",
+    "bujur": "121.87 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "12 km",
+    "dirasakan": "II Kolaka Timur"
+  },
+  {
     "waktu": "04 Jul 2025 17:46:27 WIB",
     "lintang": "4.33 LS",
     "bujur": "122.48 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "10 km",
     "dirasakan": "II-III Kota Jayapura"
-  },
-  {
-    "waktu": "30 Jun 2025 23:49:16 WIB",
-    "lintang": "0.55 LU",
-    "bujur": "99.59 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 km",
-    "dirasakan": "IV Kab. Mandailing Natal, II-III Kab. Pasaman, II-III Pasaman Barat, II-III Padang Sidempuan"
   }
 ]
