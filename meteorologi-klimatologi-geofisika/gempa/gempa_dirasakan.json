@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04 Jul 2025 17:46:27 WIB",
+    "lintang": "4.33 LS",
+    "bujur": "122.48 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Konawe Selatan"
+  },
+  {
     "waktu": "04 Jul 2025 13:19:09 WIB",
     "lintang": "6.19 LU",
     "bujur": "95.04 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "10 km",
     "dirasakan": "IV Kab. Mandailing Natal, II-III Kab. Pasaman, II-III Pasaman Barat, II-III Padang Sidempuan"
-  },
-  {
-    "waktu": "30 Jun 2025 00:31:16 WIB",
-    "lintang": "7.26 LS",
-    "bujur": "106.11 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "24 km",
-    "dirasakan": "II Simpenan, II Jampang Kulon"
   }
 ]
