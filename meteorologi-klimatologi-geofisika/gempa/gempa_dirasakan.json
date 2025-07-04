@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04 Jul 2025 13:19:09 WIB",
+    "lintang": "6.19 LU",
+    "bujur": "95.04 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "7 km",
+    "dirasakan": ""
+  },
+  {
     "waktu": "04 Jul 2025 12:39:57 WIB",
     "lintang": "5.99 LU",
     "bujur": "94.68 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "24 km",
     "dirasakan": "II Simpenan, II Jampang Kulon"
-  },
-  {
-    "waktu": "29 Jun 2025 20:52:36 WIB",
-    "lintang": "8.88 LS",
-    "bujur": "112.46 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "60 km",
-    "dirasakan": "II-III Lumajang"
   }
 ]
