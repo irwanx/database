@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04 Jul 2025 20:59:31 WIB",
+    "lintang": "3.40 LS",
+    "bujur": "128.64 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Amalatu, III-IV Kairatu, III-IV Masohi, II Ambon"
+  },
+  {
     "waktu": "04 Jul 2025 18:21:02 WIB",
     "lintang": "4.08 LS",
     "bujur": "121.87 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "6 km",
     "dirasakan": "II - III Berau"
-  },
-  {
-    "waktu": "01 Jul 2025 00:31:23 WIB",
-    "lintang": "2.49 LS",
-    "bujur": "140.70 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Kota Jayapura"
   }
 ]
