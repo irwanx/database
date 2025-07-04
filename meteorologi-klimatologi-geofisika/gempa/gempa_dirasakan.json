@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Jul 2025 00:21:21 WIB",
+    "lintang": "3.97 LS",
+    "bujur": "126.85 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "11 km",
+    "dirasakan": "III Waesama"
+  },
+  {
     "waktu": "04 Jul 2025 20:59:31 WIB",
     "lintang": "3.40 LS",
     "bujur": "128.64 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "11 km",
     "dirasakan": "III Nias Utara"
-  },
-  {
-    "waktu": "01 Jul 2025 09:00:44 WIB",
-    "lintang": "2.32 LU",
-    "bujur": "117.12 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "6 km",
-    "dirasakan": "II - III Berau"
   }
 ]
