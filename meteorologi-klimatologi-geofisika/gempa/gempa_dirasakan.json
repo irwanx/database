@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Jul 2025 02:42:22 WIB",
+    "lintang": "6.16 LU",
+    "bujur": "95.04 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 km",
+    "dirasakan": "III Sabang, II-III Banda Aceh, II-III Aceh Besar"
+  },
+  {
     "waktu": "05 Jul 2025 00:21:21 WIB",
     "lintang": "3.97 LS",
     "bujur": "126.85 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "8 km",
     "dirasakan": "II - III Muara Segah, II - III Tanjung Redep"
-  },
-  {
-    "waktu": "01 Jul 2025 20:08:46 WIB",
-    "lintang": "1.55 LU",
-    "bujur": "97.01 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "11 km",
-    "dirasakan": "III Nias Utara"
   }
 ]
