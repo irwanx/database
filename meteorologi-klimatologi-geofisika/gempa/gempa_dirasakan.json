@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Jul 2025 18:55:49 WIB",
+    "lintang": "3.52 LS",
+    "bujur": "128.67 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "7 km",
+    "dirasakan": "III Amalatu"
+  },
+  {
     "waktu": "06 Jul 2025 02:42:22 WIB",
     "lintang": "6.16 LU",
     "bujur": "95.04 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.4",
     "kedalaman": "3 km",
     "dirasakan": "II - III Kolaka Timur"
-  },
-  {
-    "waktu": "01 Jul 2025 22:18:01 WIB",
-    "lintang": "2.27 LU",
-    "bujur": "117.13 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "8 km",
-    "dirasakan": "II - III Muara Segah, II - III Tanjung Redep"
   }
 ]
