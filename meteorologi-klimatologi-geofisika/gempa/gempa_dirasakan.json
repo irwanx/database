@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Jul 2025 05:38:04 WIB",
+    "lintang": "8.61 LS",
+    "bujur": "118.40 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "114 km",
+    "dirasakan": "III Kab. Dompu, III Kab. Bima, III Kota Bima, III Kab. Sumbawa"
+  },
+  {
     "waktu": "06 Jul 2025 18:55:49 WIB",
     "lintang": "3.52 LS",
     "bujur": "128.67 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 km",
     "dirasakan": "II-III Manokwari, III Ransiki"
-  },
-  {
-    "waktu": "01 Jul 2025 23:34:09 WIB",
-    "lintang": "4.08 LS",
-    "bujur": "121.86 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "3 km",
-    "dirasakan": "II - III Kolaka Timur"
   }
 ]
