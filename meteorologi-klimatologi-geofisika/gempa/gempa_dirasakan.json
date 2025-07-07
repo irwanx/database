@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Jul 2025 08:17:13 WIB",
+    "lintang": "0.71 LS",
+    "bujur": "119.91 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "3 km",
+    "dirasakan": "II-III Palu"
+  },
+  {
     "waktu": "07 Jul 2025 05:38:04 WIB",
     "lintang": "8.61 LS",
     "bujur": "118.40 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.7",
     "kedalaman": "10 km",
     "dirasakan": "II Amalatu"
-  },
-  {
-    "waktu": "02 Jul 2025 17:33:16 WIB",
-    "lintang": "1.23 LS",
-    "bujur": "134.02 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Manokwari, III Ransiki"
   }
 ]
