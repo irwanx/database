@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "07 Jul 2025 17:41:04 WIB",
+    "lintang": "0.11 LS",
+    "bujur": "130.63 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "8 km",
+    "dirasakan": "III Raja Ampat"
+  },
+  {
+    "waktu": "07 Jul 2025 17:08:18 WIB",
+    "lintang": "2.60 LS",
+    "bujur": "121.31 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Sorowako"
+  },
+  {
     "waktu": "07 Jul 2025 10:29:10 WIB",
     "lintang": "0.73 LS",
     "bujur": "119.91 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "2 km",
     "dirasakan": "III - IV Malili"
-  },
-  {
-    "waktu": "03 Jul 2025 07:43:47 WIB",
-    "lintang": "4.80 LU",
-    "bujur": "94.62 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "7 km",
-    "dirasakan": "II-III Aceh Jaya, II Banda Aceh, II Aceh Besar"
-  },
-  {
-    "waktu": "02 Jul 2025 21:27:38 WIB",
-    "lintang": "3.78 LS",
-    "bujur": "101.85 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "20 km",
-    "dirasakan": "III Kota Bengkulu, III Bengkulu Utara, II-III Kepahiang, II-III Rejang Lebong"
   }
 ]
