@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Jul 2025 10:29:10 WIB",
+    "lintang": "0.73 LS",
+    "bujur": "119.91 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "2 km",
+    "dirasakan": "II-III Palu"
+  },
+  {
     "waktu": "07 Jul 2025 08:17:13 WIB",
     "lintang": "0.71 LS",
     "bujur": "119.91 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "20 km",
     "dirasakan": "III Kota Bengkulu, III Bengkulu Utara, II-III Kepahiang, II-III Rejang Lebong"
-  },
-  {
-    "waktu": "02 Jul 2025 18:21:19 WIB",
-    "lintang": "3.39 LS",
-    "bujur": "128.68 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "10 km",
-    "dirasakan": "II Amalatu"
   }
 ]
