@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Jul 2025 12:00:25 WIB",
+    "lintang": "10.14 LS",
+    "bujur": "108.57 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "wilayah": "271 km Tenggara KAB-PANGANDARAN-JABAR"
+  },
+  {
     "waktu": "06 Jul 2025 02:42:22 WIB",
     "lintang": "6.16 LU",
     "bujur": "95.04 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "47 km",
     "wilayah": "48 km Tenggara KAB-PANGANDARAN-JABAR"
-  },
-  {
-    "waktu": "05 Jun 2025 17:05:08 WIB",
-    "lintang": "4.33 LU",
-    "bujur": "125.83 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "76 km",
-    "wilayah": "88 km TimurLaut TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]
