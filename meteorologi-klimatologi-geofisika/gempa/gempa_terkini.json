@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Jul 2025 01:56:38 WIB",
+    "lintang": "6.58 LS",
+    "bujur": "131.92 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "86 km",
+    "wilayah": "135 km BaratDaya MALUKUTENGGARA"
+  },
+  {
     "waktu": "07 Jul 2025 12:00:25 WIB",
     "lintang": "10.14 LS",
     "bujur": "108.57 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "wilayah": "22 km BaratDaya SERAMBAGIANTIMUR-MALUKU"
-  },
-  {
-    "waktu": "09 Jun 2025 23:55:06 WIB",
-    "lintang": "8.08 LS",
-    "bujur": "108.72 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "47 km",
-    "wilayah": "48 km Tenggara KAB-PANGANDARAN-JABAR"
   }
 ]
