@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Jul 2025 06:50:39 WIB",
+    "lintang": "6.52 LS",
+    "bujur": "104.73 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "24 km",
+    "dirasakan": "III Cibeber, III Bayah, III Pringsewu, II-III Malingping, II - III Banjarsari, II Semaka, II Pematang Sawah, II Kota Agung, II Bandar Lampung, II Sumberjo"
+  },
+  {
     "waktu": "07 Jul 2025 17:41:04 WIB",
     "lintang": "0.11 LS",
     "bujur": "130.63 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "dirasakan": "III Sabang, III Banda Aceh, III Aceh Besar, II Sigli, II Pidie"
-  },
-  {
-    "waktu": "04 Jul 2025 11:39:01 WIB",
-    "lintang": "2.68 LS",
-    "bujur": "121.28 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "2 km",
-    "dirasakan": "III - IV Malili"
   }
 ]
