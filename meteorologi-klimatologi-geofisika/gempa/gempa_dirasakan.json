@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Jul 2025 12:27:34 WIB",
+    "lintang": "0.20 LS",
+    "bujur": "122.87 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "144 km",
+    "dirasakan": "II Kabupaten Gorontalo"
+  },
+  {
     "waktu": "09 Jul 2025 06:50:39 WIB",
     "lintang": "6.52 LS",
     "bujur": "104.73 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "6 km",
     "dirasakan": "II Sabang"
-  },
-  {
-    "waktu": "04 Jul 2025 12:33:51 WIB",
-    "lintang": "6.20 LU",
-    "bujur": "94.68 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "dirasakan": "III Sabang, III Banda Aceh, III Aceh Besar, II Sigli, II Pidie"
   }
 ]
