@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Jul 2025 12:41:02 WIB",
+    "lintang": "3.42 LS",
+    "bujur": "128.68 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 km",
+    "dirasakan": "III Amalatu"
+  },
+  {
     "waktu": "09 Jul 2025 12:27:34 WIB",
     "lintang": "0.20 LS",
     "bujur": "122.87 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "7 km",
     "dirasakan": ""
-  },
-  {
-    "waktu": "04 Jul 2025 12:39:57 WIB",
-    "lintang": "5.99 LU",
-    "bujur": "94.68 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "6 km",
-    "dirasakan": "II Sabang"
   }
 ]
