@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Jul 2025 00:08:12 WIB",
+    "lintang": "4.09 LS",
+    "bujur": "121.83 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "5 km",
+    "dirasakan": "II - III Kolaka Timur"
+  },
+  {
     "waktu": "09 Jul 2025 12:41:02 WIB",
     "lintang": "3.42 LS",
     "bujur": "128.68 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.4",
     "kedalaman": "5 km",
     "dirasakan": "II-III Konawe Selatan"
-  },
-  {
-    "waktu": "04 Jul 2025 13:19:09 WIB",
-    "lintang": "6.19 LU",
-    "bujur": "95.04 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "7 km",
-    "dirasakan": ""
   }
 ]
