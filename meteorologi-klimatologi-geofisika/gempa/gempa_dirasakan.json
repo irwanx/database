@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Jul 2025 13:50:48 WIB",
+    "lintang": "3.85 LS",
+    "bujur": "128.46 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 km",
+    "dirasakan": "III Ambon, II Amalatu"
+  },
+  {
     "waktu": "10 Jul 2025 07:15:00 WIB",
     "lintang": "3.43 LS",
     "bujur": "128.67 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Amalatu, III-IV Kairatu, III-IV Masohi, II Ambon"
-  },
-  {
-    "waktu": "04 Jul 2025 18:21:02 WIB",
-    "lintang": "4.08 LS",
-    "bujur": "121.87 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "12 km",
-    "dirasakan": "II Kolaka Timur"
   }
 ]
