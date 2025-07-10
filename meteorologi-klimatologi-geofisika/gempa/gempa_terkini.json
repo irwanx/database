@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Jul 2025 21:43:42 WIB",
+    "lintang": "6.75 LS",
+    "bujur": "129.89 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "206 km",
+    "wilayah": "207 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "09 Jul 2025 06:50:39 WIB",
     "lintang": "6.52 LS",
     "bujur": "104.73 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "59 km",
     "wilayah": "118 km BaratDaya KARERA-SUMBATIMUR-NTT"
-  },
-  {
-    "waktu": "12 Jun 2025 21:23:26 WIB",
-    "lintang": "5.97 LS",
-    "bujur": "130.41 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "138 km",
-    "wilayah": "243 km BaratLaut TANIMBAR"
   }
 ]
