@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Jul 2025 08:01:49 WIB",
+    "lintang": "4.03 LS",
+    "bujur": "122.47 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "4 km",
+    "dirasakan": "II Kendari"
+  },
+  {
     "waktu": "11 Jul 2025 04:02:51 WIB",
     "lintang": "8.38 LS",
     "bujur": "110.64 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 km",
     "dirasakan": "III Sabang, II-III Banda Aceh, II-III Aceh Besar"
-  },
-  {
-    "waktu": "05 Jul 2025 00:21:21 WIB",
-    "lintang": "3.97 LS",
-    "bujur": "126.85 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "11 km",
-    "dirasakan": "III Waesama"
   }
 ]
