@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Jul 2025 19:45:13 WIB",
+    "lintang": "3.15 LU",
+    "bujur": "97.26 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "11 km",
+    "wilayah": "15 km Tenggara KAB-ACEHSELATAN"
+  },
+  {
     "waktu": "10 Jul 2025 21:43:42 WIB",
     "lintang": "6.75 LS",
     "bujur": "129.89 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "50 km",
     "wilayah": "132 km BaratDaya PULAUDOI-MALUT"
-  },
-  {
-    "waktu": "13 Jun 2025 09:28:06 WIB",
-    "lintang": "10.94 LS",
-    "bujur": "119.33 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "59 km",
-    "wilayah": "118 km BaratDaya KARERA-SUMBATIMUR-NTT"
   }
 ]
