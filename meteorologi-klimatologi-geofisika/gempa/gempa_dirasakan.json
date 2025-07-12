@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "12 Jul 2025 11:00:37 WIB",
+    "lintang": "1.63 LU",
+    "bujur": "128.43 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 km",
+    "dirasakan": "III Halmahera Utara"
+  },
+  {
+    "waktu": "12 Jul 2025 10:25:56 WIB",
+    "lintang": "8.58 LS",
+    "bujur": "110.86 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "38 km",
+    "dirasakan": "III Pacitan, II Bantul, II Kota Yogyakarta, II Gunungkidul, II Sukoharjo, II Tulungagung, II Trenggalek"
+  },
+  {
     "waktu": "12 Jul 2025 06:18:34 WIB",
     "lintang": "4.14 LS",
     "bujur": "122.62 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "2 km",
     "dirasakan": "II-III Palu"
-  },
-  {
-    "waktu": "07 Jul 2025 08:17:13 WIB",
-    "lintang": "0.71 LS",
-    "bujur": "119.91 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "3 km",
-    "dirasakan": "II-III Palu"
-  },
-  {
-    "waktu": "07 Jul 2025 05:38:04 WIB",
-    "lintang": "8.61 LS",
-    "bujur": "118.40 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "114 km",
-    "dirasakan": "III Kab. Dompu, III Kab. Bima, III Kota Bima, III Kab. Sumbawa"
   }
 ]
