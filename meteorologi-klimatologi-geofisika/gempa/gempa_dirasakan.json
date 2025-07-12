@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Jul 2025 06:18:34 WIB",
+    "lintang": "4.14 LS",
+    "bujur": "122.62 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "12 km",
+    "dirasakan": "III Konawe Selatan"
+  },
+  {
     "waktu": "11 Jul 2025 19:45:13 WIB",
     "lintang": "3.15 LU",
     "bujur": "97.26 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "114 km",
     "dirasakan": "III Kab. Dompu, III Kab. Bima, III Kota Bima, III Kab. Sumbawa"
-  },
-  {
-    "waktu": "06 Jul 2025 18:55:49 WIB",
-    "lintang": "3.52 LS",
-    "bujur": "128.67 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "7 km",
-    "dirasakan": "III Amalatu"
   }
 ]
