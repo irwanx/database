@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Jul 2025 01:42:10 WIB",
+    "lintang": "4.10 LS",
+    "bujur": "136.33 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "10 km",
+    "dirasakan": "III Enarotali"
+  },
+  {
     "waktu": "13 Jul 2025 04:49:02 WIB",
     "lintang": "3.27 LS",
     "bujur": "128.65 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "8 km",
     "dirasakan": "III Raja Ampat"
-  },
-  {
-    "waktu": "07 Jul 2025 17:08:18 WIB",
-    "lintang": "2.60 LS",
-    "bujur": "121.31 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Sorowako"
   }
 ]
