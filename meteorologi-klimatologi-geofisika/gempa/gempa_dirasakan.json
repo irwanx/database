@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Jul 2025 10:49:12 WIB",
+    "lintang": "3.43 LS",
+    "bujur": "128.63 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "10 km",
+    "dirasakan": "II Amalatu"
+  },
+  {
     "waktu": "14 Jul 2025 01:42:10 WIB",
     "lintang": "4.10 LS",
     "bujur": "136.33 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "24 km",
     "dirasakan": "III Cibeber, III Bayah, III Pringsewu, II-III Malingping, II - III Banjarsari, II Semaka, II Pematang Sawah, II Kota Agung, II Bandar Lampung, II Sumberjo"
-  },
-  {
-    "waktu": "07 Jul 2025 17:41:04 WIB",
-    "lintang": "0.11 LS",
-    "bujur": "130.63 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "8 km",
-    "dirasakan": "III Raja Ampat"
   }
 ]
