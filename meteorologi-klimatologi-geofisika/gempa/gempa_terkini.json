@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "14 Jul 2025 12:49:58 WIB",
+    "lintang": "6.23 LS",
+    "bujur": "131.31 BT",
+    "magnitudo": "6.9",
+    "kedalaman": "108 km",
+    "wilayah": "170 km BaratDaya MALUKUTENGGARA"
+  },
+  {
+    "waktu": "14 Jul 2025 12:39:09 WIB",
+    "lintang": "1.31 LU",
+    "bujur": "126.53 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "11 km",
+    "wilayah": "107 km BaratLaut JAILOLO-MALUT"
+  },
+  {
     "waktu": "12 Jul 2025 07:11:56 WIB",
     "lintang": "1.62 LS",
     "bujur": "96.28 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "47 km",
     "wilayah": "137 km BaratLaut PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "28 Jun 2025 06:07:10 WIB",
-    "lintang": "5.25 LU",
-    "bujur": "126.24 BT",
-    "magnitudo": "6.4",
-    "kedalaman": "77 km",
-    "wilayah": "108 km BaratLaut PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "25 Jun 2025 06:12:11 WIB",
-    "lintang": "6.38 LS",
-    "bujur": "130.44 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "187 km",
-    "wilayah": "201 km BaratLaut TANIMBAR"
   }
 ]

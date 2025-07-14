@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "14 Jul 2025 12:49:58 WIB",
+    "lintang": "6.23 LS",
+    "bujur": "131.31 BT",
+    "magnitudo": "6.9",
+    "kedalaman": "108 km",
+    "dirasakan": "IV-V Saumlaki, III-IV Dobo, III Banda, III - IV Tual, III Bula, III Sorong, IV Fak-Fak, III Ransiki, III Nabire"
+  },
+  {
+    "waktu": "14 Jul 2025 12:39:09 WIB",
+    "lintang": "1.31 LU",
+    "bujur": "126.53 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "11 km",
+    "dirasakan": ""
+  },
+  {
     "waktu": "14 Jul 2025 10:49:12 WIB",
     "lintang": "3.43 LS",
     "bujur": "128.63 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.1",
     "kedalaman": "10 km",
     "dirasakan": "III Amalatu"
-  },
-  {
-    "waktu": "09 Jul 2025 12:27:34 WIB",
-    "lintang": "0.20 LS",
-    "bujur": "122.87 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "144 km",
-    "dirasakan": "II Kabupaten Gorontalo"
-  },
-  {
-    "waktu": "09 Jul 2025 06:50:39 WIB",
-    "lintang": "6.52 LS",
-    "bujur": "104.73 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "24 km",
-    "dirasakan": "III Cibeber, III Bayah, III Pringsewu, II-III Malingping, II - III Banjarsari, II Semaka, II Pematang Sawah, II Kota Agung, II Bandar Lampung, II Sumberjo"
   }
 ]
