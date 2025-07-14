@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Jul 2025 19:52:18 WIB",
+    "lintang": "2.00 LS",
+    "bujur": "120.71 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Poso, III-IV Morowali Utara, III-IV Luwu Timur, III Palopo, II Parigi, III Luwu Utara"
+  },
+  {
     "waktu": "14 Jul 2025 18:39:02 WIB",
     "lintang": "6.41 LS",
     "bujur": "107.18 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "10 km",
     "dirasakan": "III Ambon, II Amalatu"
-  },
-  {
-    "waktu": "10 Jul 2025 07:15:00 WIB",
-    "lintang": "3.43 LS",
-    "bujur": "128.67 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "6 km",
-    "dirasakan": "II Amalatu"
   }
 ]

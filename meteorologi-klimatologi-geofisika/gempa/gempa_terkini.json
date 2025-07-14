@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Jul 2025 19:52:18 WIB",
+    "lintang": "2.00 LS",
+    "bujur": "120.71 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "wilayah": "67 km BaratDaya POSO-SULTENG"
+  },
+  {
     "waktu": "14 Jul 2025 12:49:58 WIB",
     "lintang": "6.23 LS",
     "bujur": "131.31 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "138 km",
     "wilayah": "164 km TimurLaut TANIMBAR"
-  },
-  {
-    "waktu": "28 Jun 2025 06:41:45 WIB",
-    "lintang": "5.40 LU",
-    "bujur": "126.02 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "47 km",
-    "wilayah": "137 km BaratLaut PULAUKARATUNG-SULUT"
   }
 ]
