@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Jul 2025 15:35:55 WIB",
+    "lintang": "8.40 LS",
+    "bujur": "116.04 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "11 km",
+    "dirasakan": "III Mataram, III Lombok Barat, III Lombok Utara, II Lombok Tengah, II Lombok Timur, II Karangasem, II Klungkung, II Gianyar, II Kuta Selatan, II Denpasar"
+  },
+  {
     "waktu": "15 Jul 2025 08:19:37 WIB",
     "lintang": "2.71 LS",
     "bujur": "129.54 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "11 km",
     "dirasakan": "IV Aceh Selatan, III Aceh Tenggara, III Kab. Gayo Lues, III Aceh Barat Daya, III Nagan Raya, II-III Medan, II-III Karo, II-III Deli Serdang, III Subussalam, II-III Aceh Singkil"
-  },
-  {
-    "waktu": "11 Jul 2025 08:01:49 WIB",
-    "lintang": "4.03 LS",
-    "bujur": "122.47 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "4 km",
-    "dirasakan": "II Kendari"
   }
 ]
