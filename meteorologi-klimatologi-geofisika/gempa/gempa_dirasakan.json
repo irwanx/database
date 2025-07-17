@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Jul 2025 16:04:27 WIB",
+    "lintang": "10.02 LS",
+    "bujur": "119.22 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Sumba Timur, II-III Tambolaka, III Kab. Bima, III Kota Bima, III Sumbawa Barat, III Sumbawa, II Lombok Tengah, II Lombok Timur, II Lombok Barat"
+  },
+  {
     "waktu": "17 Jul 2025 12:02:36 WIB",
     "lintang": "0.26 LU",
     "bujur": "110.36 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "10 km",
     "dirasakan": "III Halmahera Utara"
-  },
-  {
-    "waktu": "12 Jul 2025 10:25:56 WIB",
-    "lintang": "8.58 LS",
-    "bujur": "110.86 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "38 km",
-    "dirasakan": "III Pacitan, II Bantul, II Kota Yogyakarta, II Gunungkidul, II Sukoharjo, II Tulungagung, II Trenggalek"
   }
 ]

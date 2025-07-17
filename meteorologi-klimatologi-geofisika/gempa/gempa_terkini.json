@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Jul 2025 16:04:27 WIB",
+    "lintang": "10.02 LS",
+    "bujur": "119.22 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "10 km",
+    "wilayah": "31 km BaratDaya WANOKAKA-NTT"
+  },
+  {
     "waktu": "14 Jul 2025 19:52:18 WIB",
     "lintang": "2.00 LS",
     "bujur": "120.71 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 km",
     "wilayah": "32 km BaratLaut RANSIKI-PAPUABRT"
-  },
-  {
-    "waktu": "30 Jun 2025 06:38:40 WIB",
-    "lintang": "6.49 LS",
-    "bujur": "131.39 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "138 km",
-    "wilayah": "164 km TimurLaut TANIMBAR"
   }
 ]
