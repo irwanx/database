@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Jul 2025 00:04:57 WIB",
+    "lintang": "6.68 LS",
+    "bujur": "130.02 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "184 km",
+    "wilayah": "202 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "17 Jul 2025 16:04:27 WIB",
     "lintang": "10.02 LS",
     "bujur": "119.22 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "wilayah": "50 km BaratLaut KOTA-SABANG-ACEH"
-  },
-  {
-    "waktu": "02 Jul 2025 17:33:16 WIB",
-    "lintang": "1.23 LS",
-    "bujur": "134.02 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 km",
-    "wilayah": "32 km BaratLaut RANSIKI-PAPUABRT"
   }
 ]

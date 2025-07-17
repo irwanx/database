@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Jul 2025 23:40:14 WIB",
+    "lintang": "2.55 LU",
+    "bujur": "96.22 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 km",
+    "dirasakan": "3 Simeulue"
+  },
+  {
     "waktu": "17 Jul 2025 20:34:51 WIB",
     "lintang": "3.38 LS",
     "bujur": "128.62 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "10 km",
     "dirasakan": "III Enarotali"
-  },
-  {
-    "waktu": "13 Jul 2025 04:49:02 WIB",
-    "lintang": "3.27 LS",
-    "bujur": "128.65 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "13 km",
-    "dirasakan": "III Amalatu"
   }
 ]
