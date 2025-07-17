@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Jul 2025 04:46:34 WIB",
+    "lintang": "4.17 LS",
+    "bujur": "121.77 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Kolaka"
+  },
+  {
     "waktu": "18 Jul 2025 02:02:10 WIB",
     "lintang": "0.27 LS",
     "bujur": "99.06 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "11 km",
     "dirasakan": "II - III Ternate Utara"
-  },
-  {
-    "waktu": "14 Jul 2025 10:49:12 WIB",
-    "lintang": "3.43 LS",
-    "bujur": "128.63 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "10 km",
-    "dirasakan": "II Amalatu"
   }
 ]
