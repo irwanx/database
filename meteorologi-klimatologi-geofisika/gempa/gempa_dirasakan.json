@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Jul 2025 12:02:36 WIB",
+    "lintang": "0.26 LU",
+    "bujur": "110.36 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "2 km",
+    "dirasakan": "II-III Sanggau"
+  },
+  {
     "waktu": "16 Jul 2025 13:06:05 WIB",
     "lintang": "2.40 LS",
     "bujur": "120.81 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "38 km",
     "dirasakan": "III Pacitan, II Bantul, II Kota Yogyakarta, II Gunungkidul, II Sukoharjo, II Tulungagung, II Trenggalek"
-  },
-  {
-    "waktu": "12 Jul 2025 06:18:34 WIB",
-    "lintang": "4.14 LS",
-    "bujur": "122.62 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "12 km",
-    "dirasakan": "III Konawe Selatan"
   }
 ]
