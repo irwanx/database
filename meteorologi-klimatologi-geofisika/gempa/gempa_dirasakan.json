@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Jul 2025 02:02:10 WIB",
+    "lintang": "0.27 LS",
+    "bujur": "99.06 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "20 km",
+    "dirasakan": "II - III Pasaman Barat, II - III Pariaman, I - II Padang Panjang"
+  },
+  {
     "waktu": "17 Jul 2025 23:40:14 WIB",
     "lintang": "2.55 LU",
     "bujur": "96.22 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "10 km",
     "dirasakan": "II Amalatu"
-  },
-  {
-    "waktu": "14 Jul 2025 01:42:10 WIB",
-    "lintang": "4.10 LS",
-    "bujur": "136.33 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "10 km",
-    "dirasakan": "III Enarotali"
   }
 ]
