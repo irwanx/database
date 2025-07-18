@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Jul 2025 02:33:29 WIB",
+    "lintang": "3.40 LS",
+    "bujur": "101.51 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "22 km",
+    "dirasakan": "II-III Bengkulu Utara"
+  },
+  {
     "waktu": "18 Jul 2025 20:47:33 WIB",
     "lintang": "8.01 LS",
     "bujur": "113.37 BT",
@@ -109,14 +117,6 @@
     "bujur": "129.54 BT",
     "magnitudo": "4.2",
     "kedalaman": "13 km",
-    "dirasakan": "III Seram Utara"
-  },
-  {
-    "waktu": "15 Jul 2025 05:18:26 WIB",
-    "lintang": "2.71 LS",
-    "bujur": "129.57 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "14 km",
     "dirasakan": "III Seram Utara"
   }
 ]
