@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "18 Jul 2025 20:47:33 WIB",
+    "lintang": "8.01 LS",
+    "bujur": "113.37 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "7 km",
+    "dirasakan": "II - III Probolinggo"
+  },
+  {
+    "waktu": "18 Jul 2025 20:03:46 WIB",
+    "lintang": "7.86 LS",
+    "bujur": "113.01 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "3 km",
+    "dirasakan": "II-III Probolinggo"
+  },
+  {
     "waktu": "18 Jul 2025 19:19:06 WIB",
     "lintang": "8.02 LS",
     "bujur": "113.36 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "14 km",
     "dirasakan": "III Seram Utara"
-  },
-  {
-    "waktu": "14 Jul 2025 19:52:18 WIB",
-    "lintang": "2.00 LS",
-    "bujur": "120.71 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Poso, III-IV Morowali Utara, III-IV Luwu Timur, III Palopo, II Parigi, III Luwu Utara"
-  },
-  {
-    "waktu": "14 Jul 2025 18:39:02 WIB",
-    "lintang": "6.41 LS",
-    "bujur": "107.18 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "5 km",
-    "dirasakan": "II Cikarang"
   }
 ]
