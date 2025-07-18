@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Jul 2025 19:19:06 WIB",
+    "lintang": "8.02 LS",
+    "bujur": "113.36 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "7 km",
+    "dirasakan": "II Probolinggo"
+  },
+  {
     "waktu": "18 Jul 2025 12:56:25 WIB",
     "lintang": "4.24 LS",
     "bujur": "122.56 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "5 km",
     "dirasakan": "II Cikarang"
-  },
-  {
-    "waktu": "14 Jul 2025 18:38:46 WIB",
-    "lintang": "4.09 LS",
-    "bujur": "121.81 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "5 km",
-    "dirasakan": "III Kolaka Timur"
   }
 ]
