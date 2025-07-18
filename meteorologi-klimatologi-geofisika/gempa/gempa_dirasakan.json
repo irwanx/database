@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Jul 2025 12:56:25 WIB",
+    "lintang": "4.24 LS",
+    "bujur": "122.56 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "4 km",
+    "dirasakan": "III Konawe Selatan"
+  },
+  {
     "waktu": "18 Jul 2025 06:59:36 WIB",
     "lintang": "1.98 LS",
     "bujur": "117.48 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "5 km",
     "dirasakan": "III Kolaka Timur"
-  },
-  {
-    "waktu": "14 Jul 2025 12:49:58 WIB",
-    "lintang": "6.23 LS",
-    "bujur": "131.31 BT",
-    "magnitudo": "6.9",
-    "kedalaman": "108 km",
-    "dirasakan": "IV-V Saumlaki, III-IV Dobo, III Banda, III - IV Tual, III Bula, III Sorong, IV Fak-Fak, III Ransiki, III Nabire"
   }
 ]
