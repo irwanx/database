@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Jul 2025 06:59:36 WIB",
+    "lintang": "1.98 LS",
+    "bujur": "117.48 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "26 km",
+    "dirasakan": "II-III Balikpapan, II-III Kotabaru, II-III Batulicin"
+  },
+  {
     "waktu": "18 Jul 2025 04:46:34 WIB",
     "lintang": "4.17 LS",
     "bujur": "121.77 BT",
@@ -21,7 +29,7 @@
     "bujur": "96.22 BT",
     "magnitudo": "4.4",
     "kedalaman": "10 km",
-    "dirasakan": "3 Simeulue"
+    "dirasakan": "III Simeulue"
   },
   {
     "waktu": "17 Jul 2025 20:34:51 WIB",
@@ -110,13 +118,5 @@
     "magnitudo": "6.9",
     "kedalaman": "108 km",
     "dirasakan": "IV-V Saumlaki, III-IV Dobo, III Banda, III - IV Tual, III Bula, III Sorong, IV Fak-Fak, III Ransiki, III Nabire"
-  },
-  {
-    "waktu": "14 Jul 2025 12:39:09 WIB",
-    "lintang": "1.31 LU",
-    "bujur": "126.53 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "11 km",
-    "dirasakan": "II - III Ternate Utara"
   }
 ]
