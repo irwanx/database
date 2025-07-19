@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Jul 2025 21:33:34 WIB",
+    "lintang": "4.18 LS",
+    "bujur": "122.57 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "5 km",
+    "dirasakan": "III Konawe Selatan"
+  },
+  {
     "waktu": "19 Jul 2025 18:25:55 WIB",
     "lintang": "8.05 LS",
     "bujur": "107.88 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.0",
     "kedalaman": "10 km",
     "dirasakan": "III Amalatu"
-  },
-  {
-    "waktu": "17 Jul 2025 16:04:27 WIB",
-    "lintang": "10.02 LS",
-    "bujur": "119.22 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Sumba Timur, II-III Tambolaka, III Kab. Bima, III Kota Bima, III Sumbawa Barat, III Sumbawa, II Lombok Tengah, II Lombok Timur, II Lombok Barat"
   }
 ]
