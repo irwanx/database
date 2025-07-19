@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Jul 2025 07:07:34 WIB",
+    "lintang": "4.08 LS",
+    "bujur": "121.67 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Kolaka"
+  },
+  {
     "waktu": "19 Jul 2025 02:33:29 WIB",
     "lintang": "3.40 LS",
     "bujur": "101.51 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "11 km",
     "dirasakan": "III Mataram, III Lombok Barat, III Lombok Utara, II Lombok Tengah, II Lombok Timur, II Karangasem, II Klungkung, II Gianyar, II Kuta Selatan, II Denpasar"
-  },
-  {
-    "waktu": "15 Jul 2025 08:19:37 WIB",
-    "lintang": "2.71 LS",
-    "bujur": "129.54 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "13 km",
-    "dirasakan": "III Seram Utara"
   }
 ]
