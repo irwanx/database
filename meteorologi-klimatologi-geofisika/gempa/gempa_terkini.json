@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Jul 2025 13:53:43 WIB",
+    "lintang": "0.67 LS",
+    "bujur": "123.23 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "wilayah": "74 km TimurLaut BANGGAIKEP-SULTENG"
+  },
+  {
     "waktu": "18 Jul 2025 02:02:10 WIB",
     "lintang": "0.27 LS",
     "bujur": "99.06 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 km",
     "wilayah": "42 km BaratLaut KOTA-SABANG-ACEH"
-  },
-  {
-    "waktu": "05 Jul 2025 21:35:45 WIB",
-    "lintang": "6.19 LS",
-    "bujur": "130.04 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "208 km",
-    "wilayah": "242 km BaratLaut TANIMBAR"
   }
 ]

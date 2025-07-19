@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Jul 2025 13:53:43 WIB",
+    "lintang": "0.67 LS",
+    "bujur": "123.23 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Kota Gorontalo"
+  },
+  {
     "waktu": "19 Jul 2025 07:07:34 WIB",
     "lintang": "4.08 LS",
     "bujur": "121.67 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "5 km",
     "dirasakan": "III Tomoni, III Mangkutana"
-  },
-  {
-    "waktu": "15 Jul 2025 15:35:55 WIB",
-    "lintang": "8.40 LS",
-    "bujur": "116.04 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "11 km",
-    "dirasakan": "III Mataram, III Lombok Barat, III Lombok Utara, II Lombok Tengah, II Lombok Timur, II Karangasem, II Klungkung, II Gianyar, II Kuta Selatan, II Denpasar"
   }
 ]
