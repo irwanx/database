@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Jul 2025 03:04:40 WIB",
+    "lintang": "9.08 LS",
+    "bujur": "105.98 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "wilayah": "240 km BaratDaya BAYAH-BANTEN"
+  },
+  {
     "waktu": "19 Jul 2025 13:53:43 WIB",
     "lintang": "0.67 LS",
     "bujur": "123.23 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 km",
     "wilayah": "271 km Tenggara KAB-PANGANDARAN-JABAR"
-  },
-  {
-    "waktu": "06 Jul 2025 02:42:22 WIB",
-    "lintang": "6.16 LU",
-    "bujur": "95.04 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 km",
-    "wilayah": "42 km BaratLaut KOTA-SABANG-ACEH"
   }
 ]
