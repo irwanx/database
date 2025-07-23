@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24 Jul 2025 03:50:45 WIB",
+    "lintang": "0.43 LU",
+    "bujur": "122.02 BT",
+    "magnitudo": "6.3",
+    "kedalaman": "132 km",
+    "wilayah": "8 km Tenggara POHUWATO-GORONTALO"
+  },
+  {
     "waktu": "23 Jul 2025 15:25:31 WIB",
     "lintang": "2.92 LS",
     "bujur": "130.31 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "24 km",
     "wilayah": "95 km BaratLaut SUMUR-BANTEN"
-  },
-  {
-    "waktu": "09 Jul 2025 01:56:38 WIB",
-    "lintang": "6.58 LS",
-    "bujur": "131.92 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "86 km",
-    "wilayah": "135 km BaratDaya MALUKUTENGGARA"
   }
 ]

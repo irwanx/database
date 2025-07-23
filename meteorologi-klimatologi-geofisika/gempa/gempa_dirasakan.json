@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "24 Jul 2025 03:50:45 WIB",
+    "lintang": "0.43 LU",
+    "bujur": "122.02 BT",
+    "magnitudo": "6.3",
+    "kedalaman": "132 km",
+    "dirasakan": "III-IV Pohuwato, III Gorontalo, III Bulungan, II-III Manado, II-III Minahasa Utara, III-IV Toli-Toli, III Kab. Kutai Timur, III Kab. Berau, III Bolaang Mongondow Timur, III Tomohon, III Bolaang Mongondow, III Minahasa Selatan, III Kotamobagu, III Bolaang Mongondow Utara, III Minahasa Tenggara, III Boalemo, III Donggala, III Gorontalo Utara, III Bone Bolango, III-IV Parigi Moutong"
+  },
+  {
+    "waktu": "24 Jul 2025 03:33:54 WIB",
+    "lintang": "6.84 LS",
+    "bujur": "107.11 BT",
+    "magnitudo": "1.9",
+    "kedalaman": "8 km",
+    "dirasakan": "II Cianjur"
+  },
+  {
     "waktu": "23 Jul 2025 15:25:31 WIB",
     "lintang": "2.92 LS",
     "bujur": "130.31 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "22 km",
     "dirasakan": "II-III Bengkulu Utara"
-  },
-  {
-    "waktu": "18 Jul 2025 20:47:33 WIB",
-    "lintang": "8.01 LS",
-    "bujur": "113.37 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "7 km",
-    "dirasakan": "II - III Probolinggo"
-  },
-  {
-    "waktu": "18 Jul 2025 20:03:46 WIB",
-    "lintang": "7.86 LS",
-    "bujur": "113.01 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "3 km",
-    "dirasakan": "II-III Probolinggo"
   }
 ]
