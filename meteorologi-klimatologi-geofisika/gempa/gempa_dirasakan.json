@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24 Jul 2025 20:06:59 WIB",
+    "lintang": "2.03 LS",
+    "bujur": "120.70 BT",
+    "magnitudo": "6.0",
+    "kedalaman": "10 km",
+    "dirasakan": "IV - V Poso, III-IV Bungku, IV - V Kolonodale, II - III Palu, IV - V Mangkutana, III - IV Mappadeceng, III - IV Tana Toraja, III - IV Palopo, III Belopa, III Mamuju, III Malunda, III Pasang Kayu"
+  },
+  {
     "waktu": "24 Jul 2025 03:50:45 WIB",
     "lintang": "0.43 LU",
     "bujur": "122.02 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.2",
     "kedalaman": "5 km",
     "dirasakan": "II-III Kolaka"
-  },
-  {
-    "waktu": "19 Jul 2025 02:33:29 WIB",
-    "lintang": "3.40 LS",
-    "bujur": "101.51 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "22 km",
-    "dirasakan": "II-III Bengkulu Utara"
   }
 ]
