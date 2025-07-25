@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Jul 2025 10:20:11 WIB",
+    "lintang": "3.31 LS",
+    "bujur": "101.25 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "dirasakan": "III Mukomuko, II Bengkulu Utara"
+  },
+  {
     "waktu": "25 Jul 2025 07:38:38 WIB",
     "lintang": "2.95 LS",
     "bujur": "119.04 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.8",
     "kedalaman": "5 km",
     "dirasakan": "III Konawe Selatan"
-  },
-  {
-    "waktu": "19 Jul 2025 18:25:55 WIB",
-    "lintang": "8.05 LS",
-    "bujur": "107.88 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "25 km",
-    "dirasakan": "II-III Cidolog, II Garut, III Ciwidey, III Bayongbong, III Cipatujah, III Cidaun, II Tasikmalaya, II Cianjur"
   }
 ]
