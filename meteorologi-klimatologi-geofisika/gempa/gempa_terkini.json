@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Jul 2025 10:20:11 WIB",
+    "lintang": "3.31 LS",
+    "bujur": "101.25 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "wilayah": "82 km Tenggara MUKOMUKO-BENGKULU"
+  },
+  {
     "waktu": "24 Jul 2025 20:06:59 WIB",
     "lintang": "2.03 LS",
     "bujur": "120.70 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "11 km",
     "wilayah": "15 km Tenggara KAB-ACEHSELATAN"
-  },
-  {
-    "waktu": "10 Jul 2025 21:43:42 WIB",
-    "lintang": "6.75 LS",
-    "bujur": "129.89 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "206 km",
-    "wilayah": "207 km BaratLaut TANIMBAR"
   }
 ]

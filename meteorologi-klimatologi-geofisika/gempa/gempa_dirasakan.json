@@ -5,7 +5,15 @@
     "bujur": "119.04 BT",
     "magnitudo": "3.4",
     "kedalaman": "3 km",
-    "dirasakan": "III Malunda, III Maliaya"
+    "dirasakan": "III Maliaya, III Malunda"
+  },
+  {
+    "waktu": "25 Jul 2025 06:07:27 WIB",
+    "lintang": "4.14 LS",
+    "bujur": "122.58 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Konawe Selatan"
   },
   {
     "waktu": "24 Jul 2025 20:06:59 WIB",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "25 km",
     "dirasakan": "II-III Cidolog, II Garut, III Ciwidey, III Bayongbong, III Cipatujah, III Cidaun, II Tasikmalaya, II Cianjur"
-  },
-  {
-    "waktu": "19 Jul 2025 17:52:22 WIB",
-    "lintang": "4.10 LS",
-    "bujur": "121.64 BT",
-    "magnitudo": "2.0",
-    "kedalaman": "5 km",
-    "dirasakan": "II Kolaka"
   }
 ]
