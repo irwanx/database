@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Jul 2025 11:56:23 WIB",
+    "lintang": "5.41 LS",
+    "bujur": "103.27 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "14 km",
+    "dirasakan": "II Pesisir Barat"
+  },
+  {
     "waktu": "25 Jul 2025 10:20:11 WIB",
     "lintang": "3.31 LS",
     "bujur": "101.25 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "12 km",
     "dirasakan": "III Surade, Kabupaten Sukabumi, III Ciracap, Kabupaten Sukabumi"
-  },
-  {
-    "waktu": "19 Jul 2025 21:33:34 WIB",
-    "lintang": "4.18 LS",
-    "bujur": "122.57 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "5 km",
-    "dirasakan": "III Konawe Selatan"
   }
 ]
