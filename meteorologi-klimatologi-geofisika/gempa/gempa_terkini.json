@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26 Jul 2025 04:30:00 WIB",
+    "lintang": "2.04 LU",
+    "bujur": "126.87 BT",
+    "magnitudo": "6.0",
+    "kedalaman": "58 km",
+    "wilayah": "104 km BaratDaya PULAUDOI-MALUT"
+  },
+  {
     "waktu": "25 Jul 2025 10:20:11 WIB",
     "lintang": "3.31 LS",
     "bujur": "101.25 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.6",
     "kedalaman": "65 km",
     "wilayah": "131 km BaratDaya FAKFAK-PAPUABRT"
-  },
-  {
-    "waktu": "11 Jul 2025 19:45:13 WIB",
-    "lintang": "3.15 LU",
-    "bujur": "97.26 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "11 km",
-    "wilayah": "15 km Tenggara KAB-ACEHSELATAN"
   }
 ]

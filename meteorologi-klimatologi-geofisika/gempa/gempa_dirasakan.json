@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26 Jul 2025 04:30:00 WIB",
+    "lintang": "2.04 LU",
+    "bujur": "126.87 BT",
+    "magnitudo": "6.0",
+    "kedalaman": "58 km",
+    "dirasakan": "III Halmahera Barat, III Ternate, III Tidore, II Halmahera Utara, III Siau, II - III Manado, II - III Minahasa, II Bitung, II - III Talaud"
+  },
+  {
     "waktu": "25 Jul 2025 11:56:23 WIB",
     "lintang": "5.41 LS",
     "bujur": "103.27 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "131 km",
     "dirasakan": "II-III Gorontalo"
-  },
-  {
-    "waktu": "20 Jul 2025 11:47:34 WIB",
-    "lintang": "7.74 LS",
-    "bujur": "106.49 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "12 km",
-    "dirasakan": "III Surade, Kabupaten Sukabumi, III Ciracap, Kabupaten Sukabumi"
   }
 ]
