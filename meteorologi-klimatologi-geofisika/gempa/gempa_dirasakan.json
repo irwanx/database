@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26 Jul 2025 06:38:07 WIB",
+    "lintang": "3.39 LS",
+    "bujur": "135.52 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "32 km",
+    "dirasakan": "II Nabire"
+  },
+  {
     "waktu": "26 Jul 2025 04:30:00 WIB",
     "lintang": "2.04 LU",
     "bujur": "126.87 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.3",
     "kedalaman": "12 km",
     "dirasakan": "II-III Ciracap, II Surade"
-  },
-  {
-    "waktu": "21 Jul 2025 11:50:30 WIB",
-    "lintang": "0.12 LS",
-    "bujur": "123.28 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "131 km",
-    "dirasakan": "II-III Gorontalo"
   }
 ]
