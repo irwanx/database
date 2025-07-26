@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26 Jul 2025 12:31:47 WIB",
+    "lintang": "0.39 LS",
+    "bujur": "131.60 BT",
+    "magnitudo": "6.0",
+    "kedalaman": "10 km",
+    "wilayah": "64 km TimurLaut KOTA-SORONG-PAPUABRT"
+  },
+  {
     "waktu": "26 Jul 2025 04:30:00 WIB",
     "lintang": "2.04 LU",
     "bujur": "126.87 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 km",
     "wilayah": "297 km BaratDaya NIASSELATAN-SUMUT"
-  },
-  {
-    "waktu": "12 Jul 2025 03:09:50 WIB",
-    "lintang": "4.24 LS",
-    "bujur": "132.71 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "65 km",
-    "wilayah": "131 km BaratDaya FAKFAK-PAPUABRT"
   }
 ]
