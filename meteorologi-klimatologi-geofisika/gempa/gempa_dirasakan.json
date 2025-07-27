@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Jul 2025 20:25:04 WIB",
+    "lintang": "2.04 LS",
+    "bujur": "120.65 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "4 km",
+    "dirasakan": "III Poso"
+  },
+  {
     "waktu": "27 Jul 2025 09:52:52 WIB",
     "lintang": "2.10 LS",
     "bujur": "120.69 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "2 km",
     "dirasakan": "III Kalabahi"
-  },
-  {
-    "waktu": "22 Jul 2025 16:11:40 WIB",
-    "lintang": "7.18 LS",
-    "bujur": "107.49 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "8 km",
-    "dirasakan": "2 Ciwidey, 2 Banjaran, 2 Cimaung"
   }
 ]
