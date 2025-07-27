@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Jul 2025 09:52:52 WIB",
+    "lintang": "2.10 LS",
+    "bujur": "120.69 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "3 km",
+    "dirasakan": "II-III Poso"
+  },
+  {
     "waktu": "26 Jul 2025 12:31:47 WIB",
     "lintang": "0.39 LS",
     "bujur": "131.60 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.4",
     "kedalaman": "8 km",
     "dirasakan": "2 Ciwidey, 2 Banjaran, 2 Cimaung"
-  },
-  {
-    "waktu": "22 Jul 2025 15:40:11 WIB",
-    "lintang": "7.76 LS",
-    "bujur": "118.92 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "21 km",
-    "dirasakan": "III Kota Bima, III Kab. Bima"
   }
 ]
