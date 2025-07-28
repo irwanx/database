@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Jul 2025 01:41:55 WIB",
+    "lintang": "6.70 LU",
+    "bujur": "93.24 BT",
+    "magnitudo": "6.3",
+    "kedalaman": "15 km",
+    "dirasakan": "II-III Banda Aceh, II-III Aceh Besar"
+  },
+  {
     "waktu": "27 Jul 2025 20:25:04 WIB",
     "lintang": "2.04 LS",
     "bujur": "120.65 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 km",
     "dirasakan": "III - IV Bula, III - IV Seram Utara Timur Seti"
-  },
-  {
-    "waktu": "23 Jul 2025 14:29:14 WIB",
-    "lintang": "8.30 LS",
-    "bujur": "124.35 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "2 km",
-    "dirasakan": "III Kalabahi"
   }
 ]
