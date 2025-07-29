@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "29 Jul 2025 17:14:05 WIB",
+    "lintang": "3.41 LS",
+    "bujur": "128.65 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "10 km",
+    "dirasakan": "III Amalatu"
+  },
+  {
+    "waktu": "29 Jul 2025 17:00:44 WIB",
+    "lintang": "5.86 LS",
+    "bujur": "112.31 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Bawean"
+  },
+  {
     "waktu": "29 Jul 2025 02:33:13 WIB",
     "lintang": "0.19 LS",
     "bujur": "110.36 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.1",
     "kedalaman": "2 km",
     "dirasakan": ""
-  },
-  {
-    "waktu": "24 Jul 2025 03:50:45 WIB",
-    "lintang": "0.43 LU",
-    "bujur": "122.02 BT",
-    "magnitudo": "6.3",
-    "kedalaman": "132 km",
-    "dirasakan": "III-IV Pohuwato, III Gorontalo, III Bulungan, II-III Manado, II-III Minahasa Utara, III-IV Toli-Toli, III Kab. Kutai Timur, III Kab. Berau, III Bolaang Mongondow Timur, III Tomohon, III Bolaang Mongondow, III Minahasa Selatan, III Kotamobagu, III Bolaang Mongondow Utara, III Minahasa Tenggara, III Boalemo, III Donggala, III Gorontalo Utara, III Bone Bolango, III-IV Parigi Moutong"
-  },
-  {
-    "waktu": "24 Jul 2025 03:33:54 WIB",
-    "lintang": "6.84 LS",
-    "bujur": "107.11 BT",
-    "magnitudo": "1.9",
-    "kedalaman": "8 km",
-    "dirasakan": "II Cianjur"
   }
 ]
