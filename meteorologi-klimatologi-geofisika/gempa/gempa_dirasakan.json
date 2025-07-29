@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Jul 2025 02:33:13 WIB",
+    "lintang": "0.19 LS",
+    "bujur": "110.36 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Sanggau"
+  },
+  {
     "waktu": "29 Jul 2025 01:41:55 WIB",
     "lintang": "6.70 LU",
     "bujur": "93.24 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "1.9",
     "kedalaman": "8 km",
     "dirasakan": "II Cianjur"
-  },
-  {
-    "waktu": "23 Jul 2025 15:25:31 WIB",
-    "lintang": "2.92 LS",
-    "bujur": "130.31 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "dirasakan": "III - IV Bula, III - IV Seram Utara Timur Seti"
   }
 ]
