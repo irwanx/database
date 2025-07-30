@@ -16,6 +16,14 @@
     "dirasakan": "II Karangkates"
   },
   {
+    "waktu": "30 Jul 2025 14:00:39 WIB",
+    "lintang": "4.49 LS",
+    "bujur": "122.70 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "6 km",
+    "dirasakan": "II-III Muna"
+  },
+  {
     "waktu": "30 Jul 2025 09:50:21 WIB",
     "lintang": "4.50 LS",
     "bujur": "122.72 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "14 km",
     "dirasakan": "II Pesisir Barat"
-  },
-  {
-    "waktu": "25 Jul 2025 10:20:11 WIB",
-    "lintang": "3.31 LS",
-    "bujur": "101.25 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 km",
-    "dirasakan": "III Mukomuko, II Bengkulu Utara"
   }
 ]
