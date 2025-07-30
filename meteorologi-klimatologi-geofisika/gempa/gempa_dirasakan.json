@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30 Jul 2025 23:58:06 WIB",
+    "lintang": "2.43 LS",
+    "bujur": "120.80 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "5 km",
+    "dirasakan": "III-IV Mangkutana, II-III Malili"
+  },
+  {
     "waktu": "30 Jul 2025 14:46:25 WIB",
     "lintang": "1.22 LS",
     "bujur": "99.76 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.0",
     "kedalaman": "58 km",
     "dirasakan": "III Halmahera Barat, III Ternate, III Tidore, II Halmahera Utara, III Siau, II - III Manado, II - III Minahasa, II Bitung, II - III Talaud"
-  },
-  {
-    "waktu": "25 Jul 2025 11:56:23 WIB",
-    "lintang": "5.41 LS",
-    "bujur": "103.27 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "14 km",
-    "dirasakan": "II Pesisir Barat"
   }
 ]
