@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "30 Jul 2025 14:46:25 WIB",
+    "lintang": "1.22 LS",
+    "bujur": "99.76 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "23 km",
+    "dirasakan": "II-III Padang"
+  },
+  {
+    "waktu": "30 Jul 2025 14:14:10 WIB",
+    "lintang": "8.54 LS",
+    "bujur": "111.69 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "116 km",
+    "dirasakan": "II Karangkates"
+  },
+  {
     "waktu": "30 Jul 2025 09:50:21 WIB",
     "lintang": "4.50 LS",
     "bujur": "122.72 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 km",
     "dirasakan": "III Mukomuko, II Bengkulu Utara"
-  },
-  {
-    "waktu": "25 Jul 2025 07:38:38 WIB",
-    "lintang": "2.95 LS",
-    "bujur": "119.04 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "3 km",
-    "dirasakan": "III Maliaya, III Malunda"
-  },
-  {
-    "waktu": "25 Jul 2025 06:07:27 WIB",
-    "lintang": "4.14 LS",
-    "bujur": "122.58 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Konawe Selatan"
   }
 ]
