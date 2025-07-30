@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30 Jul 2025 09:50:21 WIB",
+    "lintang": "4.50 LS",
+    "bujur": "122.72 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "5 km",
+    "dirasakan": "III-IV Muna , III Buton Utara, III Konawe Selatan"
+  },
+  {
     "waktu": "29 Jul 2025 20:33:02 WIB",
     "lintang": "8.12 LS",
     "bujur": "124.84 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.4",
     "kedalaman": "5 km",
     "dirasakan": "II-III Konawe Selatan"
-  },
-  {
-    "waktu": "24 Jul 2025 20:06:59 WIB",
-    "lintang": "2.03 LS",
-    "bujur": "120.70 BT",
-    "magnitudo": "6.0",
-    "kedalaman": "10 km",
-    "dirasakan": "IV - V Poso, III-IV Bungku, IV - V Kolonodale, II - III Palu, IV - V Mangkutana, III - IV Mappadeceng, III - IV Tana Toraja, III - IV Palopo, III Belopa, III Mamuju, III Malunda, III Pasang Kayu"
   }
 ]
