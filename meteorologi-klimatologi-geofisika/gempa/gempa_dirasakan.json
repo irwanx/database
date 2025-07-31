@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "31 Jul 2025 17:56:03 WIB",
+    "lintang": "7.11 LS",
+    "bujur": "110.07 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Kendal, II-III Temanggung"
+  },
+  {
     "waktu": "30 Jul 2025 23:58:06 WIB",
     "lintang": "2.43 LS",
     "bujur": "120.80 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.8",
     "kedalaman": "32 km",
     "dirasakan": "II Nabire"
-  },
-  {
-    "waktu": "26 Jul 2025 04:30:00 WIB",
-    "lintang": "2.04 LU",
-    "bujur": "126.87 BT",
-    "magnitudo": "6.0",
-    "kedalaman": "58 km",
-    "dirasakan": "III Halmahera Barat, III Ternate, III Tidore, II Halmahera Utara, III Siau, II - III Manado, II - III Minahasa, II Bitung, II - III Talaud"
   }
 ]
