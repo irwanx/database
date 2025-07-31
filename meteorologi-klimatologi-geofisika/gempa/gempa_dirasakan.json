@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Agu 2025 00:40:28 WIB",
+    "lintang": "8.30 LS",
+    "bujur": "122.09 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 km",
+    "dirasakan": "I-II Waioti"
+  },
+  {
     "waktu": "31 Jul 2025 17:56:03 WIB",
     "lintang": "7.11 LS",
     "bujur": "110.07 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.0",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Kota Sorong, III - IV Kab. Sorong, III Raja Ampat, II Ransiki"
-  },
-  {
-    "waktu": "26 Jul 2025 06:38:07 WIB",
-    "lintang": "3.39 LS",
-    "bujur": "135.52 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "32 km",
-    "dirasakan": "II Nabire"
   }
 ]

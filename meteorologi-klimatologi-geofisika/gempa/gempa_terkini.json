@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Agu 2025 05:13:25 WIB",
+    "lintang": "0.17 LS",
+    "bujur": "123.14 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "114 km",
+    "wilayah": "72 km TimurLaut PULAUPUAH-SULTENG"
+  },
+  {
     "waktu": "27 Jul 2025 09:45:25 WIB",
     "lintang": "5.83 LS",
     "bujur": "124.40 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.9",
     "kedalaman": "108 km",
     "wilayah": "170 km BaratDaya MALUKUTENGGARA"
-  },
-  {
-    "waktu": "14 Jul 2025 12:39:09 WIB",
-    "lintang": "1.31 LU",
-    "bujur": "126.53 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "11 km",
-    "wilayah": "107 km BaratLaut JAILOLO-MALUT"
   }
 ]
