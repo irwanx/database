@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Agu 2025 05:13:25 WIB",
+    "lintang": "0.17 LS",
+    "bujur": "123.14 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "114 km",
+    "dirasakan": "III Kab. Gorontalo, III Luwuk, II-III Tojo Una-una"
+  },
+  {
     "waktu": "01 Agu 2025 00:40:28 WIB",
     "lintang": "8.30 LS",
     "bujur": "122.09 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.9",
     "kedalaman": "3 km",
     "dirasakan": "II-III Poso"
-  },
-  {
-    "waktu": "26 Jul 2025 12:31:47 WIB",
-    "lintang": "0.39 LS",
-    "bujur": "131.60 BT",
-    "magnitudo": "6.0",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Kota Sorong, III - IV Kab. Sorong, III Raja Ampat, II Ransiki"
   }
 ]
