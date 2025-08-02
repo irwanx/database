@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Agu 2025 11:20:23 WIB",
+    "lintang": "2.03 LS",
+    "bujur": "120.66 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "5 km",
+    "dirasakan": "III Pamona"
+  },
+  {
     "waktu": "01 Agu 2025 20:16:10 WIB",
     "lintang": "4.38 LS",
     "bujur": "122.73 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.3",
     "kedalaman": "10 km",
     "dirasakan": "II-III Sanggau"
-  },
-  {
-    "waktu": "29 Jul 2025 01:41:55 WIB",
-    "lintang": "6.70 LU",
-    "bujur": "93.24 BT",
-    "magnitudo": "6.3",
-    "kedalaman": "15 km",
-    "dirasakan": "II-III Banda Aceh, II-III Aceh Besar"
   }
 ]
