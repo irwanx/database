@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Agu 2025 12:34:34 WIB",
+    "lintang": "4.40 LS",
+    "bujur": "102.55 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "34 km",
+    "dirasakan": "II Kota Bengkulu, II Arga Makmur"
+  },
+  {
     "waktu": "02 Agu 2025 11:20:23 WIB",
     "lintang": "2.03 LS",
     "bujur": "120.66 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "10 km",
     "dirasakan": "II-III Bawean"
-  },
-  {
-    "waktu": "29 Jul 2025 02:33:13 WIB",
-    "lintang": "0.19 LS",
-    "bujur": "110.36 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Sanggau"
   }
 ]
