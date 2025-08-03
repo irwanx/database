@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "04 Agu 2025 00:51:26 WIB",
+    "lintang": "2.07 LS",
+    "bujur": "120.69 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 km",
+    "dirasakan": "II - III Poso"
+  },
+  {
+    "waktu": "03 Agu 2025 23:32:49 WIB",
+    "lintang": "4.49 LS",
+    "bujur": "129.90 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "7 km",
+    "dirasakan": "II - III Banda"
+  },
+  {
     "waktu": "03 Agu 2025 12:34:34 WIB",
     "lintang": "4.40 LS",
     "bujur": "102.55 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.0",
     "kedalaman": "8 km",
     "dirasakan": "III Alor"
-  },
-  {
-    "waktu": "29 Jul 2025 17:14:05 WIB",
-    "lintang": "3.41 LS",
-    "bujur": "128.65 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "10 km",
-    "dirasakan": "III Amalatu"
-  },
-  {
-    "waktu": "29 Jul 2025 17:00:44 WIB",
-    "lintang": "5.86 LS",
-    "bujur": "112.31 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Bawean"
   }
 ]
