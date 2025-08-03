@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04 Agu 2025 02:29:03 WIB",
+    "lintang": "4.83 LU",
+    "bujur": "96.10 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "5 km",
+    "dirasakan": "II Pidie"
+  },
+  {
     "waktu": "04 Agu 2025 00:51:26 WIB",
     "lintang": "2.07 LS",
     "bujur": "120.69 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "5 km",
     "dirasakan": "III-IV Muna , III Buton Utara, III Konawe Selatan"
-  },
-  {
-    "waktu": "29 Jul 2025 20:33:02 WIB",
-    "lintang": "8.12 LS",
-    "bujur": "124.84 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "8 km",
-    "dirasakan": "III Alor"
   }
 ]
