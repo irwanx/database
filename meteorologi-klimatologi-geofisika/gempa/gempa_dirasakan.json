@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Agu 2025 03:26:50 WIB",
+    "lintang": "3.59 LU",
+    "bujur": "117.19 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "1 km",
+    "dirasakan": "II Kota Tarakan"
+  },
+  {
     "waktu": "04 Agu 2025 21:36:48 WIB",
     "lintang": "1.32 LU",
     "bujur": "124.20 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "23 km",
     "dirasakan": "II-III Padang"
-  },
-  {
-    "waktu": "30 Jul 2025 14:14:10 WIB",
-    "lintang": "8.54 LS",
-    "bujur": "111.69 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "116 km",
-    "dirasakan": "II Karangkates"
   }
 ]
