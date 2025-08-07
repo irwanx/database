@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Agu 2025 06:44:01 WIB",
+    "lintang": "2.01 LS",
+    "bujur": "120.65 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 km",
+    "dirasakan": "II - III Poso"
+  },
+  {
     "waktu": "06 Agu 2025 03:26:50 WIB",
     "lintang": "3.59 LU",
     "bujur": "117.19 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "5 km",
     "dirasakan": "III-IV Mangkutana, II-III Malili"
-  },
-  {
-    "waktu": "30 Jul 2025 14:46:25 WIB",
-    "lintang": "1.22 LS",
-    "bujur": "99.76 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "23 km",
-    "dirasakan": "II-III Padang"
   }
 ]
