@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Agu 2025 10:47:05 WIB",
+    "lintang": "4.18 LU",
+    "bujur": "126.78 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 km",
+    "dirasakan": "III Kab. Talaud"
+  },
+  {
     "waktu": "07 Agu 2025 06:44:01 WIB",
     "lintang": "2.01 LS",
     "bujur": "120.65 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "10 km",
     "dirasakan": "II-III Kendal, II-III Temanggung"
-  },
-  {
-    "waktu": "30 Jul 2025 23:58:06 WIB",
-    "lintang": "2.43 LS",
-    "bujur": "120.80 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "5 km",
-    "dirasakan": "III-IV Mangkutana, II-III Malili"
   }
 ]
