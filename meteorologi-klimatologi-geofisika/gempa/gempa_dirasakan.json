@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Agu 2025 19:00:47 WIB",
+    "lintang": "8.38 LS",
+    "bujur": "112.83 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "11 km",
+    "dirasakan": "III Malang"
+  },
+  {
     "waktu": "07 Agu 2025 10:47:05 WIB",
     "lintang": "4.18 LU",
     "bujur": "126.78 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "10 km",
     "dirasakan": "I-II Waioti"
-  },
-  {
-    "waktu": "31 Jul 2025 17:56:03 WIB",
-    "lintang": "7.11 LS",
-    "bujur": "110.07 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Kendal, II-III Temanggung"
   }
 ]
