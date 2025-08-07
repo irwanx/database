@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Agu 2025 22:29:00 WIB",
+    "lintang": "1.25 LU",
+    "bujur": "98.77 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "84 km",
+    "dirasakan": "IV Sibolga, IV Sarudik, IV Pandan, IV Doloksanggul, II-III Sidikalang, II-III Gunung Sitoli, II-III Nias Selatan, II-III Nias Utara, II Humbang Hasundutan"
+  },
+  {
     "waktu": "07 Agu 2025 19:00:47 WIB",
     "lintang": "8.38 LS",
     "bujur": "112.83 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "114 km",
     "dirasakan": "III Kab. Gorontalo, III Luwuk, II-III Tojo Una-una"
-  },
-  {
-    "waktu": "01 Agu 2025 00:40:28 WIB",
-    "lintang": "8.30 LS",
-    "bujur": "122.09 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 km",
-    "dirasakan": "I-II Waioti"
   }
 ]

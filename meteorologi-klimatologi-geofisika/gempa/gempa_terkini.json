@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Agu 2025 22:29:01 WIB",
+    "lintang": "1.29 LU",
+    "bujur": "98.80 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "60 km",
+    "wilayah": "45 km BaratDaya TAPANULITENGAH-SUMUT"
+  },
+  {
     "waktu": "01 Agu 2025 05:13:25 WIB",
     "lintang": "0.17 LS",
     "bujur": "123.14 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 km",
     "wilayah": "67 km BaratDaya POSO-SULTENG"
-  },
-  {
-    "waktu": "14 Jul 2025 12:49:58 WIB",
-    "lintang": "6.23 LS",
-    "bujur": "131.31 BT",
-    "magnitudo": "6.9",
-    "kedalaman": "108 km",
-    "wilayah": "170 km BaratDaya MALUKUTENGGARA"
   }
 ]
