@@ -152,80 +152,80 @@
   {
     "mata_uang": "AUD",
     "nilai": "1",
-    "kurs_jual": "10.693,00",
-    "kurs_beli": "10.583,34"
+    "kurs_jual": "10.719,75",
+    "kurs_beli": "10.608,22"
   },
   {
     "mata_uang": "BND",
     "nilai": "1",
-    "kurs_jual": "12.792,12",
-    "kurs_beli": "12.657,94"
+    "kurs_jual": "12.787,49",
+    "kurs_beli": "12.652,35"
   },
   {
     "mata_uang": "CAD",
     "nilai": "1",
-    "kurs_jual": "11.960,26",
-    "kurs_beli": "11.838,66"
+    "kurs_jual": "11.947,79",
+    "kurs_beli": "11.825,46"
   },
   {
     "mata_uang": "CHF",
     "nilai": "1",
-    "kurs_jual": "20.382,49",
-    "kurs_beli": "20.167,18"
+    "kurs_jual": "20.382,39",
+    "kurs_beli": "20.167,05"
   },
   {
     "mata_uang": "CNH",
     "nilai": "1",
-    "kurs_jual": "2.288,75",
-    "kurs_beli": "2.265,34"
+    "kurs_jual": "2.283,54",
+    "kurs_beli": "2.260,76"
   },
   {
     "mata_uang": "CNY",
     "nilai": "1",
-    "kurs_jual": "2.289,73",
-    "kurs_beli": "2.266,70"
+    "kurs_jual": "2.284,21",
+    "kurs_beli": "2.261,20"
   },
   {
     "mata_uang": "DKK",
     "nilai": "1",
-    "kurs_jual": "2.554,81",
-    "kurs_beli": "2.529,23"
+    "kurs_jual": "2.568,20",
+    "kurs_beli": "2.542,32"
   },
   {
     "mata_uang": "EUR",
     "nilai": "1",
-    "kurs_jual": "19.065,01",
-    "kurs_beli": "18.872,04"
+    "kurs_jual": "19.164,07",
+    "kurs_beli": "18.970,14"
   },
   {
     "mata_uang": "GBP",
     "nilai": "1",
-    "kurs_jual": "21.897,94",
-    "kurs_beli": "21.676,77"
+    "kurs_jual": "21.924,75",
+    "kurs_beli": "21.704,97"
   },
   {
     "mata_uang": "HKD",
     "nilai": "1",
-    "kurs_jual": "2.097,06",
-    "kurs_beli": "2.076,06"
+    "kurs_jual": "2.088,46",
+    "kurs_beli": "2.067,62"
   },
   {
     "mata_uang": "JPY",
     "nilai": "100",
-    "kurs_jual": "11.156,15",
-    "kurs_beli": "11.043,64"
+    "kurs_jual": "11.167,28",
+    "kurs_beli": "11.055,40"
   },
   {
     "mata_uang": "KRW",
     "nilai": "1",
-    "kurs_jual": "11,84",
-    "kurs_beli": "11,72"
+    "kurs_jual": "11,89",
+    "kurs_beli": "11,77"
   },
   {
     "mata_uang": "KWD",
     "nilai": "1",
-    "kurs_jual": "53.855,39",
-    "kurs_beli": "53.302,04"
+    "kurs_jual": "53.680,74",
+    "kurs_beli": "53.129,20"
   },
   {
     "mata_uang": "LAK",
@@ -236,62 +236,62 @@
   {
     "mata_uang": "MYR",
     "nilai": "1",
-    "kurs_jual": "3.893,31",
-    "kurs_beli": "3.850,01"
+    "kurs_jual": "3.881,05",
+    "kurs_beli": "3.837,89"
   },
   {
     "mata_uang": "NOK",
     "nilai": "1",
-    "kurs_jual": "1.609,32",
-    "kurs_beli": "1.592,88"
+    "kurs_jual": "1.610,65",
+    "kurs_beli": "1.594,24"
   },
   {
     "mata_uang": "NZD",
     "nilai": "1",
-    "kurs_jual": "9.754,73",
-    "kurs_beli": "9.652,77"
+    "kurs_jual": "9.777,12",
+    "kurs_beli": "9.678,21"
   },
   {
     "mata_uang": "PGK",
     "nilai": "1",
-    "kurs_jual": "4.108,64",
-    "kurs_beli": "3.790,71"
+    "kurs_jual": "3.950,85",
+    "kurs_beli": "3.789,81"
   },
   {
     "mata_uang": "PHP",
     "nilai": "1",
-    "kurs_jual": "286,40",
-    "kurs_beli": "283,25"
+    "kurs_jual": "286,96",
+    "kurs_beli": "283,97"
   },
   {
     "mata_uang": "SAR",
     "nilai": "1",
-    "kurs_jual": "4.387,00",
-    "kurs_beli": "4.343,11"
+    "kurs_jual": "4.368,35",
+    "kurs_beli": "4.324,66"
   },
   {
     "mata_uang": "SEK",
     "nilai": "1",
-    "kurs_jual": "1.705,09",
-    "kurs_beli": "1.686,46"
+    "kurs_jual": "1.709,48",
+    "kurs_beli": "1.692,13"
   },
   {
     "mata_uang": "SGD",
     "nilai": "1",
-    "kurs_jual": "12.792,12",
-    "kurs_beli": "12.657,94"
+    "kurs_jual": "12.787,49",
+    "kurs_beli": "12.652,35"
   },
   {
     "mata_uang": "THB",
     "nilai": "1",
-    "kurs_jual": "509,00",
-    "kurs_beli": "503,46"
+    "kurs_jual": "508,49",
+    "kurs_beli": "502,96"
   },
   {
     "mata_uang": "USD",
     "nilai": "1",
-    "kurs_jual": "16.460,90",
-    "kurs_beli": "16.297,10"
+    "kurs_jual": "16.393,56",
+    "kurs_beli": "16.230,44"
   },
   {
     "mata_uang": "VND",
