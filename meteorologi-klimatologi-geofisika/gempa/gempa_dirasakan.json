@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08 Agu 2025 19:22:13 WIB",
+    "lintang": "1.82 LU",
+    "bujur": "127.04 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "84 km",
+    "dirasakan": "II-III Tagulandang, II-III Halmahera Barat , II Tondano"
+  },
+  {
     "waktu": "07 Agu 2025 22:29:00 WIB",
     "lintang": "1.25 LU",
     "bujur": "98.77 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.9",
     "kedalaman": "5 km",
     "dirasakan": "III Poso"
-  },
-  {
-    "waktu": "01 Agu 2025 05:13:25 WIB",
-    "lintang": "0.17 LS",
-    "bujur": "123.14 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "114 km",
-    "dirasakan": "III Kab. Gorontalo, III Luwuk, II-III Tojo Una-una"
   }
 ]

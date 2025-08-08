@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08 Agu 2025 19:22:13 WIB",
+    "lintang": "1.82 LU",
+    "bujur": "127.04 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "84 km",
+    "wilayah": "80 km BaratLaut HALMAHERABARAT-MALUT"
+  },
+  {
     "waktu": "07 Agu 2025 22:29:01 WIB",
     "lintang": "1.29 LU",
     "bujur": "98.80 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.8",
     "kedalaman": "10 km",
     "wilayah": "31 km BaratDaya WANOKAKA-NTT"
-  },
-  {
-    "waktu": "14 Jul 2025 19:52:18 WIB",
-    "lintang": "2.00 LS",
-    "bujur": "120.71 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 km",
-    "wilayah": "67 km BaratDaya POSO-SULTENG"
   }
 ]
