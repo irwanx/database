@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Agu 2025 07:21:24 WIB",
+    "lintang": "8.30 LS",
+    "bujur": "120.69 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "29 km",
+    "dirasakan": "II-III Ruteng"
+  },
+  {
     "waktu": "08 Agu 2025 19:22:13 WIB",
     "lintang": "1.82 LU",
     "bujur": "127.04 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.9",
     "kedalaman": "5 km",
     "dirasakan": "II-III Konawe Selatan"
-  },
-  {
-    "waktu": "01 Agu 2025 11:11:15 WIB",
-    "lintang": "2.03 LS",
-    "bujur": "120.67 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "5 km",
-    "dirasakan": "III Poso"
   }
 ]
