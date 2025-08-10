@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Agu 2025 07:39:05 WIB",
+    "lintang": "8.30 LS",
+    "bujur": "116.78 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 km",
+    "dirasakan": "II Sumbawa, II Sumbawa Barat"
+  },
+  {
     "waktu": "09 Agu 2025 07:21:24 WIB",
     "lintang": "8.30 LS",
     "bujur": "120.69 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.8",
     "kedalaman": "5 km",
     "dirasakan": "III Pamona"
-  },
-  {
-    "waktu": "01 Agu 2025 20:16:10 WIB",
-    "lintang": "4.38 LS",
-    "bujur": "122.73 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Konawe Selatan"
   }
 ]
