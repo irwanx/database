@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Agu 2025 10:27:07 WIB",
+    "lintang": "4.20 LS",
+    "bujur": "102.47 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "23 km",
+    "dirasakan": "II-III Seluma, II-III Bengkulu, II-III Kepahiang"
+  },
+  {
     "waktu": "10 Agu 2025 07:39:05 WIB",
     "lintang": "8.30 LS",
     "bujur": "116.78 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "34 km",
     "dirasakan": "II Kota Bengkulu, II Arga Makmur"
-  },
-  {
-    "waktu": "02 Agu 2025 11:20:23 WIB",
-    "lintang": "2.03 LS",
-    "bujur": "120.66 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "5 km",
-    "dirasakan": "III Pamona"
   }
 ]
