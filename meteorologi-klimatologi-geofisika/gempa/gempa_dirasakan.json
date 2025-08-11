@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Agu 2025 15:03:55 WIB",
+    "lintang": "1.85 LS",
+    "bujur": "135.17 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 km",
+    "dirasakan": "III Supiori"
+  },
+  {
     "waktu": "11 Agu 2025 11:00:51 WIB",
     "lintang": "7.72 LS",
     "bujur": "106.55 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "10 km",
     "dirasakan": "III Kotamobagu, II - III Manado, II Minahasa Utara, II Bolaang Mongondow"
-  },
-  {
-    "waktu": "04 Agu 2025 21:21:30 WIB",
-    "lintang": "4.27 LS",
-    "bujur": "122.53 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "4 km",
-    "dirasakan": "III Konawe Selatan"
   }
 ]
