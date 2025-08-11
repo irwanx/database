@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Agu 2025 09:11:42 WIB",
+    "lintang": "9.79 LS",
+    "bujur": "120.52 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "51 km",
+    "dirasakan": "III-IV Waingapu, III Ende"
+  },
+  {
     "waktu": "11 Agu 2025 03:30:46 WIB",
     "lintang": "2.04 LU",
     "bujur": "128.60 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "10 km",
     "dirasakan": "II - III Poso"
-  },
-  {
-    "waktu": "03 Agu 2025 23:32:49 WIB",
-    "lintang": "4.49 LS",
-    "bujur": "129.90 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "7 km",
-    "dirasakan": "II - III Banda"
   }
 ]
