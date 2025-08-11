@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "11 Agu 2025 11:00:51 WIB",
+    "lintang": "7.72 LS",
+    "bujur": "106.55 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "31 km",
+    "dirasakan": "II-III Ciracap"
+  },
+  {
+    "waktu": "11 Agu 2025 10:37:24 WIB",
+    "lintang": "4.82 LS",
+    "bujur": "122.82 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 km",
+    "dirasakan": "III Muna"
+  },
+  {
     "waktu": "11 Agu 2025 09:11:42 WIB",
     "lintang": "9.79 LS",
     "bujur": "120.52 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.9",
     "kedalaman": "4 km",
     "dirasakan": "III Konawe Selatan"
-  },
-  {
-    "waktu": "04 Agu 2025 02:29:03 WIB",
-    "lintang": "4.83 LU",
-    "bujur": "96.10 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "5 km",
-    "dirasakan": "II Pidie"
-  },
-  {
-    "waktu": "04 Agu 2025 00:51:26 WIB",
-    "lintang": "2.07 LS",
-    "bujur": "120.69 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 km",
-    "dirasakan": "II - III Poso"
   }
 ]
