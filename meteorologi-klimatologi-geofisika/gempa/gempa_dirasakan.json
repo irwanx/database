@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Agu 2025 06:24:32 WIB",
+    "lintang": "2.06 LS",
+    "bujur": "120.69 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "6 km",
+    "dirasakan": "II-III Pendolo"
+  },
+  {
     "waktu": "11 Agu 2025 15:03:55 WIB",
     "lintang": "1.85 LS",
     "bujur": "135.17 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.7",
     "kedalaman": "1 km",
     "dirasakan": "II Kota Tarakan"
-  },
-  {
-    "waktu": "04 Agu 2025 21:36:48 WIB",
-    "lintang": "1.32 LU",
-    "bujur": "124.20 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kotamobagu, II - III Manado, II Minahasa Utara, II Bolaang Mongondow"
   }
 ]
