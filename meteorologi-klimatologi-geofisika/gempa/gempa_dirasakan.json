@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Agu 2025 17:27:10 WIB",
+    "lintang": "4.25 LU",
+    "bujur": "97.92 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Aceh Tamiang"
+  },
+  {
     "waktu": "12 Agu 2025 16:43:27 WIB",
     "lintang": "1.92 LS",
     "bujur": "139.13 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "84 km",
     "dirasakan": "IV Sibolga, IV Sarudik, IV Pandan, IV Doloksanggul, II-III Sidikalang, II-III Gunung Sitoli, II-III Nias Selatan, II-III Nias Utara, II Humbang Hasundutan"
-  },
-  {
-    "waktu": "07 Agu 2025 19:00:47 WIB",
-    "lintang": "8.38 LS",
-    "bujur": "112.83 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "11 km",
-    "dirasakan": "III Malang"
   }
 ]
