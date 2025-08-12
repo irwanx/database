@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Agu 2025 09:14:12 WIB",
+    "lintang": "0.28 LU",
+    "bujur": "123.37 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "240 km",
+    "wilayah": "38 km Tenggara BONEBOLANGO-GORONTALO"
+  },
+  {
     "waktu": "08 Agu 2025 19:22:13 WIB",
     "lintang": "1.82 LU",
     "bujur": "127.04 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "184 km",
     "wilayah": "202 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "17 Jul 2025 16:04:27 WIB",
-    "lintang": "10.02 LS",
-    "bujur": "119.22 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "10 km",
-    "wilayah": "31 km BaratDaya WANOKAKA-NTT"
   }
 ]
