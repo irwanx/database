@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "12 Agu 2025 16:43:27 WIB",
+    "lintang": "1.92 LS",
+    "bujur": "139.13 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "19 km",
+    "dirasakan": "III Kabupaten Sarmi"
+  },
+  {
+    "waktu": "12 Agu 2025 15:24:24 WIB",
+    "lintang": "1.90 LS",
+    "bujur": "138.99 BT",
+    "magnitudo": "6.4",
+    "kedalaman": "13 km",
+    "dirasakan": "IV-V Sarmi, II-III Kota Jayapura, II-III Kab. Jayapura, II-III Wamena"
+  },
+  {
     "waktu": "12 Agu 2025 09:14:12 WIB",
     "lintang": "0.28 LU",
     "bujur": "123.37 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.1",
     "kedalaman": "11 km",
     "dirasakan": "III Malang"
-  },
-  {
-    "waktu": "07 Agu 2025 10:47:05 WIB",
-    "lintang": "4.18 LU",
-    "bujur": "126.78 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kab. Talaud"
-  },
-  {
-    "waktu": "07 Agu 2025 06:44:01 WIB",
-    "lintang": "2.01 LS",
-    "bujur": "120.65 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 km",
-    "dirasakan": "II - III Poso"
   }
 ]
