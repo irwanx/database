@@ -5,7 +5,15 @@
     "bujur": "107.15 BT",
     "magnitudo": "4.7",
     "kedalaman": "37 km",
-    "dirasakan": "III Tegalbuleud, II Pelabuhan Ratu"
+    "dirasakan": "III Tegalbuleud, II-III Pelabuhan Ratu, III Campaka, III Naringgul, III Pagelaran, II-III Pangalengan, III Garut, II-III Tasikmalaya, II-III Cianjur"
+  },
+  {
+    "waktu": "13 Agu 2025 08:26:53 WIB",
+    "lintang": "8.28 LS",
+    "bujur": "116.76 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "14 km",
+    "dirasakan": "II Lombok Timur"
   },
   {
     "waktu": "12 Agu 2025 17:27:10 WIB",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "10 km",
     "dirasakan": "II Sumbawa, II Sumbawa Barat"
-  },
-  {
-    "waktu": "09 Agu 2025 07:21:24 WIB",
-    "lintang": "8.30 LS",
-    "bujur": "120.69 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "29 km",
-    "dirasakan": "II-III Ruteng"
   }
 ]
