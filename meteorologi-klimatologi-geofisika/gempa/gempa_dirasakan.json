@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "14 Agu 2025 01:06:34 WIB",
+    "lintang": "2.06 LS",
+    "bujur": "120.66 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Pendolo"
+  },
+  {
+    "waktu": "13 Agu 2025 23:45:57 WIB",
+    "lintang": "1.03 LU",
+    "bujur": "125.54 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "46 km",
+    "dirasakan": "II - III Tomohon, III Manado, III Minahasa, III Bitung, III Bolaang Mongondow Timur, III Minahasa Tenggara, II - III Minahasa Selatan, II Bone Bolango"
+  },
+  {
     "waktu": "13 Agu 2025 08:32:27 WIB",
     "lintang": "7.66 LS",
     "bujur": "107.15 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Morotai, II-III Tobelo"
-  },
-  {
-    "waktu": "10 Agu 2025 10:27:07 WIB",
-    "lintang": "4.20 LS",
-    "bujur": "102.47 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "23 km",
-    "dirasakan": "II-III Seluma, II-III Bengkulu, II-III Kepahiang"
-  },
-  {
-    "waktu": "10 Agu 2025 07:39:05 WIB",
-    "lintang": "8.30 LS",
-    "bujur": "116.78 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 km",
-    "dirasakan": "II Sumbawa, II Sumbawa Barat"
   }
 ]
