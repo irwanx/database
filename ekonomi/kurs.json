@@ -1,5 +1,11 @@
 [
   {
+    "mata_uang": "AED",
+    "nilai": "UNITED ARAB EMIRATES DIRHAM",
+    "kurs_jual": "",
+    "kurs_beli": ""
+  },
+  {
     "mata_uang": "AUD",
     "nilai": "AUSTRALIAN DOLLAR",
     "kurs_jual": "",
@@ -109,7 +115,7 @@
   },
   {
     "mata_uang": "PHP",
-    "nilai": "PHILIPPINES PESO",
+    "nilai": "PHILLIPINE PESO",
     "kurs_jual": "",
     "kurs_beli": ""
   },
