@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13 Agu 2025 08:32:27 WIB",
+    "lintang": "7.66 LS",
+    "bujur": "107.15 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "37 km",
+    "dirasakan": "III Tegalbuleud, II Pelabuhan Ratu"
+  },
+  {
     "waktu": "12 Agu 2025 17:27:10 WIB",
     "lintang": "4.25 LU",
     "bujur": "97.92 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "29 km",
     "dirasakan": "II-III Ruteng"
-  },
-  {
-    "waktu": "08 Agu 2025 19:22:13 WIB",
-    "lintang": "1.82 LU",
-    "bujur": "127.04 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "84 km",
-    "dirasakan": "II-III Tagulandang, II-III Halmahera Barat , II Tondano"
   }
 ]
