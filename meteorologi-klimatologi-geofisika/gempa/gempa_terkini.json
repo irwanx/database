@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13 Agu 2025 15:07:14 WIB",
+    "lintang": "5.28 LS",
+    "bujur": "131.30 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "64 km",
+    "wilayah": "165 km BaratLaut MALUKUTENGGARA"
+  },
+  {
     "waktu": "12 Agu 2025 23:21:51 WIB",
     "lintang": "6.99 LS",
     "bujur": "125.40 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.3",
     "kedalaman": "132 km",
     "wilayah": "8 km Tenggara POHUWATO-GORONTALO"
-  },
-  {
-    "waktu": "23 Jul 2025 15:25:31 WIB",
-    "lintang": "2.92 LS",
-    "bujur": "130.31 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "wilayah": "28 km BaratLaut SERAMBAGIANTIMUR-MALUKU"
   }
 ]
