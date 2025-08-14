@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Agu 2025 21:13:20 WIB",
+    "lintang": "1.72 LS",
+    "bujur": "138.93 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "10 km",
+    "dirasakan": "II Sarmi"
+  },
+  {
     "waktu": "14 Agu 2025 16:13:34 WIB",
     "lintang": "6.81 LS",
     "bujur": "107.53 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "10 km",
     "dirasakan": "III Supiori"
-  },
-  {
-    "waktu": "11 Agu 2025 11:00:51 WIB",
-    "lintang": "7.72 LS",
-    "bujur": "106.55 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "31 km",
-    "dirasakan": "II-III Ciracap"
   }
 ]
