@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Agu 2025 00:35:12 WIB",
+    "lintang": "7.70 LS",
+    "bujur": "106.91 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "20 km",
+    "dirasakan": "III Tegalbuleud, II Pelabuhan Ratu, II Cianjur, III Cidolog, II-III Pabuaran, II - III Kadupandak, II - III Cisurupan, II Garut, II Cililin"
+  },
+  {
     "waktu": "14 Agu 2025 21:13:20 WIB",
     "lintang": "1.72 LS",
     "bujur": "138.93 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.0",
     "kedalaman": "6 km",
     "dirasakan": "II-III Pendolo"
-  },
-  {
-    "waktu": "11 Agu 2025 15:03:55 WIB",
-    "lintang": "1.85 LS",
-    "bujur": "135.17 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 km",
-    "dirasakan": "III Supiori"
   }
 ]
