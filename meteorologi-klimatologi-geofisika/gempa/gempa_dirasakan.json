@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Agu 2025 16:13:34 WIB",
+    "lintang": "6.81 LS",
+    "bujur": "107.53 BT",
+    "magnitudo": "1.8",
+    "kedalaman": "19 km",
+    "dirasakan": "II - III Pasir Langu"
+  },
+  {
     "waktu": "14 Agu 2025 13:48:12 WIB",
     "lintang": "1.96 LS",
     "bujur": "139.07 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "31 km",
     "dirasakan": "II-III Ciracap"
-  },
-  {
-    "waktu": "11 Agu 2025 10:37:24 WIB",
-    "lintang": "4.82 LS",
-    "bujur": "122.82 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 km",
-    "dirasakan": "III Muna"
   }
 ]
