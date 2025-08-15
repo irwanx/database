@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Agu 2025 10:32:00 WIB",
+    "lintang": "1.07 LU",
+    "bujur": "125.56 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "47 km",
+    "dirasakan": "III Manado, III Bitung"
+  },
+  {
     "waktu": "15 Agu 2025 09:39:22 WIB",
     "lintang": "1.08 LU",
     "bujur": "125.57 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "10 km",
     "dirasakan": "II-III Aceh Tamiang"
-  },
-  {
-    "waktu": "12 Agu 2025 16:43:27 WIB",
-    "lintang": "1.92 LS",
-    "bujur": "139.13 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "19 km",
-    "dirasakan": "III Kabupaten Sarmi"
   }
 ]
