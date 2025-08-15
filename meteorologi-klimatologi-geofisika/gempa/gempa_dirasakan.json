@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "15 Agu 2025 07:53:22 WIB",
+    "lintang": "3.24 LS",
+    "bujur": "128.64 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Amalatu"
+  },
+  {
+    "waktu": "15 Agu 2025 06:30:32 WIB",
+    "lintang": "2.04 LS",
+    "bujur": "120.65 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Pendolo"
+  },
+  {
     "waktu": "15 Agu 2025 00:35:12 WIB",
     "lintang": "7.70 LS",
     "bujur": "106.91 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "6.4",
     "kedalaman": "13 km",
     "dirasakan": "IV-V Sarmi, II-III Kota Jayapura, II-III Kab. Jayapura, II-III Wamena"
-  },
-  {
-    "waktu": "12 Agu 2025 09:14:12 WIB",
-    "lintang": "0.28 LU",
-    "bujur": "123.37 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "240 km",
-    "dirasakan": "III Luwuk"
-  },
-  {
-    "waktu": "12 Agu 2025 06:24:32 WIB",
-    "lintang": "2.06 LS",
-    "bujur": "120.69 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "6 km",
-    "dirasakan": "II-III Pendolo"
   }
 ]
