@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "15 Agu 2025 09:39:22 WIB",
+    "lintang": "1.08 LU",
+    "bujur": "125.57 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "46 km",
+    "dirasakan": "III Bitung"
+  },
+  {
+    "waktu": "15 Agu 2025 09:28:37 WIB",
+    "lintang": "2.05 LS",
+    "bujur": "120.67 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "5 km",
+    "dirasakan": "III-IV Pendolo, II-III Masamba, II-III Wotu, II-III Tomoni Timur"
+  },
+  {
     "waktu": "15 Agu 2025 07:53:22 WIB",
     "lintang": "3.24 LS",
     "bujur": "128.64 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "19 km",
     "dirasakan": "III Kabupaten Sarmi"
-  },
-  {
-    "waktu": "12 Agu 2025 16:26:52 WIB",
-    "lintang": "1.95 LS",
-    "bujur": "139.08 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "12 km",
-    "dirasakan": "II Sarmi"
-  },
-  {
-    "waktu": "12 Agu 2025 15:24:24 WIB",
-    "lintang": "1.90 LS",
-    "bujur": "138.99 BT",
-    "magnitudo": "6.4",
-    "kedalaman": "13 km",
-    "dirasakan": "IV-V Sarmi, II-III Kota Jayapura, II-III Kab. Jayapura, II-III Wamena"
   }
 ]
