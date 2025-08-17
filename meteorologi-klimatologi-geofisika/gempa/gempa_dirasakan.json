@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "18 Agu 2025 00:10:18 WIB",
+    "lintang": "1.06 LS",
+    "bujur": "99.70 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "56 km",
+    "dirasakan": "III - IV Padang, III Pariaman, II Padang Panjang"
+  },
+  {
+    "waktu": "17 Agu 2025 23:35:45 WIB",
+    "lintang": "1.29 LS",
+    "bujur": "120.60 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "5 km",
+    "dirasakan": "III Poso"
+  },
+  {
     "waktu": "17 Agu 2025 21:27:41 WIB",
     "lintang": "1.29 LS",
     "bujur": "120.62 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "5 km",
     "dirasakan": "II-III Pendolo"
-  },
-  {
-    "waktu": "13 Agu 2025 23:45:57 WIB",
-    "lintang": "1.03 LU",
-    "bujur": "125.54 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "46 km",
-    "dirasakan": "II - III Tomohon, III Manado, III Minahasa, III Bitung, III Bolaang Mongondow Timur, III Minahasa Tenggara, II - III Minahasa Selatan, II Bone Bolango"
-  },
-  {
-    "waktu": "13 Agu 2025 08:32:27 WIB",
-    "lintang": "7.66 LS",
-    "bujur": "107.15 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "37 km",
-    "dirasakan": "III Tegalbuleud, II-III Pelabuhan Ratu, III Campaka, III Naringgul, III Pagelaran, II-III Pangalengan, III Garut, II-III Tasikmalaya, II-III Cianjur"
   }
 ]
