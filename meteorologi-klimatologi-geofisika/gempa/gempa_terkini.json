@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Agu 2025 22:03:13 WIB",
+    "lintang": "2.12 LU",
+    "bujur": "127.07 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "wilayah": "81 km BaratDaya PULAUDOI-MALUT"
+  },
+  {
     "waktu": "17 Agu 2025 05:38:52 WIB",
     "lintang": "1.30 LS",
     "bujur": "120.62 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.0",
     "kedalaman": "10 km",
     "wilayah": "64 km TimurLaut KOTA-SORONG-PAPUABRT"
-  },
-  {
-    "waktu": "26 Jul 2025 04:30:00 WIB",
-    "lintang": "2.04 LU",
-    "bujur": "126.87 BT",
-    "magnitudo": "6.0",
-    "kedalaman": "58 km",
-    "wilayah": "104 km BaratDaya PULAUDOI-MALUT"
   }
 ]

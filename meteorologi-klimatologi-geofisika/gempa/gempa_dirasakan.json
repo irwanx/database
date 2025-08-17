@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Agu 2025 21:27:41 WIB",
+    "lintang": "1.29 LS",
+    "bujur": "120.62 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Poso"
+  },
+  {
     "waktu": "17 Agu 2025 05:38:52 WIB",
     "lintang": "1.30 LS",
     "bujur": "120.62 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "37 km",
     "dirasakan": "III Tegalbuleud, II-III Pelabuhan Ratu, III Campaka, III Naringgul, III Pagelaran, II-III Pangalengan, III Garut, II-III Tasikmalaya, II-III Cianjur"
-  },
-  {
-    "waktu": "13 Agu 2025 08:26:53 WIB",
-    "lintang": "8.28 LS",
-    "bujur": "116.76 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "14 km",
-    "dirasakan": "II Lombok Timur"
   }
 ]
