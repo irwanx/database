@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Agu 2025 07:33:13 WIB",
+    "lintang": "4.15 LS",
+    "bujur": "121.90 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "5 km",
+    "dirasakan": "II - III Kolaka Timur"
+  },
+  {
     "waktu": "18 Agu 2025 00:10:18 WIB",
     "lintang": "1.06 LS",
     "bujur": "99.70 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.0",
     "kedalaman": "4 km",
     "dirasakan": "III Konawe Selatan"
-  },
-  {
-    "waktu": "14 Agu 2025 01:06:34 WIB",
-    "lintang": "2.06 LS",
-    "bujur": "120.66 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Pendolo"
   }
 ]
