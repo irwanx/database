@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Agu 2025 17:05:20 WIB",
+    "lintang": "1.06 LU",
+    "bujur": "125.56 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "44 km",
+    "dirasakan": "III Manado, III Bitung"
+  },
+  {
     "waktu": "18 Agu 2025 13:28:00 WIB",
     "lintang": "4.15 LS",
     "bujur": "122.41 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "1.8",
     "kedalaman": "19 km",
     "dirasakan": "II - III Pasir Langu"
-  },
-  {
-    "waktu": "14 Agu 2025 13:48:12 WIB",
-    "lintang": "1.96 LS",
-    "bujur": "139.07 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "dirasakan": "II - III Sarmi"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Agu 2025 17:05:20 WIB",
+    "lintang": "1.06 LU",
+    "bujur": "125.56 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "44 km",
+    "wilayah": "64 km Tenggara BITUNG-SULUT"
+  },
+  {
     "waktu": "17 Agu 2025 22:03:13 WIB",
     "lintang": "2.12 LU",
     "bujur": "127.07 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "639 km",
     "wilayah": "105 km Tenggara WAKATOBI-SULTRA"
-  },
-  {
-    "waktu": "26 Jul 2025 12:31:47 WIB",
-    "lintang": "0.39 LS",
-    "bujur": "131.60 BT",
-    "magnitudo": "6.0",
-    "kedalaman": "10 km",
-    "wilayah": "64 km TimurLaut KOTA-SORONG-PAPUABRT"
   }
 ]
