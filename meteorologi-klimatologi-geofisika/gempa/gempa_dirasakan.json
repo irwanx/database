@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "18 Agu 2025 21:35:38 WIB",
+    "lintang": "1.34 LS",
+    "bujur": "120.60 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Poso"
+  },
+  {
+    "waktu": "18 Agu 2025 21:34:23 WIB",
+    "lintang": "1.37 LS",
+    "bujur": "120.62 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Poso"
+  },
+  {
     "waktu": "18 Agu 2025 17:05:20 WIB",
     "lintang": "1.06 LU",
     "bujur": "125.56 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "20 km",
     "dirasakan": "III Tegalbuleud, II Pelabuhan Ratu, II Cianjur, III Cidolog, II-III Pabuaran, II - III Kadupandak, II - III Cisurupan, II Garut, II Cililin"
-  },
-  {
-    "waktu": "14 Agu 2025 21:13:20 WIB",
-    "lintang": "1.72 LS",
-    "bujur": "138.93 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "10 km",
-    "dirasakan": "II Sarmi"
-  },
-  {
-    "waktu": "14 Agu 2025 16:13:34 WIB",
-    "lintang": "6.81 LS",
-    "bujur": "107.53 BT",
-    "magnitudo": "1.8",
-    "kedalaman": "19 km",
-    "dirasakan": "II - III Pasir Langu"
   }
 ]
