@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Agu 2025 13:28:00 WIB",
+    "lintang": "4.15 LS",
+    "bujur": "122.41 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "8 km",
+    "dirasakan": "II-III Konawe Selatan"
+  },
+  {
     "waktu": "18 Agu 2025 07:33:13 WIB",
     "lintang": "4.15 LS",
     "bujur": "121.90 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "dirasakan": "II - III Sarmi"
-  },
-  {
-    "waktu": "14 Agu 2025 01:44:28 WIB",
-    "lintang": "4.28 LS",
-    "bujur": "122.50 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "4 km",
-    "dirasakan": "III Konawe Selatan"
   }
 ]
