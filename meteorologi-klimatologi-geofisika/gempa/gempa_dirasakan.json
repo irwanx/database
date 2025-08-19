@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Agu 2025 14:03:09 WIB",
+    "lintang": "8.78 LS",
+    "bujur": "120.62 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Borong"
+  },
+  {
     "waktu": "19 Agu 2025 11:41:57 WIB",
     "lintang": "6.82 LS",
     "bujur": "107.49 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "5 km",
     "dirasakan": "III-IV Pendolo, II-III Masamba, II-III Wotu, II-III Tomoni Timur"
-  },
-  {
-    "waktu": "15 Agu 2025 07:53:22 WIB",
-    "lintang": "3.24 LS",
-    "bujur": "128.64 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Amalatu"
   }
 ]
