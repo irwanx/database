@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Agu 2025 22:10:46 WIB",
+    "lintang": "0.82 LS",
+    "bujur": "134.11 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Manokwari"
+  },
+  {
     "waktu": "19 Agu 2025 14:03:09 WIB",
     "lintang": "8.78 LS",
     "bujur": "120.62 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "46 km",
     "dirasakan": "III Bitung"
-  },
-  {
-    "waktu": "15 Agu 2025 09:28:37 WIB",
-    "lintang": "2.05 LS",
-    "bujur": "120.67 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "5 km",
-    "dirasakan": "III-IV Pendolo, II-III Masamba, II-III Wotu, II-III Tomoni Timur"
   }
 ]
