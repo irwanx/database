@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Agu 2025 11:41:57 WIB",
+    "lintang": "6.82 LS",
+    "bujur": "107.49 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Bandung Barat"
+  },
+  {
     "waktu": "19 Agu 2025 07:17:06 WIB",
     "lintang": "3.41 LS",
     "bujur": "128.64 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "10 km",
     "dirasakan": "II-III Amalatu"
-  },
-  {
-    "waktu": "15 Agu 2025 06:30:32 WIB",
-    "lintang": "2.04 LS",
-    "bujur": "120.65 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Pendolo"
   }
 ]
