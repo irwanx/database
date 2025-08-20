@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Agu 2025 22:39:57 WIB",
+    "lintang": "6.49 LS",
+    "bujur": "107.24 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "3 km",
+    "dirasakan": "III Karawang, III Purwakarta, II-III Bekasi"
+  },
+  {
     "waktu": "20 Agu 2025 19:54:55 WIB",
     "lintang": "6.48 LS",
     "bujur": "107.24 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "56 km",
     "dirasakan": "III - IV Padang, III Pariaman, II Padang Panjang"
-  },
-  {
-    "waktu": "17 Agu 2025 23:35:45 WIB",
-    "lintang": "1.29 LS",
-    "bujur": "120.60 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "5 km",
-    "dirasakan": "III Poso"
   }
 ]
