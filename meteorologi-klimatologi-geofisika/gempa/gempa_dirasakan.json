@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Agu 2025 12:28:42 WIB",
+    "lintang": "6.81 LS",
+    "bujur": "107.51 BT",
+    "magnitudo": "1.7",
+    "kedalaman": "10 km",
+    "dirasakan": "II Kab. Bandung Barat"
+  },
+  {
     "waktu": "20 Agu 2025 08:53:59 WIB",
     "lintang": "2.05 LS",
     "bujur": "120.66 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.0",
     "kedalaman": "10 km",
     "dirasakan": "III - IV Luwu Timur , III - IV Mamuju, III - IV Masamba, III Tana Toraja"
-  },
-  {
-    "waktu": "15 Agu 2025 10:32:00 WIB",
-    "lintang": "1.07 LU",
-    "bujur": "125.56 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "47 km",
-    "dirasakan": "III Manado, III Bitung"
   }
 ]
