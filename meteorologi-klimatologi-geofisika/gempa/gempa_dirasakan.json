@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Agu 2025 14:42:05 WIB",
+    "lintang": "1.30 LS",
+    "bujur": "120.63 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "5 km",
+    "dirasakan": "III Poso"
+  },
+  {
     "waktu": "20 Agu 2025 12:28:42 WIB",
     "lintang": "6.81 LS",
     "bujur": "107.51 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "5 km",
     "dirasakan": "II-III Poso"
-  },
-  {
-    "waktu": "17 Agu 2025 05:38:52 WIB",
-    "lintang": "1.30 LS",
-    "bujur": "120.62 BT",
-    "magnitudo": "6.0",
-    "kedalaman": "10 km",
-    "dirasakan": "III - IV Luwu Timur , III - IV Mamuju, III - IV Masamba, III Tana Toraja"
   }
 ]
