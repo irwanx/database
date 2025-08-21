@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21 Agu 2025 09:01:12 WIB",
+    "lintang": "2.02 LS",
+    "bujur": "120.66 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Pendolo"
+  },
+  {
     "waktu": "20 Agu 2025 22:39:57 WIB",
     "lintang": "6.49 LS",
     "bujur": "107.24 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.9",
     "kedalaman": "5 km",
     "dirasakan": "II - III Kolaka Timur"
-  },
-  {
-    "waktu": "18 Agu 2025 00:10:18 WIB",
-    "lintang": "1.06 LS",
-    "bujur": "99.70 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "56 km",
-    "dirasakan": "III - IV Padang, III Pariaman, II Padang Panjang"
   }
 ]
