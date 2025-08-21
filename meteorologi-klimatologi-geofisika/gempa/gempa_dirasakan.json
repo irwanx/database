@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21 Agu 2025 18:27:05 WIB",
+    "lintang": "6.49 LS",
+    "bujur": "107.26 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "9 km",
+    "dirasakan": "II-III Karawang"
+  },
+  {
     "waktu": "21 Agu 2025 09:01:12 WIB",
     "lintang": "2.02 LS",
     "bujur": "120.66 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.4",
     "kedalaman": "8 km",
     "dirasakan": "II-III Konawe Selatan"
-  },
-  {
-    "waktu": "18 Agu 2025 07:33:13 WIB",
-    "lintang": "4.15 LS",
-    "bujur": "121.90 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "5 km",
-    "dirasakan": "II - III Kolaka Timur"
   }
 ]
