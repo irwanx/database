@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Agu 2025 19:29:09 WIB",
+    "lintang": "2.97 LS",
+    "bujur": "122.00 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Morowali"
+  },
+  {
     "waktu": "21 Agu 2025 20:52:46 WIB",
     "lintang": "7.03 LS",
     "bujur": "106.66 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.4",
     "kedalaman": "5 km",
     "dirasakan": "II-III Poso"
-  },
-  {
-    "waktu": "18 Agu 2025 17:05:20 WIB",
-    "lintang": "1.06 LU",
-    "bujur": "125.56 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "44 km",
-    "dirasakan": "III Manado, III Bitung"
   }
 ]
