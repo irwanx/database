@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Agu 2025 19:24:53 WIB",
+    "lintang": "2.03 LU",
+    "bujur": "96.52 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "12 km",
+    "wilayah": "51 km Tenggara SINABANG-ACEH"
+  },
+  {
     "waktu": "19 Agu 2025 03:38:13 WIB",
     "lintang": "7.37 LS",
     "bujur": "126.76 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "60 km",
     "wilayah": "45 km BaratDaya TAPANULITENGAH-SUMUT"
-  },
-  {
-    "waktu": "01 Agu 2025 05:13:25 WIB",
-    "lintang": "0.17 LS",
-    "bujur": "123.14 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "114 km",
-    "wilayah": "72 km TimurLaut PULAUPUAH-SULTENG"
   }
 ]
