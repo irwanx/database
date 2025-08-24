@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Agu 2025 00:22:41 WIB",
+    "lintang": "1.86 LS",
+    "bujur": "139.00 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "15 km",
+    "dirasakan": "III-IV Sarmi"
+  },
+  {
     "waktu": "24 Agu 2025 22:26:58 WIB",
     "lintang": "1.07 LU",
     "bujur": "125.59 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Manokwari"
-  },
-  {
-    "waktu": "19 Agu 2025 14:03:09 WIB",
-    "lintang": "8.78 LS",
-    "bujur": "120.62 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Borong"
   }
 ]

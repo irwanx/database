@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Agu 2025 00:22:41 WIB",
+    "lintang": "1.86 LS",
+    "bujur": "139.00 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "15 km",
+    "wilayah": "27 km Tenggara SARMI-PAPUA"
+  },
+  {
     "waktu": "23 Agu 2025 19:24:53 WIB",
     "lintang": "2.03 LU",
     "bujur": "96.52 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "84 km",
     "wilayah": "80 km BaratLaut HALMAHERABARAT-MALUT"
-  },
-  {
-    "waktu": "07 Agu 2025 22:29:01 WIB",
-    "lintang": "1.29 LU",
-    "bujur": "98.80 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "60 km",
-    "wilayah": "45 km BaratDaya TAPANULITENGAH-SUMUT"
   }
 ]
