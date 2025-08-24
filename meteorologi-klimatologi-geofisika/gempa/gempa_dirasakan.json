@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Agu 2025 03:27:52 WIB",
+    "lintang": "6.48 LS",
+    "bujur": "107.25 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "4 km",
+    "dirasakan": "II-III Karawang, II Cikarang"
+  },
+  {
     "waktu": "25 Agu 2025 00:22:41 WIB",
     "lintang": "1.86 LS",
     "bujur": "139.00 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "5 km",
     "dirasakan": "II Pendolo"
-  },
-  {
-    "waktu": "19 Agu 2025 22:10:46 WIB",
-    "lintang": "0.82 LS",
-    "bujur": "134.11 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Manokwari"
   }
 ]
