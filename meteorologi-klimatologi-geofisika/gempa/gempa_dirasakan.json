@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24 Agu 2025 22:26:58 WIB",
+    "lintang": "1.07 LU",
+    "bujur": "125.59 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "33 km",
+    "dirasakan": "II Minahasa Utara"
+  },
+  {
     "waktu": "24 Agu 2025 14:31:14 WIB",
     "lintang": "9.46 LS",
     "bujur": "115.16 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.3",
     "kedalaman": "5 km",
     "dirasakan": "II-III Borong"
-  },
-  {
-    "waktu": "19 Agu 2025 11:41:57 WIB",
-    "lintang": "6.82 LS",
-    "bujur": "107.49 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Bandung Barat"
   }
 ]
