@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "25 Agu 2025 07:53:55 WIB",
+    "lintang": "3.31 LS",
+    "bujur": "135.59 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "19 km",
+    "dirasakan": "II-III Nabire"
+  },
+  {
+    "waktu": "25 Agu 2025 07:09:35 WIB",
+    "lintang": "3.59 LS",
+    "bujur": "135.62 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "25 km",
+    "dirasakan": "II-III Nabire"
+  },
+  {
     "waktu": "25 Agu 2025 03:27:52 WIB",
     "lintang": "6.48 LS",
     "bujur": "107.25 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.4",
     "kedalaman": "5 km",
     "dirasakan": "III Poso"
-  },
-  {
-    "waktu": "20 Agu 2025 12:28:42 WIB",
-    "lintang": "6.81 LS",
-    "bujur": "107.51 BT",
-    "magnitudo": "1.7",
-    "kedalaman": "10 km",
-    "dirasakan": "II Kab. Bandung Barat"
-  },
-  {
-    "waktu": "20 Agu 2025 08:53:59 WIB",
-    "lintang": "2.05 LS",
-    "bujur": "120.66 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "5 km",
-    "dirasakan": "II Pendolo"
   }
 ]
