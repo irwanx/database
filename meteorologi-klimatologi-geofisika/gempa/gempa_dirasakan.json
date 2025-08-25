@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Agu 2025 16:48:45 WIB",
+    "lintang": "2.92 LS",
+    "bujur": "119.41 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "7 km",
+    "dirasakan": "III Mamasa"
+  },
+  {
     "waktu": "25 Agu 2025 07:53:55 WIB",
     "lintang": "3.31 LS",
     "bujur": "135.59 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "10 km",
     "dirasakan": "III Purwakarta, III-IV Bekasi, II-III Jakarta, III Depok, II Tangerang, II-III Tangerang Selatan, II Pelabuhan Ratu, III Cikarang, II-III Bekasi Timur, II Cianjur, II-III Bandung, II Pandeglang, II Lebak"
-  },
-  {
-    "waktu": "20 Agu 2025 14:42:05 WIB",
-    "lintang": "1.30 LS",
-    "bujur": "120.63 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "5 km",
-    "dirasakan": "III Poso"
   }
 ]
