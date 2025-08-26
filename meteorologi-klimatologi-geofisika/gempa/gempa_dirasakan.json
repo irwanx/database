@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26 Agu 2025 10:51:17 WIB",
+    "lintang": "4.81 LS",
+    "bujur": "123.13 BT",
+    "magnitudo": "2.0",
+    "kedalaman": "4 km",
+    "dirasakan": "II Kulisusu"
+  },
+  {
     "waktu": "25 Agu 2025 17:19:15 WIB",
     "lintang": "3.25 LS",
     "bujur": "135.64 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "5 km",
     "dirasakan": "II-III Pendolo"
-  },
-  {
-    "waktu": "20 Agu 2025 22:39:57 WIB",
-    "lintang": "6.49 LS",
-    "bujur": "107.24 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "3 km",
-    "dirasakan": "III Karawang, III Purwakarta, II-III Bekasi"
   }
 ]
