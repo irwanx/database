@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Agu 2025 05:26:54 WIB",
+    "lintang": "1.14 LS",
+    "bujur": "136.35 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "14 km",
+    "dirasakan": "III-IV Biak"
+  },
+  {
     "waktu": "26 Agu 2025 10:51:17 WIB",
     "lintang": "4.81 LS",
     "bujur": "123.13 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.1",
     "kedalaman": "9 km",
     "dirasakan": "II-III Karawang"
-  },
-  {
-    "waktu": "21 Agu 2025 09:01:12 WIB",
-    "lintang": "2.02 LS",
-    "bujur": "120.66 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Pendolo"
   }
 ]
