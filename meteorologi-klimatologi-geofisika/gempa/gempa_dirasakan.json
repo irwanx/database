@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Agu 2025 03:34:20 WIB",
+    "lintang": "4.48 LU",
+    "bujur": "96.62 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "2 km",
+    "dirasakan": "II-III Takengon"
+  },
+  {
     "waktu": "29 Agu 2025 02:36:49 WIB",
     "lintang": "9.51 LS",
     "bujur": "116.32 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.8",
     "kedalaman": "12 km",
     "dirasakan": "IV Simeulue, III Gunung Sitoli, III Aceh Selatan, III Nias Utara, III Subulussalam"
-  },
-  {
-    "waktu": "22 Agu 2025 19:29:09 WIB",
-    "lintang": "2.97 LS",
-    "bujur": "122.00 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Morowali"
   }
 ]
