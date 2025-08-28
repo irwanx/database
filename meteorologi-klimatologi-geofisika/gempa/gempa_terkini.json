@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Agu 2025 09:15:43 WIB",
+    "lintang": "4.76 LS",
+    "bujur": "104.68 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "184 km",
+    "wilayah": "22 km BaratLaut LAMPUNGUTARA"
+  },
+  {
     "waktu": "25 Agu 2025 00:22:41 WIB",
     "lintang": "1.86 LS",
     "bujur": "139.00 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "240 km",
     "wilayah": "38 km Tenggara BONEBOLANGO-GORONTALO"
-  },
-  {
-    "waktu": "08 Agu 2025 19:22:13 WIB",
-    "lintang": "1.82 LU",
-    "bujur": "127.04 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "84 km",
-    "wilayah": "80 km BaratLaut HALMAHERABARAT-MALUT"
   }
 ]
