@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Agu 2025 11:45:09 WIB",
+    "lintang": "7.19 LS",
+    "bujur": "107.44 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "4 km",
+    "dirasakan": "II Ciwidey"
+  },
+  {
     "waktu": "29 Agu 2025 03:34:20 WIB",
     "lintang": "4.48 LU",
     "bujur": "96.62 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.4",
     "kedalaman": "5 km",
     "dirasakan": "II Leles, II Kadungora"
-  },
-  {
-    "waktu": "23 Agu 2025 19:24:53 WIB",
-    "lintang": "2.03 LU",
-    "bujur": "96.52 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "12 km",
-    "dirasakan": "IV Simeulue, III Gunung Sitoli, III Aceh Selatan, III Nias Utara, III Subulussalam"
   }
 ]
