@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Agu 2025 17:16:10 WIB",
+    "lintang": "2.24 LS",
+    "bujur": "140.51 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Kota Jayapura"
+  },
+  {
     "waktu": "29 Agu 2025 11:45:09 WIB",
     "lintang": "7.19 LS",
     "bujur": "107.44 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "20 km",
     "dirasakan": "II-III Kuta Selatan, II-III Kuta, II-III Kuta Utara"
-  },
-  {
-    "waktu": "24 Agu 2025 14:13:48 WIB",
-    "lintang": "7.13 LS",
-    "bujur": "107.81 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "5 km",
-    "dirasakan": "II Leles, II Kadungora"
   }
 ]
