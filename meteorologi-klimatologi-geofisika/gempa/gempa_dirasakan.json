@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Agu 2025 21:02:14 WIB",
+    "lintang": "8.65 LS",
+    "bujur": "108.79 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Pangandaran"
+  },
+  {
     "waktu": "29 Agu 2025 17:16:10 WIB",
     "lintang": "2.24 LS",
     "bujur": "140.51 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "33 km",
     "dirasakan": "II Minahasa Utara"
-  },
-  {
-    "waktu": "24 Agu 2025 14:31:14 WIB",
-    "lintang": "9.46 LS",
-    "bujur": "115.16 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "20 km",
-    "dirasakan": "II-III Kuta Selatan, II-III Kuta, II-III Kuta Utara"
   }
 ]
