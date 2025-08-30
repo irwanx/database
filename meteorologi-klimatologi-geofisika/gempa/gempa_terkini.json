@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30 Agu 2025 20:35:34 WIB",
+    "lintang": "4.92 LS",
+    "bujur": "102.99 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "21 km",
+    "wilayah": "42 km BaratDaya KAUR-BENGKULU"
+  },
+  {
     "waktu": "28 Agu 2025 09:15:43 WIB",
     "lintang": "4.76 LS",
     "bujur": "104.68 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "129 km",
     "wilayah": "124 km BaratLaut PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "12 Agu 2025 09:14:12 WIB",
-    "lintang": "0.28 LU",
-    "bujur": "123.37 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "240 km",
-    "wilayah": "38 km Tenggara BONEBOLANGO-GORONTALO"
   }
 ]
