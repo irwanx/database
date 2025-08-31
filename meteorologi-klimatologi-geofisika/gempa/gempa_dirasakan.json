@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "31 Agu 2025 17:23:20 WIB",
+    "lintang": "3.20 LS",
+    "bujur": "135.41 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "29 km",
+    "dirasakan": "II Nabire"
+  },
+  {
     "waktu": "31 Agu 2025 11:18:45 WIB",
     "lintang": "6.50 LS",
     "bujur": "107.25 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.7",
     "kedalaman": "7 km",
     "dirasakan": "III Mamasa"
-  },
-  {
-    "waktu": "25 Agu 2025 07:53:55 WIB",
-    "lintang": "3.31 LS",
-    "bujur": "135.59 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "19 km",
-    "dirasakan": "II-III Nabire"
   }
 ]
