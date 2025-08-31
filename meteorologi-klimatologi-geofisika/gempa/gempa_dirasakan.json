@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "31 Agu 2025 08:14:43 WIB",
+    "lintang": "0.67 LU",
+    "bujur": "98.53 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "18 km",
+    "dirasakan": "III Kab. Mandailing Natal"
+  },
+  {
     "waktu": "30 Agu 2025 21:49:42 WIB",
     "lintang": "1.34 LS",
     "bujur": "120.66 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "25 km",
     "dirasakan": "II-III Nabire"
-  },
-  {
-    "waktu": "25 Agu 2025 03:27:52 WIB",
-    "lintang": "6.48 LS",
-    "bujur": "107.25 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "4 km",
-    "dirasakan": "II-III Karawang, II Cikarang"
   }
 ]
