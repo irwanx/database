@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Sep 2025 06:04:33 WIB",
+    "lintang": "8.15 LS",
+    "bujur": "107.62 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "28 km",
+    "dirasakan": "II Tasikmalaya, II Pamengpeuk"
+  },
+  {
     "waktu": "31 Agu 2025 17:23:20 WIB",
     "lintang": "3.20 LS",
     "bujur": "135.41 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "6 km",
     "dirasakan": "II-III Nabire"
-  },
-  {
-    "waktu": "25 Agu 2025 16:48:45 WIB",
-    "lintang": "2.92 LS",
-    "bujur": "119.41 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "7 km",
-    "dirasakan": "III Mamasa"
   }
 ]
