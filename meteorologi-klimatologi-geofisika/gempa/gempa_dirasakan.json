@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Sep 2025 20:06:41 WIB",
+    "lintang": "3.33 LS",
+    "bujur": "129.16 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 km",
+    "dirasakan": "III Masohi"
+  },
+  {
     "waktu": "02 Sep 2025 19:05:28 WIB",
     "lintang": "3.32 LS",
     "bujur": "129.12 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "2 km",
     "dirasakan": "II-III Takengon"
-  },
-  {
-    "waktu": "29 Agu 2025 02:36:49 WIB",
-    "lintang": "9.51 LS",
-    "bujur": "116.32 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "23 km",
-    "dirasakan": "III Lombok Tengah , III Lombok Barat, III Lombok Timur , III Kota Mataram"
   }
 ]
