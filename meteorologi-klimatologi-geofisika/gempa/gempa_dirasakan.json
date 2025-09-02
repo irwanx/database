@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Sep 2025 06:31:39 WIB",
+    "lintang": "6.73 LS",
+    "bujur": "107.63 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "4 km",
+    "dirasakan": ""
+  },
+  {
     "waktu": "01 Sep 2025 14:42:58 WIB",
     "lintang": "4.13 LS",
     "bujur": "121.94 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "14 km",
     "dirasakan": "III-IV Biak"
-  },
-  {
-    "waktu": "26 Agu 2025 10:51:17 WIB",
-    "lintang": "4.81 LS",
-    "bujur": "123.13 BT",
-    "magnitudo": "2.0",
-    "kedalaman": "4 km",
-    "dirasakan": "II Kulisusu"
   }
 ]
