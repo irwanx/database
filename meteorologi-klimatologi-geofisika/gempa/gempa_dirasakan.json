@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Sep 2025 17:18:42 WIB",
+    "lintang": "1.79 LS",
+    "bujur": "139.12 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 km",
+    "dirasakan": "III Sarmi"
+  },
+  {
     "waktu": "03 Sep 2025 06:53:12 WIB",
     "lintang": "0.88 LS",
     "bujur": "120.28 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.9",
     "kedalaman": "29 km",
     "dirasakan": "II Nabire"
-  },
-  {
-    "waktu": "31 Agu 2025 11:18:45 WIB",
-    "lintang": "6.50 LS",
-    "bujur": "107.25 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "9 km",
-    "dirasakan": "III Tegalwaru"
   }
 ]
