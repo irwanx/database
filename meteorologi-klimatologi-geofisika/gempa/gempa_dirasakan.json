@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "03 Sep 2025 06:53:12 WIB",
+    "lintang": "0.88 LS",
+    "bujur": "120.28 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "dirasakan": "IV Parigi, III-IV Palu, III Poso"
+  },
+  {
+    "waktu": "03 Sep 2025 05:22:42 WIB",
+    "lintang": "4.00 LS",
+    "bujur": "121.63 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "2 km",
+    "dirasakan": "III Kolaka, II Kolaka Timur"
+  },
+  {
     "waktu": "02 Sep 2025 21:43:17 WIB",
     "lintang": "1.64 LS",
     "bujur": "139.10 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.9",
     "kedalaman": "9 km",
     "dirasakan": "III Tegalwaru"
-  },
-  {
-    "waktu": "31 Agu 2025 08:14:43 WIB",
-    "lintang": "0.67 LU",
-    "bujur": "98.53 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "18 km",
-    "dirasakan": "III Kab. Mandailing Natal"
-  },
-  {
-    "waktu": "30 Agu 2025 21:49:42 WIB",
-    "lintang": "1.34 LS",
-    "bujur": "120.66 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "5 km",
-    "dirasakan": "III Poso"
   }
 ]

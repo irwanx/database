@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Sep 2025 06:53:12 WIB",
+    "lintang": "0.88 LS",
+    "bujur": "120.28 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "wilayah": "44 km TimurLaut PALU-SULTENG"
+  },
+  {
     "waktu": "31 Agu 2025 06:03:55 WIB",
     "lintang": "6.13 LS",
     "bujur": "131.29 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "19 km",
     "wilayah": "42 km Tenggara SARMI-PAPUA"
-  },
-  {
-    "waktu": "12 Agu 2025 15:24:24 WIB",
-    "lintang": "1.90 LS",
-    "bujur": "138.99 BT",
-    "magnitudo": "6.4",
-    "kedalaman": "13 km",
-    "wilayah": "27 km Tenggara SARMI-PAPUA"
   }
 ]
