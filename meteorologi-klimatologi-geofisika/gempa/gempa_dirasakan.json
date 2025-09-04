@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "04 Sep 2025 07:23:15 WIB",
+    "lintang": "2.79 LS",
+    "bujur": "130.17 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "9 km",
+    "dirasakan": "II-III Kobisonta"
+  },
+  {
+    "waktu": "04 Sep 2025 07:14:28 WIB",
+    "lintang": "2.77 LS",
+    "bujur": "130.12 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "8 km",
+    "dirasakan": "II-III Kobisonta"
+  },
+  {
+    "waktu": "04 Sep 2025 04:55:06 WIB",
+    "lintang": "1.75 LS",
+    "bujur": "139.13 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 km",
+    "dirasakan": "II Sarmi"
+  },
+  {
     "waktu": "03 Sep 2025 17:18:42 WIB",
     "lintang": "1.79 LS",
     "bujur": "139.12 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "2.1",
     "kedalaman": "4 km",
     "dirasakan": "II Ciater"
-  },
-  {
-    "waktu": "01 Sep 2025 14:42:58 WIB",
-    "lintang": "4.13 LS",
-    "bujur": "121.94 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "5 km",
-    "dirasakan": "III Kolaka Timur"
-  },
-  {
-    "waktu": "01 Sep 2025 06:04:33 WIB",
-    "lintang": "8.15 LS",
-    "bujur": "107.62 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "28 km",
-    "dirasakan": "II Tasikmalaya, II Pamengpeuk"
-  },
-  {
-    "waktu": "31 Agu 2025 17:23:20 WIB",
-    "lintang": "3.20 LS",
-    "bujur": "135.41 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "29 km",
-    "dirasakan": "II Nabire"
   }
 ]
