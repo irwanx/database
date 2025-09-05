@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Sep 2025 23:29:07 WIB",
+    "lintang": "9.69 LS",
+    "bujur": "113.73 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 km",
+    "dirasakan": "III Kuta Selatan, III Kuta"
+  },
+  {
     "waktu": "05 Sep 2025 05:10:30 WIB",
     "lintang": "4.30 LS",
     "bujur": "122.49 BT",
@@ -108,14 +116,6 @@
     "lintang": "3.33 LS",
     "bujur": "129.16 BT",
     "magnitudo": "3.1",
-    "kedalaman": "10 km",
-    "dirasakan": "III Masohi"
-  },
-  {
-    "waktu": "02 Sep 2025 20:01:06 WIB",
-    "lintang": "3.14 LS",
-    "bujur": "128.81 BT",
-    "magnitudo": "3.2",
     "kedalaman": "10 km",
     "dirasakan": "III Masohi"
   }
