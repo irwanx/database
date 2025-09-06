@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Sep 2025 10:38:19 WIB",
+    "lintang": "3.82 LS",
+    "bujur": "127.77 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 km",
+    "dirasakan": "II Ambon"
+  },
+  {
     "waktu": "06 Sep 2025 01:43:21 WIB",
     "lintang": "3.30 LS",
     "bujur": "129.09 BT",
@@ -108,14 +116,6 @@
     "lintang": "3.27 LS",
     "bujur": "129.12 BT",
     "magnitudo": "4.3",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Masohi"
-  },
-  {
-    "waktu": "02 Sep 2025 20:10:24 WIB",
-    "lintang": "3.29 LS",
-    "bujur": "129.14 BT",
-    "magnitudo": "4.6",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Masohi"
   }
