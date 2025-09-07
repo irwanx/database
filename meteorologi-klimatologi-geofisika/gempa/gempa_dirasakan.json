@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "07 Sep 2025 09:24:35 WIB",
+    "lintang": "3.94 LS",
+    "bujur": "122.51 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "4 km",
+    "dirasakan": "II-III Kendari"
+  },
+  {
+    "waktu": "07 Sep 2025 09:18:08 WIB",
+    "lintang": "3.94 LS",
+    "bujur": "122.51 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Konawe, III Kendari"
+  },
+  {
     "waktu": "07 Sep 2025 07:50:59 WIB",
     "lintang": "4.29 LS",
     "bujur": "122.51 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "dirasakan": "IV Parigi, III-IV Palu, III Poso"
-  },
-  {
-    "waktu": "03 Sep 2025 05:22:42 WIB",
-    "lintang": "4.00 LS",
-    "bujur": "121.63 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "2 km",
-    "dirasakan": "III Kolaka, II Kolaka Timur"
-  },
-  {
-    "waktu": "02 Sep 2025 21:43:17 WIB",
-    "lintang": "1.64 LS",
-    "bujur": "139.10 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 km",
-    "dirasakan": "II Sarmi"
   }
 ]
