@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Sep 2025 18:35:53 WIB",
+    "lintang": "6.72 LS",
+    "bujur": "107.61 BT",
+    "magnitudo": "1.8",
+    "kedalaman": "11 km",
+    "dirasakan": "II Ciater"
+  },
+  {
     "waktu": "07 Sep 2025 09:24:35 WIB",
     "lintang": "3.94 LS",
     "bujur": "122.51 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "10 km",
     "dirasakan": "III Sarmi"
-  },
-  {
-    "waktu": "03 Sep 2025 06:53:12 WIB",
-    "lintang": "0.88 LS",
-    "bujur": "120.28 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "dirasakan": "IV Parigi, III-IV Palu, III Poso"
   }
 ]
