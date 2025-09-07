@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Sep 2025 22:21:57 WIB",
+    "lintang": "4.32 LS",
+    "bujur": "122.53 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "2 km",
+    "dirasakan": "III Kendari, III Konawe Selatan"
+  },
+  {
     "waktu": "07 Sep 2025 18:35:53 WIB",
     "lintang": "6.72 LS",
     "bujur": "107.61 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "10 km",
     "dirasakan": "II Sarmi"
-  },
-  {
-    "waktu": "03 Sep 2025 17:18:42 WIB",
-    "lintang": "1.79 LS",
-    "bujur": "139.12 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 km",
-    "dirasakan": "III Sarmi"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Sep 2025 22:29:14 WIB",
+    "lintang": "6.30 LS",
+    "bujur": "130.84 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "88 km",
+    "wilayah": "192 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "03 Sep 2025 23:41:12 WIB",
     "lintang": "1.73 LS",
     "bujur": "139.11 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "64 km",
     "wilayah": "165 km BaratLaut MALUKUTENGGARA"
-  },
-  {
-    "waktu": "12 Agu 2025 23:21:51 WIB",
-    "lintang": "6.99 LS",
-    "bujur": "125.40 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "505 km",
-    "wilayah": "172 km TimurLaut ALOR-NTT"
   }
 ]
