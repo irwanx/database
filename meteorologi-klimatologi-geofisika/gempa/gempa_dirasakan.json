@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "08 Sep 2025 11:23:03 WIB",
+    "lintang": "0.98 LS",
+    "bujur": "134.32 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "14 km",
+    "dirasakan": "II Manokwari"
+  },
+  {
+    "waktu": "08 Sep 2025 10:50:15 WIB",
+    "lintang": "2.02 LS",
+    "bujur": "120.62 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Pendolo"
+  },
+  {
     "waktu": "07 Sep 2025 22:21:57 WIB",
     "lintang": "4.32 LS",
     "bujur": "122.53 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "9 km",
     "dirasakan": "II-III Kobisonta"
-  },
-  {
-    "waktu": "04 Sep 2025 07:14:28 WIB",
-    "lintang": "2.77 LS",
-    "bujur": "130.12 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "8 km",
-    "dirasakan": "II-III Kobisonta"
-  },
-  {
-    "waktu": "04 Sep 2025 04:55:06 WIB",
-    "lintang": "1.75 LS",
-    "bujur": "139.13 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 km",
-    "dirasakan": "II Sarmi"
   }
 ]
