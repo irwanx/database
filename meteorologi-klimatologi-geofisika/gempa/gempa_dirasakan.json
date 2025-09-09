@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Sep 2025 19:26:16 WIB",
+    "lintang": "6.79 LS",
+    "bujur": "111.93 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "15 km",
+    "dirasakan": "II Tuban"
+  },
+  {
     "waktu": "08 Sep 2025 22:49:27 WIB",
     "lintang": "0.31 LS",
     "bujur": "99.44 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.9",
     "kedalaman": "10 km",
     "dirasakan": "II-III Amalatu"
-  },
-  {
-    "waktu": "04 Sep 2025 08:09:58 WIB",
-    "lintang": "0.85 LS",
-    "bujur": "120.29 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "5 km",
-    "dirasakan": "III-IV Toboli, III Palu"
   }
 ]
