@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "10 Sep 2025 04:19:58 WIB",
+    "lintang": "4.67 LS",
+    "bujur": "122.02 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Bombana"
+  },
+  {
+    "waktu": "10 Sep 2025 04:02:46 WIB",
+    "lintang": "4.69 LS",
+    "bujur": "121.99 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "5 km",
+    "dirasakan": "III Bombana"
+  },
+  {
     "waktu": "09 Sep 2025 19:26:16 WIB",
     "lintang": "6.79 LS",
     "bujur": "111.93 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.9",
     "kedalaman": "5 km",
     "dirasakan": "II-III Konawe Selatan"
-  },
-  {
-    "waktu": "05 Sep 2025 02:48:03 WIB",
-    "lintang": "1.81 LS",
-    "bujur": "137.38 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "20 km",
-    "dirasakan": "II-III Waropen, II Nabire"
-  },
-  {
-    "waktu": "04 Sep 2025 18:49:15 WIB",
-    "lintang": "3.41 LS",
-    "bujur": "128.66 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Amalatu"
   }
 ]
