@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "10 Sep 2025 23:06:14 WIB",
+    "lintang": "3.55 LS",
+    "bujur": "135.59 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "21 km",
+    "dirasakan": "III Nabire"
+  },
+  {
+    "waktu": "10 Sep 2025 22:06:03 WIB",
+    "lintang": "3.71 LS",
+    "bujur": "135.53 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "10 km",
+    "dirasakan": "II Nabire"
+  },
+  {
     "waktu": "10 Sep 2025 20:26:09 WIB",
     "lintang": "7.45 LS",
     "bujur": "106.70 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.3",
     "kedalaman": "10 km",
     "dirasakan": "II Ambon"
-  },
-  {
-    "waktu": "06 Sep 2025 01:43:21 WIB",
-    "lintang": "3.30 LS",
-    "bujur": "129.09 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 km",
-    "dirasakan": "III Masohi"
-  },
-  {
-    "waktu": "05 Sep 2025 23:29:07 WIB",
-    "lintang": "9.69 LS",
-    "bujur": "113.73 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kuta Selatan, III Kuta"
   }
 ]
