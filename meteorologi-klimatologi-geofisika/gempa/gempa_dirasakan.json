@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Sep 2025 20:26:09 WIB",
+    "lintang": "7.45 LS",
+    "bujur": "106.70 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "31 km",
+    "dirasakan": "III Bayah, III Pangalengan, III Pelabuhan Ratu, II-III Cilaku, II-III Cireunghas, II-III Sukabumi, II-III Cisolok, II-III Kota Bandung, II-III Bandung Barat, II-III Jampang Kulon, II-III Cicurug, II-III Curugkembar, II-III Kabupaten Bandung, II-III Cimahi, II Cidadap, II Depok"
+  },
+  {
     "waktu": "10 Sep 2025 04:19:58 WIB",
     "lintang": "4.67 LS",
     "bujur": "122.02 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "10 km",
     "dirasakan": "III Kuta Selatan, III Kuta"
-  },
-  {
-    "waktu": "05 Sep 2025 05:10:30 WIB",
-    "lintang": "4.30 LS",
-    "bujur": "122.49 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Konawe Selatan"
   }
 ]
