@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Sep 2025 21:48:57 WIB",
+    "lintang": "4.28 LS",
+    "bujur": "122.27 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "6 km",
+    "dirasakan": "III Konawe Selatan"
+  },
+  {
     "waktu": "11 Sep 2025 17:44:09 WIB",
     "lintang": "4.22 LS",
     "bujur": "122.30 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.7",
     "kedalaman": "4 km",
     "dirasakan": "II-III Kendari"
-  },
-  {
-    "waktu": "07 Sep 2025 09:18:08 WIB",
-    "lintang": "3.94 LS",
-    "bujur": "122.51 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Konawe, III Kendari"
   }
 ]
