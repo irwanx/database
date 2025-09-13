@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13 Sep 2025 22:05:43 WIB",
+    "lintang": "4.05 LS",
+    "bujur": "142.01 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "84 km",
+    "wilayah": "159 km Tenggara KEEROM-PAPUA"
+  },
+  {
     "waktu": "11 Sep 2025 16:06:28 WIB",
     "lintang": "5.50 LS",
     "bujur": "131.77 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.0",
     "kedalaman": "10 km",
     "wilayah": "18 km BaratLaut POSO-SULTENG"
-  },
-  {
-    "waktu": "14 Agu 2025 13:48:12 WIB",
-    "lintang": "1.96 LS",
-    "bujur": "139.07 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "wilayah": "37 km Tenggara SARMI-PAPUA"
   }
 ]
