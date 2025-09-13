@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13 Sep 2025 08:01:11 WIB",
+    "lintang": "6.36 LS",
+    "bujur": "104.60 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "23 km",
+    "dirasakan": "II Ngaras Bengkunat"
+  },
+  {
     "waktu": "12 Sep 2025 21:48:57 WIB",
     "lintang": "4.28 LS",
     "bujur": "122.27 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "1.8",
     "kedalaman": "11 km",
     "dirasakan": "II Ciater"
-  },
-  {
-    "waktu": "07 Sep 2025 09:24:35 WIB",
-    "lintang": "3.94 LS",
-    "bujur": "122.51 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "4 km",
-    "dirasakan": "II-III Kendari"
   }
 ]
