@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Sep 2025 21:49:42 WIB",
+    "lintang": "2.84 LS",
+    "bujur": "100.93 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "18 km",
+    "dirasakan": "III Sungai Penuh, III Kerinci, III Padang, III Pesisir Selatan, III Solok, III Solok Selatan, IV Mukomuko, II Ipuh"
+  },
+  {
     "waktu": "14 Sep 2025 08:13:43 WIB",
     "lintang": "2.44 LU",
     "bujur": "95.59 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.9",
     "kedalaman": "5 km",
     "dirasakan": "II-III Pendolo"
-  },
-  {
-    "waktu": "07 Sep 2025 22:21:57 WIB",
-    "lintang": "4.32 LS",
-    "bujur": "122.53 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "2 km",
-    "dirasakan": "III Kendari, III Konawe Selatan"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Sep 2025 21:49:42 WIB",
+    "lintang": "2.84 LS",
+    "bujur": "100.93 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "18 km",
+    "wilayah": "35 km BaratDaya MUKOMUKO-BENGKULU"
+  },
+  {
     "waktu": "13 Sep 2025 22:05:43 WIB",
     "lintang": "4.05 LS",
     "bujur": "142.01 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "wilayah": "81 km BaratDaya PULAUDOI-MALUT"
-  },
-  {
-    "waktu": "17 Agu 2025 05:38:52 WIB",
-    "lintang": "1.30 LS",
-    "bujur": "120.62 BT",
-    "magnitudo": "6.0",
-    "kedalaman": "10 km",
-    "wilayah": "18 km BaratLaut POSO-SULTENG"
   }
 ]
