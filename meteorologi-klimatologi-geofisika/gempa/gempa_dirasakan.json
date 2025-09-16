@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "17 Sep 2025 02:43:06 WIB",
+    "lintang": "0.59 LS",
+    "bujur": "135.65 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 km",
+    "dirasakan": "III Supiori"
+  },
+  {
+    "waktu": "17 Sep 2025 01:58:36 WIB",
+    "lintang": "3.52 LS",
+    "bujur": "135.49 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "21 km",
+    "dirasakan": "III Nabire"
+  },
+  {
     "waktu": "15 Sep 2025 10:50:41 WIB",
     "lintang": "7.05 LS",
     "bujur": "106.66 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.4",
     "kedalaman": "15 km",
     "dirasakan": "II Tuban"
-  },
-  {
-    "waktu": "08 Sep 2025 22:49:27 WIB",
-    "lintang": "0.31 LS",
-    "bujur": "99.44 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "53 km",
-    "dirasakan": "I-II Padang Panjang, II-III Pasaman Barat, II-III Pariaman, II-III Padang"
-  },
-  {
-    "waktu": "08 Sep 2025 11:23:03 WIB",
-    "lintang": "0.98 LS",
-    "bujur": "134.32 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "14 km",
-    "dirasakan": "II Manokwari"
   }
 ]
