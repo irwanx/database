@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Sep 2025 20:11:57 WIB",
+    "lintang": "2.79 LS",
+    "bujur": "128.06 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "13 km",
+    "dirasakan": "III Piru"
+  },
+  {
     "waktu": "17 Sep 2025 02:43:06 WIB",
     "lintang": "0.59 LS",
     "bujur": "135.65 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.3",
     "kedalaman": "5 km",
     "dirasakan": "III Bombana"
-  },
-  {
-    "waktu": "09 Sep 2025 19:26:16 WIB",
-    "lintang": "6.79 LS",
-    "bujur": "111.93 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "15 km",
-    "dirasakan": "II Tuban"
   }
 ]
