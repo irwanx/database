@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Sep 2025 10:30:32 WIB",
+    "lintang": "0.66 LS",
+    "bujur": "128.04 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "9 km",
+    "dirasakan": "III-IV Gane Barat Selatan"
+  },
+  {
     "waktu": "17 Sep 2025 20:11:57 WIB",
     "lintang": "2.79 LS",
     "bujur": "128.06 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "5 km",
     "dirasakan": "II-III Bombana"
-  },
-  {
-    "waktu": "10 Sep 2025 04:02:46 WIB",
-    "lintang": "4.69 LS",
-    "bujur": "121.99 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "5 km",
-    "dirasakan": "III Bombana"
   }
 ]

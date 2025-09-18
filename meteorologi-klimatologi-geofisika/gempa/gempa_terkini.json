@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Sep 2025 10:47:33 WIB",
+    "lintang": "4.28 LU",
+    "bujur": "127.77 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "118 km",
+    "wilayah": "93 km Tenggara PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "14 Sep 2025 21:49:42 WIB",
     "lintang": "2.84 LS",
     "bujur": "100.93 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "44 km",
     "wilayah": "64 km Tenggara BITUNG-SULUT"
-  },
-  {
-    "waktu": "17 Agu 2025 22:03:13 WIB",
-    "lintang": "2.12 LU",
-    "bujur": "127.07 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "wilayah": "81 km BaratDaya PULAUDOI-MALUT"
   }
 ]
