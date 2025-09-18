@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "19 Sep 2025 01:51:49 WIB",
+    "lintang": "3.39 LS",
+    "bujur": "135.52 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "23 km",
+    "dirasakan": "II-III Nabire"
+  },
+  {
+    "waktu": "19 Sep 2025 01:19:50 WIB",
+    "lintang": "3.47 LS",
+    "bujur": "135.49 BT",
+    "magnitudo": "6.6",
+    "kedalaman": "24 km",
+    "dirasakan": "V Nabire, IV-V Wasior, III Timika, III-IV Enarotali, II-III Biak, II-III Supiori"
+  },
+  {
     "waktu": "18 Sep 2025 21:59:34 WIB",
     "lintang": "10.30 LS",
     "bujur": "113.96 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "6 km",
     "dirasakan": "III Konawe Selatan"
-  },
-  {
-    "waktu": "11 Sep 2025 10:15:00 WIB",
-    "lintang": "9.40 LS",
-    "bujur": "112.89 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kab. Malang, II Trenggalek, II Blitar, II-III Kota Malang, II Tulungagung"
-  },
-  {
-    "waktu": "10 Sep 2025 23:06:14 WIB",
-    "lintang": "3.55 LS",
-    "bujur": "135.59 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "21 km",
-    "dirasakan": "III Nabire"
   }
 ]
