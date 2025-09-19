@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Sep 2025 13:55:10 WIB",
+    "lintang": "3.56 LS",
+    "bujur": "122.31 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "5 km",
+    "dirasakan": "III Konawe Utara"
+  },
+  {
     "waktu": "19 Sep 2025 10:06:51 WIB",
     "lintang": "3.38 LS",
     "bujur": "135.56 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "2 km",
     "dirasakan": "III Simeulue"
-  },
-  {
-    "waktu": "13 Sep 2025 08:01:11 WIB",
-    "lintang": "6.36 LS",
-    "bujur": "104.60 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "23 km",
-    "dirasakan": "II Ngaras Bengkunat"
   }
 ]
