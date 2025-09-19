@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Sep 2025 23:00:10 WIB",
+    "lintang": "3.53 LS",
+    "bujur": "135.57 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "24 km",
+    "dirasakan": "II Nabire"
+  },
+  {
     "waktu": "19 Sep 2025 13:55:10 WIB",
     "lintang": "3.56 LS",
     "bujur": "122.31 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "18 km",
     "dirasakan": "III Sungai Penuh, III Kerinci, III Padang, III Pesisir Selatan, III Solok, III Solok Selatan, IV Mukomuko, II Ipuh"
-  },
-  {
-    "waktu": "14 Sep 2025 08:13:43 WIB",
-    "lintang": "2.44 LU",
-    "bujur": "95.59 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "2 km",
-    "dirasakan": "III Simeulue"
   }
 ]
