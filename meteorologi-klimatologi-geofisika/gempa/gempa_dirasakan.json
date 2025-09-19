@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Sep 2025 10:06:51 WIB",
+    "lintang": "3.38 LS",
+    "bujur": "135.56 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "23 km",
+    "dirasakan": "II-III Nabire"
+  },
+  {
     "waktu": "19 Sep 2025 05:53:45 WIB",
     "lintang": "3.44 LS",
     "bujur": "135.55 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "23 km",
     "dirasakan": "II Ngaras Bengkunat"
-  },
-  {
-    "waktu": "12 Sep 2025 21:48:57 WIB",
-    "lintang": "4.28 LS",
-    "bujur": "122.27 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "6 km",
-    "dirasakan": "III Konawe Selatan"
   }
 ]
