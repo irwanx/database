@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "21 Sep 2025 01:59:05 WIB",
+    "lintang": "6.75 LS",
+    "bujur": "106.58 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "8 km",
+    "dirasakan": "III Leuwiliang, III Kabandungan, II - III Cibadak, III Pamijahan, II Pelabuhan Ratu"
+  },
+  {
+    "waktu": "21 Sep 2025 01:07:05 WIB",
+    "lintang": "3.67 LS",
+    "bujur": "134.87 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 km",
+    "dirasakan": "II Nabire"
+  },
+  {
     "waktu": "21 Sep 2025 00:22:08 WIB",
     "lintang": "6.75 LS",
     "bujur": "106.57 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "20 km",
     "dirasakan": "III Nabire"
-  },
-  {
-    "waktu": "19 Sep 2025 01:51:49 WIB",
-    "lintang": "3.39 LS",
-    "bujur": "135.52 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "23 km",
-    "dirasakan": "II-III Nabire"
-  },
-  {
-    "waktu": "19 Sep 2025 01:19:50 WIB",
-    "lintang": "3.47 LS",
-    "bujur": "135.49 BT",
-    "magnitudo": "6.6",
-    "kedalaman": "24 km",
-    "dirasakan": "V Nabire, IV-V Wasior, III Timika, III-IV Enarotali, II-III Biak, II-III Supiori"
   }
 ]
