@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "20 Sep 2025 15:54:08 WIB",
+    "lintang": "3.45 LS",
+    "bujur": "135.65 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "42 km",
+    "dirasakan": "II Nabire"
+  },
+  {
+    "waktu": "20 Sep 2025 15:40:45 WIB",
+    "lintang": "3.30 LS",
+    "bujur": "135.67 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "12 km",
+    "dirasakan": "II Nabire"
+  },
+  {
     "waktu": "20 Sep 2025 13:54:15 WIB",
     "lintang": "3.73 LS",
     "bujur": "127.85 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "13 km",
     "dirasakan": "III Piru"
-  },
-  {
-    "waktu": "17 Sep 2025 02:43:06 WIB",
-    "lintang": "0.59 LS",
-    "bujur": "135.65 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 km",
-    "dirasakan": "III Supiori"
-  },
-  {
-    "waktu": "17 Sep 2025 01:58:36 WIB",
-    "lintang": "3.52 LS",
-    "bujur": "135.49 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "21 km",
-    "dirasakan": "III Nabire"
   }
 ]
