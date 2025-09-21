@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Sep 2025 00:12:12 WIB",
+    "lintang": "3.37 LS",
+    "bujur": "135.60 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "25 km",
+    "dirasakan": "II Nabire"
+  },
+  {
     "waktu": "21 Sep 2025 22:57:08 WIB",
     "lintang": "3.25 LS",
     "bujur": "135.54 BT",
@@ -109,14 +117,6 @@
     "bujur": "135.85 BT",
     "magnitudo": "3.6",
     "kedalaman": "10 km",
-    "dirasakan": "II Nabire"
-  },
-  {
-    "waktu": "19 Sep 2025 23:00:10 WIB",
-    "lintang": "3.53 LS",
-    "bujur": "135.57 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "24 km",
     "dirasakan": "II Nabire"
   }
 ]
