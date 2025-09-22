@@ -8,6 +8,14 @@
     "dirasakan": "II - III Nabire"
   },
   {
+    "waktu": "22 Sep 2025 12:41:59 WIB",
+    "lintang": "6.50 LS",
+    "bujur": "107.26 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "8 km",
+    "dirasakan": "II-III Karawang"
+  },
+  {
     "waktu": "22 Sep 2025 07:30:04 WIB",
     "lintang": "3.39 LS",
     "bujur": "135.55 BT",
@@ -109,14 +117,6 @@
     "bujur": "135.56 BT",
     "magnitudo": "3.2",
     "kedalaman": "24 km",
-    "dirasakan": "II Nabire"
-  },
-  {
-    "waktu": "20 Sep 2025 15:54:08 WIB",
-    "lintang": "3.45 LS",
-    "bujur": "135.65 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "42 km",
     "dirasakan": "II Nabire"
   }
 ]
