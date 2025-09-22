@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Sep 2025 07:30:04 WIB",
+    "lintang": "3.39 LS",
+    "bujur": "135.55 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "27 km",
+    "dirasakan": "II-III Nabire"
+  },
+  {
     "waktu": "22 Sep 2025 03:34:09 WIB",
     "lintang": "3.49 LS",
     "bujur": "135.51 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.4",
     "kedalaman": "12 km",
     "dirasakan": "II Nabire"
-  },
-  {
-    "waktu": "20 Sep 2025 13:54:15 WIB",
-    "lintang": "3.73 LS",
-    "bujur": "127.85 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Ambon"
   }
 ]
