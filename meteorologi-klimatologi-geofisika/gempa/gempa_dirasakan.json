@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "22 Sep 2025 20:07:16 WIB",
+    "lintang": "4.85 LU",
+    "bujur": "96.82 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "15 km",
+    "dirasakan": "II Kab. Bener Meriah"
+  },
+  {
+    "waktu": "22 Sep 2025 19:19:36 WIB",
+    "lintang": "4.85 LU",
+    "bujur": "96.73 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "2 km",
+    "dirasakan": "II - III Kec. Pintu Rime Gayo, Kab. Bener Meriah"
+  },
+  {
+    "waktu": "22 Sep 2025 19:13:10 WIB",
+    "lintang": "4.73 LU",
+    "bujur": "97.16 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "15 km",
+    "dirasakan": "II - III Kec. Pintu Rime Gayo, Kab. Bener Meriah"
+  },
+  {
     "waktu": "22 Sep 2025 16:50:18 WIB",
     "lintang": "3.39 LS",
     "bujur": "135.56 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "10 km",
     "dirasakan": "II Kalapanunggal, II Kabandungan"
-  },
-  {
-    "waktu": "21 Sep 2025 00:17:40 WIB",
-    "lintang": "3.37 LS",
-    "bujur": "135.60 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "22 km",
-    "dirasakan": "II Nabire"
-  },
-  {
-    "waktu": "20 Sep 2025 23:56:00 WIB",
-    "lintang": "6.72 LS",
-    "bujur": "106.60 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "6 km",
-    "dirasakan": "II-III Kalapanunggal, II-III Kabandungan, II Pamijahan, II Leuwiliang, II Bogor"
-  },
-  {
-    "waktu": "20 Sep 2025 23:47:44 WIB",
-    "lintang": "6.75 LS",
-    "bujur": "106.58 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "7 km",
-    "dirasakan": "III Pamijahan, II Palabuhanratu, III-IV Kalapa nunggal, III-IV Kabandungan, III Leuwiliang, II-III Bogor, II parungkuda"
   }
 ]
