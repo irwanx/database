@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Sep 2025 16:50:18 WIB",
+    "lintang": "3.39 LS",
+    "bujur": "135.56 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "23 km",
+    "dirasakan": "III Nabire"
+  },
+  {
     "waktu": "22 Sep 2025 12:50:29 WIB",
     "lintang": "3.48 LS",
     "bujur": "135.57 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "7 km",
     "dirasakan": "III Pamijahan, II Palabuhanratu, III-IV Kalapa nunggal, III-IV Kabandungan, III Leuwiliang, II-III Bogor, II parungkuda"
-  },
-  {
-    "waktu": "20 Sep 2025 17:47:38 WIB",
-    "lintang": "3.44 LS",
-    "bujur": "135.56 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "24 km",
-    "dirasakan": "II Nabire"
   }
 ]
