@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Sep 2025 06:43:37 WIB",
+    "lintang": "3.45 LS",
+    "bujur": "135.56 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "27 km",
+    "dirasakan": "III Nabire"
+  },
+  {
     "waktu": "22 Sep 2025 23:35:09 WIB",
     "lintang": "4.85 LU",
     "bujur": "96.82 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.8",
     "kedalaman": "8 km",
     "dirasakan": "III Leuwiliang, III Kabandungan, II - III Cibadak, III Pamijahan, II Pelabuhan Ratu"
-  },
-  {
-    "waktu": "21 Sep 2025 01:07:05 WIB",
-    "lintang": "3.67 LS",
-    "bujur": "134.87 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 km",
-    "dirasakan": "II Nabire"
   }
 ]
