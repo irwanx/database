@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "24 Sep 2025 02:54:43 WIB",
+    "lintang": "9.50 LS",
+    "bujur": "119.62 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "34 km",
+    "wilayah": "13 km TimurLaut WAIBAKUL-NTT"
+  },
+  {
+    "waktu": "24 Sep 2025 01:50:39 WIB",
+    "lintang": "6.13 LS",
+    "bujur": "131.31 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "108 km",
+    "wilayah": "166 km BaratDaya MALUKUTENGGARA"
+  },
+  {
     "waktu": "23 Sep 2025 08:20:38 WIB",
     "lintang": "2.61 LU",
     "bujur": "95.27 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "97 km",
     "wilayah": "168 km BaratDaya MALUKUTENGGARA"
-  },
-  {
-    "waktu": "30 Agu 2025 20:35:34 WIB",
-    "lintang": "4.92 LS",
-    "bujur": "102.99 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "21 km",
-    "wilayah": "42 km BaratDaya KAUR-BENGKULU"
-  },
-  {
-    "waktu": "28 Agu 2025 09:15:43 WIB",
-    "lintang": "4.76 LS",
-    "bujur": "104.68 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "184 km",
-    "wilayah": "22 km BaratLaut LAMPUNGUTARA"
   }
 ]
