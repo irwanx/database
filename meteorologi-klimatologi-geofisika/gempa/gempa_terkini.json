@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24 Sep 2025 21:53:11 WIB",
+    "lintang": "4.14 LS",
+    "bujur": "142.75 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 km",
+    "wilayah": "114 km BaratDaya WEWAK-PNG"
+  },
+  {
     "waktu": "24 Sep 2025 02:54:43 WIB",
     "lintang": "9.50 LS",
     "bujur": "119.62 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "wilayah": "44 km TimurLaut PALU-SULTENG"
-  },
-  {
-    "waktu": "31 Agu 2025 06:03:55 WIB",
-    "lintang": "6.13 LS",
-    "bujur": "131.29 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "97 km",
-    "wilayah": "168 km BaratDaya MALUKUTENGGARA"
   }
 ]
