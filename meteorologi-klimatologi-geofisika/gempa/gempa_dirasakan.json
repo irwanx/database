@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26 Sep 2025 18:24:05 WIB",
+    "lintang": "6.76 LS",
+    "bujur": "106.60 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "8 km",
+    "dirasakan": "III Kabandungan, II-III Pamijahan, II-III Kalapanunggal"
+  },
+  {
     "waktu": "26 Sep 2025 17:55:42 WIB",
     "lintang": "6.76 LS",
     "bujur": "106.58 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "23 km",
     "dirasakan": "III Nabire"
-  },
-  {
-    "waktu": "22 Sep 2025 12:50:29 WIB",
-    "lintang": "3.48 LS",
-    "bujur": "135.57 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "34 km",
-    "dirasakan": "II - III Nabire"
   }
 ]
