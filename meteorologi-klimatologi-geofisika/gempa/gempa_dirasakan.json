@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26 Sep 2025 11:51:42 WIB",
+    "lintang": "1.95 LU",
+    "bujur": "99.07 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Tarutung"
+  },
+  {
     "waktu": "25 Sep 2025 17:06:46 WIB",
     "lintang": "0.91 LU",
     "bujur": "117.12 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "8 km",
     "dirasakan": "II-III Karawang"
-  },
-  {
-    "waktu": "22 Sep 2025 07:30:04 WIB",
-    "lintang": "3.39 LS",
-    "bujur": "135.55 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "27 km",
-    "dirasakan": "II-III Nabire"
   }
 ]
