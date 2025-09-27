@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Sep 2025 07:09:10 WIB",
+    "lintang": "3.33 LS",
+    "bujur": "135.47 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "13 km",
+    "dirasakan": "III Nabire"
+  },
+  {
     "waktu": "26 Sep 2025 22:08:55 WIB",
     "lintang": "6.75 LS",
     "bujur": "106.57 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "2 km",
     "dirasakan": "II-III Kab. Bener Meriah"
-  },
-  {
-    "waktu": "22 Sep 2025 20:07:16 WIB",
-    "lintang": "4.85 LU",
-    "bujur": "96.82 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "15 km",
-    "dirasakan": "II Kab. Bener Meriah"
   }
 ]
