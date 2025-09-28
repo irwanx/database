@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Sep 2025 09:54:26 WIB",
+    "lintang": "2.30 LS",
+    "bujur": "119.07 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "5 km",
+    "dirasakan": "III Mamuju"
+  },
+  {
     "waktu": "27 Sep 2025 16:08:55 WIB",
     "lintang": "2.73 LS",
     "bujur": "129.51 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "34 km",
     "dirasakan": "III-IV Waikabubak, III-IV Waibakul, III Waingapu, III Tambolaka, II Kota Bima, II Sumbawa"
-  },
-  {
-    "waktu": "23 Sep 2025 06:43:37 WIB",
-    "lintang": "3.45 LS",
-    "bujur": "135.56 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "27 km",
-    "dirasakan": "III Nabire"
   }
 ]
