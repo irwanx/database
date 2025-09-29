@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Sep 2025 12:03:28 WIB",
+    "lintang": "8.16 LS",
+    "bujur": "124.60 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "15 km",
+    "dirasakan": "II-III Alor"
+  },
+  {
     "waktu": "28 Sep 2025 21:06:20 WIB",
     "lintang": "6.70 LS",
     "bujur": "106.64 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.2",
     "kedalaman": "28 km",
     "dirasakan": "II Nabire"
-  },
-  {
-    "waktu": "24 Sep 2025 22:29:30 WIB",
-    "lintang": "4.15 LU",
-    "bujur": "97.50 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "2 km",
-    "dirasakan": "III Pining-Gayo Lues, II - III Aceh Tengah, II Bener Meriah"
   }
 ]
