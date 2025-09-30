@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30 Sep 2025 23:49:43 WIB",
+    "lintang": "7.25 LS",
+    "bujur": "114.22 BT",
+    "magnitudo": "6.5",
+    "kedalaman": "11 km",
+    "dirasakan": "III - IV Pamekasan, Situbondo, Sampang, Surabaya, III Tuban, Denpasar, Gianyar, II-III Tabanan, Buleleng, Kuta, Banyuwangi, Bangkalan, II-III Probolinggo, Lumajang, Jember, Sidoarjo, Mojokerto, II Lombok Utara, Lombok Tengah, Mataram, Malang, V - VI Pulau Sapudi, IV Sumenep, II Blitar, Bondowoso, Poncokusumo"
+  },
+  {
     "waktu": "30 Sep 2025 08:41:30 WIB",
     "lintang": "8.22 LS",
     "bujur": "107.38 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "5 km",
     "dirasakan": "II-III Tarutung"
-  },
-  {
-    "waktu": "25 Sep 2025 17:06:46 WIB",
-    "lintang": "0.91 LU",
-    "bujur": "117.12 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Kutai Timur"
   }
 ]
