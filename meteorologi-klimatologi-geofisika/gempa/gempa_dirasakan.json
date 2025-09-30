@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30 Sep 2025 08:41:30 WIB",
+    "lintang": "8.22 LS",
+    "bujur": "107.38 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "13 km",
+    "dirasakan": "II Kabupaten Pangandaran"
+  },
+  {
     "waktu": "30 Sep 2025 05:30:15 WIB",
     "lintang": "8.20 LS",
     "bujur": "107.41 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.9",
     "kedalaman": "5 km",
     "dirasakan": "II-III Kutai Timur"
-  },
-  {
-    "waktu": "25 Sep 2025 16:04:12 WIB",
-    "lintang": "7.82 LS",
-    "bujur": "114.47 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "12 km",
-    "dirasakan": "IV Banyuwangi, IV Penebel, III Lumajang, III Kuta, III Denpasar, III Buleleng, II-III Jember, II-III Bondowoso, II Situbondo, II Pasuruan, II Surabaya, II Kuta Selatan, II Pamekasan, II Mataram, II Lombok Barat, II Probolinggo"
   }
 ]
