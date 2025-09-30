@@ -1,6 +1,14 @@
 [
   {
-    "waktu": "29 Okt 2025 22:24:06 WIB",
+    "waktu": "30 Sep 2025 05:30:15 WIB",
+    "lintang": "8.20 LS",
+    "bujur": "107.41 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "12 km",
+    "dirasakan": "II Kota Sukabumi, II-III Kota Garut, II Kertasari, Kab. Bandung, II Kab. Bandung Barat"
+  },
+  {
+    "waktu": "29 Sep 2025 22:24:06 WIB",
     "lintang": "3.25 LS",
     "bujur": "135.31 BT",
     "magnitudo": "2.7",
@@ -110,13 +118,5 @@
     "magnitudo": "5.7",
     "kedalaman": "12 km",
     "dirasakan": "IV Banyuwangi, IV Penebel, III Lumajang, III Kuta, III Denpasar, III Buleleng, II-III Jember, II-III Bondowoso, II Situbondo, II Pasuruan, II Surabaya, II Kuta Selatan, II Pamekasan, II Mataram, II Lombok Barat, II Probolinggo"
-  },
-  {
-    "waktu": "25 Sep 2025 07:57:52 WIB",
-    "lintang": "3.37 LS",
-    "bujur": "135.57 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "22 km",
-    "dirasakan": "II Nabire"
   }
 ]
