@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Okt 2025 20:49:51 WIB",
+    "lintang": "7.61 LS",
+    "bujur": "128.37 BT",
+    "magnitudo": "6.1",
+    "kedalaman": "163 km",
+    "dirasakan": "III Tiakur"
+  },
+  {
     "waktu": "30 Sep 2025 23:49:43 WIB",
     "lintang": "7.25 LS",
     "bujur": "114.22 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "7 km",
     "dirasakan": "II-III Kab. Sukabumi"
-  },
-  {
-    "waktu": "26 Sep 2025 11:51:42 WIB",
-    "lintang": "1.95 LU",
-    "bujur": "99.07 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Tarutung"
   }
 ]
