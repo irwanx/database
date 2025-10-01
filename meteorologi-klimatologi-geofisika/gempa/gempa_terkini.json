@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Okt 2025 20:49:51 WIB",
+    "lintang": "7.61 LS",
+    "bujur": "128.37 BT",
+    "magnitudo": "6.1",
+    "kedalaman": "163 km",
+    "wilayah": "88 km TimurLaut MALUKUBRTDAYA"
+  },
+  {
     "waktu": "30 Sep 2025 23:49:43 WIB",
     "lintang": "7.25 LS",
     "bujur": "114.22 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "100 km",
     "wilayah": "108 km BaratLaut MALUKUTENGGARA"
-  },
-  {
-    "waktu": "11 Sep 2025 10:15:00 WIB",
-    "lintang": "9.40 LS",
-    "bujur": "112.89 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "wilayah": "144 km Tenggara KAB-MALANG-JATIM"
   }
 ]
