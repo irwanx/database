@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Okt 2025 12:59:17 WIB",
+    "lintang": "8.23 LS",
+    "bujur": "124.61 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "24 km",
+    "dirasakan": "II-III Alor"
+  },
+  {
     "waktu": "01 Okt 2025 20:49:51 WIB",
     "lintang": "7.61 LS",
     "bujur": "128.37 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.9",
     "kedalaman": "8 km",
     "dirasakan": "III Kabandungan, II-III Pamijahan, II-III Kalapanunggal"
-  },
-  {
-    "waktu": "26 Sep 2025 17:55:42 WIB",
-    "lintang": "6.76 LS",
-    "bujur": "106.58 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "7 km",
-    "dirasakan": "II-III Kab. Sukabumi"
   }
 ]
