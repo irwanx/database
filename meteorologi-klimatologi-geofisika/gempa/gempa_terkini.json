@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Okt 2025 05:45:08 WIB",
+    "lintang": "2.83 LS",
+    "bujur": "136.32 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "43 km",
+    "wilayah": "39 km BaratLaut WAROPEN-PAPUA"
+  },
+  {
     "waktu": "01 Okt 2025 20:49:51 WIB",
     "lintang": "7.61 LS",
     "bujur": "128.37 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "84 km",
     "wilayah": "159 km Tenggara KEEROM-PAPUA"
-  },
-  {
-    "waktu": "11 Sep 2025 16:06:28 WIB",
-    "lintang": "5.50 LS",
-    "bujur": "131.77 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "100 km",
-    "wilayah": "108 km BaratLaut MALUKUTENGGARA"
   }
 ]
