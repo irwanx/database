@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Okt 2025 13:18:30 WIB",
+    "lintang": "2.83 LS",
+    "bujur": "136.29 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "16 km",
+    "dirasakan": "II Enarotali"
+  },
+  {
     "waktu": "03 Okt 2025 13:02:39 WIB",
     "lintang": "2.88 LS",
     "bujur": "136.32 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "13 km",
     "dirasakan": "III Nabire"
-  },
-  {
-    "waktu": "26 Sep 2025 22:08:55 WIB",
-    "lintang": "6.75 LS",
-    "bujur": "106.57 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "9 km",
-    "dirasakan": "II-III Kabandungan, II Pamijahan, II Bogor"
   }
 ]
