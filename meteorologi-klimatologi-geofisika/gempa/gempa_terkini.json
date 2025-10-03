@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Okt 2025 13:02:39 WIB",
+    "lintang": "2.88 LS",
+    "bujur": "136.32 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 km",
+    "wilayah": "39 km BaratDaya WAROPEN-PAPUA"
+  },
+  {
     "waktu": "03 Okt 2025 05:45:08 WIB",
     "lintang": "2.83 LS",
     "bujur": "136.32 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "18 km",
     "wilayah": "35 km BaratDaya MUKOMUKO-BENGKULU"
-  },
-  {
-    "waktu": "13 Sep 2025 22:05:43 WIB",
-    "lintang": "4.05 LS",
-    "bujur": "142.01 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "84 km",
-    "wilayah": "159 km Tenggara KEEROM-PAPUA"
   }
 ]

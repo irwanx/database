@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "03 Okt 2025 13:02:39 WIB",
+    "lintang": "2.88 LS",
+    "bujur": "136.32 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 km",
+    "dirasakan": "III Nabire, II - III Enarotali, II - III Dogiyai"
+  },
+  {
+    "waktu": "03 Okt 2025 10:55:54 WIB",
+    "lintang": "1.46 LU",
+    "bujur": "122.99 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Kabupaten Bone Bolango, II Kabupaten Gorontalo Utara, II Kabupaten Gorontalo, II Kota Gorontalo"
+  },
+  {
     "waktu": "03 Okt 2025 05:45:08 WIB",
     "lintang": "2.83 LS",
     "bujur": "136.32 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.0",
     "kedalaman": "9 km",
     "dirasakan": "II-III Kabandungan, II Pamijahan, II Bogor"
-  },
-  {
-    "waktu": "26 Sep 2025 21:55:03 WIB",
-    "lintang": "5.47 LS",
-    "bujur": "104.51 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "5 km",
-    "dirasakan": "III-IV Semaka, III Kota Agung, II-III Limau"
-  },
-  {
-    "waktu": "26 Sep 2025 20:22:19 WIB",
-    "lintang": "1.40 LU",
-    "bujur": "117.73 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "6 km",
-    "dirasakan": "II-III Karangan"
   }
 ]
