@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Okt 2025 22:26:00 WIB",
+    "lintang": "1.33 LU",
+    "bujur": "117.03 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "2 km",
+    "dirasakan": "II-III Kelay Kab. Berau"
+  },
+  {
     "waktu": "03 Okt 2025 18:03:18 WIB",
     "lintang": "3.08 LS",
     "bujur": "101.23 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "5 km",
     "dirasakan": "III Mamuju"
-  },
-  {
-    "waktu": "27 Sep 2025 16:08:55 WIB",
-    "lintang": "2.73 LS",
-    "bujur": "129.51 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "12 km",
-    "dirasakan": "II Amahai"
   }
 ]
