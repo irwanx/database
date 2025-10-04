@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04 Okt 2025 19:35:58 WIB",
+    "lintang": "7.25 LS",
+    "bujur": "114.13 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "11 km",
+    "dirasakan": "II Sapundi"
+  },
+  {
     "waktu": "03 Okt 2025 22:26:00 WIB",
     "lintang": "1.33 LU",
     "bujur": "117.03 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.8",
     "kedalaman": "17 km",
     "dirasakan": "II-III Leuwiliang, II Pamijahan"
-  },
-  {
-    "waktu": "28 Sep 2025 09:54:26 WIB",
-    "lintang": "2.30 LS",
-    "bujur": "119.07 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "5 km",
-    "dirasakan": "III Mamuju"
   }
 ]
