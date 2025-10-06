@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Okt 2025 17:11:54 WIB",
+    "lintang": "0.79 LU",
+    "bujur": "92.45 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 km",
+    "wilayah": "473 km BaratDaya SINABANG-ACEH"
+  },
+  {
     "waktu": "03 Okt 2025 13:02:39 WIB",
     "lintang": "2.88 LS",
     "bujur": "136.32 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "118 km",
     "wilayah": "93 km Tenggara PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "14 Sep 2025 21:49:42 WIB",
-    "lintang": "2.84 LS",
-    "bujur": "100.93 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "18 km",
-    "wilayah": "35 km BaratDaya MUKOMUKO-BENGKULU"
   }
 ]
