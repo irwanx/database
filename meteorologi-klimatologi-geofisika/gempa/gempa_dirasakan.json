@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Okt 2025 03:29:44 WIB",
+    "lintang": "4.08 LS",
+    "bujur": "121.86 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "7 km",
+    "dirasakan": "II Lalolae"
+  },
+  {
     "waktu": "04 Okt 2025 19:35:58 WIB",
     "lintang": "7.25 LS",
     "bujur": "114.13 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.1",
     "kedalaman": "15 km",
     "dirasakan": "II-III Alor"
-  },
-  {
-    "waktu": "28 Sep 2025 21:06:20 WIB",
-    "lintang": "6.70 LS",
-    "bujur": "106.64 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "17 km",
-    "dirasakan": "II-III Leuwiliang, II Pamijahan"
   }
 ]
