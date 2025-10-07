@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08 Okt 2025 03:59:53 WIB",
+    "lintang": "3.64 LS",
+    "bujur": "128.21 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "10 km",
+    "dirasakan": "II Ambon"
+  },
+  {
     "waktu": "06 Okt 2025 03:29:44 WIB",
     "lintang": "4.08 LS",
     "bujur": "121.86 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.7",
     "kedalaman": "35 km",
     "dirasakan": "II Nabire"
-  },
-  {
-    "waktu": "29 Sep 2025 12:03:28 WIB",
-    "lintang": "8.16 LS",
-    "bujur": "124.60 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "15 km",
-    "dirasakan": "II-III Alor"
   }
 ]
