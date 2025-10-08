@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08 Okt 2025 09:07:50 WIB",
+    "lintang": "7.22 LS",
+    "bujur": "114.18 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "18 km",
+    "dirasakan": "III Sapudi"
+  },
+  {
     "waktu": "08 Okt 2025 03:59:53 WIB",
     "lintang": "3.64 LS",
     "bujur": "128.21 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "12 km",
     "dirasakan": "II Kota Sukabumi, II-III Kota Garut, II Kertasari, Kab. Bandung, II Kab. Bandung Barat"
-  },
-  {
-    "waktu": "29 Sep 2025 22:24:06 WIB",
-    "lintang": "3.25 LS",
-    "bujur": "135.31 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "35 km",
-    "dirasakan": "II Nabire"
   }
 ]
