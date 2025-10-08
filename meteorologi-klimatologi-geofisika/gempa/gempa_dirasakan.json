@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08 Okt 2025 17:09:31 WIB",
+    "lintang": "2.06 LS",
+    "bujur": "120.68 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "5 km",
+    "dirasakan": "III - IV Pendolo (kab. Poso)"
+  },
+  {
     "waktu": "08 Okt 2025 16:19:42 WIB",
     "lintang": "2.06 LS",
     "bujur": "120.68 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.1",
     "kedalaman": "163 km",
     "dirasakan": "III Tiakur"
-  },
-  {
-    "waktu": "30 Sep 2025 23:49:43 WIB",
-    "lintang": "7.25 LS",
-    "bujur": "114.22 BT",
-    "magnitudo": "6.5",
-    "kedalaman": "11 km",
-    "dirasakan": "III - IV Pamekasan, III Tuban, II-III Tabanan, III - IV Situbondo, II-III Probolinggo, II Lombok Tengah, II Lombok Utara, V - VI Pulau Sapudi, IV Sumenep, II Blitar, III Denpasar, II-III Buleleng, II-III Lumajang, II Bondowoso, III - IV Sampang, III - IV Surabaya, III Gianyar, II-III Kuta, II-III Banyuwangi, II-III Bangkalan, II Mataram, II Malang, II Poncokusumo, II Banjarmasin, II-III Jember, II-III Sidoarjo, II-III Mojokerto"
   }
 ]
