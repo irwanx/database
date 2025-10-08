@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "08 Okt 2025 16:19:42 WIB",
+    "lintang": "2.06 LS",
+    "bujur": "120.68 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "5 km",
+    "dirasakan": "III - IV Pendolo (Kab. Poso)"
+  },
+  {
+    "waktu": "08 Okt 2025 15:09:05 WIB",
+    "lintang": "4.27 LS",
+    "bujur": "102.24 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "28 km",
+    "dirasakan": "II-III Kota Bengkulu, II-III Seluma"
+  },
+  {
     "waktu": "08 Okt 2025 09:07:50 WIB",
     "lintang": "7.22 LS",
     "bujur": "114.18 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "6.5",
     "kedalaman": "11 km",
     "dirasakan": "III - IV Pamekasan, III Tuban, II-III Tabanan, III - IV Situbondo, II-III Probolinggo, II Lombok Tengah, II Lombok Utara, V - VI Pulau Sapudi, IV Sumenep, II Blitar, III Denpasar, II-III Buleleng, II-III Lumajang, II Bondowoso, III - IV Sampang, III - IV Surabaya, III Gianyar, II-III Kuta, II-III Banyuwangi, II-III Bangkalan, II Mataram, II Malang, II Poncokusumo, II Banjarmasin, II-III Jember, II-III Sidoarjo, II-III Mojokerto"
-  },
-  {
-    "waktu": "30 Sep 2025 08:41:30 WIB",
-    "lintang": "8.22 LS",
-    "bujur": "107.38 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "13 km",
-    "dirasakan": "II Kabupaten Pangandaran"
-  },
-  {
-    "waktu": "30 Sep 2025 05:30:15 WIB",
-    "lintang": "8.20 LS",
-    "bujur": "107.41 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "12 km",
-    "dirasakan": "II Kota Sukabumi, II-III Kota Garut, II Kertasari, Kab. Bandung, II Kab. Bandung Barat"
   }
 ]
