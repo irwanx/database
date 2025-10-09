@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Okt 2025 06:58:06 WIB",
+    "lintang": "2.31 LS",
+    "bujur": "140.55 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "9 km",
+    "dirasakan": "II-III Jayapura, II-III Sentani"
+  },
+  {
     "waktu": "08 Okt 2025 17:09:31 WIB",
     "lintang": "2.06 LS",
     "bujur": "120.68 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.3",
     "kedalaman": "24 km",
     "dirasakan": "II-III Alor"
-  },
-  {
-    "waktu": "01 Okt 2025 20:49:51 WIB",
-    "lintang": "7.61 LS",
-    "bujur": "128.37 BT",
-    "magnitudo": "6.1",
-    "kedalaman": "163 km",
-    "dirasakan": "III Tiakur"
   }
 ]
