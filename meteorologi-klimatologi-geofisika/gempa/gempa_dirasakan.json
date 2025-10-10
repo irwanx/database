@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Okt 2025 13:35:10 WIB",
+    "lintang": "5.14 LU",
+    "bujur": "94.87 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "43 km",
+    "dirasakan": "II - III Aceh Besar, II - III Banda Aceh, II Aceh Jaya"
+  },
+  {
     "waktu": "09 Okt 2025 06:58:06 WIB",
     "lintang": "2.31 LS",
     "bujur": "140.55 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.7",
     "kedalaman": "43 km",
     "dirasakan": "IV-V Nabire, III Enarotali"
-  },
-  {
-    "waktu": "02 Okt 2025 12:59:17 WIB",
-    "lintang": "8.23 LS",
-    "bujur": "124.61 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "24 km",
-    "dirasakan": "II-III Alor"
   }
 ]
