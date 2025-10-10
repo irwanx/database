@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Okt 2025 19:08:35 WIB",
+    "lintang": "3.38 LS",
+    "bujur": "135.55 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "25 km",
+    "dirasakan": "II Nabire"
+  },
+  {
     "waktu": "10 Okt 2025 18:12:12 WIB",
     "lintang": "6.93 LU",
     "bujur": "126.66 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "16 km",
     "dirasakan": "II Enarotali"
-  },
-  {
-    "waktu": "03 Okt 2025 13:02:39 WIB",
-    "lintang": "2.88 LS",
-    "bujur": "136.32 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 km",
-    "dirasakan": "III Nabire, II - III Enarotali, II - III Dogiyai"
   }
 ]
