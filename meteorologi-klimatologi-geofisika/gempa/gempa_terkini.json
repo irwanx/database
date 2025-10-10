@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Okt 2025 17:02:50 WIB",
+    "lintang": "7.09 LS",
+    "bujur": "129.68 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "226 km",
+    "wilayah": "205 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "10 Okt 2025 10:01:57 WIB",
     "lintang": "7.13 LS",
     "bujur": "102.55 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "20 km",
     "wilayah": "23 km BaratLaut NABIRE-PAPUATENGAH"
-  },
-  {
-    "waktu": "19 Sep 2025 01:19:50 WIB",
-    "lintang": "3.47 LS",
-    "bujur": "135.49 BT",
-    "magnitudo": "6.6",
-    "kedalaman": "24 km",
-    "wilayah": "29 km BaratLaut NABIRE-PAPUATENGAH"
   }
 ]
