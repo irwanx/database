@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Okt 2025 15:15:18 WIB",
+    "lintang": "6.69 LS",
+    "bujur": "107.79 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "4 km",
+    "dirasakan": "II-III Ciater"
+  },
+  {
     "waktu": "10 Okt 2025 19:08:35 WIB",
     "lintang": "3.38 LS",
     "bujur": "135.55 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "25 km",
     "dirasakan": "III Muko-Muko, II-III Pesisir Selatan"
-  },
-  {
-    "waktu": "03 Okt 2025 13:18:30 WIB",
-    "lintang": "2.83 LS",
-    "bujur": "136.29 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "16 km",
-    "dirasakan": "II Enarotali"
   }
 ]
