@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Okt 2025 10:00:34 WIB",
+    "lintang": "2.50 LS",
+    "bujur": "139.38 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "20 km",
+    "dirasakan": "II Genyem"
+  },
+  {
     "waktu": "11 Okt 2025 15:15:18 WIB",
     "lintang": "6.69 LS",
     "bujur": "107.79 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.1",
     "kedalaman": "2 km",
     "dirasakan": "II-III Kelay Kab. Berau"
-  },
-  {
-    "waktu": "03 Okt 2025 18:03:18 WIB",
-    "lintang": "3.08 LS",
-    "bujur": "101.23 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "25 km",
-    "dirasakan": "III Muko-Muko, II-III Pesisir Selatan"
   }
 ]
