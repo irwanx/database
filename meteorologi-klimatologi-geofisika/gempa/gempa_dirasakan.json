@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Okt 2025 12:58:00 WIB",
+    "lintang": "5.74 LS",
+    "bujur": "112.54 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Bawean"
+  },
+  {
     "waktu": "12 Okt 2025 10:00:34 WIB",
     "lintang": "2.50 LS",
     "bujur": "139.38 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "11 km",
     "dirasakan": "II Sapundi"
-  },
-  {
-    "waktu": "03 Okt 2025 22:26:00 WIB",
-    "lintang": "1.33 LU",
-    "bujur": "117.03 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "2 km",
-    "dirasakan": "II-III Kelay Kab. Berau"
   }
 ]
