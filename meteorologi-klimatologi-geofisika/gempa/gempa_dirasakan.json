@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Okt 2025 21:41:06 WIB",
+    "lintang": "4.75 LS",
+    "bujur": "122.64 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 km",
+    "dirasakan": "III - IV Muna"
+  },
+  {
     "waktu": "12 Okt 2025 12:58:00 WIB",
     "lintang": "5.74 LS",
     "bujur": "112.54 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.2",
     "kedalaman": "7 km",
     "dirasakan": "II Lalolae"
-  },
-  {
-    "waktu": "04 Okt 2025 19:35:58 WIB",
-    "lintang": "7.25 LS",
-    "bujur": "114.13 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "11 km",
-    "dirasakan": "II Sapundi"
   }
 ]
