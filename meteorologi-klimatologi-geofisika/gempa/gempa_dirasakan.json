@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13 Okt 2025 05:08:58 WIB",
+    "lintang": "4.77 LS",
+    "bujur": "122.59 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "5 km",
+    "dirasakan": "III - IV Muna Barat, III - IV Muna"
+  },
+  {
     "waktu": "12 Okt 2025 21:41:06 WIB",
     "lintang": "4.75 LS",
     "bujur": "122.64 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.7",
     "kedalaman": "10 km",
     "dirasakan": "II Ambon"
-  },
-  {
-    "waktu": "06 Okt 2025 03:29:44 WIB",
-    "lintang": "4.08 LS",
-    "bujur": "121.86 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "7 km",
-    "dirasakan": "II Lalolae"
   }
 ]
