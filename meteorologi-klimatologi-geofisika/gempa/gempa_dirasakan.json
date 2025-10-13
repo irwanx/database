@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "13 Okt 2025 22:57:08 WIB",
+    "lintang": "0.13 LU",
+    "bujur": "100.04 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "4 km",
+    "dirasakan": "II Lubuk Sikaping"
+  },
+  {
+    "waktu": "13 Okt 2025 22:09:54 WIB",
+    "lintang": "2.64 LS",
+    "bujur": "101.80 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Bangko"
+  },
+  {
     "waktu": "13 Okt 2025 14:10:31 WIB",
     "lintang": "7.28 LS",
     "bujur": "114.14 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "5 km",
     "dirasakan": "III - IV Pendolo (Kab. Poso)"
-  },
-  {
-    "waktu": "08 Okt 2025 15:09:05 WIB",
-    "lintang": "4.27 LS",
-    "bujur": "102.24 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "28 km",
-    "dirasakan": "II-III Kota Bengkulu, II-III Seluma"
-  },
-  {
-    "waktu": "08 Okt 2025 09:07:50 WIB",
-    "lintang": "7.22 LS",
-    "bujur": "114.18 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "18 km",
-    "dirasakan": "III Sapudi"
   }
 ]
