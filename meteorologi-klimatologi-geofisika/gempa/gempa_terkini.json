@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13 Okt 2025 14:10:31 WIB",
+    "lintang": "7.28 LS",
+    "bujur": "114.14 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "14 km",
+    "wilayah": "47 km Tenggara SUMENEP-JATIM"
+  },
+  {
     "waktu": "12 Okt 2025 10:00:34 WIB",
     "lintang": "2.50 LS",
     "bujur": "139.38 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 km",
     "wilayah": "122 km BaratLaut SINABANG-ACEH"
-  },
-  {
-    "waktu": "23 Sep 2025 01:31:54 WIB",
-    "lintang": "6.02 LS",
-    "bujur": "130.86 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "140 km",
-    "wilayah": "211 km BaratDaya MALUKUTENGGARA"
   }
 ]
