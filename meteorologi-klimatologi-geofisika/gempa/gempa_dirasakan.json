@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Okt 2025 00:03:02 WIB",
+    "lintang": "3.53 LS",
+    "bujur": "135.49 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 km",
+    "dirasakan": "II Nabire"
+  },
+  {
     "waktu": "13 Okt 2025 22:57:08 WIB",
     "lintang": "0.13 LU",
     "bujur": "100.04 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "5 km",
     "dirasakan": "III - IV Pendolo (kab. Poso)"
-  },
-  {
-    "waktu": "08 Okt 2025 16:19:42 WIB",
-    "lintang": "2.06 LS",
-    "bujur": "120.68 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "5 km",
-    "dirasakan": "III - IV Pendolo (Kab. Poso)"
   }
 ]
