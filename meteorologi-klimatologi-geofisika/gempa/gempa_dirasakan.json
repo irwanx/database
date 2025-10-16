@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16 Okt 2025 21:31:06 WIB",
+    "lintang": "1.91 LS",
+    "bujur": "138.91 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "20 km",
+    "dirasakan": "II-III Sarmi"
+  },
+  {
     "waktu": "16 Okt 2025 12:48:53 WIB",
     "lintang": "1.94 LS",
     "bujur": "139.03 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.7",
     "kedalaman": "226 km",
     "dirasakan": "II Saumlaki"
-  },
-  {
-    "waktu": "10 Okt 2025 13:35:10 WIB",
-    "lintang": "5.14 LU",
-    "bujur": "94.87 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "43 km",
-    "dirasakan": "II - III Aceh Besar, II - III Banda Aceh, II Aceh Jaya"
   }
 ]
