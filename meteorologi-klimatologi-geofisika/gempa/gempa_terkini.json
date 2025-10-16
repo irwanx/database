@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Okt 2025 00:02:58 WIB",
+    "lintang": "1.91 LS",
+    "bujur": "139.21 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "14 km",
+    "wilayah": "51 km Tenggara SARMI-PAPUA"
+  },
+  {
     "waktu": "16 Okt 2025 23:01:43 WIB",
     "lintang": "2.07 LS",
     "bujur": "139.18 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 km",
     "wilayah": "114 km BaratDaya WEWAK-PNG"
-  },
-  {
-    "waktu": "24 Sep 2025 02:54:43 WIB",
-    "lintang": "9.50 LS",
-    "bujur": "119.62 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "34 km",
-    "wilayah": "13 km TimurLaut WAIBAKUL-NTT"
   }
 ]
