@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Okt 2025 16:32:18 WIB",
+    "lintang": "3.86 LS",
+    "bujur": "118.70 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 km",
+    "dirasakan": "III Polewali Mandar"
+  },
+  {
     "waktu": "17 Okt 2025 11:13:04 WIB",
     "lintang": "2.21 LS",
     "bujur": "139.05 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "5 km",
     "dirasakan": "III - IV Muna Barat, III - IV Muna"
-  },
-  {
-    "waktu": "12 Okt 2025 21:41:06 WIB",
-    "lintang": "4.75 LS",
-    "bujur": "122.64 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 km",
-    "dirasakan": "III - IV Muna, III - IV Muna Barat"
   }
 ]
