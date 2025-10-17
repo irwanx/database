@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Okt 2025 10:06:20 WIB",
+    "lintang": "3.36 LS",
+    "bujur": "135.56 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "25 km",
+    "dirasakan": "II Nabire"
+  },
+  {
     "waktu": "17 Okt 2025 09:30:14 WIB",
     "lintang": "1.60 LS",
     "bujur": "139.03 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "10 km",
     "dirasakan": "II-III Bawean"
-  },
-  {
-    "waktu": "12 Okt 2025 10:00:34 WIB",
-    "lintang": "2.50 LS",
-    "bujur": "139.38 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "20 km",
-    "dirasakan": "II Genyem"
   }
 ]
