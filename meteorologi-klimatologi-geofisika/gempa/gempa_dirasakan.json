@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Okt 2025 11:13:04 WIB",
+    "lintang": "2.21 LS",
+    "bujur": "139.05 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "19 km",
+    "dirasakan": "IV Sarmi"
+  },
+  {
     "waktu": "17 Okt 2025 10:06:20 WIB",
     "lintang": "3.36 LS",
     "bujur": "135.56 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "10 km",
     "dirasakan": "III - IV Muna, III - IV Muna Barat"
-  },
-  {
-    "waktu": "12 Okt 2025 12:58:00 WIB",
-    "lintang": "5.74 LS",
-    "bujur": "112.54 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Bawean"
   }
 ]
