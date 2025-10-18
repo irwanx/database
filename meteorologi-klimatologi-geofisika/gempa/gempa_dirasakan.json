@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Okt 2025 22:57:02 WIB",
+    "lintang": "8.11 LS",
+    "bujur": "114.78 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "197 km",
+    "dirasakan": "II Kuta"
+  },
+  {
     "waktu": "17 Okt 2025 16:32:18 WIB",
     "lintang": "3.86 LS",
     "bujur": "118.70 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "14 km",
     "dirasakan": "II - III Pasuruan, II - III Pamekasan, III - IV Sapudi, II Kota Malang, III Kab. Sumenep"
-  },
-  {
-    "waktu": "13 Okt 2025 05:08:58 WIB",
-    "lintang": "4.77 LS",
-    "bujur": "122.59 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "5 km",
-    "dirasakan": "III - IV Muna Barat, III - IV Muna"
   }
 ]
