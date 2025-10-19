@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Okt 2025 09:52:35 WIB",
+    "lintang": "1.73 LS",
+    "bujur": "139.04 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "40 km",
+    "dirasakan": "II Sarmi"
+  },
+  {
     "waktu": "18 Okt 2025 22:57:02 WIB",
     "lintang": "8.11 LS",
     "bujur": "114.78 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "10 km",
     "dirasakan": "II-III Bangko"
-  },
-  {
-    "waktu": "13 Okt 2025 14:10:31 WIB",
-    "lintang": "7.28 LS",
-    "bujur": "114.14 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "14 km",
-    "dirasakan": "II - III Pasuruan, II - III Pamekasan, III - IV Sapudi, II Kota Malang, III Kab. Sumenep"
   }
 ]
