@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Okt 2025 22:37:20 WIB",
+    "lintang": "1.38 LU",
+    "bujur": "125.85 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "21 km",
+    "dirasakan": "II-III Bitung, II-III MInahasa Utara, II-III Minahasa, II-III Tomohon, II Manado"
+  },
+  {
     "waktu": "19 Okt 2025 17:05:26 WIB",
     "lintang": "1.93 LS",
     "bujur": "138.88 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "20 km",
     "dirasakan": "II-III Sarmi"
-  },
-  {
-    "waktu": "16 Okt 2025 12:48:53 WIB",
-    "lintang": "1.94 LS",
-    "bujur": "139.03 BT",
-    "magnitudo": "6.6",
-    "kedalaman": "18 km",
-    "dirasakan": "V Sarmi, III Jayapura, II Wamena, II Timika, II Nabire"
   }
 ]
