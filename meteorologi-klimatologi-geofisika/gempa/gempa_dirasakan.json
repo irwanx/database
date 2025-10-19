@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Okt 2025 13:53:21 WIB",
+    "lintang": "8.26 LS",
+    "bujur": "109.20 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "30 km",
+    "dirasakan": "II-III Cilacap, II-III Kroya, II Baturaden , II Purworejo, II Bantul, II Kebumen"
+  },
+  {
     "waktu": "19 Okt 2025 09:52:35 WIB",
     "lintang": "1.73 LS",
     "bujur": "139.04 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "4 km",
     "dirasakan": "II Lubuk Sikaping"
-  },
-  {
-    "waktu": "13 Okt 2025 22:09:54 WIB",
-    "lintang": "2.64 LS",
-    "bujur": "101.80 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Bangko"
   }
 ]
