@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Okt 2025 12:56:03 WIB",
+    "lintang": "9.27 LS",
+    "bujur": "119.86 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "17 km",
+    "dirasakan": "III Waingapu, III Kab. Bima, III Kota Bima"
+  },
+  {
     "waktu": "19 Okt 2025 22:37:20 WIB",
     "lintang": "1.38 LU",
     "bujur": "125.85 BT",
@@ -109,14 +117,6 @@
     "bujur": "139.18 BT",
     "magnitudo": "5.0",
     "kedalaman": "10 km",
-    "dirasakan": "II-III Sarmi"
-  },
-  {
-    "waktu": "16 Okt 2025 21:31:06 WIB",
-    "lintang": "1.91 LS",
-    "bujur": "138.91 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "20 km",
     "dirasakan": "II-III Sarmi"
   }
 ]
