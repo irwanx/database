@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Okt 2025 05:44:53 WIB",
+    "lintang": "7.40 LS",
+    "bujur": "130.80 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "121 km",
+    "wilayah": "84 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "19 Okt 2025 09:52:35 WIB",
     "lintang": "1.73 LS",
     "bujur": "139.04 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "12 km",
     "wilayah": "88 km TimurLaut MALUKUTENGAH"
-  },
-  {
-    "waktu": "25 Sep 2025 16:04:12 WIB",
-    "lintang": "7.82 LS",
-    "bujur": "114.47 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "12 km",
-    "wilayah": "46 km TimurLaut BANYUWANGI-JATIM"
   }
 ]
