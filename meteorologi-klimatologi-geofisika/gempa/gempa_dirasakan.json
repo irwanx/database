@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21 Okt 2025 14:10:35 WIB",
+    "lintang": "9.43 LS",
+    "bujur": "120.11 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "42 km",
+    "dirasakan": "II Waingapu"
+  },
+  {
     "waktu": "21 Okt 2025 07:31:30 WIB",
     "lintang": "8.29 LS",
     "bujur": "120.34 BT",
@@ -109,14 +117,6 @@
     "bujur": "139.03 BT",
     "magnitudo": "3.0",
     "kedalaman": "10 km",
-    "dirasakan": "II Sarmi"
-  },
-  {
-    "waktu": "17 Okt 2025 01:25:06 WIB",
-    "lintang": "1.89 LS",
-    "bujur": "139.07 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "12 km",
     "dirasakan": "II Sarmi"
   }
 ]
