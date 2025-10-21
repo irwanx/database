@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21 Okt 2025 07:31:30 WIB",
+    "lintang": "8.29 LS",
+    "bujur": "120.34 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "14 km",
+    "dirasakan": "I-II Manggarai Timur"
+  },
+  {
     "waktu": "20 Okt 2025 23:15:21 WIB",
     "lintang": "1.76 LS",
     "bujur": "138.96 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "12 km",
     "dirasakan": "II Sarmi"
-  },
-  {
-    "waktu": "17 Okt 2025 00:02:58 WIB",
-    "lintang": "1.91 LS",
-    "bujur": "139.21 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "14 km",
-    "dirasakan": "III Sarmi"
   }
 ]
