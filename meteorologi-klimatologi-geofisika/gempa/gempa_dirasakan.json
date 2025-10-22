@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Okt 2025 22:07:57 WIB",
+    "lintang": "5.38 LU",
+    "bujur": "94.76 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "38 km",
+    "dirasakan": "II Banda Aceh, II Aceh Besar"
+  },
+  {
     "waktu": "22 Okt 2025 20:25:08 WIB",
     "lintang": "0.79 LS",
     "bujur": "127.53 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "10 km",
     "dirasakan": "III Polewali Mandar"
-  },
-  {
-    "waktu": "17 Okt 2025 11:13:04 WIB",
-    "lintang": "2.21 LS",
-    "bujur": "139.05 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "19 km",
-    "dirasakan": "IV Sarmi"
   }
 ]
