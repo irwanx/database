@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "22 Okt 2025 20:25:08 WIB",
+    "lintang": "0.79 LS",
+    "bujur": "127.53 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "11 km",
+    "dirasakan": "II-III Labuha"
+  },
+  {
+    "waktu": "22 Okt 2025 16:07:13 WIB",
+    "lintang": "4.05 LS",
+    "bujur": "126.26 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "12 km",
+    "dirasakan": "II Leksula"
+  },
+  {
     "waktu": "21 Okt 2025 14:10:35 WIB",
     "lintang": "9.43 LS",
     "bujur": "120.11 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "19 km",
     "dirasakan": "IV Sarmi"
-  },
-  {
-    "waktu": "17 Okt 2025 10:06:20 WIB",
-    "lintang": "3.36 LS",
-    "bujur": "135.56 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "25 km",
-    "dirasakan": "II Nabire"
-  },
-  {
-    "waktu": "17 Okt 2025 09:30:14 WIB",
-    "lintang": "1.60 LS",
-    "bujur": "139.03 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "10 km",
-    "dirasakan": "II Sarmi"
   }
 ]
