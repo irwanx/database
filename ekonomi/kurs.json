@@ -158,86 +158,86 @@
   {
     "mata_uang": "AED",
     "nilai": "1",
-    "kurs_jual": "4.539,18",
-    "kurs_beli": "4.493,77"
+    "kurs_jual": "4.546,84",
+    "kurs_beli": "4.501,35"
   },
   {
     "mata_uang": "AUD",
     "nilai": "1",
-    "kurs_jual": "10.820,09",
-    "kurs_beli": "10.705,83"
+    "kurs_jual": "10.861,73",
+    "kurs_beli": "10.748,70"
   },
   {
     "mata_uang": "BND",
     "nilai": "1",
-    "kurs_jual": "12.865,14",
-    "kurs_beli": "12.736,16"
+    "kurs_jual": "12.865,02",
+    "kurs_beli": "12.733,09"
   },
   {
     "mata_uang": "CAD",
     "nilai": "1",
-    "kurs_jual": "11.860,24",
-    "kurs_beli": "11.739,73"
+    "kurs_jual": "11.925,22",
+    "kurs_beli": "11.804,04"
   },
   {
     "mata_uang": "CHF",
     "nilai": "1",
-    "kurs_jual": "21.031,84",
-    "kurs_beli": "20.812,08"
+    "kurs_jual": "20.982,64",
+    "kurs_beli": "20.763,43"
   },
   {
     "mata_uang": "CNH",
     "nilai": "1",
-    "kurs_jual": "2.342,12",
-    "kurs_beli": "2.318,17"
+    "kurs_jual": "2.343,34",
+    "kurs_beli": "2.319,48"
   },
   {
     "mata_uang": "CNY",
     "nilai": "1",
-    "kurs_jual": "2.342,45",
-    "kurs_beli": "2.318,89"
+    "kurs_jual": "2.344,43",
+    "kurs_beli": "2.320,88"
   },
   {
     "mata_uang": "DKK",
     "nilai": "1",
-    "kurs_jual": "2.595,26",
-    "kurs_beli": "2.569,20"
+    "kurs_jual": "2.594,23",
+    "kurs_beli": "2.567,74"
   },
   {
     "mata_uang": "EUR",
     "nilai": "1",
-    "kurs_jual": "19.382,80",
-    "kurs_beli": "19.188,29"
+    "kurs_jual": "19.375,43",
+    "kurs_beli": "19.179,35"
   },
   {
     "mata_uang": "GBP",
     "nilai": "1",
-    "kurs_jual": "22.330,40",
-    "kurs_beli": "22.106,57"
+    "kurs_jual": "22.252,86",
+    "kurs_beli": "22.023,18"
   },
   {
     "mata_uang": "HKD",
     "nilai": "1",
-    "kurs_jual": "2.146,37",
-    "kurs_beli": "2.124,80"
+    "kurs_jual": "2.149,41",
+    "kurs_beli": "2.127,75"
   },
   {
     "mata_uang": "JPY",
     "nilai": "100",
-    "kurs_jual": "11.030,06",
-    "kurs_beli": "10.919,60"
+    "kurs_jual": "10.999,20",
+    "kurs_beli": "10.889,04"
   },
   {
     "mata_uang": "KRW",
     "nilai": "1",
     "kurs_jual": "11,68",
-    "kurs_beli": "11,56"
+    "kurs_beli": "11,55"
   },
   {
     "mata_uang": "KWD",
     "nilai": "1",
-    "kurs_jual": "54.469,22",
-    "kurs_beli": "53.909,66"
+    "kurs_jual": "54.491,73",
+    "kurs_beli": "53.931,96"
   },
   {
     "mata_uang": "LAK",
@@ -248,62 +248,62 @@
   {
     "mata_uang": "MYR",
     "nilai": "1",
-    "kurs_jual": "3.946,96",
-    "kurs_beli": "3.903,99"
+    "kurs_jual": "3.950,81",
+    "kurs_beli": "3.907,80"
   },
   {
     "mata_uang": "NOK",
     "nilai": "1",
-    "kurs_jual": "1.656,33",
-    "kurs_beli": "1.637,64"
+    "kurs_jual": "1.666,97",
+    "kurs_beli": "1.649,98"
   },
   {
     "mata_uang": "NZD",
     "nilai": "1",
-    "kurs_jual": "9.534,68",
-    "kurs_beli": "9.433,21"
+    "kurs_jual": "9.609,23",
+    "kurs_beli": "9.508,66"
   },
   {
     "mata_uang": "PGK",
     "nilai": "1",
-    "kurs_jual": "3.976,26",
-    "kurs_beli": "3.804,65"
+    "kurs_jual": "4.098,20",
+    "kurs_beli": "3.809,42"
   },
   {
     "mata_uang": "PHP",
     "nilai": "1",
-    "kurs_jual": "286,33",
-    "kurs_beli": "283,33"
+    "kurs_jual": "285,88",
+    "kurs_beli": "282,87"
   },
   {
     "mata_uang": "SAR",
     "nilai": "1",
-    "kurs_jual": "4.445,50",
-    "kurs_beli": "4.401,03"
+    "kurs_jual": "4.453,00",
+    "kurs_beli": "4.408,46"
   },
   {
     "mata_uang": "SEK",
     "nilai": "1",
-    "kurs_jual": "1.769,92",
-    "kurs_beli": "1.751,99"
+    "kurs_jual": "1.771,42",
+    "kurs_beli": "1.753,48"
   },
   {
     "mata_uang": "SGD",
     "nilai": "1",
-    "kurs_jual": "12.865,14",
-    "kurs_beli": "12.736,16"
+    "kurs_jual": "12.865,02",
+    "kurs_beli": "12.733,09"
   },
   {
     "mata_uang": "THB",
     "nilai": "1",
-    "kurs_jual": "510,63",
-    "kurs_beli": "504,93"
+    "kurs_jual": "509,30",
+    "kurs_beli": "503,62"
   },
   {
     "mata_uang": "USD",
     "nilai": "1",
-    "kurs_jual": "16.671,94",
-    "kurs_beli": "16.506,06"
+    "kurs_jual": "16.700,08",
+    "kurs_beli": "16.533,92"
   },
   {
     "mata_uang": "VND",

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Okt 2025 06:24:16 WIB",
+    "lintang": "3.38 LS",
+    "bujur": "128.63 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "11 km",
+    "dirasakan": "II-III Amalatu"
+  },
+  {
     "waktu": "22 Okt 2025 22:07:57 WIB",
     "lintang": "5.38 LU",
     "bujur": "94.76 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.8",
     "kedalaman": "197 km",
     "dirasakan": "II Kuta"
-  },
-  {
-    "waktu": "17 Okt 2025 16:32:18 WIB",
-    "lintang": "3.86 LS",
-    "bujur": "118.70 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 km",
-    "dirasakan": "III Polewali Mandar"
   }
 ]
