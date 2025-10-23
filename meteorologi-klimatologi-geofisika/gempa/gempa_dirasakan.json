@@ -1,11 +1,19 @@
 [
   {
+    "waktu": "24 Okt 2025 03:12:11 WIB",
+    "lintang": "4.00 LS",
+    "bujur": "121.96 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "5 km",
+    "dirasakan": "III Kolaka Timur"
+  },
+  {
     "waktu": "23 Okt 2025 18:46:12 WIB",
     "lintang": "6.17 LS",
     "bujur": "131.08 BT",
     "magnitudo": "6.1",
     "kedalaman": "117 km",
-    "dirasakan": "II Sorong, III Kaimana, II Saumlaki"
+    "dirasakan": "II Sorong, III Kaimana, II Saumlaki, III Fak-Fak, II Larat"
   },
   {
     "waktu": "23 Okt 2025 17:37:26 WIB",
@@ -110,13 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "5 km",
     "dirasakan": "II Malili"
-  },
-  {
-    "waktu": "19 Okt 2025 13:53:21 WIB",
-    "lintang": "8.26 LS",
-    "bujur": "109.20 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "30 km",
-    "dirasakan": "II-III Cilacap, II-III Kroya, II Baturaden , II Purworejo, II Bantul, II Kebumen"
   }
 ]
