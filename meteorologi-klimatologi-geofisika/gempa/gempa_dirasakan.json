@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "23 Okt 2025 18:46:12 WIB",
+    "lintang": "6.17 LS",
+    "bujur": "131.08 BT",
+    "magnitudo": "6.1",
+    "kedalaman": "117 km",
+    "dirasakan": "II Sorong, III Kaimana, II Saumlaki"
+  },
+  {
+    "waktu": "23 Okt 2025 17:37:26 WIB",
+    "lintang": "4.61 LS",
+    "bujur": "102.77 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "33 km",
+    "dirasakan": "II-III Manna, II-III Kedurang"
+  },
+  {
     "waktu": "23 Okt 2025 06:24:16 WIB",
     "lintang": "3.38 LS",
     "bujur": "128.63 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "30 km",
     "dirasakan": "II-III Cilacap, II-III Kroya, II Baturaden , II Purworejo, II Bantul, II Kebumen"
-  },
-  {
-    "waktu": "19 Okt 2025 09:52:35 WIB",
-    "lintang": "1.73 LS",
-    "bujur": "139.04 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "40 km",
-    "dirasakan": "II Sarmi"
-  },
-  {
-    "waktu": "18 Okt 2025 22:57:02 WIB",
-    "lintang": "8.11 LS",
-    "bujur": "114.78 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "197 km",
-    "dirasakan": "II Kuta"
   }
 ]
