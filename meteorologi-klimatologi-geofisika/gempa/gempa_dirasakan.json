@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24 Okt 2025 08:52:03 WIB",
+    "lintang": "4.31 LS",
+    "bujur": "122.39 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 km",
+    "dirasakan": "III Andoolo, III Palangga"
+  },
+  {
     "waktu": "24 Okt 2025 03:12:11 WIB",
     "lintang": "4.00 LS",
     "bujur": "121.96 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "12 km",
     "dirasakan": "II-III Ile Ape"
-  },
-  {
-    "waktu": "19 Okt 2025 15:58:00 WIB",
-    "lintang": "2.45 LS",
-    "bujur": "121.22 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "5 km",
-    "dirasakan": "II Malili"
   }
 ]
