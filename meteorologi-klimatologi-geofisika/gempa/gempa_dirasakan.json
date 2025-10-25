@@ -1,6 +1,14 @@
 [
   {
-    "waktu": "26 Okt 2025 10:59:17 WIB",
+    "waktu": "25 Okt 2025 11:56:27 WIB",
+    "lintang": "4.42 LU",
+    "bujur": "96.50 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "dirasakan": "III Nagan Raya, II-III Bener Meriah, II-III Aceh Tengah, III Aceh Selatan, III Aceh Utara"
+  },
+  {
+    "waktu": "25 Okt 2025 10:59:17 WIB",
     "lintang": "2.08 LS",
     "bujur": "120.67 BT",
     "magnitudo": "4.5",
@@ -110,13 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "17 km",
     "dirasakan": "III Waingapu, III Kab. Bima, III Kota Bima"
-  },
-  {
-    "waktu": "19 Okt 2025 22:37:20 WIB",
-    "lintang": "1.38 LU",
-    "bujur": "125.85 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "21 km",
-    "dirasakan": "II-III Bitung, II-III MInahasa Utara, II-III Minahasa, II-III Tomohon, II Manado"
   }
 ]

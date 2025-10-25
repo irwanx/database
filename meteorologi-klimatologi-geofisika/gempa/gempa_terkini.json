@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Okt 2025 11:56:28 WIB",
+    "lintang": "4.42 LU",
+    "bujur": "96.50 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "wilayah": "29 km TimurLaut KAB-NAGANRAYA-ACEH"
+  },
+  {
     "waktu": "24 Okt 2025 11:46:36 WIB",
     "lintang": "9.03 LS",
     "bujur": "123.73 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.7",
     "kedalaman": "43 km",
     "wilayah": "39 km BaratLaut WAROPEN-PAPUA"
-  },
-  {
-    "waktu": "01 Okt 2025 20:49:51 WIB",
-    "lintang": "7.61 LS",
-    "bujur": "128.37 BT",
-    "magnitudo": "6.1",
-    "kedalaman": "163 km",
-    "wilayah": "88 km TimurLaut MALUKUBRTDAYA"
   }
 ]
