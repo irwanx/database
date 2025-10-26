@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Okt 2025 00:04:28 WIB",
+    "lintang": "9.06 LS",
+    "bujur": "123.97 BT",
+    "magnitudo": "6.3",
+    "kedalaman": "75 km",
+    "wilayah": "82 km BaratLaut TIMORTENGAHUT-NTT"
+  },
+  {
     "waktu": "25 Okt 2025 11:56:28 WIB",
     "lintang": "4.42 LU",
     "bujur": "96.50 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 km",
     "wilayah": "39 km BaratDaya WAROPEN-PAPUA"
-  },
-  {
-    "waktu": "03 Okt 2025 05:45:08 WIB",
-    "lintang": "2.83 LS",
-    "bujur": "136.32 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "43 km",
-    "wilayah": "39 km BaratLaut WAROPEN-PAPUA"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Okt 2025 00:04:28 WIB",
+    "lintang": "9.06 LS",
+    "bujur": "123.97 BT",
+    "magnitudo": "6.3",
+    "kedalaman": "75 km",
+    "dirasakan": "III-IV Maumere, III-IV Ende, III-IV Kefamenanu, III-IV Kupang, III-IV Waingapu, III-IV Lembata, III-IV Alor, III-IV Larantuka, III-IV Niki Niki"
+  },
+  {
     "waktu": "25 Okt 2025 11:56:27 WIB",
     "lintang": "4.42 LU",
     "bujur": "96.50 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "16 km",
     "dirasakan": "III-IV Sarmi"
-  },
-  {
-    "waktu": "20 Okt 2025 12:56:03 WIB",
-    "lintang": "9.27 LS",
-    "bujur": "119.86 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "17 km",
-    "dirasakan": "III Waingapu, III Kab. Bima, III Kota Bima"
   }
 ]
