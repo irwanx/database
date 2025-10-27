@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Okt 2025 22:56:58 WIB",
+    "lintang": "4.21 LU",
+    "bujur": "97.50 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "6 km",
+    "dirasakan": "III Gayo Lues , II-III Aceh Selatan, II-III Bener Meriah, II Aceh Tengah, II Aceh Tamiang"
+  },
+  {
     "waktu": "27 Okt 2025 00:04:28 WIB",
     "lintang": "9.06 LS",
     "bujur": "123.97 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.1",
     "kedalaman": "14 km",
     "dirasakan": "I-II Manggarai Timur"
-  },
-  {
-    "waktu": "20 Okt 2025 23:15:21 WIB",
-    "lintang": "1.76 LS",
-    "bujur": "138.96 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "16 km",
-    "dirasakan": "III-IV Sarmi"
   }
 ]
