@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "28 Okt 2025 08:31:20 WIB",
+    "lintang": "1.43 LU",
+    "bujur": "121.77 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 km",
+    "wilayah": "68 km TimurLaut BUOL-SULTENG"
+  },
+  {
+    "waktu": "28 Okt 2025 06:35:15 WIB",
+    "lintang": "4.89 LU",
+    "bujur": "96.06 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "wilayah": "26 km BaratDaya KAB-PIDIEJAYA-ACEH"
+  },
+  {
     "waktu": "27 Okt 2025 00:04:28 WIB",
     "lintang": "9.06 LS",
     "bujur": "123.97 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "62 km",
     "wilayah": "200 km Tenggara ENGGANO-BENGKULU"
-  },
-  {
-    "waktu": "06 Okt 2025 17:11:54 WIB",
-    "lintang": "0.79 LU",
-    "bujur": "92.45 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "10 km",
-    "wilayah": "473 km BaratDaya SINABANG-ACEH"
-  },
-  {
-    "waktu": "03 Okt 2025 13:02:39 WIB",
-    "lintang": "2.88 LS",
-    "bujur": "136.32 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 km",
-    "wilayah": "39 km BaratDaya WAROPEN-PAPUA"
   }
 ]

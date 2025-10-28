@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Okt 2025 06:35:15 WIB",
+    "lintang": "4.89 LU",
+    "bujur": "96.06 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "dirasakan": "III Pidie, II - III Banda Aceh, III Pidie Jaya , II-III Aceh Besar, II Bireun, II Aceh Jaya"
+  },
+  {
     "waktu": "27 Okt 2025 22:56:58 WIB",
     "lintang": "4.21 LU",
     "bujur": "97.50 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "42 km",
     "dirasakan": "II Waingapu"
-  },
-  {
-    "waktu": "21 Okt 2025 07:31:30 WIB",
-    "lintang": "8.29 LS",
-    "bujur": "120.34 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "14 km",
-    "dirasakan": "I-II Manggarai Timur"
   }
 ]
