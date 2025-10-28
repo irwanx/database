@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Okt 2025 08:31:20 WIB",
+    "lintang": "1.43 LU",
+    "bujur": "121.77 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Kab. Buol, II-III Kab. Pohuwato, II-III Tolitoli, II Kab. Gorontalo Utara"
+  },
+  {
     "waktu": "28 Okt 2025 06:35:15 WIB",
     "lintang": "4.89 LU",
     "bujur": "96.06 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "12 km",
     "dirasakan": "II Leksula"
-  },
-  {
-    "waktu": "21 Okt 2025 14:10:35 WIB",
-    "lintang": "9.43 LS",
-    "bujur": "120.11 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "42 km",
-    "dirasakan": "II Waingapu"
   }
 ]
