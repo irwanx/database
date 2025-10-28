@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Okt 2025 21:40:18 WIB",
+    "lintang": "6.81 LS",
+    "bujur": "130.01 BT",
+    "magnitudo": "6.8",
+    "kedalaman": "185 km",
+    "dirasakan": "III Teluk Bintuni, III Sorong Selatan, III Raja Ampat, III Maybrat, III Kaimana, III Sorong, III Tepa, III Tual, IV Saumlaki, III Manokwari, II-III Fak-fak, II-III Dobo, II Nabire, II-III Dogiyai, II-III Deiyai, II Enarotali"
+  },
+  {
     "waktu": "28 Okt 2025 16:23:53 WIB",
     "lintang": "2.38 LU",
     "bujur": "96.96 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "38 km",
     "dirasakan": "II Banda Aceh, II Aceh Besar"
-  },
-  {
-    "waktu": "22 Okt 2025 20:25:08 WIB",
-    "lintang": "0.79 LS",
-    "bujur": "127.53 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "11 km",
-    "dirasakan": "II-III Labuha"
   }
 ]

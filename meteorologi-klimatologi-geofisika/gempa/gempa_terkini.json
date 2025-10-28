@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Okt 2025 21:40:18 WIB",
+    "lintang": "6.81 LS",
+    "bujur": "130.13 BT",
+    "magnitudo": "6.8",
+    "kedalaman": "185 km",
+    "wilayah": "183 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "28 Okt 2025 08:31:20 WIB",
     "lintang": "1.43 LU",
     "bujur": "121.77 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.7",
     "kedalaman": "226 km",
     "wilayah": "205 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "10 Okt 2025 10:01:57 WIB",
-    "lintang": "7.13 LS",
-    "bujur": "102.55 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "62 km",
-    "wilayah": "200 km Tenggara ENGGANO-BENGKULU"
   }
 ]
