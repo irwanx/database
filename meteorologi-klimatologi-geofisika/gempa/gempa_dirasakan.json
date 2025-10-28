@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Okt 2025 16:23:53 WIB",
+    "lintang": "2.38 LU",
+    "bujur": "96.96 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "11 km",
+    "dirasakan": "II-III Sinabang"
+  },
+  {
     "waktu": "28 Okt 2025 08:31:20 WIB",
     "lintang": "1.43 LU",
     "bujur": "121.77 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "11 km",
     "dirasakan": "II-III Labuha"
-  },
-  {
-    "waktu": "22 Okt 2025 16:07:13 WIB",
-    "lintang": "4.05 LS",
-    "bujur": "126.26 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "12 km",
-    "dirasakan": "II Leksula"
   }
 ]
