@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30 Okt 2025 15:04:02 WIB",
+    "lintang": "2.68 LS",
+    "bujur": "139.44 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "52 km",
+    "wilayah": "107 km BaratDaya KAB-JAYAPURA-PAPUA"
+  },
+  {
     "waktu": "28 Okt 2025 21:40:18 WIB",
     "lintang": "6.81 LS",
     "bujur": "130.13 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "20 km",
     "wilayah": "100 km Tenggara SARMI-PAPUA"
-  },
-  {
-    "waktu": "10 Okt 2025 17:02:50 WIB",
-    "lintang": "7.09 LS",
-    "bujur": "129.68 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "226 km",
-    "wilayah": "205 km BaratLaut TANIMBAR"
   }
 ]

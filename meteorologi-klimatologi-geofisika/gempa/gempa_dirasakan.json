@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30 Okt 2025 15:04:02 WIB",
+    "lintang": "2.68 LS",
+    "bujur": "139.44 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "52 km",
+    "dirasakan": "II Genyem"
+  },
+  {
     "waktu": "30 Okt 2025 10:38:59 WIB",
     "lintang": "3.14 LS",
     "bujur": "128.25 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "33 km",
     "dirasakan": "II-III Manna, II-III Kedurang"
-  },
-  {
-    "waktu": "23 Okt 2025 06:24:16 WIB",
-    "lintang": "3.38 LS",
-    "bujur": "128.63 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "11 km",
-    "dirasakan": "II-III Amalatu"
   }
 ]
