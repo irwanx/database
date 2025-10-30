@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30 Okt 2025 10:38:59 WIB",
+    "lintang": "3.14 LS",
+    "bujur": "128.25 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "5 km",
+    "dirasakan": "III-IV Piru"
+  },
+  {
     "waktu": "28 Okt 2025 21:40:18 WIB",
     "lintang": "6.81 LS",
     "bujur": "130.01 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.4",
     "kedalaman": "11 km",
     "dirasakan": "II-III Amalatu"
-  },
-  {
-    "waktu": "22 Okt 2025 22:07:57 WIB",
-    "lintang": "5.38 LU",
-    "bujur": "94.76 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "38 km",
-    "dirasakan": "II Banda Aceh, II Aceh Besar"
   }
 ]
