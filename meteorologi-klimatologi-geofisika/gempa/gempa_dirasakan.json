@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30 Okt 2025 19:08:04 WIB",
+    "lintang": "6.69 LS",
+    "bujur": "105.20 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "21 km",
+    "dirasakan": "II Sumur"
+  },
+  {
     "waktu": "30 Okt 2025 15:04:02 WIB",
     "lintang": "2.68 LS",
     "bujur": "139.44 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.1",
     "kedalaman": "117 km",
     "dirasakan": "II Sorong, III Kaimana, II Saumlaki, III Fak-Fak, II Larat"
-  },
-  {
-    "waktu": "23 Okt 2025 17:37:26 WIB",
-    "lintang": "4.61 LS",
-    "bujur": "102.77 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "33 km",
-    "dirasakan": "II-III Manna, II-III Kedurang"
   }
 ]
