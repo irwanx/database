@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "31 Okt 2025 16:54:07 WIB",
+    "lintang": "2.70 LU",
+    "bujur": "117.70 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "5 km",
+    "dirasakan": "I-II Tanjung Selor"
+  },
+  {
+    "waktu": "31 Okt 2025 15:51:22 WIB",
+    "lintang": "7.11 LS",
+    "bujur": "109.92 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 km",
+    "dirasakan": "II Dieng, II Batang"
+  },
+  {
     "waktu": "30 Okt 2025 19:08:04 WIB",
     "lintang": "6.69 LS",
     "bujur": "105.20 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.3",
     "kedalaman": "10 km",
     "dirasakan": "III Andoolo, III Palangga"
-  },
-  {
-    "waktu": "24 Okt 2025 03:12:11 WIB",
-    "lintang": "4.00 LS",
-    "bujur": "121.96 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "5 km",
-    "dirasakan": "III Kolaka Timur"
-  },
-  {
-    "waktu": "23 Okt 2025 18:46:12 WIB",
-    "lintang": "6.17 LS",
-    "bujur": "131.08 BT",
-    "magnitudo": "6.1",
-    "kedalaman": "117 km",
-    "dirasakan": "II Sorong, III Kaimana, II Saumlaki, III Fak-Fak, II Larat"
   }
 ]
