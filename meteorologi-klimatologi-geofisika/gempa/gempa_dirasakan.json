@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Nov 2025 04:00:08 WIB",
+    "lintang": "3.94 LU",
+    "bujur": "95.93 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "28 km",
+    "dirasakan": "III-IV Meulaboh, III Aceh Barat Daya, III Calang, II-III Tapak Tuan, II Aceh Selatan, II Sigli"
+  },
+  {
     "waktu": "02 Nov 2025 00:04:19 WIB",
     "lintang": "7.16 LS",
     "bujur": "107.63 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "dirasakan": "III Nagan Raya, II-III Bener Meriah, II-III Aceh Tengah, III Aceh Selatan, III Aceh Utara"
-  },
-  {
-    "waktu": "25 Okt 2025 10:59:17 WIB",
-    "lintang": "2.08 LS",
-    "bujur": "120.67 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "5 km",
-    "dirasakan": "II Masamba, II-III Pamona"
   }
 ]
