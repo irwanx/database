@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Nov 2025 06:20:57 WIB",
+    "lintang": "4.44 LS",
+    "bujur": "134.07 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "wilayah": "128 km Tenggara KAIMANA-PAPUABRT"
+  },
+  {
     "waktu": "01 Nov 2025 00:02:21 WIB",
     "lintang": "6.11 LS",
     "bujur": "133.20 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.6",
     "kedalaman": "18 km",
     "wilayah": "32 km Tenggara SARMI-PAPUA"
-  },
-  {
-    "waktu": "13 Okt 2025 14:10:31 WIB",
-    "lintang": "7.28 LS",
-    "bujur": "114.14 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "14 km",
-    "wilayah": "47 km Tenggara SUMENEP-JATIM"
   }
 ]
