@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Nov 2025 12:26:34 WIB",
+    "lintang": "3.44 LS",
+    "bujur": "102.44 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "6 km",
+    "dirasakan": "III Rejang Lebong"
+  },
+  {
     "waktu": "31 Okt 2025 16:54:07 WIB",
     "lintang": "2.70 LU",
     "bujur": "117.70 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "108 km",
     "dirasakan": "II Maumere, II Ende"
-  },
-  {
-    "waktu": "24 Okt 2025 08:52:03 WIB",
-    "lintang": "4.31 LS",
-    "bujur": "122.39 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 km",
-    "dirasakan": "III Andoolo, III Palangga"
   }
 ]
