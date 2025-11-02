@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Nov 2025 13:47:31 WIB",
+    "lintang": "4.02 LS",
+    "bujur": "121.83 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "17 km",
+    "dirasakan": "II-III Kolaka Timur"
+  },
+  {
     "waktu": "02 Nov 2025 04:00:08 WIB",
     "lintang": "3.94 LU",
     "bujur": "95.93 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.3",
     "kedalaman": "75 km",
     "dirasakan": "III-IV Maumere, III-IV Ende, III-IV Kefamenanu, III-IV Kupang, III-IV Waingapu, III-IV Lembata, III-IV Alor, III-IV Larantuka, III-IV Niki Niki"
-  },
-  {
-    "waktu": "25 Okt 2025 11:56:27 WIB",
-    "lintang": "4.42 LU",
-    "bujur": "96.50 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "dirasakan": "III Nagan Raya, II-III Bener Meriah, II-III Aceh Tengah, III Aceh Selatan, III Aceh Utara"
   }
 ]
