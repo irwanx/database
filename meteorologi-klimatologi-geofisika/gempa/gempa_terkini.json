@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Nov 2025 11:21:24 WIB",
+    "lintang": "5.11 LU",
+    "bujur": "125.37 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "wilayah": "167 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
     "waktu": "02 Nov 2025 10:09:21 WIB",
     "lintang": "7.79 LS",
     "bujur": "127.81 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "40 km",
     "wilayah": "35 km TimurLaut SARMI-PAPUA"
-  },
-  {
-    "waktu": "17 Okt 2025 00:02:58 WIB",
-    "lintang": "1.91 LS",
-    "bujur": "139.21 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "14 km",
-    "wilayah": "51 km Tenggara SARMI-PAPUA"
   }
 ]
