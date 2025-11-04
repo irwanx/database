@@ -1,6 +1,14 @@
 [
   {
-    "waktu": "04 Nov 2026 16:23:11 WIB",
+    "waktu": "04 Nov 2025 17:04:36 WIB",
+    "lintang": "7.19 LS",
+    "bujur": "107.60 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 km",
+    "dirasakan": "III Kec. Pangalengan, II Ciparay, II Kertasari, II Banjaran, II Soreang, II Pangauban, II Pameungpeuk"
+  },
+  {
+    "waktu": "04 Nov 2025 16:23:11 WIB",
     "lintang": "0.54 LS",
     "bujur": "119.72 BT",
     "magnitudo": "4.6",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 km",
     "dirasakan": "III Pidie, II - III Banda Aceh, III Pidie Jaya , II-III Aceh Besar, II Bireun, II Aceh Jaya"
-  },
-  {
-    "waktu": "27 Okt 2025 22:56:58 WIB",
-    "lintang": "4.21 LU",
-    "bujur": "97.50 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "6 km",
-    "dirasakan": "III Gayo Lues , II-III Aceh Selatan, II-III Bener Meriah, II Aceh Tengah, II Aceh Tamiang"
   }
 ]
