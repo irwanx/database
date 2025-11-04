@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04 Nov 2025 22:58:26 WIB",
+    "lintang": "1.88 LU",
+    "bujur": "127.06 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "20 km",
+    "dirasakan": "III Ibu"
+  },
+  {
     "waktu": "04 Nov 2025 17:04:36 WIB",
     "lintang": "7.19 LS",
     "bujur": "107.60 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Kab. Buol, II-III Kab. Pohuwato, II-III Tolitoli, II Kab. Gorontalo Utara"
-  },
-  {
-    "waktu": "28 Okt 2025 06:35:15 WIB",
-    "lintang": "4.89 LU",
-    "bujur": "96.06 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 km",
-    "dirasakan": "III Pidie, II - III Banda Aceh, III Pidie Jaya , II-III Aceh Besar, II Bireun, II Aceh Jaya"
   }
 ]
