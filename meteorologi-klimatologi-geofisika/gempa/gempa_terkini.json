@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Nov 2025 06:32:24 WIB",
+    "lintang": "0.11 LS",
+    "bujur": "123.13 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "103 km",
+    "wilayah": "71 km BaratDaya BONEBOLANGO-GORONTALO"
+  },
+  {
     "waktu": "04 Nov 2025 22:58:26 WIB",
     "lintang": "1.88 LU",
     "bujur": "127.06 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.1",
     "kedalaman": "117 km",
     "wilayah": "192 km BaratDaya MALUKUTENGGARA"
-  },
-  {
-    "waktu": "20 Okt 2025 05:44:53 WIB",
-    "lintang": "7.40 LS",
-    "bujur": "130.80 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "121 km",
-    "wilayah": "84 km BaratLaut TANIMBAR"
   }
 ]

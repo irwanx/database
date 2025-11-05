@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Nov 2025 06:32:24 WIB",
+    "lintang": "0.11 LS",
+    "bujur": "123.13 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "103 km",
+    "dirasakan": "III-IV Bone Bolango, III-IV Luwuk, III Kab. Gorontalo Utara, III Kab. Boalemo, III Ampana, III Taliabu, III Bolaang Mongodow Utara, III Bolaang Mongodow, III Banggai Kepulauan, III Banggai Laut, III Kota Gorontalo, II-III Kab. Pohuwato, II-III Tondano, II Sorowako"
+  },
+  {
     "waktu": "04 Nov 2025 22:58:26 WIB",
     "lintang": "1.88 LU",
     "bujur": "127.06 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "11 km",
     "dirasakan": "II-III Sinabang"
-  },
-  {
-    "waktu": "28 Okt 2025 08:31:20 WIB",
-    "lintang": "1.43 LU",
-    "bujur": "121.77 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Kab. Buol, II-III Kab. Pohuwato, II-III Tolitoli, II Kab. Gorontalo Utara"
   }
 ]
