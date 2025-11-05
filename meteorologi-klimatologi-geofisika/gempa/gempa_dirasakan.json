@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Nov 2025 22:21:05 WIB",
+    "lintang": "3.29 LU",
+    "bujur": "117.75 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "3 km",
+    "dirasakan": "II-III Kota Tarakan"
+  },
+  {
     "waktu": "05 Nov 2025 17:37:11 WIB",
     "lintang": "3.33 LU",
     "bujur": "117.82 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.3",
     "kedalaman": "5 km",
     "dirasakan": "III-IV Piru"
-  },
-  {
-    "waktu": "28 Okt 2025 21:40:18 WIB",
-    "lintang": "6.81 LS",
-    "bujur": "130.01 BT",
-    "magnitudo": "6.8",
-    "kedalaman": "185 km",
-    "dirasakan": "III Teluk Bintuni, III Sorong Selatan, III Raja Ampat, III Maybrat, III Kaimana, III Sorong, III Tepa, III Tual, IV Saumlaki, III Manokwari, II-III Fak-fak, II-III Dobo, II Nabire, II-III Dogiyai, II-III Deiyai, II Enarotali"
   }
 ]
