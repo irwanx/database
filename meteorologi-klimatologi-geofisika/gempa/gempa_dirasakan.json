@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "05 Nov 2025 23:56:09 WIB",
+    "lintang": "4.29 LS",
+    "bujur": "122.51 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "3 km",
+    "dirasakan": "II-III Laeya"
+  },
+  {
+    "waktu": "05 Nov 2025 23:32:45 WIB",
+    "lintang": "3.96 LS",
+    "bujur": "122.70 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "4 km",
+    "dirasakan": "II-III Soropia"
+  },
+  {
     "waktu": "05 Nov 2025 22:21:05 WIB",
     "lintang": "3.29 LU",
     "bujur": "117.75 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "21 km",
     "dirasakan": "II Sumur"
-  },
-  {
-    "waktu": "30 Okt 2025 15:04:02 WIB",
-    "lintang": "2.68 LS",
-    "bujur": "139.44 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "52 km",
-    "dirasakan": "II Genyem, II-III Sentani"
-  },
-  {
-    "waktu": "30 Okt 2025 10:38:59 WIB",
-    "lintang": "3.14 LS",
-    "bujur": "128.25 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "5 km",
-    "dirasakan": "III-IV Piru"
   }
 ]
