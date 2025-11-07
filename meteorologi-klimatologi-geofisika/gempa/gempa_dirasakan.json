@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Nov 2025 15:02:26 WIB",
+    "lintang": "3.36 LS",
+    "bujur": "135.63 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "17 km",
+    "dirasakan": "III Nabire"
+  },
+  {
     "waktu": "07 Nov 2025 05:28:29 WIB",
     "lintang": "3.30 LU",
     "bujur": "117.73 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "5 km",
     "dirasakan": "II-III Tanjung Selor"
-  },
-  {
-    "waktu": "31 Okt 2025 15:51:22 WIB",
-    "lintang": "7.11 LS",
-    "bujur": "109.92 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 km",
-    "dirasakan": "II Dieng, II Batang"
   }
 ]
