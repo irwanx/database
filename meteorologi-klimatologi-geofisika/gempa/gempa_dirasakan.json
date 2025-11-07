@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Nov 2025 05:28:29 WIB",
+    "lintang": "3.30 LU",
+    "bujur": "117.73 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Tarakan"
+  },
+  {
     "waktu": "05 Nov 2025 23:56:09 WIB",
     "lintang": "4.29 LS",
     "bujur": "122.51 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.4",
     "kedalaman": "10 km",
     "dirasakan": "II Dieng, II Batang"
-  },
-  {
-    "waktu": "30 Okt 2025 19:08:04 WIB",
-    "lintang": "6.69 LS",
-    "bujur": "105.20 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "21 km",
-    "dirasakan": "II Sumur"
   }
 ]
