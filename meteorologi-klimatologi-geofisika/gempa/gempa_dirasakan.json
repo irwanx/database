@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Nov 2025 10:01:33 WIB",
+    "lintang": "6.84 LS",
+    "bujur": "108.22 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "14 km",
+    "dirasakan": "III Majalengka"
+  },
+  {
     "waktu": "08 Nov 2025 15:56:36 WIB",
     "lintang": "3.31 LU",
     "bujur": "117.67 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.0",
     "kedalaman": "4 km",
     "dirasakan": "III Kertasari, III Pangalengan"
-  },
-  {
-    "waktu": "01 Nov 2025 12:26:34 WIB",
-    "lintang": "3.44 LS",
-    "bujur": "102.44 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "6 km",
-    "dirasakan": "III Rejang Lebong"
   }
 ]
