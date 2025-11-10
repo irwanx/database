@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Nov 2025 02:14:13 WIB",
+    "lintang": "6.41 LS",
+    "bujur": "130.18 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "191 km",
+    "wilayah": "213 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "05 Nov 2025 06:32:24 WIB",
     "lintang": "0.11 LS",
     "bujur": "123.13 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "108 km",
     "wilayah": "67 km Tenggara LEMBATA-NTT"
-  },
-  {
-    "waktu": "23 Okt 2025 18:46:12 WIB",
-    "lintang": "6.17 LS",
-    "bujur": "131.08 BT",
-    "magnitudo": "6.1",
-    "kedalaman": "117 km",
-    "wilayah": "192 km BaratDaya MALUKUTENGGARA"
   }
 ]
