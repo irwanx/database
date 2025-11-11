@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Nov 2025 04:23:32 WIB",
+    "lintang": "5.30 LS",
+    "bujur": "133.93 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 km",
+    "wilayah": "60 km BaratLaut KEP.ARU-MALUKU"
+  },
+  {
     "waktu": "11 Nov 2025 02:14:13 WIB",
     "lintang": "6.41 LS",
     "bujur": "130.18 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "wilayah": "29 km TimurLaut KAB-NAGANRAYA-ACEH"
-  },
-  {
-    "waktu": "24 Okt 2025 11:46:36 WIB",
-    "lintang": "9.03 LS",
-    "bujur": "123.73 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "108 km",
-    "wilayah": "67 km Tenggara LEMBATA-NTT"
   }
 ]
