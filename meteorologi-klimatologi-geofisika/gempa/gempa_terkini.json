@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13 Nov 2025 10:31:03 WIB",
+    "lintang": "4.18 LU",
+    "bujur": "127.84 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "122 km",
+    "wilayah": "106 km Tenggara PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "12 Nov 2025 04:23:32 WIB",
     "lintang": "5.30 LS",
     "bujur": "133.93 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.3",
     "kedalaman": "75 km",
     "wilayah": "82 km BaratLaut TIMORTENGAHUT-NTT"
-  },
-  {
-    "waktu": "25 Okt 2025 11:56:28 WIB",
-    "lintang": "4.42 LU",
-    "bujur": "96.50 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "wilayah": "29 km TimurLaut KAB-NAGANRAYA-ACEH"
   }
 ]
