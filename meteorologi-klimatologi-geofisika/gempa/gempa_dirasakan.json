@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Nov 2025 20:05:55 WIB",
+    "lintang": "3.98 LS",
+    "bujur": "136.18 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Waghete, II Enarotali"
+  },
+  {
     "waktu": "14 Nov 2025 03:07:21 WIB",
     "lintang": "4.68 LU",
     "bujur": "95.46 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "23 km",
     "dirasakan": "III Palu"
-  },
-  {
-    "waktu": "02 Nov 2025 13:47:31 WIB",
-    "lintang": "4.02 LS",
-    "bujur": "121.83 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "17 km",
-    "dirasakan": "II-III Kolaka Timur"
   }
 ]
