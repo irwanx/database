@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Nov 2025 09:24:10 WIB",
+    "lintang": "4.01 LS",
+    "bujur": "136.16 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Enarotali"
+  },
+  {
     "waktu": "14 Nov 2025 20:05:55 WIB",
     "lintang": "3.98 LS",
     "bujur": "136.18 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "10 km",
     "dirasakan": "III Kec. Pangalengan, II Ciparay, II Kertasari, II Banjaran, II Soreang, II Pangauban, II Pameungpeuk"
-  },
-  {
-    "waktu": "04 Nov 2025 16:23:11 WIB",
-    "lintang": "0.54 LS",
-    "bujur": "119.72 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "23 km",
-    "dirasakan": "III Palu"
   }
 ]
