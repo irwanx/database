@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Nov 2025 12:33:29 WIB",
+    "lintang": "4.12 LU",
+    "bujur": "126.79 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 km",
+    "wilayah": "18 km TimurLaut MELONGUANE-SULUT"
+  },
+  {
     "waktu": "13 Nov 2025 10:31:03 WIB",
     "lintang": "4.18 LU",
     "bujur": "127.84 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 km",
     "wilayah": "26 km BaratDaya KAB-PIDIEJAYA-ACEH"
-  },
-  {
-    "waktu": "27 Okt 2025 00:04:28 WIB",
-    "lintang": "9.06 LS",
-    "bujur": "123.97 BT",
-    "magnitudo": "6.3",
-    "kedalaman": "75 km",
-    "wilayah": "82 km BaratLaut TIMORTENGAHUT-NTT"
   }
 ]
