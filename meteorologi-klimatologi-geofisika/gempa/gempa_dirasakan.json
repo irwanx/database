@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Nov 2025 23:40:55 WIB",
+    "lintang": "7.20 LS",
+    "bujur": "107.44 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Rancabolang, II-III Rancabali, II-III Ciwidey, II Pangalengan"
+  },
+  {
     "waktu": "17 Nov 2025 19:12:37 WIB",
     "lintang": "0.04 LS",
     "bujur": "124.15 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.7",
     "kedalaman": "3 km",
     "dirasakan": "II-III Kota Tarakan"
-  },
-  {
-    "waktu": "05 Nov 2025 17:37:11 WIB",
-    "lintang": "3.33 LU",
-    "bujur": "117.82 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 km",
-    "dirasakan": "IV-V Tarakan, III-IV Tanjung Selor, III-IV Berau, III-IV Nunukan, III Malinau, IV Pulau Bunyu"
   }
 ]
