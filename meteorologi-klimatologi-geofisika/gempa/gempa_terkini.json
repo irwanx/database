@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Nov 2025 19:12:37 WIB",
+    "lintang": "0.04 LS",
+    "bujur": "124.15 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "105 km",
+    "wilayah": "49 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
+  },
+  {
     "waktu": "15 Nov 2025 12:33:29 WIB",
     "lintang": "4.12 LU",
     "bujur": "126.79 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 km",
     "wilayah": "68 km TimurLaut BUOL-SULTENG"
-  },
-  {
-    "waktu": "28 Okt 2025 06:35:15 WIB",
-    "lintang": "4.89 LU",
-    "bujur": "96.06 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 km",
-    "wilayah": "26 km BaratDaya KAB-PIDIEJAYA-ACEH"
   }
 ]
