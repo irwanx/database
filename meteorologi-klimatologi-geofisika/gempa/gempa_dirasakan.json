@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Nov 2025 00:13:20 WIB",
+    "lintang": "3.82 LS",
+    "bujur": "122.31 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "4 km",
+    "dirasakan": "III Wawolesea"
+  },
+  {
     "waktu": "17 Nov 2025 23:40:55 WIB",
     "lintang": "7.20 LS",
     "bujur": "107.44 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.7",
     "kedalaman": "4 km",
     "dirasakan": "II-III Soropia"
-  },
-  {
-    "waktu": "05 Nov 2025 22:21:05 WIB",
-    "lintang": "3.29 LU",
-    "bujur": "117.75 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "3 km",
-    "dirasakan": "II-III Kota Tarakan"
   }
 ]
