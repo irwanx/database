@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Nov 2025 10:10:41 WIB",
+    "lintang": "7.19 LS",
+    "bujur": "107.63 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Kertasari, II-III Banjaran"
+  },
+  {
     "waktu": "19 Nov 2025 00:13:20 WIB",
     "lintang": "3.82 LS",
     "bujur": "122.31 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.3",
     "kedalaman": "3 km",
     "dirasakan": "II-III Laeya"
-  },
-  {
-    "waktu": "05 Nov 2025 23:32:45 WIB",
-    "lintang": "3.96 LS",
-    "bujur": "122.70 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "4 km",
-    "dirasakan": "II-III Soropia"
   }
 ]
