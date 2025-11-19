@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "20 Nov 2025 00:26:56 WIB",
+    "lintang": "7.22 LS",
+    "bujur": "107.61 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Pangalengan, II-III Banjaran, II-III Ibun, II-III Kertasari, II-III Pasirjambu, II-III Baleendah, II-III Margaasih"
+  },
+  {
+    "waktu": "19 Nov 2025 23:50:36 WIB",
+    "lintang": "7.23 LS",
+    "bujur": "107.59 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "5 km",
+    "dirasakan": "II Pangalengan"
+  },
+  {
     "waktu": "19 Nov 2025 22:54:21 WIB",
     "lintang": "7.22 LS",
     "bujur": "107.58 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "10 km",
     "dirasakan": "IV-V Tarakan, III-IV Tanjung Selor, III-IV Tana Tidung, III Nunukan, II-III Tanjung Redep"
-  },
-  {
-    "waktu": "07 Nov 2025 15:02:26 WIB",
-    "lintang": "3.36 LS",
-    "bujur": "135.63 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "17 km",
-    "dirasakan": "III Nabire"
-  },
-  {
-    "waktu": "07 Nov 2025 05:28:29 WIB",
-    "lintang": "3.30 LU",
-    "bujur": "117.73 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Tarakan"
   }
 ]
