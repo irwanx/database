@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Nov 2025 09:49:13 WIB",
+    "lintang": "0.45 LU",
+    "bujur": "120.47 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Tolitoli"
+  },
+  {
     "waktu": "20 Nov 2025 07:15:35 WIB",
     "lintang": "0.56 LU",
     "bujur": "120.44 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 km",
     "dirasakan": "III Dobo"
-  },
-  {
-    "waktu": "09 Nov 2025 10:01:33 WIB",
-    "lintang": "6.84 LS",
-    "bujur": "108.22 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "14 km",
-    "dirasakan": "III Majalengka"
   }
 ]
