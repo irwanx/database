@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Nov 2025 13:59:44 WIB",
+    "lintang": "3.66 LS",
+    "bujur": "128.33 BT",
+    "magnitudo": "6.0",
+    "kedalaman": "119 km",
+    "dirasakan": "III-IV Amahai, III Ambon, III Sorong, II Fak - Fak"
+  },
+  {
     "waktu": "20 Nov 2025 11:19:55 WIB",
     "lintang": "1.59 LU",
     "bujur": "127.15 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Waghete, II Enarotali"
-  },
-  {
-    "waktu": "14 Nov 2025 03:07:21 WIB",
-    "lintang": "4.68 LU",
-    "bujur": "95.46 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "27 km",
-    "dirasakan": "IV Aceh Besar, III Banda Aceh, III Pidie Jaya, II-III Pidie, II Bener Meriah"
   }
 ]
