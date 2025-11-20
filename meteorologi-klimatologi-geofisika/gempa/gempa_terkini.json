@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Nov 2025 11:19:55 WIB",
+    "lintang": "1.59 LU",
+    "bujur": "127.15 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "118 km",
+    "wilayah": "55 km BaratLaut HALMAHERABARAT-MALUT"
+  },
+  {
     "waktu": "17 Nov 2025 19:12:37 WIB",
     "lintang": "0.04 LS",
     "bujur": "124.15 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.8",
     "kedalaman": "185 km",
     "wilayah": "183 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "28 Okt 2025 08:31:20 WIB",
-    "lintang": "1.43 LU",
-    "bujur": "121.77 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "10 km",
-    "wilayah": "68 km TimurLaut BUOL-SULTENG"
   }
 ]

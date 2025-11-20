@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Nov 2025 11:19:55 WIB",
+    "lintang": "1.59 LU",
+    "bujur": "127.15 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "118 km",
+    "dirasakan": "II Ternate, III Naha, III Halmahera Barat, III Bitung"
+  },
+  {
     "waktu": "20 Nov 2025 09:49:13 WIB",
     "lintang": "0.45 LU",
     "bujur": "120.47 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "27 km",
     "dirasakan": "IV Aceh Besar, III Banda Aceh, III Pidie Jaya, II-III Pidie, II Bener Meriah"
-  },
-  {
-    "waktu": "12 Nov 2025 04:23:32 WIB",
-    "lintang": "5.30 LS",
-    "bujur": "133.93 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "10 km",
-    "dirasakan": "III Dobo"
   }
 ]
