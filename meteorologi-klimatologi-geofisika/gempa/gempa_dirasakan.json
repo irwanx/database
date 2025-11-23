@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Nov 2025 10:59:40 WIB",
+    "lintang": "0.33 LS",
+    "bujur": "99.02 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "23 km",
+    "dirasakan": "II Air Bangis"
+  },
+  {
     "waktu": "23 Nov 2025 10:19:57 WIB",
     "lintang": "1.21 LU",
     "bujur": "128.48 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.7",
     "kedalaman": "5 km",
     "dirasakan": "II-III Rancabolang, II-III Rancabali, II-III Ciwidey, II Pangalengan"
-  },
-  {
-    "waktu": "17 Nov 2025 19:12:37 WIB",
-    "lintang": "0.04 LS",
-    "bujur": "124.15 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "105 km",
-    "dirasakan": "III-IV Bone Bolango, III Kab. Gorontalo, III Kotamobagu, III Bolaang Mongondow, II-III Ampana, II-III Kota Ternate"
   }
 ]
