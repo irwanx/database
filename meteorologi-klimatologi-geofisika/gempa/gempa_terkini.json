@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Nov 2025 10:19:57 WIB",
+    "lintang": "1.21 LU",
+    "bujur": "128.48 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "wilayah": "11 km BaratDaya HALMAHERATIMUR-MALUT"
+  },
+  {
     "waktu": "20 Nov 2025 13:59:44 WIB",
     "lintang": "3.66 LS",
     "bujur": "128.33 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "55 km",
     "wilayah": "71 km Tenggara MALUKUTENGGARA"
-  },
-  {
-    "waktu": "30 Okt 2025 15:04:02 WIB",
-    "lintang": "2.68 LS",
-    "bujur": "139.44 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "52 km",
-    "wilayah": "107 km BaratDaya KAB-JAYAPURA-PAPUA"
   }
 ]
