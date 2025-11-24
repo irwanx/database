@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24 Nov 2025 17:27:18 WIB",
+    "lintang": "2.05 LS",
+    "bujur": "120.67 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Poso"
+  },
+  {
     "waktu": "24 Nov 2025 03:40:21 WIB",
     "lintang": "9.35 LS",
     "bujur": "111.85 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.2",
     "kedalaman": "5 km",
     "dirasakan": "II Pangalengan"
-  },
-  {
-    "waktu": "19 Nov 2025 22:54:21 WIB",
-    "lintang": "7.22 LS",
-    "bujur": "107.58 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Kertasari, II-III Cimaung, II-III Pangalengan, II-III Pameungpeuk"
   }
 ]
