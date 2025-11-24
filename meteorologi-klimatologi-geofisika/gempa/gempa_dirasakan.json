@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Nov 2025 00:30:16 WIB",
+    "lintang": "4.91 LU",
+    "bujur": "96.78 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "4 km",
+    "dirasakan": "IV Bener Meriah, III Bireuen"
+  },
+  {
     "waktu": "24 Nov 2025 17:27:18 WIB",
     "lintang": "2.05 LS",
     "bujur": "120.67 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Pangalengan, II-III Banjaran, II-III Ibun, II-III Kertasari, II-III Pasirjambu, II-III Baleendah, II-III Margaasih"
-  },
-  {
-    "waktu": "19 Nov 2025 23:50:36 WIB",
-    "lintang": "7.23 LS",
-    "bujur": "107.59 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "5 km",
-    "dirasakan": "II Pangalengan"
   }
 ]
