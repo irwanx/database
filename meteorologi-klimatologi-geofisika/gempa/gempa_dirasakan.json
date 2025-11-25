@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Nov 2025 11:20:48 WIB",
+    "lintang": "4.89 LU",
+    "bujur": "96.81 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Bener Meriah"
+  },
+  {
     "waktu": "25 Nov 2025 00:30:16 WIB",
     "lintang": "4.91 LU",
     "bujur": "96.78 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "10 km",
     "dirasakan": "III Tolitoli"
-  },
-  {
-    "waktu": "20 Nov 2025 00:26:56 WIB",
-    "lintang": "7.22 LS",
-    "bujur": "107.61 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Pangalengan, II-III Banjaran, II-III Ibun, II-III Kertasari, II-III Pasirjambu, II-III Baleendah, II-III Margaasih"
   }
 ]
