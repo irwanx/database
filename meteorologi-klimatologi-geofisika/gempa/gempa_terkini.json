@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Nov 2025 11:56:24 WIB",
+    "lintang": "2.67 LU",
+    "bujur": "95.84 BT",
+    "magnitudo": "6.3",
+    "kedalaman": "10 km",
+    "wilayah": "62 km BaratLaut SINABANG-ACEH"
+  },
+  {
     "waktu": "27 Nov 2025 02:54:23 WIB",
     "lintang": "0.79 LU",
     "bujur": "96.80 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "139 km",
     "wilayah": "40 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "01 Nov 2025 11:32:33 WIB",
-    "lintang": "1.64 LS",
-    "bujur": "139.44 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 km",
-    "wilayah": "80 km TimurLaut SARMI-PAPUA"
   }
 ]
