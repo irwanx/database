@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Nov 2025 00:55:37 WIB",
+    "lintang": "2.64 LU",
+    "bujur": "95.88 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Simeulue"
+  },
+  {
     "waktu": "27 Nov 2025 11:56:24 WIB",
     "lintang": "2.67 LU",
     "bujur": "95.84 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "118 km",
     "dirasakan": "II Ternate, III Naha, III Halmahera Barat, III Bitung"
-  },
-  {
-    "waktu": "20 Nov 2025 09:49:13 WIB",
-    "lintang": "0.45 LU",
-    "bujur": "120.47 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Tolitoli"
   }
 ]
