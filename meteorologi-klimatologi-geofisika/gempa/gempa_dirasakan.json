@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "28 Nov 2025 16:31:53 WIB",
+    "lintang": "5.35 LS",
+    "bujur": "104.59 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "18 km",
+    "dirasakan": "II - III Tanggamus"
+  },
+  {
+    "waktu": "28 Nov 2025 14:37:34 WIB",
+    "lintang": "2.90 LS",
+    "bujur": "128.29 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "6 km",
+    "dirasakan": "II - III Piru"
+  },
+  {
     "waktu": "28 Nov 2025 00:55:37 WIB",
     "lintang": "2.64 LU",
     "bujur": "95.88 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.2",
     "kedalaman": "8 km",
     "dirasakan": "II-III Lembang, II-III Cihideung, II-III Parongpong, Kab. Bandung Barat, II-III Dago, Kota Bandung"
-  },
-  {
-    "waktu": "20 Nov 2025 13:59:44 WIB",
-    "lintang": "3.66 LS",
-    "bujur": "128.33 BT",
-    "magnitudo": "6.0",
-    "kedalaman": "119 km",
-    "dirasakan": "III-IV Amahai, III Ambon, III Sorong, II Fak - Fak"
-  },
-  {
-    "waktu": "20 Nov 2025 11:19:55 WIB",
-    "lintang": "1.59 LU",
-    "bujur": "127.15 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "118 km",
-    "dirasakan": "II Ternate, III Naha, III Halmahera Barat, III Bitung"
   }
 ]
