@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30 Nov 2025 13:03:15 WIB",
+    "lintang": "3.35 LS",
+    "bujur": "135.62 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "17 km",
+    "dirasakan": "II-III Nabire"
+  },
+  {
     "waktu": "28 Nov 2025 21:20:53 WIB",
     "lintang": "4.91 LS",
     "bujur": "103.07 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "5 km",
     "dirasakan": "III-IV Palasa"
-  },
-  {
-    "waktu": "21 Nov 2025 12:15:59 WIB",
-    "lintang": "2.09 LS",
-    "bujur": "100.60 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "25 km",
-    "dirasakan": "III-IV Pesisir Selatan, II-III Tua Pejat, II-III Solok Selatan"
   }
 ]
