@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Des 2025 06:16:39 WIB",
+    "lintang": "2.95 LS",
+    "bujur": "130.25 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "dirasakan": "III Bula"
+  },
+  {
     "waktu": "30 Nov 2025 23:39:27 WIB",
     "lintang": "5.11 LS",
     "bujur": "102.38 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.9",
     "kedalaman": "29 km",
     "dirasakan": "II Sumbawa, II Lombok Tengah, II Lombok Barat, II Lombok Timur"
-  },
-  {
-    "waktu": "23 Nov 2025 10:59:40 WIB",
-    "lintang": "0.33 LS",
-    "bujur": "99.02 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "23 km",
-    "dirasakan": "II Air Bangis"
   }
 ]

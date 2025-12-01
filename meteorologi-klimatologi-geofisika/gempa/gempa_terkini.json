@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Des 2025 06:16:39 WIB",
+    "lintang": "2.95 LS",
+    "bujur": "130.25 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "wilayah": "31 km BaratLaut SERAMBAGIANTIMUR-MALUKU"
+  },
+  {
     "waktu": "27 Nov 2025 11:56:24 WIB",
     "lintang": "2.67 LU",
     "bujur": "95.84 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 km",
     "wilayah": "167 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
-  },
-  {
-    "waktu": "02 Nov 2025 10:09:21 WIB",
-    "lintang": "7.79 LS",
-    "bujur": "127.81 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "139 km",
-    "wilayah": "40 km TimurLaut MALUKUBRTDAYA"
   }
 ]
