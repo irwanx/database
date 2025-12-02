@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Des 2025 16:33:37 WIB",
+    "lintang": "6.49 LS",
+    "bujur": "107.34 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "9 km",
+    "dirasakan": "II-III Purwakarta"
+  },
+  {
     "waktu": "01 Des 2025 06:16:39 WIB",
     "lintang": "2.95 LS",
     "bujur": "130.25 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "3 km",
     "dirasakan": "II Lembata"
-  },
-  {
-    "waktu": "23 Nov 2025 12:57:42 WIB",
-    "lintang": "9.47 LS",
-    "bujur": "116.53 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "29 km",
-    "dirasakan": "II Sumbawa, II Lombok Tengah, II Lombok Barat, II Lombok Timur"
   }
 ]
