@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Des 2025 20:16:25 WIB",
+    "lintang": "0.38 LU",
+    "bujur": "98.66 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "31 km",
+    "dirasakan": "III Sibolga, III Humbang Hasundutan, II Nias Barat"
+  },
+  {
     "waktu": "02 Des 2025 16:33:37 WIB",
     "lintang": "6.49 LS",
     "bujur": "107.34 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 km",
     "dirasakan": "II-III Kuta, II Karangkates, II Nganjuk, II Blitar, II Tulungagung, II Bantul"
-  },
-  {
-    "waktu": "23 Nov 2025 20:54:02 WIB",
-    "lintang": "8.26 LS",
-    "bujur": "123.51 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "3 km",
-    "dirasakan": "II Lembata"
   }
 ]
