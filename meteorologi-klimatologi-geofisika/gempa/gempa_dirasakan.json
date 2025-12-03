@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Des 2025 19:33:26 WIB",
+    "lintang": "3.45 LS",
+    "bujur": "135.56 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "28 km",
+    "dirasakan": "II-III Nabire"
+  },
+  {
     "waktu": "02 Des 2025 20:16:25 WIB",
     "lintang": "0.38 LU",
     "bujur": "98.66 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.8",
     "kedalaman": "5 km",
     "dirasakan": "II-III Poso"
-  },
-  {
-    "waktu": "24 Nov 2025 03:40:21 WIB",
-    "lintang": "9.35 LS",
-    "bujur": "111.85 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Kuta, II Karangkates, II Nganjuk, II Blitar, II Tulungagung, II Bantul"
   }
 ]
