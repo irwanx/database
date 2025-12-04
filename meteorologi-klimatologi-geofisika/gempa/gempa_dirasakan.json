@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04 Des 2025 21:42:23 WIB",
+    "lintang": "4.63 LS",
+    "bujur": "114.77 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "7 km",
+    "dirasakan": "II-III Banjarbaru"
+  },
+  {
     "waktu": "04 Des 2025 13:05:18 WIB",
     "lintang": "2.49 LU",
     "bujur": "95.80 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "5 km",
     "dirasakan": "II-III Bener Meriah"
-  },
-  {
-    "waktu": "25 Nov 2025 00:30:16 WIB",
-    "lintang": "4.91 LU",
-    "bujur": "96.78 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "4 km",
-    "dirasakan": "IV Bener Meriah, III Bireuen"
   }
 ]
