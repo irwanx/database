@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04 Des 2025 11:23:08 WIB",
+    "lintang": "0.33 LS",
+    "bujur": "125.70 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "wilayah": "170 km Tenggara TUTUYAN-BOLTIM-SULUT"
+  },
+  {
     "waktu": "02 Des 2025 20:16:25 WIB",
     "lintang": "0.38 LU",
     "bujur": "98.66 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.2",
     "kedalaman": "103 km",
     "wilayah": "71 km BaratDaya BONEBOLANGO-GORONTALO"
-  },
-  {
-    "waktu": "04 Nov 2025 22:58:26 WIB",
-    "lintang": "1.88 LU",
-    "bujur": "127.06 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "20 km",
-    "wilayah": "83 km BaratLaut HALMAHERABARAT-MALUT"
   }
 ]
