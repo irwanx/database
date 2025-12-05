@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Des 2025 20:03:53 WIB",
+    "lintang": "3.42 LS",
+    "bujur": "135.54 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "24 km",
+    "dirasakan": "II-III Nabire"
+  },
+  {
     "waktu": "05 Des 2025 18:06:20 WIB",
     "lintang": "3.93 LS",
     "bujur": "122.37 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "6 km",
     "dirasakan": "II - III Piru"
-  },
-  {
-    "waktu": "28 Nov 2025 00:55:37 WIB",
-    "lintang": "2.64 LU",
-    "bujur": "95.88 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Simeulue"
   }
 ]
