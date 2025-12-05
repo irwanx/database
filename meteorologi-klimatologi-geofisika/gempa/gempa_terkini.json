@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Des 2025 03:42:25 WIB",
+    "lintang": "10.45 LS",
+    "bujur": "119.34 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "35 km",
+    "wilayah": "74 km BaratDaya WANOKAKA-NTT"
+  },
+  {
     "waktu": "04 Des 2025 11:23:08 WIB",
     "lintang": "0.33 LS",
     "bujur": "125.70 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "191 km",
     "wilayah": "213 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "05 Nov 2025 06:32:24 WIB",
-    "lintang": "0.11 LS",
-    "bujur": "123.13 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "103 km",
-    "wilayah": "71 km BaratDaya BONEBOLANGO-GORONTALO"
   }
 ]
