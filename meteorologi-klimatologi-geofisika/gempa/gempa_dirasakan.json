@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Des 2025 18:06:20 WIB",
+    "lintang": "3.93 LS",
+    "bujur": "122.37 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "5 km",
+    "dirasakan": "III Morosi-Konawe, III Sawa-Konawe Utara, II Ranomeeto-Konawe Selatan"
+  },
+  {
     "waktu": "05 Des 2025 12:40:11 WIB",
     "lintang": "4.05 LS",
     "bujur": "121.77 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.1",
     "kedalaman": "10 km",
     "dirasakan": "II-III Simeulue"
-  },
-  {
-    "waktu": "27 Nov 2025 11:56:24 WIB",
-    "lintang": "2.67 LU",
-    "bujur": "95.84 BT",
-    "magnitudo": "6.3",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Aceh Selatan, III Banda Aceh, III Aceh Besar, III Aceh Barat Daya, III Aceh Tenggara, IV Semeulue, III Singkil, III Subulussalam, II-III Kabanjahe, II-III Tiganderket, II-III Pidie, II-III Lhokseumawe, II Medan, II Silangit, II-III Berastagi"
   }
 ]
