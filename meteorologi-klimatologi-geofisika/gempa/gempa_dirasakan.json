@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Des 2025 12:40:11 WIB",
+    "lintang": "4.05 LS",
+    "bujur": "121.77 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "4 km",
+    "dirasakan": "II-III Lalolae"
+  },
+  {
     "waktu": "04 Des 2025 21:42:23 WIB",
     "lintang": "4.63 LS",
     "bujur": "114.77 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.3",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Aceh Selatan, III Banda Aceh, III Aceh Besar, III Aceh Barat Daya, III Aceh Tenggara, IV Semeulue, III Singkil, III Subulussalam, II-III Kabanjahe, II-III Tiganderket, II-III Pidie, II-III Lhokseumawe, II Medan, II Silangit, II-III Berastagi"
-  },
-  {
-    "waktu": "25 Nov 2025 11:20:48 WIB",
-    "lintang": "4.89 LU",
-    "bujur": "96.81 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Bener Meriah"
   }
 ]
