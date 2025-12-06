@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Des 2025 01:25:37 WIB",
+    "lintang": "4.03 LS",
+    "bujur": "122.43 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "5 km",
+    "dirasakan": "III kendari, II-III Konawe Selatan"
+  },
+  {
     "waktu": "06 Des 2025 22:37:50 WIB",
     "lintang": "4.11 LS",
     "bujur": "121.62 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 km",
     "dirasakan": "III Bula"
-  },
-  {
-    "waktu": "30 Nov 2025 23:39:27 WIB",
-    "lintang": "5.11 LS",
-    "bujur": "102.38 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "14 km",
-    "dirasakan": "II-III Enggano"
   }
 ]
