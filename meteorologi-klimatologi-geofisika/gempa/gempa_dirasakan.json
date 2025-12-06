@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Des 2025 07:44:34 WIB",
+    "lintang": "1.69 LU",
+    "bujur": "127.24 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "99 km",
+    "dirasakan": "II Manado, II Minahasa, II Ternate"
+  },
+  {
     "waktu": "06 Des 2025 00:00:14 WIB",
     "lintang": "6.80 LS",
     "bujur": "107.13 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "25 km",
     "dirasakan": "II-III Kaur, II-III Bengkulu"
-  },
-  {
-    "waktu": "28 Nov 2025 16:31:53 WIB",
-    "lintang": "5.35 LS",
-    "bujur": "104.59 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "18 km",
-    "dirasakan": "II - III Tanggamus"
   }
 ]

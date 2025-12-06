@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Des 2025 07:44:34 WIB",
+    "lintang": "1.69 LU",
+    "bujur": "127.24 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "99 km",
+    "wilayah": "54 km BaratLaut HALMAHERABARAT-MALUT"
+  },
+  {
     "waktu": "06 Des 2025 03:42:25 WIB",
     "lintang": "10.45 LS",
     "bujur": "119.34 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 km",
     "wilayah": "60 km BaratLaut KEP.ARU-MALUKU"
-  },
-  {
-    "waktu": "11 Nov 2025 02:14:13 WIB",
-    "lintang": "6.41 LS",
-    "bujur": "130.18 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "191 km",
-    "wilayah": "213 km BaratLaut TANIMBAR"
   }
 ]
