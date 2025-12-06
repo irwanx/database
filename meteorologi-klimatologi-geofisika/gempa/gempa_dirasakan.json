@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Des 2025 22:37:50 WIB",
+    "lintang": "4.11 LS",
+    "bujur": "121.62 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "5 km",
+    "dirasakan": "II Loea, II Tirawatu"
+  },
+  {
     "waktu": "06 Des 2025 11:49:01 WIB",
     "lintang": "7.29 LS",
     "bujur": "107.59 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.8",
     "kedalaman": "14 km",
     "dirasakan": "II-III Enggano"
-  },
-  {
-    "waktu": "30 Nov 2025 17:36:39 WIB",
-    "lintang": "1.91 LS",
-    "bujur": "139.03 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "9 km",
-    "dirasakan": "II Sarmi"
   }
 ]
