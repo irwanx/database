@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Des 2025 11:49:01 WIB",
+    "lintang": "7.29 LS",
+    "bujur": "107.59 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "7 km",
+    "dirasakan": "II Pangalengan"
+  },
+  {
     "waktu": "06 Des 2025 10:48:21 WIB",
     "lintang": "9.37 LS",
     "bujur": "117.28 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "9 km",
     "dirasakan": "II Sarmi"
-  },
-  {
-    "waktu": "30 Nov 2025 13:03:15 WIB",
-    "lintang": "3.35 LS",
-    "bujur": "135.62 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "17 km",
-    "dirasakan": "II-III Nabire"
   }
 ]
