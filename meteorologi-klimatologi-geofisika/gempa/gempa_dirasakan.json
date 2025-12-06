@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Des 2025 10:48:21 WIB",
+    "lintang": "9.37 LS",
+    "bujur": "117.28 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "47 km",
+    "dirasakan": "III Sumbawa Barat"
+  },
+  {
     "waktu": "06 Des 2025 07:44:34 WIB",
     "lintang": "1.69 LU",
     "bujur": "127.24 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.4",
     "kedalaman": "17 km",
     "dirasakan": "II-III Nabire"
-  },
-  {
-    "waktu": "28 Nov 2025 21:20:53 WIB",
-    "lintang": "4.91 LS",
-    "bujur": "103.07 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "25 km",
-    "dirasakan": "II-III Kaur, II-III Bengkulu"
   }
 ]
