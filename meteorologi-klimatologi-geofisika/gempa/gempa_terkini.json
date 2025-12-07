@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Des 2025 11:55:55 WIB",
+    "lintang": "6.62 LS",
+    "bujur": "131.16 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "103 km",
+    "wilayah": "150 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "06 Des 2025 07:44:34 WIB",
     "lintang": "1.69 LU",
     "bujur": "127.24 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "122 km",
     "wilayah": "106 km Tenggara PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "12 Nov 2025 04:23:32 WIB",
-    "lintang": "5.30 LS",
-    "bujur": "133.93 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "10 km",
-    "wilayah": "60 km BaratLaut KEP.ARU-MALUKU"
   }
 ]
