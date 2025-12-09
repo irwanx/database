@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Des 2025 20:24:27 WIB",
+    "lintang": "0.48 LS",
+    "bujur": "100.41 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Padang Panjang"
+  },
+  {
     "waktu": "09 Des 2025 14:02:53 WIB",
     "lintang": "2.48 LU",
     "bujur": "95.88 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "31 km",
     "dirasakan": "III Sibolga, III Humbang Hasundutan, II Nias Barat"
-  },
-  {
-    "waktu": "02 Des 2025 16:33:37 WIB",
-    "lintang": "6.49 LS",
-    "bujur": "107.34 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "9 km",
-    "dirasakan": "II-III Purwakarta"
   }
 ]
