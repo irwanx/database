@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Des 2025 14:02:53 WIB",
+    "lintang": "2.48 LU",
+    "bujur": "95.88 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Simeulue, III Aceh Selatan, II-III Aceh Barat Daya"
+  },
+  {
     "waktu": "07 Des 2025 01:25:37 WIB",
     "lintang": "4.03 LS",
     "bujur": "122.43 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.3",
     "kedalaman": "9 km",
     "dirasakan": "II-III Purwakarta"
-  },
-  {
-    "waktu": "01 Des 2025 06:16:39 WIB",
-    "lintang": "2.95 LS",
-    "bujur": "130.25 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 km",
-    "dirasakan": "III Bula"
   }
 ]
