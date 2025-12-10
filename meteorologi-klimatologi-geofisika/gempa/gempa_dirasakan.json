@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Des 2025 06:19:37 WIB",
+    "lintang": "5.35 LS",
+    "bujur": "122.54 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "5 km",
+    "dirasakan": "III Buton Tengah, III Baubau"
+  },
+  {
     "waktu": "10 Des 2025 04:26:08 WIB",
     "lintang": "1.12 LU",
     "bujur": "121.28 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "7 km",
     "dirasakan": "II-III Banjarbaru"
-  },
-  {
-    "waktu": "04 Des 2025 13:05:18 WIB",
-    "lintang": "2.49 LU",
-    "bujur": "95.80 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "28 km",
-    "dirasakan": "II-III Sinabang"
   }
 ]
