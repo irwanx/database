@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Des 2025 14:43:01 WIB",
+    "lintang": "5.46 LU",
+    "bujur": "94.59 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "24 km",
+    "dirasakan": "III-IV Banda Aceh, III-IV Aceh Besar, III Sabang, II-III Pidie"
+  },
+  {
     "waktu": "10 Des 2025 06:19:37 WIB",
     "lintang": "5.35 LS",
     "bujur": "122.54 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "4 km",
     "dirasakan": "II-III Lalolae"
-  },
-  {
-    "waktu": "04 Des 2025 21:42:23 WIB",
-    "lintang": "4.63 LS",
-    "bujur": "114.77 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "7 km",
-    "dirasakan": "II-III Banjarbaru"
   }
 ]
