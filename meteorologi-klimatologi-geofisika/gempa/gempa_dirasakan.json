@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Des 2025 13:45:56 WIB",
+    "lintang": "8.56 LS",
+    "bujur": "119.89 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "37 km",
+    "dirasakan": "III-IV Labuan Bajo"
+  },
+  {
     "waktu": "11 Des 2025 00:16:52 WIB",
     "lintang": "4.14 LS",
     "bujur": "121.98 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "24 km",
     "dirasakan": "II-III Nabire"
-  },
-  {
-    "waktu": "05 Des 2025 18:06:20 WIB",
-    "lintang": "3.93 LS",
-    "bujur": "122.37 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "5 km",
-    "dirasakan": "III Morosi-Konawe, III Sawa-Konawe Utara, II Ranomeeto-Konawe Selatan"
   }
 ]
