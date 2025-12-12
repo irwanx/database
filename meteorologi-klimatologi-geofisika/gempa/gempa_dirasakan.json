@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "12 Des 2025 11:39:43 WIB",
+    "lintang": "2.04 LS",
+    "bujur": "120.65 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "5 km",
+    "dirasakan": "II - III Pendolo"
+  },
+  {
+    "waktu": "12 Des 2025 10:12:05 WIB",
+    "lintang": "3.55 LS",
+    "bujur": "128.21 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "9 km",
+    "dirasakan": "II - III Salahutu"
+  },
+  {
     "waktu": "12 Des 2025 01:47:55 WIB",
     "lintang": "6.00 LS",
     "bujur": "122.53 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "7 km",
     "dirasakan": "II Pangalengan"
-  },
-  {
-    "waktu": "06 Des 2025 10:48:21 WIB",
-    "lintang": "9.37 LS",
-    "bujur": "117.28 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "47 km",
-    "dirasakan": "III Sumbawa Barat"
-  },
-  {
-    "waktu": "06 Des 2025 07:44:34 WIB",
-    "lintang": "1.69 LU",
-    "bujur": "127.24 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "99 km",
-    "dirasakan": "II Manado, II Minahasa, II Ternate"
   }
 ]
