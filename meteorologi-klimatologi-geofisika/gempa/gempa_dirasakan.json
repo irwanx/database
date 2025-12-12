@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "12 Des 2025 01:47:55 WIB",
+    "lintang": "6.00 LS",
+    "bujur": "122.53 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Batu Atas"
+  },
+  {
+    "waktu": "11 Des 2025 21:42:06 WIB",
+    "lintang": "5.99 LS",
+    "bujur": "122.51 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "13 km",
+    "dirasakan": "III Batu Atas"
+  },
+  {
     "waktu": "11 Des 2025 13:45:56 WIB",
     "lintang": "8.56 LS",
     "bujur": "119.89 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "99 km",
     "dirasakan": "II Manado, II Minahasa, II Ternate"
-  },
-  {
-    "waktu": "06 Des 2025 00:00:14 WIB",
-    "lintang": "6.80 LS",
-    "bujur": "107.13 BT",
-    "magnitudo": "2.0",
-    "kedalaman": "18 km",
-    "dirasakan": "II-III Cugenang"
-  },
-  {
-    "waktu": "05 Des 2025 20:03:53 WIB",
-    "lintang": "3.42 LS",
-    "bujur": "135.54 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "24 km",
-    "dirasakan": "II-III Nabire"
   }
 ]
