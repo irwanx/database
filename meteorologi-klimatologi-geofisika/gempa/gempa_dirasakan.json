@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13 Des 2025 13:05:41 WIB",
+    "lintang": "1.06 LS",
+    "bujur": "100.17 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 km",
+    "dirasakan": "II - III Padang"
+  },
+  {
     "waktu": "12 Des 2025 11:39:43 WIB",
     "lintang": "2.04 LS",
     "bujur": "120.65 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.4",
     "kedalaman": "5 km",
     "dirasakan": "II Loea, II Tirawatu"
-  },
-  {
-    "waktu": "06 Des 2025 11:49:01 WIB",
-    "lintang": "7.29 LS",
-    "bujur": "107.59 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "7 km",
-    "dirasakan": "II Pangalengan"
   }
 ]
