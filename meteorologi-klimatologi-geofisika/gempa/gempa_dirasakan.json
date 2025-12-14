@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Des 2025 07:58:15 WIB",
+    "lintang": "3.35 LS",
+    "bujur": "101.26 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "54 km",
+    "dirasakan": "III Mukomuko, III Bengkulu Utara"
+  },
+  {
     "waktu": "13 Des 2025 13:05:41 WIB",
     "lintang": "1.06 LS",
     "bujur": "100.17 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.1",
     "kedalaman": "5 km",
     "dirasakan": "III kendari, II-III Konawe Selatan"
-  },
-  {
-    "waktu": "06 Des 2025 22:37:50 WIB",
-    "lintang": "4.11 LS",
-    "bujur": "121.62 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "5 km",
-    "dirasakan": "II Loea, II Tirawatu"
   }
 ]
