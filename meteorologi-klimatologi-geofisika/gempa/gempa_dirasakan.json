@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16 Des 2025 12:41:28 WIB",
+    "lintang": "4.71 LS",
+    "bujur": "122.71 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "7 km",
+    "dirasakan": "III-IV Muna, III-IV Muna Barat"
+  },
+  {
     "waktu": "14 Des 2025 07:58:15 WIB",
     "lintang": "3.35 LS",
     "bujur": "101.26 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Simeulue, III Aceh Selatan, II-III Aceh Barat Daya"
-  },
-  {
-    "waktu": "07 Des 2025 01:25:37 WIB",
-    "lintang": "4.03 LS",
-    "bujur": "122.43 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "5 km",
-    "dirasakan": "III kendari, II-III Konawe Selatan"
   }
 ]
