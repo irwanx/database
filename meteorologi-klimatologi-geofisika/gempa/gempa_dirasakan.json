@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Des 2025 11:02:05 WIB",
+    "lintang": "8.32 LS",
+    "bujur": "124.76 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Alor"
+  },
+  {
     "waktu": "16 Des 2025 12:41:28 WIB",
     "lintang": "4.71 LS",
     "bujur": "122.71 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.8",
     "kedalaman": "5 km",
     "dirasakan": "II-III Padang Panjang"
-  },
-  {
-    "waktu": "09 Des 2025 14:02:53 WIB",
-    "lintang": "2.48 LU",
-    "bujur": "95.88 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Simeulue, III Aceh Selatan, II-III Aceh Barat Daya"
   }
 ]
