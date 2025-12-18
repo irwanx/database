@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Des 2025 10:40:38 WIB",
+    "lintang": "4.85 LU",
+    "bujur": "96.06 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "11 km",
+    "dirasakan": "II Aceh Jaya, II Aceh Barat Daya"
+  },
+  {
     "waktu": "17 Des 2025 11:02:05 WIB",
     "lintang": "8.32 LS",
     "bujur": "124.76 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "10 km",
     "dirasakan": "IV Kab. Solok, III Padang, III Solok, II Sijunjung, II Sawahlunto"
-  },
-  {
-    "waktu": "09 Des 2025 20:24:27 WIB",
-    "lintang": "0.48 LS",
-    "bujur": "100.41 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Padang Panjang"
   }
 ]
