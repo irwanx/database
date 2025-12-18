@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Des 2025 20:48:01 WIB",
+    "lintang": "2.56 LU",
+    "bujur": "95.73 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "10 km",
+    "dirasakan": "II Sinabang"
+  },
+  {
     "waktu": "18 Des 2025 12:30:19 WIB",
     "lintang": "1.38 LU",
     "bujur": "125.83 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.4",
     "kedalaman": "10 km",
     "dirasakan": "II-III Ladongi"
-  },
-  {
-    "waktu": "10 Des 2025 14:43:01 WIB",
-    "lintang": "5.46 LU",
-    "bujur": "94.59 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "24 km",
-    "dirasakan": "III-IV Banda Aceh, III-IV Aceh Besar, III Sabang, II-III Pidie"
   }
 ]
