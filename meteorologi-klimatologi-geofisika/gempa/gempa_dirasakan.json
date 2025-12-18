@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "18 Des 2025 12:30:19 WIB",
+    "lintang": "1.38 LU",
+    "bujur": "125.83 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "43 km",
+    "dirasakan": "III Bitung, III Tondano, III Manado"
+  },
+  {
+    "waktu": "18 Des 2025 12:23:39 WIB",
+    "lintang": "6.74 LS",
+    "bujur": "105.46 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Sumur"
+  },
+  {
+    "waktu": "18 Des 2025 11:22:46 WIB",
+    "lintang": "8.82 LS",
+    "bujur": "110.31 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "13 km",
+    "dirasakan": "II-III Gunungkidul, II-III Bantul, II-III Sleman, II-III Kulonprogo, II Wonogiri"
+  },
+  {
     "waktu": "18 Des 2025 10:40:38 WIB",
     "lintang": "4.85 LU",
     "bujur": "96.06 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "24 km",
     "dirasakan": "III-IV Banda Aceh, III-IV Aceh Besar, III Sabang, II-III Pidie"
-  },
-  {
-    "waktu": "10 Des 2025 06:19:37 WIB",
-    "lintang": "5.35 LS",
-    "bujur": "122.54 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "5 km",
-    "dirasakan": "III Buton Tengah, III Baubau"
-  },
-  {
-    "waktu": "10 Des 2025 04:26:08 WIB",
-    "lintang": "1.12 LU",
-    "bujur": "121.28 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Buol"
-  },
-  {
-    "waktu": "10 Des 2025 02:48:27 WIB",
-    "lintang": "0.99 LS",
-    "bujur": "100.71 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 km",
-    "dirasakan": "IV Kab. Solok, III Padang, III Solok, II Sijunjung, II Sawahlunto"
   }
 ]
