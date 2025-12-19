@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Des 2025 07:45:34 WIB",
+    "lintang": "2.86 LS",
+    "bujur": "127.36 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "15 km",
+    "dirasakan": "III Namlea, II Ambon"
+  },
+  {
     "waktu": "18 Des 2025 20:48:01 WIB",
     "lintang": "2.56 LU",
     "bujur": "95.73 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "37 km",
     "dirasakan": "III-IV Labuan Bajo"
-  },
-  {
-    "waktu": "11 Des 2025 00:16:52 WIB",
-    "lintang": "4.14 LS",
-    "bujur": "121.98 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Ladongi"
   }
 ]
