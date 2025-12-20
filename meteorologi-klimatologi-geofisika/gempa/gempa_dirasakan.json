@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Des 2025 17:33:27 WIB",
+    "lintang": "0.47 LU",
+    "bujur": "121.96 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "102 km",
+    "dirasakan": "IV Pohuwato, IV Boalemo, III Gorontalo, III Bonebolango, III Buol, III Tolitoli, II-III Kab. Gorontalo, II Kab. Gorontalo Utara"
+  },
+  {
     "waktu": "19 Des 2025 07:45:34 WIB",
     "lintang": "2.86 LS",
     "bujur": "127.36 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "13 km",
     "dirasakan": "III Batu Atas"
-  },
-  {
-    "waktu": "11 Des 2025 13:45:56 WIB",
-    "lintang": "8.56 LS",
-    "bujur": "119.89 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "37 km",
-    "dirasakan": "III-IV Labuan Bajo"
   }
 ]
