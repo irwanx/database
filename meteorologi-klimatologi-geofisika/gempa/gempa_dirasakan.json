@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Des 2025 20:13:26 WIB",
+    "lintang": "5.23 LS",
+    "bujur": "102.50 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "7 km",
+    "dirasakan": "II-III Enggano, II-III Bengkulu"
+  },
+  {
     "waktu": "20 Des 2025 17:33:27 WIB",
     "lintang": "0.47 LU",
     "bujur": "121.96 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "10 km",
     "dirasakan": "II-III Batu Atas"
-  },
-  {
-    "waktu": "11 Des 2025 21:42:06 WIB",
-    "lintang": "5.99 LS",
-    "bujur": "122.51 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "13 km",
-    "dirasakan": "III Batu Atas"
   }
 ]
