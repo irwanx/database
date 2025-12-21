@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21 Des 2025 05:59:21 WIB",
+    "lintang": "2.56 LS",
+    "bujur": "121.63 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "2 km",
+    "dirasakan": "III Sorowako, III Malili"
+  },
+  {
     "waktu": "20 Des 2025 20:13:26 WIB",
     "lintang": "5.23 LS",
     "bujur": "102.50 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "9 km",
     "dirasakan": "II - III Salahutu"
-  },
-  {
-    "waktu": "12 Des 2025 01:47:55 WIB",
-    "lintang": "6.00 LS",
-    "bujur": "122.53 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Batu Atas"
   }
 ]
