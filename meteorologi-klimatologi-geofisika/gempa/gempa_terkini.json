@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21 Des 2025 19:21:46 WIB",
+    "lintang": "1.47 LU",
+    "bujur": "126.34 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "27 km",
+    "wilayah": "133 km BaratLaut JAILOLO-MALUT"
+  },
+  {
     "waktu": "21 Des 2025 11:02:10 WIB",
     "lintang": "6.68 LS",
     "bujur": "131.39 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.0",
     "kedalaman": "119 km",
     "wilayah": "15 km Tenggara AMBON-MALUKU"
-  },
-  {
-    "waktu": "20 Nov 2025 11:19:55 WIB",
-    "lintang": "1.59 LU",
-    "bujur": "127.15 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "118 km",
-    "wilayah": "55 km BaratLaut HALMAHERABARAT-MALUT"
   }
 ]
