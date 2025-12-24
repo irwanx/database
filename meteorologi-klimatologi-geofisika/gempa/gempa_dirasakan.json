@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24 Des 2025 12:30:34 WIB",
+    "lintang": "4.46 LS",
+    "bujur": "102.60 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "30 km",
+    "dirasakan": "II-III Bengkulu Utara, II-III Bengkulu Selatan"
+  },
+  {
     "waktu": "23 Des 2025 11:10:36 WIB",
     "lintang": "8.06 LS",
     "bujur": "119.24 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "7 km",
     "dirasakan": "III-IV Muna, III-IV Muna Barat"
-  },
-  {
-    "waktu": "14 Des 2025 07:58:15 WIB",
-    "lintang": "3.35 LS",
-    "bujur": "101.26 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "54 km",
-    "dirasakan": "III Mukomuko, III Bengkulu Utara"
   }
 ]
