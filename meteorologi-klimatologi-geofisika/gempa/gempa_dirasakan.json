@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26 Des 2025 03:26:17 WIB",
+    "lintang": "0.09 LU",
+    "bujur": "129.56 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 km",
+    "dirasakan": "III Pulau Gebe"
+  },
+  {
     "waktu": "25 Des 2025 21:06:46 WIB",
     "lintang": "4.15 LU",
     "bujur": "97.50 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "13 km",
     "dirasakan": "II-III Gunungkidul, II-III Bantul, II-III Sleman, II-III Kulonprogo, II Wonogiri"
-  },
-  {
-    "waktu": "18 Des 2025 10:40:38 WIB",
-    "lintang": "4.85 LU",
-    "bujur": "96.06 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "11 km",
-    "dirasakan": "II Aceh Jaya, II Aceh Barat Daya"
   }
 ]
