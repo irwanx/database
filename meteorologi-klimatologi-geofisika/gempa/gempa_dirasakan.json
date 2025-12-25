@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Des 2025 21:06:46 WIB",
+    "lintang": "4.15 LU",
+    "bujur": "97.50 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "2 km",
+    "dirasakan": "III Gayo Lues , II-III Aceh Tamiang"
+  },
+  {
     "waktu": "24 Des 2025 20:34:30 WIB",
     "lintang": "2.87 LS",
     "bujur": "101.06 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "11 km",
     "dirasakan": "II Aceh Jaya, II Aceh Barat Daya"
-  },
-  {
-    "waktu": "17 Des 2025 11:02:05 WIB",
-    "lintang": "8.32 LS",
-    "bujur": "124.76 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Alor"
   }
 ]
