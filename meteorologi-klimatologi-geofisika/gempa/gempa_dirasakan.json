@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "26 Des 2025 14:47:56 WIB",
+    "lintang": "4.13 LU",
+    "bujur": "97.45 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Gayo Lues, II Aceh Timur, II-III Aceh Tamiang, II-III Langsa"
+  },
+  {
+    "waktu": "26 Des 2025 14:27:14 WIB",
+    "lintang": "6.83 LS",
+    "bujur": "107.09 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "20 km",
+    "dirasakan": "II Cugeneng"
+  },
+  {
     "waktu": "26 Des 2025 03:26:17 WIB",
     "lintang": "0.09 LU",
     "bujur": "129.56 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "43 km",
     "dirasakan": "III Bitung, III Tondano, III Manado"
-  },
-  {
-    "waktu": "18 Des 2025 12:23:39 WIB",
-    "lintang": "6.74 LS",
-    "bujur": "105.46 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Sumur"
-  },
-  {
-    "waktu": "18 Des 2025 11:22:46 WIB",
-    "lintang": "8.82 LS",
-    "bujur": "110.31 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "13 km",
-    "dirasakan": "II-III Gunungkidul, II-III Bantul, II-III Sleman, II-III Kulonprogo, II Wonogiri"
   }
 ]
