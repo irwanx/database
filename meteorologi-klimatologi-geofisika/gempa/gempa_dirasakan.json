@@ -16,6 +16,14 @@
     "dirasakan": "II Cugeneng"
   },
   {
+    "waktu": "26 Des 2025 13:51:05 WIB",
+    "lintang": "4.11 LU",
+    "bujur": "97.44 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "10 km",
+    "dirasakan": "III Gayo Lues"
+  },
+  {
     "waktu": "26 Des 2025 03:26:17 WIB",
     "lintang": "0.09 LU",
     "bujur": "129.56 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "10 km",
     "dirasakan": "II Sinabang"
-  },
-  {
-    "waktu": "18 Des 2025 12:30:19 WIB",
-    "lintang": "1.38 LU",
-    "bujur": "125.83 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "43 km",
-    "dirasakan": "III Bitung, III Tondano, III Manado"
   }
 ]
