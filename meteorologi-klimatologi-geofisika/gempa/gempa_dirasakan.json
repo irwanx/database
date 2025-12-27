@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "27 Des 2025 08:10:13 WIB",
+    "lintang": "5.58 LS",
+    "bujur": "102.22 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "18 km",
+    "dirasakan": "III Enggano, II-III Kaur, II-III Kota Bengkulu, II-III Pagar Alam, I Kepahiang"
+  },
+  {
+    "waktu": "27 Des 2025 07:22:32 WIB",
+    "lintang": "5.58 LS",
+    "bujur": "102.27 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "19 km",
+    "dirasakan": "III Enggano, II-III Kaur, II-III Kota Bengkulu"
+  },
+  {
     "waktu": "26 Des 2025 14:47:56 WIB",
     "lintang": "4.13 LU",
     "bujur": "97.45 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "102 km",
     "dirasakan": "IV Pohuwato, IV Boalemo, III Gorontalo, III Bonebolango, III Buol, III Tolitoli, II-III Kab. Gorontalo, II Kab. Gorontalo Utara"
-  },
-  {
-    "waktu": "19 Des 2025 07:45:34 WIB",
-    "lintang": "2.86 LS",
-    "bujur": "127.36 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "15 km",
-    "dirasakan": "III Namlea, II Ambon"
-  },
-  {
-    "waktu": "18 Des 2025 20:48:01 WIB",
-    "lintang": "2.56 LU",
-    "bujur": "95.73 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "10 km",
-    "dirasakan": "II Sinabang"
   }
 ]

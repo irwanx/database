@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "27 Des 2025 08:10:13 WIB",
+    "lintang": "5.58 LS",
+    "bujur": "102.22 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "18 km",
+    "wilayah": "26 km BaratDaya ENGGANO-BENGKULU"
+  },
+  {
+    "waktu": "27 Des 2025 07:22:32 WIB",
+    "lintang": "5.58 LS",
+    "bujur": "102.27 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "19 km",
+    "wilayah": "26 km Tenggara ENGGANO-BENGKULU"
+  },
+  {
     "waktu": "21 Des 2025 19:21:46 WIB",
     "lintang": "1.47 LU",
     "bujur": "126.34 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 km",
     "wilayah": "141 km BaratDaya KAB-BLITAR-JATIM"
-  },
-  {
-    "waktu": "23 Nov 2025 10:19:57 WIB",
-    "lintang": "1.21 LU",
-    "bujur": "128.48 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "wilayah": "11 km BaratDaya HALMAHERATIMUR-MALUT"
-  },
-  {
-    "waktu": "20 Nov 2025 13:59:44 WIB",
-    "lintang": "3.66 LS",
-    "bujur": "128.33 BT",
-    "magnitudo": "6.0",
-    "kedalaman": "119 km",
-    "wilayah": "15 km Tenggara AMBON-MALUKU"
   }
 ]
