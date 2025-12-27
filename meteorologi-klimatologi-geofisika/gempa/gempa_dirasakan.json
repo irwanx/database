@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Des 2025 10:00:18 WIB",
+    "lintang": "5.64 LS",
+    "bujur": "102.28 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "17 km",
+    "dirasakan": "II-III Enggano"
+  },
+  {
     "waktu": "27 Des 2025 08:10:13 WIB",
     "lintang": "5.58 LS",
     "bujur": "102.22 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "7 km",
     "dirasakan": "II-III Enggano, II-III Bengkulu"
-  },
-  {
-    "waktu": "20 Des 2025 17:33:27 WIB",
-    "lintang": "0.47 LU",
-    "bujur": "121.96 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "102 km",
-    "dirasakan": "IV Pohuwato, IV Boalemo, III Gorontalo, III Bonebolango, III Buol, III Tolitoli, II-III Kab. Gorontalo, II Kab. Gorontalo Utara"
   }
 ]
