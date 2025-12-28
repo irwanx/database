@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "28 Des 2025 09:15:46 WIB",
+    "lintang": "0.17 LS",
+    "bujur": "100.11 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Agam, III-IV Bukittinggi, II-III Padang Panjang, II-III Payakumbuh"
+  },
+  {
+    "waktu": "28 Des 2025 09:11:34 WIB",
+    "lintang": "0.17 LS",
+    "bujur": "100.10 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Agam, III-IV Bukittinggi, II-III Padang Panjang, II-III Payakumbuh, III-IV Pasaman, III-IV Pasaman Barat"
+  },
+  {
     "waktu": "27 Des 2025 10:00:18 WIB",
     "lintang": "5.64 LS",
     "bujur": "102.28 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "14 km",
     "dirasakan": "II-III Ulu Belu"
-  },
-  {
-    "waktu": "21 Des 2025 05:59:21 WIB",
-    "lintang": "2.56 LS",
-    "bujur": "121.63 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "2 km",
-    "dirasakan": "III Sorowako, III Malili"
-  },
-  {
-    "waktu": "20 Des 2025 20:13:26 WIB",
-    "lintang": "5.23 LS",
-    "bujur": "102.50 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "7 km",
-    "dirasakan": "II-III Enggano, II-III Bengkulu"
   }
 ]
