@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Des 2025 06:09:02 WIB",
+    "lintang": "4.73 LU",
+    "bujur": "96.81 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "10 km",
+    "dirasakan": "II Bener Meriah"
+  },
+  {
     "waktu": "28 Des 2025 22:56:08 WIB",
     "lintang": "4.21 LU",
     "bujur": "97.50 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "30 km",
     "dirasakan": "II-III Bengkulu Utara, II-III Bengkulu Selatan"
-  },
-  {
-    "waktu": "23 Des 2025 11:10:36 WIB",
-    "lintang": "8.06 LS",
-    "bujur": "119.24 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "17 km",
-    "dirasakan": "III Bima"
   }
 ]
