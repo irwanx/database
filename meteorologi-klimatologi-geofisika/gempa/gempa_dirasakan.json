@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30 Des 2025 20:43:10 WIB",
+    "lintang": "4.73 LU",
+    "bujur": "96.80 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "7 km",
+    "dirasakan": "IV Bener Meriah, IV Aceh Tengah, II-III Pidie, II-III Bireuen, II Aceh Timur, II-III Pidie Jaya"
+  },
+  {
     "waktu": "29 Des 2025 06:09:02 WIB",
     "lintang": "4.73 LU",
     "bujur": "96.81 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "23 km",
     "dirasakan": "II-III Mukomuko, II Sungaipenuh"
-  },
-  {
-    "waktu": "24 Des 2025 12:30:34 WIB",
-    "lintang": "4.46 LS",
-    "bujur": "102.60 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "30 km",
-    "dirasakan": "II-III Bengkulu Utara, II-III Bengkulu Selatan"
   }
 ]
