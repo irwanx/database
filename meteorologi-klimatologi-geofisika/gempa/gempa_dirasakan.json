@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "31 Des 2025 03:55:09 WIB",
+    "lintang": "1.33 LU",
+    "bujur": "123.23 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "15 km",
+    "dirasakan": "III Kab. Gorontalo Utara, II-III Kab. Gorontalo, II-III Kab. Bone Bolango, II-III Kota Gorontalo"
+  },
+  {
     "waktu": "30 Des 2025 22:43:41 WIB",
     "lintang": "4.75 LU",
     "bujur": "96.80 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.1",
     "kedalaman": "20 km",
     "dirasakan": "II Cugeneng"
-  },
-  {
-    "waktu": "26 Des 2025 13:51:05 WIB",
-    "lintang": "4.11 LU",
-    "bujur": "97.44 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "10 km",
-    "dirasakan": "III Gayo Lues"
   }
 ]
