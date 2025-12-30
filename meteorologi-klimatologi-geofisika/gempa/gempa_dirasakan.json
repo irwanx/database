@@ -1,9 +1,33 @@
 [
   {
+    "waktu": "30 Des 2025 22:43:41 WIB",
+    "lintang": "4.75 LU",
+    "bujur": "96.80 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "6 km",
+    "dirasakan": "II Bener Meriah"
+  },
+  {
+    "waktu": "30 Des 2025 22:22:25 WIB",
+    "lintang": "4.73 LU",
+    "bujur": "96.78 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "8 km",
+    "dirasakan": "III-IV Aceh Tengah, III-IV Bener Meriah"
+  },
+  {
+    "waktu": "30 Des 2025 21:06:00 WIB",
+    "lintang": "5.43 LS",
+    "bujur": "104.65 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Gisting, II-III Sumberejo"
+  },
+  {
     "waktu": "30 Des 2025 20:43:10 WIB",
     "lintang": "4.73 LU",
     "bujur": "96.80 BT",
-    "magnitudo": "4.5",
+    "magnitudo": "4.6",
     "kedalaman": "7 km",
     "dirasakan": "IV Bener Meriah, IV Aceh Tengah, II-III Pidie, II-III Bireuen, II Aceh Timur, II-III Pidie Jaya"
   },
@@ -94,29 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "10 km",
     "dirasakan": "III Gayo Lues"
-  },
-  {
-    "waktu": "26 Des 2025 03:26:17 WIB",
-    "lintang": "0.09 LU",
-    "bujur": "129.56 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 km",
-    "dirasakan": "III Pulau Gebe"
-  },
-  {
-    "waktu": "25 Des 2025 21:06:46 WIB",
-    "lintang": "4.15 LU",
-    "bujur": "97.50 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "2 km",
-    "dirasakan": "III Gayo Lues , II-III Aceh Tamiang"
-  },
-  {
-    "waktu": "24 Des 2025 20:34:30 WIB",
-    "lintang": "2.87 LS",
-    "bujur": "101.06 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "23 km",
-    "dirasakan": "II-III Mukomuko, II Sungaipenuh"
   }
 ]
