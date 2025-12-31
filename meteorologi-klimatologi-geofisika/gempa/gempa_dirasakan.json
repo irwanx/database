@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "31 Des 2025 13:28:08 WIB",
+    "lintang": "4.08 LU",
+    "bujur": "95.96 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "24 km",
+    "dirasakan": "II Aceh Jaya"
+  },
+  {
     "waktu": "31 Des 2025 11:30:33 WIB",
     "lintang": "2.74 LS",
     "bujur": "121.95 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "17 km",
     "dirasakan": "II-III Enggano"
-  },
-  {
-    "waktu": "27 Des 2025 08:10:13 WIB",
-    "lintang": "5.58 LS",
-    "bujur": "102.22 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "18 km",
-    "dirasakan": "III Enggano, II-III Kaur, II-III Kota Bengkulu, II-III Pagar Alam, I Kepahiang"
   }
 ]
