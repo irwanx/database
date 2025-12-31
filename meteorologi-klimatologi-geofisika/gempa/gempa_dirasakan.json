@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "31 Des 2025 06:58:10 WIB",
+    "lintang": "4.77 LU",
+    "bujur": "96.80 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "4 km",
+    "dirasakan": "II Bener Meriah, II Aceh Tengah"
+  },
+  {
     "waktu": "31 Des 2025 03:55:09 WIB",
     "lintang": "1.33 LU",
     "bujur": "123.23 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.9",
     "kedalaman": "10 km",
     "dirasakan": "II-III Gayo Lues, II Aceh Timur, II-III Aceh Tamiang, II-III Langsa"
-  },
-  {
-    "waktu": "26 Des 2025 14:27:14 WIB",
-    "lintang": "6.83 LS",
-    "bujur": "107.09 BT",
-    "magnitudo": "2.1",
-    "kedalaman": "20 km",
-    "dirasakan": "II Cugeneng"
   }
 ]
