@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "31 Des 2025 09:13:52 WIB",
+    "lintang": "4.76 LU",
+    "bujur": "94.82 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Aceh Besar, II-III Banda Aceh"
+  },
+  {
     "waktu": "31 Des 2025 06:58:10 WIB",
     "lintang": "4.77 LU",
     "bujur": "96.80 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.9",
     "kedalaman": "19 km",
     "dirasakan": "III Enggano, II-III Kaur, II-III Kota Bengkulu"
-  },
-  {
-    "waktu": "26 Des 2025 14:47:56 WIB",
-    "lintang": "4.13 LU",
-    "bujur": "97.45 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Gayo Lues, II Aceh Timur, II-III Aceh Tamiang, II-III Langsa"
   }
 ]
