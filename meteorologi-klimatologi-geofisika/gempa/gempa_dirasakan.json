@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "31 Des 2025 11:30:33 WIB",
+    "lintang": "2.74 LS",
+    "bujur": "121.95 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "7 km",
+    "dirasakan": "III Morowali"
+  },
+  {
     "waktu": "31 Des 2025 09:13:52 WIB",
     "lintang": "4.76 LU",
     "bujur": "94.82 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.8",
     "kedalaman": "18 km",
     "dirasakan": "III Enggano, II-III Kaur, II-III Kota Bengkulu, II-III Pagar Alam, I Kepahiang"
-  },
-  {
-    "waktu": "27 Des 2025 07:22:32 WIB",
-    "lintang": "5.58 LS",
-    "bujur": "102.27 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "19 km",
-    "dirasakan": "III Enggano, II-III Kaur, II-III Kota Bengkulu"
   }
 ]
