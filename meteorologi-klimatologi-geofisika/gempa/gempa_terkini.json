@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "01 Jan 2026 10:05:25 WIB",
+    "lintang": "6.58 LS",
+    "bujur": "130.03 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "189 km",
+    "wilayah": "209 km BaratLaut TANIMBAR"
+  },
+  {
+    "waktu": "01 Jan 2026 09:56:23 WIB",
+    "lintang": "4.99 LU",
+    "bujur": "127.36 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "96 km",
+    "wilayah": "40 km TimurLaut PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "27 Des 2025 08:10:13 WIB",
     "lintang": "5.58 LS",
     "bujur": "102.22 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "6.3",
     "kedalaman": "10 km",
     "wilayah": "62 km BaratLaut SINABANG-ACEH"
-  },
-  {
-    "waktu": "27 Nov 2025 02:54:23 WIB",
-    "lintang": "0.79 LU",
-    "bujur": "96.80 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 km",
-    "wilayah": "75 km BaratDaya NIASBARAT-SUMUT"
-  },
-  {
-    "waktu": "24 Nov 2025 03:40:21 WIB",
-    "lintang": "9.35 LS",
-    "bujur": "111.85 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "wilayah": "141 km BaratDaya KAB-BLITAR-JATIM"
   }
 ]
