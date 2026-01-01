@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Jan 2026 13:02:00 WIB",
+    "lintang": "4.18 LS",
+    "bujur": "138.44 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "133 km",
+    "wilayah": "26 km Tenggara LANNYJAYA-PAPUAPGNGN"
+  },
+  {
     "waktu": "01 Jan 2026 10:05:25 WIB",
     "lintang": "6.58 LS",
     "bujur": "130.03 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 km",
     "wilayah": "31 km BaratLaut SERAMBAGIANTIMUR-MALUKU"
-  },
-  {
-    "waktu": "27 Nov 2025 11:56:24 WIB",
-    "lintang": "2.67 LU",
-    "bujur": "95.84 BT",
-    "magnitudo": "6.3",
-    "kedalaman": "10 km",
-    "wilayah": "62 km BaratLaut SINABANG-ACEH"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Jan 2026 13:02:00 WIB",
+    "lintang": "4.18 LS",
+    "bujur": "138.44 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "133 km",
+    "dirasakan": "II - III Wamena"
+  },
+  {
     "waktu": "31 Des 2025 13:28:08 WIB",
     "lintang": "4.08 LU",
     "bujur": "95.96 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Agam, III-IV Bukittinggi, II-III Padang Panjang, II-III Payakumbuh, III-IV Pasaman, III-IV Pasaman Barat"
-  },
-  {
-    "waktu": "27 Des 2025 10:00:18 WIB",
-    "lintang": "5.64 LS",
-    "bujur": "102.28 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "17 km",
-    "dirasakan": "II-III Enggano"
   }
 ]
