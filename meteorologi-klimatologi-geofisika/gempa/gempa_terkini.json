@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Jan 2026 01:29:57 WIB",
+    "lintang": "5.08 LS",
+    "bujur": "131.67 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "88 km",
+    "wilayah": "134 km BaratLaut TUAL-MALUKU"
+  },
+  {
     "waktu": "01 Jan 2026 13:02:00 WIB",
     "lintang": "4.18 LS",
     "bujur": "138.44 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "31 km",
     "wilayah": "96 km Tenggara NIASSELATAN-SUMUT"
-  },
-  {
-    "waktu": "01 Des 2025 06:16:39 WIB",
-    "lintang": "2.95 LS",
-    "bujur": "130.25 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 km",
-    "wilayah": "31 km BaratLaut SERAMBAGIANTIMUR-MALUKU"
   }
 ]
