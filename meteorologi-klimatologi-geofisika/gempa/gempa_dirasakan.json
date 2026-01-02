@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "02 Jan 2026 12:19:47 WIB",
+    "lintang": "4.05 LS",
+    "bujur": "122.42 BT",
+    "magnitudo": "1.6",
+    "kedalaman": "7 km",
+    "dirasakan": "II Ranomeeto"
+  },
+  {
+    "waktu": "02 Jan 2026 11:34:12 WIB",
+    "lintang": "4.09 LS",
+    "bujur": "122.43 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "5 km",
+    "dirasakan": "III-IV Konawe Selatan, III Kendari"
+  },
+  {
     "waktu": "01 Jan 2026 13:02:00 WIB",
     "lintang": "4.18 LS",
     "bujur": "138.44 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.9",
     "kedalaman": "7 km",
     "dirasakan": "III Ternate"
-  },
-  {
-    "waktu": "28 Des 2025 09:15:46 WIB",
-    "lintang": "0.17 LS",
-    "bujur": "100.11 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Agam, III-IV Bukittinggi, II-III Padang Panjang, II-III Payakumbuh"
-  },
-  {
-    "waktu": "28 Des 2025 09:11:34 WIB",
-    "lintang": "0.17 LS",
-    "bujur": "100.10 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Agam, III-IV Bukittinggi, II-III Padang Panjang, II-III Payakumbuh, III-IV Pasaman, III-IV Pasaman Barat"
   }
 ]
