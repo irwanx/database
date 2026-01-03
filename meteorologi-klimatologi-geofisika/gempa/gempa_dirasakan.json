@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "03 Jan 2026 19:13:55 WIB",
+    "lintang": "3.42 LS",
+    "bujur": "135.63 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "29 km",
+    "dirasakan": "III Nabire"
+  },
+  {
+    "waktu": "03 Jan 2026 17:55:29 WIB",
+    "lintang": "4.76 LS",
+    "bujur": "122.71 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Muna, II-III Muna Barat"
+  },
+  {
     "waktu": "03 Jan 2026 09:12:26 WIB",
     "lintang": "5.83 LS",
     "bujur": "112.43 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "7 km",
     "dirasakan": "IV Bener Meriah, IV Aceh Tengah, II-III Pidie, II-III Bireuen, II Aceh Timur, II-III Pidie Jaya"
-  },
-  {
-    "waktu": "29 Des 2025 06:09:02 WIB",
-    "lintang": "4.73 LU",
-    "bujur": "96.81 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "10 km",
-    "dirasakan": "II Bener Meriah"
-  },
-  {
-    "waktu": "28 Des 2025 22:56:08 WIB",
-    "lintang": "4.21 LU",
-    "bujur": "97.50 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 km",
-    "dirasakan": "III Gayo Lues , II-III Aceh Tamiang"
   }
 ]
