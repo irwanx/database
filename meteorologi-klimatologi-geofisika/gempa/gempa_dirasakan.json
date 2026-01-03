@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Jan 2026 09:12:26 WIB",
+    "lintang": "5.83 LS",
+    "bujur": "112.43 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "3 km",
+    "dirasakan": "III Tuban, III Bawean"
+  },
+  {
     "waktu": "02 Jan 2026 12:19:47 WIB",
     "lintang": "4.05 LS",
     "bujur": "122.42 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.9",
     "kedalaman": "10 km",
     "dirasakan": "III Gayo Lues , II-III Aceh Tamiang"
-  },
-  {
-    "waktu": "28 Des 2025 17:21:36 WIB",
-    "lintang": "0.76 LU",
-    "bujur": "127.37 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "7 km",
-    "dirasakan": "III Ternate"
   }
 ]
