@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Jan 2026 22:59:45 WIB",
+    "lintang": "3.66 LS",
+    "bujur": "128.16 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "6 km",
+    "dirasakan": "II Ambon"
+  },
+  {
     "waktu": "04 Jan 2026 03:54:48 WIB",
     "lintang": "4.75 LU",
     "bujur": "96.81 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "6 km",
     "dirasakan": "II Bener Meriah"
-  },
-  {
-    "waktu": "30 Des 2025 22:22:25 WIB",
-    "lintang": "4.73 LU",
-    "bujur": "96.78 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "8 km",
-    "dirasakan": "III-IV Aceh Tengah, III-IV Bener Meriah"
   }
 ]
