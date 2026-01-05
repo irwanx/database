@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Jan 2026 03:27:48 WIB",
+    "lintang": "3.66 LS",
+    "bujur": "128.17 BT",
+    "magnitudo": "1.7",
+    "kedalaman": "10 km",
+    "dirasakan": "I-II Ambon"
+  },
+  {
     "waktu": "05 Jan 2026 22:59:45 WIB",
     "lintang": "3.66 LS",
     "bujur": "128.16 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "15 km",
     "dirasakan": "III Kab. Gorontalo Utara, II-III Kab. Gorontalo, II-III Kab. Bone Bolango, II-III Kota Gorontalo"
-  },
-  {
-    "waktu": "30 Des 2025 22:43:41 WIB",
-    "lintang": "4.75 LU",
-    "bujur": "96.80 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "6 km",
-    "dirasakan": "II Bener Meriah"
   }
 ]
