@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Jan 2026 07:11:32 WIB",
+    "lintang": "0.61 LS",
+    "bujur": "119.84 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Palu Utara"
+  },
+  {
     "waktu": "06 Jan 2026 03:27:48 WIB",
     "lintang": "3.66 LS",
     "bujur": "128.17 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.7",
     "kedalaman": "4 km",
     "dirasakan": "II Bener Meriah, II Aceh Tengah"
-  },
-  {
-    "waktu": "31 Des 2025 03:55:09 WIB",
-    "lintang": "1.33 LU",
-    "bujur": "123.23 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "15 km",
-    "dirasakan": "III Kab. Gorontalo Utara, II-III Kab. Gorontalo, II-III Kab. Bone Bolango, II-III Kota Gorontalo"
   }
 ]
