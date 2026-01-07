@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Jan 2026 22:58:40 WIB",
+    "lintang": "0.21 LS",
+    "bujur": "119.82 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "4 km",
+    "dirasakan": "II - III Sirenja"
+  },
+  {
     "waktu": "07 Jan 2026 17:28:36 WIB",
     "lintang": "8.23 LS",
     "bujur": "116.58 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "7 km",
     "dirasakan": "III Morowali"
-  },
-  {
-    "waktu": "31 Des 2025 09:13:52 WIB",
-    "lintang": "4.76 LU",
-    "bujur": "94.82 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Aceh Besar, II-III Banda Aceh"
   }
 ]
