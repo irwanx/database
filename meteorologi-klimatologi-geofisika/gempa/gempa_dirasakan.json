@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "09 Jan 2026 22:08:07 WIB",
+    "lintang": "0.72 LS",
+    "bujur": "127.54 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "4 km",
+    "dirasakan": "II-III Labuha"
+  },
+  {
+    "waktu": "09 Jan 2026 21:43:56 WIB",
+    "lintang": "0.72 LS",
+    "bujur": "127.49 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "1 km",
+    "dirasakan": "II Labuha"
+  },
+  {
+    "waktu": "09 Jan 2026 21:23:55 WIB",
+    "lintang": "0.68 LS",
+    "bujur": "127.53 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "4 km",
+    "dirasakan": "III Labuha"
+  },
+  {
     "waktu": "09 Jan 2026 08:35:23 WIB",
     "lintang": "5.62 LS",
     "bujur": "103.72 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "10 km",
     "dirasakan": "II-III Muna, II-III Muna Barat"
-  },
-  {
-    "waktu": "03 Jan 2026 09:12:26 WIB",
-    "lintang": "5.83 LS",
-    "bujur": "112.43 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "3 km",
-    "dirasakan": "III Tuban, III Bawean"
-  },
-  {
-    "waktu": "02 Jan 2026 12:19:47 WIB",
-    "lintang": "4.05 LS",
-    "bujur": "122.42 BT",
-    "magnitudo": "1.6",
-    "kedalaman": "7 km",
-    "dirasakan": "II Ranomeeto"
-  },
-  {
-    "waktu": "02 Jan 2026 11:34:12 WIB",
-    "lintang": "4.09 LS",
-    "bujur": "122.43 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "5 km",
-    "dirasakan": "III-IV Konawe Selatan, III Kendari"
   }
 ]
