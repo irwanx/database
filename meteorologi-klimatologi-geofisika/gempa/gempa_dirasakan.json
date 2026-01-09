@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Jan 2026 08:35:23 WIB",
+    "lintang": "5.62 LS",
+    "bujur": "103.72 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "23 km",
+    "dirasakan": "III Bengkunat, II Sekincau, II Liwa, II Suoh"
+  },
+  {
     "waktu": "09 Jan 2026 01:54:34 WIB",
     "lintang": "4.74 LU",
     "bujur": "96.77 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.4",
     "kedalaman": "5 km",
     "dirasakan": "III-IV Konawe Selatan, III Kendari"
-  },
-  {
-    "waktu": "01 Jan 2026 13:02:00 WIB",
-    "lintang": "4.18 LS",
-    "bujur": "138.44 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "133 km",
-    "dirasakan": "II - III Wamena"
   }
 ]
