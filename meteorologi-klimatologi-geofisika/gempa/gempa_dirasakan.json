@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Jan 2026 01:54:34 WIB",
+    "lintang": "4.74 LU",
+    "bujur": "96.77 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "6 km",
+    "dirasakan": "II Bener Meriah"
+  },
+  {
     "waktu": "08 Jan 2026 21:57:14 WIB",
     "lintang": "0.60 LS",
     "bujur": "127.63 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "133 km",
     "dirasakan": "II - III Wamena"
-  },
-  {
-    "waktu": "31 Des 2025 13:28:08 WIB",
-    "lintang": "4.08 LU",
-    "bujur": "95.96 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "24 km",
-    "dirasakan": "II Aceh Jaya"
   }
 ]
