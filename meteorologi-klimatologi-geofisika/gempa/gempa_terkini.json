@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Jan 2026 03:43:38 WIB",
+    "lintang": "6.94 LS",
+    "bujur": "129.58 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "174 km",
+    "wilayah": "223 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "10 Jan 2026 21:58:25 WIB",
     "lintang": "3.64 LU",
     "bujur": "126.98 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "99 km",
     "wilayah": "54 km BaratLaut HALMAHERABARAT-MALUT"
-  },
-  {
-    "waktu": "06 Des 2025 03:42:25 WIB",
-    "lintang": "10.45 LS",
-    "bujur": "119.34 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "35 km",
-    "wilayah": "74 km BaratDaya WANOKAKA-NTT"
   }
 ]
