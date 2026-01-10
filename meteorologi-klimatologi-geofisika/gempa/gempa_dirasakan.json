@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Jan 2026 16:34:07 WIB",
+    "lintang": "9.26 LS",
+    "bujur": "114.78 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "34 km",
+    "dirasakan": "II-III Kuta, II Jembrana, III Kuta Selatan, II-III Denpasar"
+  },
+  {
     "waktu": "09 Jan 2026 22:08:07 WIB",
     "lintang": "0.72 LS",
     "bujur": "127.54 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "29 km",
     "dirasakan": "III Nabire"
-  },
-  {
-    "waktu": "03 Jan 2026 17:55:29 WIB",
-    "lintang": "4.76 LS",
-    "bujur": "122.71 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Muna, II-III Muna Barat"
   }
 ]
