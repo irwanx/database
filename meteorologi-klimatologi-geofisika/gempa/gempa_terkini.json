@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Jan 2026 21:58:25 WIB",
+    "lintang": "3.64 LU",
+    "bujur": "126.98 BT",
+    "magnitudo": "7.1",
+    "kedalaman": "17 km",
+    "wilayah": "52 km Tenggara MELONGUANE-SULUT"
+  },
+  {
     "waktu": "04 Jan 2026 03:46:57 WIB",
     "lintang": "4.96 LU",
     "bujur": "127.43 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "35 km",
     "wilayah": "74 km BaratDaya WANOKAKA-NTT"
-  },
-  {
-    "waktu": "04 Des 2025 11:23:08 WIB",
-    "lintang": "0.33 LS",
-    "bujur": "125.70 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 km",
-    "wilayah": "170 km Tenggara TUTUYAN-BOLTIM-SULUT"
   }
 ]

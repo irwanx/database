@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Jan 2026 21:58:25 WIB",
+    "lintang": "3.64 LU",
+    "bujur": "126.98 BT",
+    "magnitudo": "7.1",
+    "kedalaman": "17 km",
+    "dirasakan": "III-IV Tobelo, III-IV Sitaro, II-III Ternate, II-III Minahasa Utara, II-III Bitung, III Morotai, IV-V Talaud, II-III Manado"
+  },
+  {
     "waktu": "10 Jan 2026 16:34:07 WIB",
     "lintang": "9.26 LS",
     "bujur": "114.78 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "17 km",
     "dirasakan": "II-III Sukarami"
-  },
-  {
-    "waktu": "03 Jan 2026 19:13:55 WIB",
-    "lintang": "3.42 LS",
-    "bujur": "135.63 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "29 km",
-    "dirasakan": "III Nabire"
   }
 ]
