@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Jan 2026 00:44:25 WIB",
+    "lintang": "4.06 LS",
+    "bujur": "121.76 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "5 km",
+    "dirasakan": "III-IV Kolaka Timur, III-IV Kolaka"
+  },
+  {
     "waktu": "11 Jan 2026 07:26:57 WIB",
     "lintang": "3.07 LS",
     "bujur": "101.15 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "1.7",
     "kedalaman": "10 km",
     "dirasakan": "I-II Ambon"
-  },
-  {
-    "waktu": "05 Jan 2026 22:59:45 WIB",
-    "lintang": "3.66 LS",
-    "bujur": "128.16 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "6 km",
-    "dirasakan": "II Ambon"
   }
 ]
