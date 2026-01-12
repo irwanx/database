@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Jan 2026 19:25:27 WIB",
+    "lintang": "4.29 LU",
+    "bujur": "97.53 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Gayo Lues"
+  },
+  {
     "waktu": "12 Jan 2026 00:44:25 WIB",
     "lintang": "4.06 LS",
     "bujur": "121.76 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "10 km",
     "dirasakan": "II-III Palu Utara"
-  },
-  {
-    "waktu": "06 Jan 2026 03:27:48 WIB",
-    "lintang": "3.66 LS",
-    "bujur": "128.17 BT",
-    "magnitudo": "1.7",
-    "kedalaman": "10 km",
-    "dirasakan": "I-II Ambon"
   }
 ]
