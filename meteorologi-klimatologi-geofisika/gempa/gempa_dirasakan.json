@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13 Jan 2026 08:20:45 WIB",
+    "lintang": "4.77 LS",
+    "bujur": "102.59 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "33 km",
+    "dirasakan": "II-III Bengkulu Selatan"
+  },
+  {
     "waktu": "13 Jan 2026 01:50:38 WIB",
     "lintang": "4.49 LU",
     "bujur": "96.52 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.4",
     "kedalaman": "4 km",
     "dirasakan": "II - III Sirenja"
-  },
-  {
-    "waktu": "07 Jan 2026 17:28:36 WIB",
-    "lintang": "8.23 LS",
-    "bujur": "116.58 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 km",
-    "dirasakan": "III Lombok Timur"
   }
 ]
