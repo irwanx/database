@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "14 Jan 2026 07:36:47 WIB",
+    "lintang": "0.78 LU",
+    "bujur": "122.45 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "55 km",
+    "dirasakan": "II-III Gorontalo"
+  },
+  {
+    "waktu": "14 Jan 2026 06:48:12 WIB",
+    "lintang": "3.70 LS",
+    "bujur": "133.59 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Kaimana"
+  },
+  {
     "waktu": "14 Jan 2026 01:24:56 WIB",
     "lintang": "4.77 LU",
     "bujur": "96.73 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "4 km",
     "dirasakan": "III Labuha"
-  },
-  {
-    "waktu": "09 Jan 2026 08:35:23 WIB",
-    "lintang": "5.62 LS",
-    "bujur": "103.72 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "23 km",
-    "dirasakan": "III Bengkunat, II Sekincau, II Liwa, II Suoh"
-  },
-  {
-    "waktu": "09 Jan 2026 01:54:34 WIB",
-    "lintang": "4.74 LU",
-    "bujur": "96.77 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "6 km",
-    "dirasakan": "II Bener Meriah"
   }
 ]
