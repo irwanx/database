@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Jan 2026 21:39:22 WIB",
+    "lintang": "9.15 LS",
+    "bujur": "122.48 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "49 km",
+    "dirasakan": "III Maumere"
+  },
+  {
     "waktu": "14 Jan 2026 07:36:47 WIB",
     "lintang": "0.78 LU",
     "bujur": "122.45 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.3",
     "kedalaman": "1 km",
     "dirasakan": "II Labuha"
-  },
-  {
-    "waktu": "09 Jan 2026 21:23:55 WIB",
-    "lintang": "0.68 LS",
-    "bujur": "127.53 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "4 km",
-    "dirasakan": "III Labuha"
   }
 ]
