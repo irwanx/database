@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Jan 2026 01:00:29 WIB",
+    "lintang": "1.95 LU",
+    "bujur": "127.26 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "103 km",
+    "wilayah": "69 km BaratDaya PULAUDOI-MALUT"
+  },
+  {
     "waktu": "13 Jan 2026 04:59:31 WIB",
     "lintang": "7.60 LS",
     "bujur": "128.89 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 km",
     "wilayah": "54 km BaratLaut SINABANG-ACEH"
-  },
-  {
-    "waktu": "07 Des 2025 11:55:55 WIB",
-    "lintang": "6.62 LS",
-    "bujur": "131.16 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "103 km",
-    "wilayah": "150 km BaratLaut TANIMBAR"
   }
 ]
