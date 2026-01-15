@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Jan 2026 14:17:19 WIB",
+    "lintang": "7.90 LS",
+    "bujur": "123.24 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "12 km",
+    "dirasakan": "II Flores Timur"
+  },
+  {
     "waktu": "15 Jan 2026 09:18:04 WIB",
     "lintang": "4.77 LU",
     "bujur": "96.87 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "34 km",
     "dirasakan": "II-III Kuta, II Jembrana, III Kuta Selatan, II-III Denpasar"
-  },
-  {
-    "waktu": "09 Jan 2026 22:08:07 WIB",
-    "lintang": "0.72 LS",
-    "bujur": "127.54 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "4 km",
-    "dirasakan": "II-III Labuha"
   }
 ]
