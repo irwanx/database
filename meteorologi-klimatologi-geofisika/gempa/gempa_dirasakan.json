@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Jan 2026 21:49:28 WIB",
+    "lintang": "9.23 LS",
+    "bujur": "118.56 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 km",
+    "dirasakan": "IV Kab. Sumbawa, III Kab. Bima"
+  },
+  {
     "waktu": "15 Jan 2026 14:17:19 WIB",
     "lintang": "7.90 LS",
     "bujur": "123.24 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "7.1",
     "kedalaman": "17 km",
     "dirasakan": "III-IV Tobelo, III-IV Sitaro, II-III Ternate, II-III Minahasa Utara, II-III Bitung, III Morotai, IV-V Talaud, II-III Manado"
-  },
-  {
-    "waktu": "10 Jan 2026 16:34:07 WIB",
-    "lintang": "9.26 LS",
-    "bujur": "114.78 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "34 km",
-    "dirasakan": "II-III Kuta, II Jembrana, III Kuta Selatan, II-III Denpasar"
   }
 ]
