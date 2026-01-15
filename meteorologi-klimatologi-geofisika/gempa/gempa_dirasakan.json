@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Jan 2026 09:18:04 WIB",
+    "lintang": "4.77 LU",
+    "bujur": "96.87 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "3 km",
+    "dirasakan": "II-III Bener Meriah"
+  },
+  {
     "waktu": "14 Jan 2026 21:39:22 WIB",
     "lintang": "9.15 LS",
     "bujur": "122.48 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "4 km",
     "dirasakan": "II-III Labuha"
-  },
-  {
-    "waktu": "09 Jan 2026 21:43:56 WIB",
-    "lintang": "0.72 LS",
-    "bujur": "127.49 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "1 km",
-    "dirasakan": "II Labuha"
   }
 ]
