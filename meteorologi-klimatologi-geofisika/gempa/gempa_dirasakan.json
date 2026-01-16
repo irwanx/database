@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16 Jan 2026 12:33:14 WIB",
+    "lintang": "8.28 LS",
+    "bujur": "116.65 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "10 km",
+    "dirasakan": "II Lombok Timur"
+  },
+  {
     "waktu": "16 Jan 2026 07:42:56 WIB",
     "lintang": "3.75 LS",
     "bujur": "133.60 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "5 km",
     "dirasakan": "III-IV Kolaka Timur, III-IV Kolaka"
-  },
-  {
-    "waktu": "11 Jan 2026 07:26:57 WIB",
-    "lintang": "3.07 LS",
-    "bujur": "101.15 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "21 km",
-    "dirasakan": "I-II Mukomuko"
   }
 ]
