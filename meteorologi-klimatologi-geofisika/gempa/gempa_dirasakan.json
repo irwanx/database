@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "16 Jan 2026 07:42:56 WIB",
+    "lintang": "3.75 LS",
+    "bujur": "133.60 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "8 km",
+    "dirasakan": "II-III Kaimana"
+  },
+  {
+    "waktu": "16 Jan 2026 04:09:27 WIB",
+    "lintang": "4.03 LS",
+    "bujur": "121.76 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "3 km",
+    "dirasakan": "III Kolaka Timur"
+  },
+  {
     "waktu": "15 Jan 2026 21:49:28 WIB",
     "lintang": "9.23 LS",
     "bujur": "118.56 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.8",
     "kedalaman": "21 km",
     "dirasakan": "I-II Mukomuko"
-  },
-  {
-    "waktu": "11 Jan 2026 06:55:48 WIB",
-    "lintang": "0.60 LS",
-    "bujur": "127.53 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "9 km",
-    "dirasakan": "III Labuha"
-  },
-  {
-    "waktu": "10 Jan 2026 21:58:25 WIB",
-    "lintang": "3.64 LU",
-    "bujur": "126.98 BT",
-    "magnitudo": "7.1",
-    "kedalaman": "17 km",
-    "dirasakan": "III-IV Tobelo, III-IV Sitaro, II-III Ternate, II-III Minahasa Utara, II-III Bitung, III Morotai, IV-V Talaud, II-III Manado"
   }
 ]
