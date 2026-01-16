@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16 Jan 2026 19:41:42 WIB",
+    "lintang": "1.40 LU",
+    "bujur": "120.93 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "2 km",
+    "dirasakan": "III-IV Toli-toli"
+  },
+  {
     "waktu": "16 Jan 2026 12:33:14 WIB",
     "lintang": "8.28 LS",
     "bujur": "116.65 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "10 km",
     "dirasakan": "II-III Gayo Lues"
-  },
-  {
-    "waktu": "12 Jan 2026 00:44:25 WIB",
-    "lintang": "4.06 LS",
-    "bujur": "121.76 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "5 km",
-    "dirasakan": "III-IV Kolaka Timur, III-IV Kolaka"
   }
 ]
