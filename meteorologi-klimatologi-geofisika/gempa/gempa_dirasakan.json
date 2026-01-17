@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Jan 2026 03:23:41 WIB",
+    "lintang": "4.09 LU",
+    "bujur": "97.55 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Gayo Lues , II Langsa"
+  },
+  {
     "waktu": "17 Jan 2026 16:04:41 WIB",
     "lintang": "4.77 LU",
     "bujur": "96.77 BT",
@@ -109,14 +117,6 @@
     "bujur": "96.73 BT",
     "magnitudo": "1.7",
     "kedalaman": "1 km",
-    "dirasakan": "II-III Bener Meriah, II-III Aceh Tengah"
-  },
-  {
-    "waktu": "14 Jan 2026 00:28:26 WIB",
-    "lintang": "4.70 LU",
-    "bujur": "96.78 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "8 km",
     "dirasakan": "II-III Bener Meriah, II-III Aceh Tengah"
   }
 ]
