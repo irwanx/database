@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Jan 2026 06:50:44 WIB",
+    "lintang": "3.35 LS",
+    "bujur": "128.64 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "56 km",
+    "wilayah": "35 km BaratDaya MALUKUTENGAH"
+  },
+  {
     "waktu": "15 Jan 2026 01:00:29 WIB",
     "lintang": "1.95 LU",
     "bujur": "127.26 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "102 km",
     "wilayah": "1 km TimurLaut POHUWATO-GORONTALO"
-  },
-  {
-    "waktu": "09 Des 2025 14:02:53 WIB",
-    "lintang": "2.48 LU",
-    "bujur": "95.88 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 km",
-    "wilayah": "54 km BaratLaut SINABANG-ACEH"
   }
 ]
