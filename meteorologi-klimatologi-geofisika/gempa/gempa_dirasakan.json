@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Jan 2026 23:32:14 WIB",
+    "lintang": "4.04 LS",
+    "bujur": "121.83 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "7 km",
+    "dirasakan": "II-III Loea , II - III Tirawuta"
+  },
+  {
     "waktu": "18 Jan 2026 11:16:48 WIB",
     "lintang": "0.56 LU",
     "bujur": "125.34 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.9",
     "kedalaman": "55 km",
     "dirasakan": "II-III Gorontalo"
-  },
-  {
-    "waktu": "14 Jan 2026 06:48:12 WIB",
-    "lintang": "3.70 LS",
-    "bujur": "133.59 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Kaimana"
   }
 ]

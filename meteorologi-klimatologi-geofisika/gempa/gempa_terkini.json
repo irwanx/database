@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Jan 2026 00:53:11 WIB",
+    "lintang": "0.12 LS",
+    "bujur": "124.68 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "wilayah": "94 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
+  },
+  {
     "waktu": "18 Jan 2026 13:38:55 WIB",
     "lintang": "2.17 LS",
     "bujur": "138.83 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.9",
     "kedalaman": "19 km",
     "wilayah": "26 km Tenggara ENGGANO-BENGKULU"
-  },
-  {
-    "waktu": "21 Des 2025 19:21:46 WIB",
-    "lintang": "1.47 LU",
-    "bujur": "126.34 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "27 km",
-    "wilayah": "133 km BaratLaut JAILOLO-MALUT"
   }
 ]
