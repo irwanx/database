@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Jan 2026 13:38:55 WIB",
+    "lintang": "2.17 LS",
+    "bujur": "138.83 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "21 km",
+    "wilayah": "36 km Tenggara SARMI-PAPUA"
+  },
+  {
     "waktu": "18 Jan 2026 11:16:48 WIB",
     "lintang": "0.56 LU",
     "bujur": "125.34 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.6",
     "kedalaman": "27 km",
     "wilayah": "133 km BaratLaut JAILOLO-MALUT"
-  },
-  {
-    "waktu": "21 Des 2025 11:02:10 WIB",
-    "lintang": "6.68 LS",
-    "bujur": "131.39 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "144 km",
-    "wilayah": "143 km TimurLaut TANIMBAR"
   }
 ]
