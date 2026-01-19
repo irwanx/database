@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Jan 2026 16:40:27 WIB",
+    "lintang": "4.75 LU",
+    "bujur": "96.75 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "4 km",
+    "dirasakan": "III Bener Meriah"
+  },
+  {
     "waktu": "18 Jan 2026 23:32:14 WIB",
     "lintang": "4.04 LS",
     "bujur": "121.83 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "49 km",
     "dirasakan": "III Maumere"
-  },
-  {
-    "waktu": "14 Jan 2026 07:36:47 WIB",
-    "lintang": "0.78 LU",
-    "bujur": "122.45 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "55 km",
-    "dirasakan": "II-III Gorontalo"
   }
 ]
