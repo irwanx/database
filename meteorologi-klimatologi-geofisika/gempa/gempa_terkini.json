@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Jan 2026 18:02:49 WIB",
+    "lintang": "2.59 LS",
+    "bujur": "102.23 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "162 km",
+    "wilayah": "53 km Tenggara MERANGIN-JAMBI"
+  },
+  {
     "waktu": "19 Jan 2026 00:53:11 WIB",
     "lintang": "0.12 LS",
     "bujur": "124.68 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.8",
     "kedalaman": "18 km",
     "wilayah": "26 km BaratDaya ENGGANO-BENGKULU"
-  },
-  {
-    "waktu": "27 Des 2025 07:22:32 WIB",
-    "lintang": "5.58 LS",
-    "bujur": "102.27 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "19 km",
-    "wilayah": "26 km Tenggara ENGGANO-BENGKULU"
   }
 ]

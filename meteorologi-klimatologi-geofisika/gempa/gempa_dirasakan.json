@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Jan 2026 18:02:49 WIB",
+    "lintang": "2.59 LS",
+    "bujur": "102.23 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "162 km",
+    "dirasakan": "II Kota Bengkulu, II Bengkulu Utara"
+  },
+  {
     "waktu": "19 Jan 2026 16:40:27 WIB",
     "lintang": "4.75 LU",
     "bujur": "96.75 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "3 km",
     "dirasakan": "II-III Bener Meriah"
-  },
-  {
-    "waktu": "14 Jan 2026 21:39:22 WIB",
-    "lintang": "9.15 LS",
-    "bujur": "122.48 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "49 km",
-    "dirasakan": "III Maumere"
   }
 ]
