@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Jan 2026 04:37:07 WIB",
+    "lintang": "1.25 LS",
+    "bujur": "120.61 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Poso"
+  },
+  {
     "waktu": "19 Jan 2026 18:02:49 WIB",
     "lintang": "2.59 LS",
     "bujur": "102.23 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "12 km",
     "dirasakan": "II Flores Timur"
-  },
-  {
-    "waktu": "15 Jan 2026 09:18:04 WIB",
-    "lintang": "4.77 LU",
-    "bujur": "96.87 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "3 km",
-    "dirasakan": "II-III Bener Meriah"
   }
 ]

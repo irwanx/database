@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Jan 2026 05:15:56 WIB",
+    "lintang": "7.41 LS",
+    "bujur": "128.49 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "180 km",
+    "wilayah": "113 km TimurLaut MALUKUBRTDAYA"
+  },
+  {
     "waktu": "19 Jan 2026 18:02:49 WIB",
     "lintang": "2.59 LS",
     "bujur": "102.23 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "96 km",
     "wilayah": "40 km TimurLaut PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "27 Des 2025 08:10:13 WIB",
-    "lintang": "5.58 LS",
-    "bujur": "102.22 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "18 km",
-    "wilayah": "26 km BaratDaya ENGGANO-BENGKULU"
   }
 ]
