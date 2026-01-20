@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Jan 2026 16:31:05 WIB",
+    "lintang": "4.75 LU",
+    "bujur": "96.82 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "5 km",
+    "dirasakan": "II Bener Meriah"
+  },
+  {
     "waktu": "20 Jan 2026 04:37:07 WIB",
     "lintang": "1.25 LS",
     "bujur": "120.61 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "10 km",
     "dirasakan": "IV Kab. Sumbawa, III Kab. Bima"
-  },
-  {
-    "waktu": "15 Jan 2026 14:17:19 WIB",
-    "lintang": "7.90 LS",
-    "bujur": "123.24 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "12 km",
-    "dirasakan": "II Flores Timur"
   }
 ]
