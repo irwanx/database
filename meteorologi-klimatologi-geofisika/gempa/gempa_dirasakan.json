@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21 Jan 2026 01:41:48 WIB",
+    "lintang": "2.37 LU",
+    "bujur": "125.34 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "6 km",
+    "dirasakan": "II-III Tagulandang"
+  },
+  {
     "waktu": "20 Jan 2026 16:31:05 WIB",
     "lintang": "4.75 LU",
     "bujur": "96.82 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.8",
     "kedalaman": "3 km",
     "dirasakan": "III Kolaka Timur"
-  },
-  {
-    "waktu": "15 Jan 2026 21:49:28 WIB",
-    "lintang": "9.23 LS",
-    "bujur": "118.56 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 km",
-    "dirasakan": "IV Kab. Sumbawa, III Kab. Bima"
   }
 ]
