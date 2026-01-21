@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21 Jan 2026 11:10:01 WIB",
+    "lintang": "3.02 LU",
+    "bujur": "122.94 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "504 km",
+    "wilayah": "237 km BaratLaut BOROKO-BOLMUT-SULUT"
+  },
+  {
     "waktu": "20 Jan 2026 05:15:56 WIB",
     "lintang": "7.41 LS",
     "bujur": "128.49 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.6",
     "kedalaman": "189 km",
     "wilayah": "209 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "01 Jan 2026 09:56:23 WIB",
-    "lintang": "4.99 LU",
-    "bujur": "127.36 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "96 km",
-    "wilayah": "40 km TimurLaut PULAUKARATUNG-SULUT"
   }
 ]
