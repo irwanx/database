@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21 Jan 2026 12:49:36 WIB",
+    "lintang": "7.04 LS",
+    "bujur": "129.73 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "167 km",
+    "wilayah": "203 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "21 Jan 2026 11:10:01 WIB",
     "lintang": "3.02 LU",
     "bujur": "122.94 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "133 km",
     "wilayah": "26 km Tenggara LANNYJAYA-PAPUAPGNGN"
-  },
-  {
-    "waktu": "01 Jan 2026 10:05:25 WIB",
-    "lintang": "6.58 LS",
-    "bujur": "130.03 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "189 km",
-    "wilayah": "209 km BaratLaut TANIMBAR"
   }
 ]
