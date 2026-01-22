@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Jan 2026 02:32:12 WIB",
+    "lintang": "4.75 LU",
+    "bujur": "96.75 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "10 km",
+    "dirasakan": "III Bener Meriah"
+  },
+  {
     "waktu": "22 Jan 2026 09:40:04 WIB",
     "lintang": "1.19 LS",
     "bujur": "100.28 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.4",
     "kedalaman": "2 km",
     "dirasakan": "III Bener Meriah"
-  },
-  {
-    "waktu": "17 Jan 2026 06:50:44 WIB",
-    "lintang": "3.35 LS",
-    "bujur": "128.64 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "56 km",
-    "dirasakan": "III-IV Liang, III-IV Amahai, III-IV Kairatu, II-III Ambon, II-III Seram Utara, II-III Sorong"
   }
 ]
