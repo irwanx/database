@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Jan 2026 09:40:04 WIB",
+    "lintang": "1.19 LS",
+    "bujur": "100.28 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "56 km",
+    "dirasakan": "II-III Padang Panjang, II-III Solok, II-III Solok Selatan, II-III Pesisir Selatan"
+  },
+  {
     "waktu": "22 Jan 2026 05:44:45 WIB",
     "lintang": "0.31 LS",
     "bujur": "122.63 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "56 km",
     "dirasakan": "III-IV Liang, III-IV Amahai, III-IV Kairatu, II-III Ambon, II-III Seram Utara, II-III Sorong"
-  },
-  {
-    "waktu": "16 Jan 2026 22:58:13 WIB",
-    "lintang": "0.79 LU",
-    "bujur": "97.25 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "22 km",
-    "dirasakan": "III Nias Barat"
   }
 ]
