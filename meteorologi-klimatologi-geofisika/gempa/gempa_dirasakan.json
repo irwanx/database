@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Jan 2026 18:01:40 WIB",
+    "lintang": "2.54 LU",
+    "bujur": "117.00 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "45 km",
+    "dirasakan": "II-III Tanjung Selor"
+  },
+  {
     "waktu": "23 Jan 2026 14:47:56 WIB",
     "lintang": "0.10 LU",
     "bujur": "111.78 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "67 km",
     "dirasakan": "II-III Minahasa, II Kotamobagu"
-  },
-  {
-    "waktu": "18 Jan 2026 03:23:41 WIB",
-    "lintang": "4.09 LU",
-    "bujur": "97.55 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Gayo Lues , II Langsa"
   }
 ]
