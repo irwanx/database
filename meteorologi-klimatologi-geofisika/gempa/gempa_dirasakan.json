@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Jan 2026 14:47:56 WIB",
+    "lintang": "0.10 LU",
+    "bujur": "111.78 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Sekadau, III-IV Sintang"
+  },
+  {
     "waktu": "23 Jan 2026 02:32:12 WIB",
     "lintang": "4.75 LU",
     "bujur": "96.75 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.7",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Gayo Lues , II Langsa"
-  },
-  {
-    "waktu": "17 Jan 2026 16:04:41 WIB",
-    "lintang": "4.77 LU",
-    "bujur": "96.77 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "2 km",
-    "dirasakan": "III Bener Meriah"
   }
 ]
