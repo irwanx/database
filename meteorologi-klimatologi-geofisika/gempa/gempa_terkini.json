@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24 Jan 2026 17:45:54 WIB",
+    "lintang": "5.00 LU",
+    "bujur": "125.54 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "177 km",
+    "wilayah": "154 km TimurLaut TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
     "waktu": "22 Jan 2026 05:44:45 WIB",
     "lintang": "0.31 LS",
     "bujur": "122.63 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "102 km",
     "wilayah": "44 km TimurLaut PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "03 Jan 2026 01:29:57 WIB",
-    "lintang": "5.08 LS",
-    "bujur": "131.67 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "88 km",
-    "wilayah": "134 km BaratLaut TUAL-MALUKU"
   }
 ]
