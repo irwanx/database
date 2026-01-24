@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24 Jan 2026 16:46:57 WIB",
+    "lintang": "0.71 LS",
+    "bujur": "119.82 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "5 km",
+    "dirasakan": "III-IV Donggala, III Palu, III Parigi"
+  },
+  {
     "waktu": "23 Jan 2026 18:01:40 WIB",
     "lintang": "2.54 LU",
     "bujur": "117.00 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "7 km",
     "dirasakan": "II-III Loea , II - III Tirawuta"
-  },
-  {
-    "waktu": "18 Jan 2026 11:16:48 WIB",
-    "lintang": "0.56 LU",
-    "bujur": "125.34 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "67 km",
-    "dirasakan": "II-III Minahasa, II Kotamobagu"
   }
 ]
