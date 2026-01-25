@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Jan 2026 19:11:53 WIB",
+    "lintang": "8.30 LS",
+    "bujur": "117.79 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "26 km",
+    "dirasakan": "III Sumbawa"
+  },
+  {
     "waktu": "25 Jan 2026 15:51:24 WIB",
     "lintang": "8.88 LS",
     "bujur": "110.24 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "6 km",
     "dirasakan": "II-III Tagulandang"
-  },
-  {
-    "waktu": "20 Jan 2026 16:31:05 WIB",
-    "lintang": "4.75 LU",
-    "bujur": "96.82 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "5 km",
-    "dirasakan": "II Bener Meriah"
   }
 ]
