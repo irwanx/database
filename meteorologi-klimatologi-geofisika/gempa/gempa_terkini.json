@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Jan 2026 13:22:36 WIB",
+    "lintang": "5.91 LS",
+    "bujur": "130.68 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "134 km",
+    "wilayah": "229 km BaratDaya MALUKUTENGGARA"
+  },
+  {
     "waktu": "24 Jan 2026 17:45:54 WIB",
     "lintang": "5.00 LU",
     "bujur": "125.54 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "7.1",
     "kedalaman": "17 km",
     "wilayah": "52 km Tenggara MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "04 Jan 2026 03:46:57 WIB",
-    "lintang": "4.96 LU",
-    "bujur": "127.43 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "102 km",
-    "wilayah": "44 km TimurLaut PULAUKARATUNG-SULUT"
   }
 ]
