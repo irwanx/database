@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Jan 2026 15:51:24 WIB",
+    "lintang": "8.88 LS",
+    "bujur": "110.24 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Bantul, II-III Yogyakarta, II-III Gunungkidul, II-III Pacitan, II Sleman, II Kulon Progo, II Wonogiri"
+  },
+  {
     "waktu": "25 Jan 2026 13:22:36 WIB",
     "lintang": "5.91 LS",
     "bujur": "130.68 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.2",
     "kedalaman": "5 km",
     "dirasakan": "II Bener Meriah"
-  },
-  {
-    "waktu": "20 Jan 2026 04:37:07 WIB",
-    "lintang": "1.25 LS",
-    "bujur": "120.61 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Poso"
   }
 ]
