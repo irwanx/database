@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Jan 2026 13:22:36 WIB",
+    "lintang": "5.91 LS",
+    "bujur": "130.68 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "134 km",
+    "dirasakan": "II Saumlaki"
+  },
+  {
     "waktu": "25 Jan 2026 06:42:37 WIB",
     "lintang": "0.88 LU",
     "bujur": "127.66 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "10 km",
     "dirasakan": "II-III Poso"
-  },
-  {
-    "waktu": "19 Jan 2026 18:02:49 WIB",
-    "lintang": "2.59 LS",
-    "bujur": "102.23 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "162 km",
-    "dirasakan": "II Kota Bengkulu, II Bengkulu Utara"
   }
 ]
