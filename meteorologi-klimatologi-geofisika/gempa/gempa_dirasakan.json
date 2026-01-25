@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "25 Jan 2026 06:42:37 WIB",
+    "lintang": "0.88 LU",
+    "bujur": "127.66 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "9 km",
+    "dirasakan": "III Halmahera Utara, II Ternate, II Tidore"
+  },
+  {
+    "waktu": "25 Jan 2026 06:41:37 WIB",
+    "lintang": "1.48 LU",
+    "bujur": "127.88 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "9 km",
+    "dirasakan": "III Tobelo"
+  },
+  {
     "waktu": "24 Jan 2026 16:46:57 WIB",
     "lintang": "0.71 LS",
     "bujur": "119.82 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "162 km",
     "dirasakan": "II Kota Bengkulu, II Bengkulu Utara"
-  },
-  {
-    "waktu": "19 Jan 2026 16:40:27 WIB",
-    "lintang": "4.75 LU",
-    "bujur": "96.75 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "4 km",
-    "dirasakan": "III Bener Meriah"
-  },
-  {
-    "waktu": "18 Jan 2026 23:32:14 WIB",
-    "lintang": "4.04 LS",
-    "bujur": "121.83 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "7 km",
-    "dirasakan": "II-III Loea , II - III Tirawuta"
   }
 ]
