@@ -16,6 +16,14 @@
     "dirasakan": "II-III Mandailing Natal"
   },
   {
+    "waktu": "26 Jan 2026 06:47:09 WIB",
+    "lintang": "2.04 LS",
+    "bujur": "120.64 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "5 km",
+    "dirasakan": "III Pendolo"
+  },
+  {
     "waktu": "26 Jan 2026 01:25:32 WIB",
     "lintang": "4.49 LS",
     "bujur": "122.96 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "64 km",
     "dirasakan": "II-III Kota Gorontalo, II-III Kab. Gorontalo, II-III Kab. Gorontalo Utara, II-III Bone Bolango, II - III Kab Pohuwato, II - III Kab Boalemo"
-  },
-  {
-    "waktu": "21 Jan 2026 13:11:07 WIB",
-    "lintang": "4.18 LU",
-    "bujur": "97.52 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Gayo Lues, II-III Blangkejeren"
   }
 ]
