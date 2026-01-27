@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Jan 2026 08:20:44 WIB",
+    "lintang": "8.14 LS",
+    "bujur": "111.33 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "105 km",
+    "dirasakan": "III-IV Pacitan, III-IV Karangkates, III-IV Tulungagung, III Malang, III Nganjuk, III Ponorogo, III Blitar, II-III Madiun, II-III Denpasar, II-III Kuta, II-III Karangasem, II-III Jember, II-III Mojokerto, II Yogyakarta, II Bantul, II Sleman, II Kulon Progo, II Purworejo, II Pasuruan, II Semarang, II Mataram"
+  },
+  {
     "waktu": "26 Jan 2026 08:29:19 WIB",
     "lintang": "6.38 LS",
     "bujur": "107.17 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "56 km",
     "dirasakan": "II-III Padang Panjang, II-III Solok, II-III Solok Selatan, II-III Pesisir Selatan"
-  },
-  {
-    "waktu": "22 Jan 2026 05:44:45 WIB",
-    "lintang": "0.31 LS",
-    "bujur": "122.63 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "64 km",
-    "dirasakan": "II-III Kota Gorontalo, II-III Kab. Gorontalo, II-III Kab. Gorontalo Utara, II-III Bone Bolango, II - III Kab Pohuwato, II - III Kab Boalemo"
   }
 ]
