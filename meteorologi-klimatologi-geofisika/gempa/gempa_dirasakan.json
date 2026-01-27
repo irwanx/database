@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Jan 2026 21:20:05 WIB",
+    "lintang": "4.56 LS",
+    "bujur": "101.03 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 km",
+    "dirasakan": "I-II Muko-Muko, I-II Bengkulu, I-II Kota Manna"
+  },
+  {
     "waktu": "27 Jan 2026 15:18:31 WIB",
     "lintang": "8.27 LS",
     "bujur": "109.09 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "5 km",
     "dirasakan": "III-IV Donggala, III Palu, III Parigi"
-  },
-  {
-    "waktu": "23 Jan 2026 18:01:40 WIB",
-    "lintang": "2.54 LU",
-    "bujur": "117.00 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "45 km",
-    "dirasakan": "II-III Tanjung Selor"
   }
 ]
