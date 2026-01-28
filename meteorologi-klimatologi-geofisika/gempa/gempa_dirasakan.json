@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Jan 2026 01:30:16 WIB",
+    "lintang": "8.75 LS",
+    "bujur": "118.43 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "128 km",
+    "dirasakan": "III Bima, II - III Sumbawa"
+  },
+  {
     "waktu": "27 Jan 2026 21:20:05 WIB",
     "lintang": "4.56 LS",
     "bujur": "101.03 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "9 km",
     "dirasakan": "III Tobelo"
-  },
-  {
-    "waktu": "24 Jan 2026 16:46:57 WIB",
-    "lintang": "0.71 LS",
-    "bujur": "119.82 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "5 km",
-    "dirasakan": "III-IV Donggala, III Palu, III Parigi"
   }
 ]
