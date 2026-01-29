@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Jan 2026 21:43:29 WIB",
+    "lintang": "2.88 LU",
+    "bujur": "96.32 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 km",
+    "dirasakan": "III Sinabang"
+  },
+  {
     "waktu": "29 Jan 2026 12:04:45 WIB",
     "lintang": "7.71 LS",
     "bujur": "103.98 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "134 km",
     "dirasakan": "II Saumlaki"
-  },
-  {
-    "waktu": "25 Jan 2026 06:42:37 WIB",
-    "lintang": "0.88 LU",
-    "bujur": "127.66 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "9 km",
-    "dirasakan": "III Halmahera Utara, II Ternate, II Tidore"
   }
 ]
