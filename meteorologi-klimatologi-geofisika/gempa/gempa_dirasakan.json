@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30 Jan 2026 10:01:48 WIB",
+    "lintang": "4.29 LS",
+    "bujur": "122.51 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "5 km",
+    "dirasakan": "II - III Wolasi, Konawes Selatan"
+  },
+  {
     "waktu": "30 Jan 2026 08:15:29 WIB",
     "lintang": "0.39 LS",
     "bujur": "124.63 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.9",
     "kedalaman": "5 km",
     "dirasakan": "III Buton Utara"
-  },
-  {
-    "waktu": "25 Jan 2026 19:11:53 WIB",
-    "lintang": "8.30 LS",
-    "bujur": "117.79 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "26 km",
-    "dirasakan": "III Sumbawa"
   }
 ]
