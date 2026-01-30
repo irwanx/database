@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "30 Jan 2026 08:15:29 WIB",
+    "lintang": "0.39 LS",
+    "bujur": "124.63 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Minahasa Tenggara, II Gorontalo Utara"
+  },
+  {
+    "waktu": "30 Jan 2026 05:13:54 WIB",
+    "lintang": "6.87 LS",
+    "bujur": "107.75 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "5 km",
+    "dirasakan": "II - III Sukasari, II - III Tanjungsari , II - III Cileunyi , II - III Cilengkrang, II - III Cimenyan"
+  },
+  {
     "waktu": "29 Jan 2026 21:43:29 WIB",
     "lintang": "2.88 LU",
     "bujur": "96.32 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.4",
     "kedalaman": "26 km",
     "dirasakan": "III Sumbawa"
-  },
-  {
-    "waktu": "25 Jan 2026 15:51:24 WIB",
-    "lintang": "8.88 LS",
-    "bujur": "110.24 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Bantul, II-III Yogyakarta, II-III Gunungkidul, II-III Pacitan, II Sleman, II Kulon Progo, II Wonogiri"
-  },
-  {
-    "waktu": "25 Jan 2026 13:22:36 WIB",
-    "lintang": "5.91 LS",
-    "bujur": "130.68 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "134 km",
-    "dirasakan": "II Saumlaki"
   }
 ]
