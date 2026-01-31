@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "31 Jan 2026 14:11:13 WIB",
+    "lintang": "4.13 LU",
+    "bujur": "97.36 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 km",
+    "dirasakan": "III Gayo Lues"
+  },
+  {
+    "waktu": "31 Jan 2026 13:50:57 WIB",
+    "lintang": "0.09 LU",
+    "bujur": "111.76 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "15 km",
+    "dirasakan": "II-III Sintang"
+  },
+  {
     "waktu": "30 Jan 2026 10:01:48 WIB",
     "lintang": "4.29 LS",
     "bujur": "122.51 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "8 km",
     "dirasakan": "II-III Mandailing Natal"
-  },
-  {
-    "waktu": "26 Jan 2026 06:47:09 WIB",
-    "lintang": "2.04 LS",
-    "bujur": "120.64 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "5 km",
-    "dirasakan": "III Pendolo"
-  },
-  {
-    "waktu": "26 Jan 2026 01:25:32 WIB",
-    "lintang": "4.49 LS",
-    "bujur": "122.96 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "5 km",
-    "dirasakan": "III Buton Utara"
   }
 ]
