@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Feb 2026 20:29:11 WIB",
+    "lintang": "8.49 LS",
+    "bujur": "115.66 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "9 km",
+    "dirasakan": "III Kab. Karangasem"
+  },
+  {
     "waktu": "31 Jan 2026 14:11:13 WIB",
     "lintang": "4.13 LU",
     "bujur": "97.36 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.7",
     "kedalaman": "7 km",
     "dirasakan": "II-III Cikarang, II-III Karawang"
-  },
-  {
-    "waktu": "26 Jan 2026 07:50:55 WIB",
-    "lintang": "0.65 LU",
-    "bujur": "99.73 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "8 km",
-    "dirasakan": "II-III Mandailing Natal"
   }
 ]
