@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Feb 2026 17:16:13 WIB",
+    "lintang": "4.88 LU",
+    "bujur": "97.05 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "3 km",
+    "dirasakan": "II-III Bener Meriah"
+  },
+  {
     "waktu": "02 Feb 2026 05:20:41 WIB",
     "lintang": "1.17 LS",
     "bujur": "99.69 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "7 km",
     "dirasakan": "II-III Bener Meriah"
-  },
-  {
-    "waktu": "27 Jan 2026 08:20:44 WIB",
-    "lintang": "8.14 LS",
-    "bujur": "111.33 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "105 km",
-    "dirasakan": "III-IV Pacitan, III-IV Karangkates, III-IV Tulungagung, III Malang, III Nganjuk, III Ponorogo, III Blitar, II-III Madiun, II-III Denpasar, II-III Kuta, II-III Karangasem, II-III Jember, II-III Mojokerto, II Yogyakarta, II Bantul, II Sleman, II Kulon Progo, II Purworejo, II Pasuruan, II Semarang, II Mataram"
   }
 ]
