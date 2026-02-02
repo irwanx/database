@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Feb 2026 23:51:47 WIB",
+    "lintang": "4.73 LU",
+    "bujur": "96.76 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Bener Meriah"
+  },
+  {
     "waktu": "02 Feb 2026 17:16:13 WIB",
     "lintang": "4.88 LU",
     "bujur": "97.05 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "11 km",
     "dirasakan": "III Sleman, III Kulon Progo, III Gunungkidul, III Magelang, II Pacitan, II Solo, II Trenggalek, II Purworejo, II Wonogiri"
-  },
-  {
-    "waktu": "27 Jan 2026 12:50:48 WIB",
-    "lintang": "4.75 LU",
-    "bujur": "96.76 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "7 km",
-    "dirasakan": "II-III Bener Meriah"
   }
 ]
