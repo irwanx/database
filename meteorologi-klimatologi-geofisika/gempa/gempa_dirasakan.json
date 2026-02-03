@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "03 Feb 2026 05:38:34 WIB",
+    "lintang": "4.92 LU",
+    "bujur": "96.82 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Bener Meriah, II Bireuen"
+  },
+  {
+    "waktu": "03 Feb 2026 04:37:30 WIB",
+    "lintang": "5.34 LS",
+    "bujur": "104.41 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "4 km",
+    "dirasakan": "II-III Lampung Barat"
+  },
+  {
     "waktu": "02 Feb 2026 23:51:47 WIB",
     "lintang": "4.73 LU",
     "bujur": "96.76 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "10 km",
     "dirasakan": "I-II Muko-Muko, I-II Bengkulu, I-II Kota Manna"
-  },
-  {
-    "waktu": "27 Jan 2026 15:18:31 WIB",
-    "lintang": "8.27 LS",
-    "bujur": "109.09 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "34 km",
-    "dirasakan": "II-III Cilacap"
-  },
-  {
-    "waktu": "27 Jan 2026 13:15:32 WIB",
-    "lintang": "7.87 LS",
-    "bujur": "110.49 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "11 km",
-    "dirasakan": "III Sleman, III Kulon Progo, III Gunungkidul, III Magelang, II Pacitan, II Solo, II Trenggalek, II Purworejo, II Wonogiri"
   }
 ]
