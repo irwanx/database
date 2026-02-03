@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Feb 2026 09:50:45 WIB",
+    "lintang": "6.63 LS",
+    "bujur": "130.00 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "199 km",
+    "wilayah": "207 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "30 Jan 2026 08:15:29 WIB",
     "lintang": "0.39 LS",
     "bujur": "124.63 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "56 km",
     "wilayah": "35 km BaratDaya MALUKUTENGAH"
-  },
-  {
-    "waktu": "15 Jan 2026 01:00:29 WIB",
-    "lintang": "1.95 LU",
-    "bujur": "127.26 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "103 km",
-    "wilayah": "69 km BaratDaya PULAUDOI-MALUT"
   }
 ]
