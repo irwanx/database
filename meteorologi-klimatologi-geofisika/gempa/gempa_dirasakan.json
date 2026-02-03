@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Feb 2026 15:54:12 WIB",
+    "lintang": "1.55 LS",
+    "bujur": "133.74 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "21 km",
+    "dirasakan": "III Ransiki"
+  },
+  {
     "waktu": "03 Feb 2026 05:38:34 WIB",
     "lintang": "4.92 LU",
     "bujur": "96.82 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "128 km",
     "dirasakan": "III Bima, II - III Sumbawa"
-  },
-  {
-    "waktu": "27 Jan 2026 21:20:05 WIB",
-    "lintang": "4.56 LS",
-    "bujur": "101.03 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 km",
-    "dirasakan": "I-II Muko-Muko, I-II Bengkulu, I-II Kota Manna"
   }
 ]
