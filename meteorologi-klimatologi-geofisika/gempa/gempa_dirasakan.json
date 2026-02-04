@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04 Feb 2026 06:26:14 WIB",
+    "lintang": "5.75 LS",
+    "bujur": "104.52 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "7 km",
+    "dirasakan": "II Pringsewu, II-III Tanggamus"
+  },
+  {
     "waktu": "03 Feb 2026 15:54:12 WIB",
     "lintang": "1.55 LS",
     "bujur": "133.74 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "10 km",
     "dirasakan": "II-III Cilegon"
-  },
-  {
-    "waktu": "29 Jan 2026 01:30:16 WIB",
-    "lintang": "8.75 LS",
-    "bujur": "118.43 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "128 km",
-    "dirasakan": "III Bima, II - III Sumbawa"
   }
 ]
