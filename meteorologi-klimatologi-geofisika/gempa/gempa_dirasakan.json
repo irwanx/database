@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Feb 2026 01:06:10 WIB",
+    "lintang": "8.99 LS",
+    "bujur": "111.18 BT",
+    "magnitudo": "6.4",
+    "kedalaman": "10 km",
+    "dirasakan": "IV Pacitan, IV Bantul, IV Sleman, III Kulon Progo, III Trenggalek, III Wonogiri, III Malang, III Cirebon, III Blitar, II Surakarta, III Karanganyar, III Magelang, III Jombang, III Tulungagung, II Tuban, II Jepara"
+  },
+  {
     "waktu": "05 Feb 2026 22:02:04 WIB",
     "lintang": "4.09 LS",
     "bujur": "121.87 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.9",
     "kedalaman": "15 km",
     "dirasakan": "II-III Sintang"
-  },
-  {
-    "waktu": "30 Jan 2026 10:01:48 WIB",
-    "lintang": "4.29 LS",
-    "bujur": "122.51 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "5 km",
-    "dirasakan": "II - III Wolasi, Konawes Selatan"
   }
 ]

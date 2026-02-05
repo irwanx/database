@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Feb 2026 01:06:10 WIB",
+    "lintang": "8.99 LS",
+    "bujur": "111.18 BT",
+    "magnitudo": "6.4",
+    "kedalaman": "10 km",
+    "wilayah": "90 km Tenggara PACITAN-JATIM"
+  },
+  {
     "waktu": "03 Feb 2026 09:50:45 WIB",
     "lintang": "6.63 LS",
     "bujur": "130.00 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "67 km",
     "wilayah": "81 km Tenggara RATAHAN-MITRA-SULUT"
-  },
-  {
-    "waktu": "17 Jan 2026 06:50:44 WIB",
-    "lintang": "3.35 LS",
-    "bujur": "128.64 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "56 km",
-    "wilayah": "35 km BaratDaya MALUKUTENGAH"
   }
 ]
