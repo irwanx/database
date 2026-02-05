@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Feb 2026 16:54:35 WIB",
+    "lintang": "6.69 LS",
+    "bujur": "107.74 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "5 km",
+    "dirasakan": "II Ciater, II Kasomalang"
+  },
+  {
     "waktu": "05 Feb 2026 08:01:14 WIB",
     "lintang": "1.95 LS",
     "bujur": "120.60 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 km",
     "dirasakan": "II-III Minahasa Tenggara, II Gorontalo Utara"
-  },
-  {
-    "waktu": "30 Jan 2026 05:13:54 WIB",
-    "lintang": "6.87 LS",
-    "bujur": "107.75 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "5 km",
-    "dirasakan": "II - III Sukasari, II - III Tanjungsari , II - III Cileunyi , II - III Cilengkrang, II - III Cimenyan"
   }
 ]
