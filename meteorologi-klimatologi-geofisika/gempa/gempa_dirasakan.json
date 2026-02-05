@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "05 Feb 2026 08:01:14 WIB",
+    "lintang": "1.95 LS",
+    "bujur": "120.60 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 km",
+    "dirasakan": "III Pendolo"
+  },
+  {
+    "waktu": "05 Feb 2026 04:52:54 WIB",
+    "lintang": "0.06 LS",
+    "bujur": "100.18 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 km",
+    "dirasakan": "I-II Padang Panjang, II-III Lubuk Sikaping, II-III Agam, I-II Bukittinggi"
+  },
+  {
     "waktu": "04 Feb 2026 06:26:14 WIB",
     "lintang": "5.75 LS",
     "bujur": "104.52 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.7",
     "kedalaman": "5 km",
     "dirasakan": "II - III Sukasari, II - III Tanjungsari , II - III Cileunyi , II - III Cilengkrang, II - III Cimenyan"
-  },
-  {
-    "waktu": "29 Jan 2026 21:43:29 WIB",
-    "lintang": "2.88 LU",
-    "bujur": "96.32 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 km",
-    "dirasakan": "III Sinabang"
-  },
-  {
-    "waktu": "29 Jan 2026 12:04:45 WIB",
-    "lintang": "7.71 LS",
-    "bujur": "103.98 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Cilegon"
   }
 ]
