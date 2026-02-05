@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Feb 2026 22:02:04 WIB",
+    "lintang": "4.09 LS",
+    "bujur": "121.87 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "2 km",
+    "dirasakan": "II-III Tirawuta"
+  },
+  {
     "waktu": "05 Feb 2026 16:54:35 WIB",
     "lintang": "6.69 LS",
     "bujur": "107.74 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.8",
     "kedalaman": "5 km",
     "dirasakan": "II - III Wolasi, Konawes Selatan"
-  },
-  {
-    "waktu": "30 Jan 2026 08:15:29 WIB",
-    "lintang": "0.39 LS",
-    "bujur": "124.63 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Minahasa Tenggara, II Gorontalo Utara"
   }
 ]
