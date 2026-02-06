@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Feb 2026 13:45:31 WIB",
+    "lintang": "6.87 LS",
+    "bujur": "107.74 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "13 km",
+    "dirasakan": "II-III Jatinangor, II-III Ciater, II-III Kasomalang, II-III Cileunyi"
+  },
+  {
     "waktu": "06 Feb 2026 01:06:10 WIB",
     "lintang": "8.99 LS",
     "bujur": "111.18 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "10 km",
     "dirasakan": "III Gayo Lues"
-  },
-  {
-    "waktu": "31 Jan 2026 13:50:57 WIB",
-    "lintang": "0.09 LU",
-    "bujur": "111.76 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "15 km",
-    "dirasakan": "II-III Sintang"
   }
 ]
