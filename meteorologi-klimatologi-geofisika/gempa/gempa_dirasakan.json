@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Feb 2026 04:20:16 WIB",
+    "lintang": "7.82 LS",
+    "bujur": "130.25 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "100 km",
+    "dirasakan": "II Saumlaki"
+  },
+  {
     "waktu": "06 Feb 2026 15:51:49 WIB",
     "lintang": "2.87 LS",
     "bujur": "99.97 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "23 km",
     "dirasakan": "II-III kota Padang, II-III Kota Pariaman, II-III Lubuk Basung, II-III Kep. Mentawai"
-  },
-  {
-    "waktu": "01 Feb 2026 20:29:11 WIB",
-    "lintang": "8.49 LS",
-    "bujur": "115.66 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "9 km",
-    "dirasakan": "III Kab. Karangasem"
   }
 ]

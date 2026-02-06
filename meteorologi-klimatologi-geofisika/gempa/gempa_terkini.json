@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Feb 2026 04:20:16 WIB",
+    "lintang": "7.82 LS",
+    "bujur": "130.25 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "100 km",
+    "wilayah": "118 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "06 Feb 2026 01:06:10 WIB",
     "lintang": "8.99 LS",
     "bujur": "111.18 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "21 km",
     "wilayah": "36 km Tenggara SARMI-PAPUA"
-  },
-  {
-    "waktu": "18 Jan 2026 11:16:48 WIB",
-    "lintang": "0.56 LU",
-    "bujur": "125.34 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "67 km",
-    "wilayah": "81 km Tenggara RATAHAN-MITRA-SULUT"
   }
 ]
