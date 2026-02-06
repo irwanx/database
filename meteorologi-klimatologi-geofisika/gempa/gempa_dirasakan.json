@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Feb 2026 15:51:49 WIB",
+    "lintang": "2.87 LS",
+    "bujur": "99.97 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "16 km",
+    "dirasakan": "II-III Kepulauan Mentawai"
+  },
+  {
     "waktu": "06 Feb 2026 13:45:31 WIB",
     "lintang": "6.87 LS",
     "bujur": "107.74 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "9 km",
     "dirasakan": "III Kab. Karangasem"
-  },
-  {
-    "waktu": "31 Jan 2026 14:11:13 WIB",
-    "lintang": "4.13 LU",
-    "bujur": "97.36 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 km",
-    "dirasakan": "III Gayo Lues"
   }
 ]
