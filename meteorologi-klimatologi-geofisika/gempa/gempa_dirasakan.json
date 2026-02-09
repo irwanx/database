@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Feb 2026 21:48:35 WIB",
+    "lintang": "1.75 LU",
+    "bujur": "99.15 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "3 km",
+    "dirasakan": "III Sibolga"
+  },
+  {
     "waktu": "09 Feb 2026 20:10:00 WIB",
     "lintang": "8.98 LS",
     "bujur": "111.16 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "4 km",
     "dirasakan": "II-III Lampung Barat"
-  },
-  {
-    "waktu": "02 Feb 2026 23:51:47 WIB",
-    "lintang": "4.73 LU",
-    "bujur": "96.76 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Bener Meriah"
   }
 ]
