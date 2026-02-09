@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Feb 2026 20:10:00 WIB",
+    "lintang": "8.98 LS",
+    "bujur": "111.16 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "89 km",
+    "dirasakan": "II Pacitan"
+  },
+  {
     "waktu": "09 Feb 2026 14:27:27 WIB",
     "lintang": "2.62 LS",
     "bujur": "121.26 BT",
@@ -109,14 +117,6 @@
     "bujur": "96.76 BT",
     "magnitudo": "2.2",
     "kedalaman": "5 km",
-    "dirasakan": "II-III Bener Meriah"
-  },
-  {
-    "waktu": "02 Feb 2026 17:16:13 WIB",
-    "lintang": "4.88 LU",
-    "bujur": "97.05 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "3 km",
     "dirasakan": "II-III Bener Meriah"
   }
 ]
