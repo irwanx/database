@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Feb 2026 14:27:27 WIB",
+    "lintang": "2.62 LS",
+    "bujur": "121.26 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "2 km",
+    "dirasakan": "III Wasponda"
+  },
+  {
     "waktu": "07 Feb 2026 04:20:16 WIB",
     "lintang": "7.82 LS",
     "bujur": "130.25 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.3",
     "kedalaman": "3 km",
     "dirasakan": "II-III Bener Meriah"
-  },
-  {
-    "waktu": "02 Feb 2026 05:20:41 WIB",
-    "lintang": "1.17 LS",
-    "bujur": "99.69 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "23 km",
-    "dirasakan": "II-III kota Padang, II-III Kota Pariaman, II-III Lubuk Basung, II-III Kep. Mentawai"
   }
 ]
