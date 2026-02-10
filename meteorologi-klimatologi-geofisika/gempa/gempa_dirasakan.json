@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Feb 2026 05:37:10 WIB",
+    "lintang": "4.95 LU",
+    "bujur": "96.75 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "4 km",
+    "dirasakan": "II-III Bener Meriah"
+  },
+  {
     "waktu": "09 Feb 2026 21:48:35 WIB",
     "lintang": "1.75 LU",
     "bujur": "99.15 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Bener Meriah, II Bireuen"
-  },
-  {
-    "waktu": "03 Feb 2026 04:37:30 WIB",
-    "lintang": "5.34 LS",
-    "bujur": "104.41 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "4 km",
-    "dirasakan": "II-III Lampung Barat"
   }
 ]
