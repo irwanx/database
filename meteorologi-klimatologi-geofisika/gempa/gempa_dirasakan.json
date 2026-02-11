@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "11 Feb 2026 10:07:13 WIB",
+    "lintang": "2.30 LS",
+    "bujur": "140.05 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "14 km",
+    "dirasakan": "III Kabupaten Jayapura"
+  },
+  {
+    "waktu": "11 Feb 2026 09:05:53 WIB",
+    "lintang": "1.45 LS",
+    "bujur": "134.24 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 km",
+    "dirasakan": "III Ransiki"
+  },
+  {
     "waktu": "10 Feb 2026 05:37:10 WIB",
     "lintang": "4.95 LU",
     "bujur": "96.75 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "7 km",
     "dirasakan": "II Pringsewu, II-III Tanggamus"
-  },
-  {
-    "waktu": "03 Feb 2026 15:54:12 WIB",
-    "lintang": "1.55 LS",
-    "bujur": "133.74 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "21 km",
-    "dirasakan": "III Ransiki"
-  },
-  {
-    "waktu": "03 Feb 2026 05:38:34 WIB",
-    "lintang": "4.92 LU",
-    "bujur": "96.82 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Bener Meriah, II Bireuen"
   }
 ]
