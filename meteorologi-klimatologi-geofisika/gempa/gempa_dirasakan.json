@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Feb 2026 18:42:16 WIB",
+    "lintang": "4.60 LS",
+    "bujur": "120.34 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "5 km",
+    "dirasakan": "II Bone"
+  },
+  {
     "waktu": "11 Feb 2026 10:07:13 WIB",
     "lintang": "2.30 LS",
     "bujur": "140.05 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.8",
     "kedalaman": "10 km",
     "dirasakan": "I-II Padang Panjang, II-III Lubuk Sikaping, II-III Agam, I-II Bukittinggi"
-  },
-  {
-    "waktu": "04 Feb 2026 06:26:14 WIB",
-    "lintang": "5.75 LS",
-    "bujur": "104.52 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "7 km",
-    "dirasakan": "II Pringsewu, II-III Tanggamus"
   }
 ]
