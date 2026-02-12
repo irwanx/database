@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "12 Feb 2026 08:21:16 WIB",
+    "lintang": "7.89 LS",
+    "bujur": "110.51 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "5 km",
+    "dirasakan": "II Bantul"
+  },
+  {
+    "waktu": "12 Feb 2026 04:41:40 WIB",
+    "lintang": "4.08 LS",
+    "bujur": "121.87 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "2 km",
+    "dirasakan": "III Kolaka Timur"
+  },
+  {
     "waktu": "11 Feb 2026 18:42:16 WIB",
     "lintang": "4.60 LS",
     "bujur": "120.34 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.8",
     "kedalaman": "5 km",
     "dirasakan": "II Ciater, II Kasomalang"
-  },
-  {
-    "waktu": "05 Feb 2026 08:01:14 WIB",
-    "lintang": "1.95 LS",
-    "bujur": "120.60 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 km",
-    "dirasakan": "III Pendolo"
-  },
-  {
-    "waktu": "05 Feb 2026 04:52:54 WIB",
-    "lintang": "0.06 LS",
-    "bujur": "100.18 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 km",
-    "dirasakan": "I-II Padang Panjang, II-III Lubuk Sikaping, II-III Agam, I-II Bukittinggi"
   }
 ]
