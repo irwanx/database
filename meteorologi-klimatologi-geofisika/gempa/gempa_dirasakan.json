@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Feb 2026 01:37:42 WIB",
+    "lintang": "5.36 LS",
+    "bujur": "104.59 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "2 km",
+    "dirasakan": "II Ulu Belu"
+  },
+  {
     "waktu": "13 Feb 2026 13:27:48 WIB",
     "lintang": "6.72 LS",
     "bujur": "106.64 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.9",
     "kedalaman": "100 km",
     "dirasakan": "II Saumlaki"
-  },
-  {
-    "waktu": "06 Feb 2026 15:51:49 WIB",
-    "lintang": "2.87 LS",
-    "bujur": "99.97 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "16 km",
-    "dirasakan": "II-III Kepulauan Mentawai"
   }
 ]
