@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Feb 2026 00:22:58 WIB",
+    "lintang": "5.63 LU",
+    "bujur": "127.19 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 km",
+    "wilayah": "97 km TimurLaut PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "14 Feb 2026 16:48:19 WIB",
     "lintang": "4.85 LS",
     "bujur": "134.25 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "504 km",
     "wilayah": "237 km BaratLaut BOROKO-BOLMUT-SULUT"
-  },
-  {
-    "waktu": "20 Jan 2026 05:15:56 WIB",
-    "lintang": "7.41 LS",
-    "bujur": "128.49 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "180 km",
-    "wilayah": "113 km TimurLaut MALUKUBRTDAYA"
   }
 ]
