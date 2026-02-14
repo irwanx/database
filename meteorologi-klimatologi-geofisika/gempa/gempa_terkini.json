@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Feb 2026 16:48:19 WIB",
+    "lintang": "4.85 LS",
+    "bujur": "134.25 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "wilayah": "101 km TimurLaut KEP.ARU-MALUKU"
+  },
+  {
     "waktu": "13 Feb 2026 22:09:26 WIB",
     "lintang": "4.35 LU",
     "bujur": "128.29 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "180 km",
     "wilayah": "113 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "19 Jan 2026 18:02:49 WIB",
-    "lintang": "2.59 LS",
-    "bujur": "102.23 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "162 km",
-    "wilayah": "53 km Tenggara MERANGIN-JAMBI"
   }
 ]

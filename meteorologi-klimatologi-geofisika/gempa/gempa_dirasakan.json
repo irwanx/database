@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Feb 2026 16:50:45 WIB",
+    "lintang": "5.34 LS",
+    "bujur": "104.60 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "6 km",
+    "dirasakan": "II Tanggamus, II Ulu Belu"
+  },
+  {
     "waktu": "14 Feb 2026 10:09:45 WIB",
     "lintang": "2.81 LS",
     "bujur": "128.01 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "89 km",
     "dirasakan": "II Pacitan"
-  },
-  {
-    "waktu": "09 Feb 2026 14:27:27 WIB",
-    "lintang": "2.62 LS",
-    "bujur": "121.26 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "2 km",
-    "dirasakan": "III Wasponda"
   }
 ]
