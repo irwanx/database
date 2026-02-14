@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Feb 2026 21:21:51 WIB",
+    "lintang": "2.72 LS",
+    "bujur": "128.14 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 km",
+    "dirasakan": "III Piru, III Huamual"
+  },
+  {
     "waktu": "14 Feb 2026 20:36:03 WIB",
     "lintang": "5.55 LS",
     "bujur": "103.62 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "4 km",
     "dirasakan": "II-III Bener Meriah"
-  },
-  {
-    "waktu": "09 Feb 2026 21:48:35 WIB",
-    "lintang": "1.75 LU",
-    "bujur": "99.15 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "3 km",
-    "dirasakan": "III Sibolga"
   }
 ]
