@@ -1,11 +1,19 @@
 [
   {
+    "waktu": "14 Feb 2026 10:09:45 WIB",
+    "lintang": "2.81 LS",
+    "bujur": "128.01 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Piru"
+  },
+  {
     "waktu": "14 Feb 2026 01:37:42 WIB",
     "lintang": "5.36 LS",
     "bujur": "104.59 BT",
     "magnitudo": "3.2",
     "kedalaman": "2 km",
-    "dirasakan": "II Ulu Belu"
+    "dirasakan": "II Ulu Belu, II Kotaagung"
   },
   {
     "waktu": "13 Feb 2026 13:27:48 WIB",
@@ -110,13 +118,5 @@
     "magnitudo": "3.3",
     "kedalaman": "2 km",
     "dirasakan": "III Wasponda"
-  },
-  {
-    "waktu": "07 Feb 2026 04:20:16 WIB",
-    "lintang": "7.82 LS",
-    "bujur": "130.25 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "100 km",
-    "dirasakan": "II Saumlaki"
   }
 ]
