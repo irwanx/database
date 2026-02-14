@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Feb 2026 20:36:03 WIB",
+    "lintang": "5.55 LS",
+    "bujur": "103.62 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "15 km",
+    "dirasakan": "III Bengkunat"
+  },
+  {
     "waktu": "14 Feb 2026 16:50:45 WIB",
     "lintang": "5.34 LS",
     "bujur": "104.60 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "3 km",
     "dirasakan": "III Sibolga"
-  },
-  {
-    "waktu": "09 Feb 2026 20:10:00 WIB",
-    "lintang": "8.98 LS",
-    "bujur": "111.16 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "89 km",
-    "dirasakan": "II Pacitan"
   }
 ]
