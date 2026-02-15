@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Feb 2026 13:14:43 WIB",
+    "lintang": "4.28 LS",
+    "bujur": "102.39 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "39 km",
+    "dirasakan": "III Kota Bengkulu, III Bengkulu Tengah, II-III Kepahiang, II Argamakmur"
+  },
+  {
     "waktu": "14 Feb 2026 21:21:51 WIB",
     "lintang": "2.72 LS",
     "bujur": "128.14 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.8",
     "kedalaman": "10 km",
     "dirasakan": "III Ransiki"
-  },
-  {
-    "waktu": "10 Feb 2026 05:37:10 WIB",
-    "lintang": "4.95 LU",
-    "bujur": "96.75 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "4 km",
-    "dirasakan": "II-III Bener Meriah"
   }
 ]
