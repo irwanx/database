@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Feb 2026 19:46:04 WIB",
+    "lintang": "2.57 LS",
+    "bujur": "140.62 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "11 km",
+    "dirasakan": "III-IV Kota Jayapura, III Kab. Jayapura, II Keerom"
+  },
+  {
     "waktu": "15 Feb 2026 13:14:43 WIB",
     "lintang": "4.28 LS",
     "bujur": "102.39 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "14 km",
     "dirasakan": "III Kabupaten Jayapura"
-  },
-  {
-    "waktu": "11 Feb 2026 09:05:53 WIB",
-    "lintang": "1.45 LS",
-    "bujur": "134.24 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 km",
-    "dirasakan": "III Ransiki"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Feb 2026 20:44:08 WIB",
+    "lintang": "11.37 LS",
+    "bujur": "118.04 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "wilayah": "223 km BaratDaya KODI-SUMBABARATDAYA-NTT"
+  },
+  {
     "waktu": "15 Feb 2026 00:22:58 WIB",
     "lintang": "5.63 LU",
     "bujur": "127.19 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.7",
     "kedalaman": "167 km",
     "wilayah": "203 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "21 Jan 2026 11:10:01 WIB",
-    "lintang": "3.02 LU",
-    "bujur": "122.94 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "504 km",
-    "wilayah": "237 km BaratLaut BOROKO-BOLMUT-SULUT"
   }
 ]
