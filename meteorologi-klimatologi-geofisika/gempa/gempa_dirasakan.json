@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16 Feb 2026 22:47:48 WIB",
+    "lintang": "0.65 LS",
+    "bujur": "127.55 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "1 km",
+    "dirasakan": "III Labuha"
+  },
+  {
     "waktu": "16 Feb 2026 18:42:16 WIB",
     "lintang": "8.60 LS",
     "bujur": "118.41 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.1",
     "kedalaman": "5 km",
     "dirasakan": "II Bantul"
-  },
-  {
-    "waktu": "12 Feb 2026 04:41:40 WIB",
-    "lintang": "4.08 LS",
-    "bujur": "121.87 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "2 km",
-    "dirasakan": "III Kolaka Timur"
   }
 ]
