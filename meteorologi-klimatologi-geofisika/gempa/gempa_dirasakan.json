@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Feb 2026 02:23:32 WIB",
+    "lintang": "9.32 LS",
+    "bujur": "114.71 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "37 km",
+    "dirasakan": "II Kuta, II Kuta Selatan"
+  },
+  {
     "waktu": "16 Feb 2026 22:47:48 WIB",
     "lintang": "0.65 LS",
     "bujur": "127.55 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.7",
     "kedalaman": "15 km",
     "dirasakan": "II-III Bener Meriah"
-  },
-  {
-    "waktu": "12 Feb 2026 08:21:16 WIB",
-    "lintang": "7.89 LS",
-    "bujur": "110.51 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "5 km",
-    "dirasakan": "II Bantul"
   }
 ]
