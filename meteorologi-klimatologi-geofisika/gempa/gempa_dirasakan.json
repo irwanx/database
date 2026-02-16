@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16 Feb 2026 13:00:41 WIB",
+    "lintang": "0.50 LS",
+    "bujur": "99.18 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "48 km",
+    "dirasakan": "III Agam, III Pasaman Barat, III Padang Panjang, III Kepulauan Mentawai, II Bukittinggi, II Padang, II Pariaman"
+  },
+  {
     "waktu": "15 Feb 2026 19:46:04 WIB",
     "lintang": "2.57 LS",
     "bujur": "140.62 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "5 km",
     "dirasakan": "II Bone"
-  },
-  {
-    "waktu": "11 Feb 2026 10:07:13 WIB",
-    "lintang": "2.30 LS",
-    "bujur": "140.05 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "14 km",
-    "dirasakan": "III Kabupaten Jayapura"
   }
 ]
