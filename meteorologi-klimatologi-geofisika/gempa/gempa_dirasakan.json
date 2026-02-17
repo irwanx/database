@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Feb 2026 20:25:46 WIB",
+    "lintang": "4.75 LU",
+    "bujur": "96.79 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "3 km",
+    "dirasakan": "II Bener Meriah"
+  },
+  {
     "waktu": "17 Feb 2026 02:23:32 WIB",
     "lintang": "9.32 LS",
     "bujur": "114.71 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "19 km",
     "dirasakan": "III Meulaboh, III Nagan Raya, II-III Aceh Jaya, II Aceh Barat Daya, II Bener Meriah"
-  },
-  {
-    "waktu": "12 Feb 2026 19:47:08 WIB",
-    "lintang": "4.71 LU",
-    "bujur": "96.91 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "15 km",
-    "dirasakan": "II-III Bener Meriah"
   }
 ]
