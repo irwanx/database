@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "18 Feb 2026 01:00:51 WIB",
+    "lintang": "8.46 LS",
+    "bujur": "108.11 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 km",
+    "dirasakan": "III Pangandaran, III Tasikmalaya, II-III Garut, II Ciamis, II Kab. Bandung"
+  },
+  {
+    "waktu": "18 Feb 2026 00:30:49 WIB",
+    "lintang": "0.51 LU",
+    "bujur": "121.60 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "89 km",
+    "dirasakan": "II Pohuwato"
+  },
+  {
     "waktu": "17 Feb 2026 20:25:46 WIB",
     "lintang": "4.75 LU",
     "bujur": "96.79 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "7 km",
     "dirasakan": "II - III Kabandungan"
-  },
-  {
-    "waktu": "13 Feb 2026 08:06:57 WIB",
-    "lintang": "0.05 LS",
-    "bujur": "119.62 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Donggala"
-  },
-  {
-    "waktu": "12 Feb 2026 20:14:15 WIB",
-    "lintang": "4.29 LU",
-    "bujur": "95.83 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "19 km",
-    "dirasakan": "III Meulaboh, III Nagan Raya, II-III Aceh Jaya, II Aceh Barat Daya, II Bener Meriah"
   }
 ]
