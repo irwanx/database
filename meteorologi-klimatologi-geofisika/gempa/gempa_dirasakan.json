@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Feb 2026 02:23:11 WIB",
+    "lintang": "8.22 LS",
+    "bujur": "116.39 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Lombok Timur"
+  },
+  {
     "waktu": "18 Feb 2026 01:00:51 WIB",
     "lintang": "8.46 LS",
     "bujur": "108.11 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "2 km",
     "dirasakan": "II Ulu Belu, II Kotaagung"
-  },
-  {
-    "waktu": "13 Feb 2026 13:27:48 WIB",
-    "lintang": "6.72 LS",
-    "bujur": "106.64 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "7 km",
-    "dirasakan": "II - III Kabandungan"
   }
 ]
