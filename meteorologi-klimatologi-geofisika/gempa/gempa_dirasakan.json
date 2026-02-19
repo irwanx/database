@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Feb 2026 07:26:15 WIB",
+    "lintang": "1.54 LU",
+    "bujur": "122.17 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Buol, III Gorontalo Utara, II-III Gorontalo, II-III Boalemo, II-III Bone Bolango, II Manado"
+  },
+  {
     "waktu": "18 Feb 2026 02:23:11 WIB",
     "lintang": "8.22 LS",
     "bujur": "116.39 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "10 km",
     "dirasakan": "II-III Piru"
-  },
-  {
-    "waktu": "14 Feb 2026 01:37:42 WIB",
-    "lintang": "5.36 LS",
-    "bujur": "104.59 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "2 km",
-    "dirasakan": "II Ulu Belu, II Kotaagung"
   }
 ]

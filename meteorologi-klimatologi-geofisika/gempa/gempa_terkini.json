@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Feb 2026 07:26:15 WIB",
+    "lintang": "1.54 LU",
+    "bujur": "122.17 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "10 km",
+    "wilayah": "110 km TimurLaut BUOL-SULTENG"
+  },
+  {
     "waktu": "18 Feb 2026 09:15:28 WIB",
     "lintang": "6.20 LS",
     "bujur": "131.32 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "134 km",
     "wilayah": "229 km BaratDaya MALUKUTENGGARA"
-  },
-  {
-    "waktu": "24 Jan 2026 17:45:54 WIB",
-    "lintang": "5.00 LU",
-    "bujur": "125.54 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "177 km",
-    "wilayah": "154 km TimurLaut TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]
