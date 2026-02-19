@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Feb 2026 14:02:20 WIB",
+    "lintang": "5.60 LS",
+    "bujur": "133.78 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "67 km",
+    "dirasakan": "II Dobo"
+  },
+  {
     "waktu": "19 Feb 2026 07:26:15 WIB",
     "lintang": "1.54 LU",
     "bujur": "122.17 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.4",
     "kedalaman": "6 km",
     "dirasakan": "II Tanggamus, II Ulu Belu"
-  },
-  {
-    "waktu": "14 Feb 2026 10:09:45 WIB",
-    "lintang": "2.81 LS",
-    "bujur": "128.01 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Piru"
   }
 ]
