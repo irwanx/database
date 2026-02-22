@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "22 Feb 2026 22:55:07 WIB",
+    "lintang": "2.89 LS",
+    "bujur": "101.07 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "27 km",
+    "dirasakan": "II Mukomuko"
+  },
+  {
+    "waktu": "22 Feb 2026 22:35:41 WIB",
+    "lintang": "0.74 LS",
+    "bujur": "99.14 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "29 km",
+    "dirasakan": "III Kepulauan Mentawai, III Pasaman Barat, III Agam, II Pariaman, II Padang, II Padang Pariaman, II Padang Panjang, II Bukittinggi"
+  },
+  {
     "waktu": "22 Feb 2026 04:05:10 WIB",
     "lintang": "4.26 LU",
     "bujur": "97.56 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "39 km",
     "dirasakan": "III Kota Bengkulu, III Bengkulu Tengah, II-III Kepahiang, II Argamakmur"
-  },
-  {
-    "waktu": "14 Feb 2026 21:21:51 WIB",
-    "lintang": "2.72 LS",
-    "bujur": "128.14 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 km",
-    "dirasakan": "III Piru, III Huamual"
-  },
-  {
-    "waktu": "14 Feb 2026 20:36:03 WIB",
-    "lintang": "5.55 LS",
-    "bujur": "103.62 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "15 km",
-    "dirasakan": "III Bengkunat"
   }
 ]

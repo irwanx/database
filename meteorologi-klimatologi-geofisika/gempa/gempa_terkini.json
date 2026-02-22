@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Feb 2026 22:35:41 WIB",
+    "lintang": "0.74 LS",
+    "bujur": "99.14 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "29 km",
+    "wilayah": "110 km BaratDaya AGAM-SUMBAR"
+  },
+  {
     "waktu": "19 Feb 2026 14:02:20 WIB",
     "lintang": "5.60 LS",
     "bujur": "133.78 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "105 km",
     "wilayah": "25 km TimurLaut PACITAN-JATIM"
-  },
-  {
-    "waktu": "26 Jan 2026 07:54:02 WIB",
-    "lintang": "7.71 LS",
-    "bujur": "127.81 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "163 km",
-    "wilayah": "49 km TimurLaut MALUKUBRTDAYA"
   }
 ]
