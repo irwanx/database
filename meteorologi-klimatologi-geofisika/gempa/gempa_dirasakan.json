@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Feb 2026 04:05:10 WIB",
+    "lintang": "4.26 LU",
+    "bujur": "97.56 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Gayo Lues, II Bener Meriah"
+  },
+  {
     "waktu": "19 Feb 2026 14:02:20 WIB",
     "lintang": "5.60 LS",
     "bujur": "133.78 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "15 km",
     "dirasakan": "III Bengkunat"
-  },
-  {
-    "waktu": "14 Feb 2026 16:50:45 WIB",
-    "lintang": "5.34 LS",
-    "bujur": "104.60 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "6 km",
-    "dirasakan": "II Tanggamus, II Ulu Belu"
   }
 ]
