@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "23 Feb 2026 06:39:26 WIB",
+    "lintang": "5.42 LS",
+    "bujur": "122.92 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Pasarwajo"
+  },
+  {
+    "waktu": "23 Feb 2026 05:59:17 WIB",
+    "lintang": "6.70 LS",
+    "bujur": "107.34 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "12 km",
+    "dirasakan": "II Cirata, II Cipendeuy"
+  },
+  {
+    "waktu": "22 Feb 2026 23:57:46 WIB",
+    "lintang": "6.94 LU",
+    "bujur": "116.26 BT",
+    "magnitudo": "7.2",
+    "kedalaman": "628 km",
+    "dirasakan": "II Tanjung Selor, II Malinau, II Tarakan, II Tenggarong, II Samarinda"
+  },
+  {
     "waktu": "22 Feb 2026 22:55:07 WIB",
     "lintang": "2.89 LS",
     "bujur": "101.07 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "114 km",
     "dirasakan": "III Sumbawa Besar, II Kota Bima"
-  },
-  {
-    "waktu": "16 Feb 2026 13:00:41 WIB",
-    "lintang": "0.50 LS",
-    "bujur": "99.18 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "48 km",
-    "dirasakan": "III Agam, III Pasaman Barat, III Padang Panjang, III Kepulauan Mentawai, II Bukittinggi, II Padang, II Pariaman"
-  },
-  {
-    "waktu": "15 Feb 2026 19:46:04 WIB",
-    "lintang": "2.57 LS",
-    "bujur": "140.62 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "11 km",
-    "dirasakan": "III-IV Kota Jayapura, III Kab. Jayapura, II Keerom"
-  },
-  {
-    "waktu": "15 Feb 2026 13:14:43 WIB",
-    "lintang": "4.28 LS",
-    "bujur": "102.39 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "39 km",
-    "dirasakan": "III Kota Bengkulu, III Bengkulu Tengah, II-III Kepahiang, II Argamakmur"
   }
 ]
