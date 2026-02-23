@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Feb 2026 18:36:05 WIB",
+    "lintang": "9.26 LS",
+    "bujur": "115.65 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "44 km",
+    "dirasakan": "II Kuta, II Kuta Selatan, II Klungkung, II Lombok Barat, II Lombok Tengah"
+  },
+  {
     "waktu": "23 Feb 2026 06:39:26 WIB",
     "lintang": "5.42 LS",
     "bujur": "122.92 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.8",
     "kedalaman": "1 km",
     "dirasakan": "III Labuha"
-  },
-  {
-    "waktu": "16 Feb 2026 18:42:16 WIB",
-    "lintang": "8.60 LS",
-    "bujur": "118.41 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "114 km",
-    "dirasakan": "III Sumbawa Besar, II Kota Bima"
   }
 ]
