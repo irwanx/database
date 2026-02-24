@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24 Feb 2026 14:46:50 WIB",
+    "lintang": "1.96 LS",
+    "bujur": "138.95 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Kota Jayapura, V Sarmi"
+  },
+  {
     "waktu": "24 Feb 2026 10:08:39 WIB",
     "lintang": "6.73 LS",
     "bujur": "106.54 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "89 km",
     "dirasakan": "II Pohuwato"
-  },
-  {
-    "waktu": "17 Feb 2026 20:25:46 WIB",
-    "lintang": "4.75 LU",
-    "bujur": "96.79 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "3 km",
-    "dirasakan": "II Bener Meriah"
   }
 ]
