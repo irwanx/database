@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24 Feb 2026 10:08:39 WIB",
+    "lintang": "6.73 LS",
+    "bujur": "106.54 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "16 km",
+    "dirasakan": "III Kalapanunggal, III Kabandungan, II-III Leuwiliang"
+  },
+  {
     "waktu": "23 Feb 2026 20:48:34 WIB",
     "lintang": "4.73 LU",
     "bujur": "96.79 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.3",
     "kedalaman": "3 km",
     "dirasakan": "II Bener Meriah"
-  },
-  {
-    "waktu": "17 Feb 2026 02:23:32 WIB",
-    "lintang": "9.32 LS",
-    "bujur": "114.71 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "37 km",
-    "dirasakan": "II Kuta, II Kuta Selatan"
   }
 ]
