@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26 Feb 2026 03:04:24 WIB",
+    "lintang": "5.01 LS",
+    "bujur": "131.00 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "12 km",
+    "wilayah": "206 km BaratLaut MALUKUTENGGARA"
+  },
+  {
     "waktu": "26 Feb 2026 00:49:28 WIB",
     "lintang": "0.41 LS",
     "bujur": "98.98 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.4",
     "kedalaman": "10 km",
     "wilayah": "90 km Tenggara PACITAN-JATIM"
-  },
-  {
-    "waktu": "03 Feb 2026 09:50:45 WIB",
-    "lintang": "6.63 LS",
-    "bujur": "130.00 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "199 km",
-    "wilayah": "207 km BaratLaut TANIMBAR"
   }
 ]
