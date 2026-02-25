@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Feb 2026 10:18:54 WIB",
+    "lintang": "4.79 LU",
+    "bujur": "95.60 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "53 km",
+    "dirasakan": "II-III Lamno Aceh Jaya"
+  },
+  {
     "waktu": "24 Feb 2026 22:20:46 WIB",
     "lintang": "4.60 LU",
     "bujur": "96.94 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "10 km",
     "dirasakan": "II-III Lombok Timur"
-  },
-  {
-    "waktu": "18 Feb 2026 01:00:51 WIB",
-    "lintang": "8.46 LS",
-    "bujur": "108.11 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 km",
-    "dirasakan": "III Pangandaran, III Tasikmalaya, II-III Garut, II Ciamis, II Kab. Bandung"
   }
 ]
