@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26 Feb 2026 00:49:28 WIB",
+    "lintang": "0.41 LS",
+    "bujur": "98.98 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "18 km",
+    "wilayah": "110 km BaratDaya PASAMANBARAT-SUMBAR"
+  },
+  {
     "waktu": "24 Feb 2026 14:46:50 WIB",
     "lintang": "1.96 LS",
     "bujur": "138.95 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.6",
     "kedalaman": "199 km",
     "wilayah": "207 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "30 Jan 2026 08:15:29 WIB",
-    "lintang": "0.39 LS",
-    "bujur": "124.63 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 km",
-    "wilayah": "110 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
   }
 ]
