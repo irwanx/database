@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Feb 2026 02:21:28 WIB",
+    "lintang": "7.79 LS",
+    "bujur": "117.35 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "18 km",
+    "dirasakan": "II Sumbawa Barat, II Sumbawa, II Bima, II Lombok Timur"
+  },
+  {
     "waktu": "27 Feb 2026 13:06:06 WIB",
     "lintang": "1.47 LU",
     "bujur": "118.81 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "67 km",
     "dirasakan": "II Dobo"
-  },
-  {
-    "waktu": "19 Feb 2026 07:26:15 WIB",
-    "lintang": "1.54 LU",
-    "bujur": "122.17 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Buol, III Gorontalo Utara, II-III Gorontalo, II-III Boalemo, II-III Bone Bolango, II Manado"
   }
 ]
