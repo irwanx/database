@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Feb 2026 13:06:06 WIB",
+    "lintang": "1.47 LU",
+    "bujur": "118.81 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 km",
+    "dirasakan": "III Maratua, II Karangan"
+  },
+  {
     "waktu": "25 Feb 2026 10:18:54 WIB",
     "lintang": "4.79 LU",
     "bujur": "95.60 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.7",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Buol, III Gorontalo Utara, II-III Gorontalo, II-III Boalemo, II-III Bone Bolango, II Manado"
-  },
-  {
-    "waktu": "18 Feb 2026 02:23:11 WIB",
-    "lintang": "8.22 LS",
-    "bujur": "116.39 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Lombok Timur"
   }
 ]
