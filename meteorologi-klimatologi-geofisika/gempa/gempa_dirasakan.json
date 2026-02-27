@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Feb 2026 04:49:14 WIB",
+    "lintang": "3.76 LS",
+    "bujur": "133.52 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "31 km",
+    "dirasakan": "III Kaimana"
+  },
+  {
     "waktu": "28 Feb 2026 02:21:28 WIB",
     "lintang": "7.79 LS",
     "bujur": "117.35 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "10 km",
     "dirasakan": "II-III Gayo Lues, II Bener Meriah"
-  },
-  {
-    "waktu": "19 Feb 2026 14:02:20 WIB",
-    "lintang": "5.60 LS",
-    "bujur": "133.78 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "67 km",
-    "dirasakan": "II Dobo"
   }
 ]
