@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Feb 2026 19:39:55 WIB",
+    "lintang": "4.08 LS",
+    "bujur": "133.58 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "10 km",
+    "dirasakan": "III Kaimana"
+  },
+  {
     "waktu": "28 Feb 2026 17:12:07 WIB",
     "lintang": "1.30 LU",
     "bujur": "120.90 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "7.2",
     "kedalaman": "628 km",
     "dirasakan": "II Tanjung Selor, II Malinau, II Tarakan, II Tenggarong, II Samarinda"
-  },
-  {
-    "waktu": "22 Feb 2026 22:55:07 WIB",
-    "lintang": "2.89 LS",
-    "bujur": "101.07 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "27 km",
-    "dirasakan": "II Mukomuko"
   }
 ]
