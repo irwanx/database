@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Mar 2026 00:22:21 WIB",
+    "lintang": "5.03 LU",
+    "bujur": "126.14 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "67 km",
+    "wilayah": "108 km BaratLaut PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "28 Feb 2026 13:52:07 WIB",
     "lintang": "1.28 LU",
     "bujur": "120.97 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 km",
     "wilayah": "150 km Tenggara PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "07 Feb 2026 04:20:16 WIB",
-    "lintang": "7.82 LS",
-    "bujur": "130.25 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "100 km",
-    "wilayah": "118 km BaratLaut TANIMBAR"
   }
 ]
