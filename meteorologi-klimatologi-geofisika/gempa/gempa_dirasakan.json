@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Feb 2026 22:11:18 WIB",
+    "lintang": "1.12 LU",
+    "bujur": "120.94 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "5 km",
+    "dirasakan": "II Toli-Toli"
+  },
+  {
     "waktu": "28 Feb 2026 19:39:55 WIB",
     "lintang": "4.08 LS",
     "bujur": "133.58 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "12 km",
     "dirasakan": "II Cirata, II Cipendeuy"
-  },
-  {
-    "waktu": "22 Feb 2026 23:57:46 WIB",
-    "lintang": "6.94 LU",
-    "bujur": "116.26 BT",
-    "magnitudo": "7.2",
-    "kedalaman": "628 km",
-    "dirasakan": "II Tanjung Selor, II Malinau, II Tarakan, II Tenggarong, II Samarinda"
   }
 ]
