@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Feb 2026 17:12:07 WIB",
+    "lintang": "1.30 LU",
+    "bujur": "120.90 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Toli-toli"
+  },
+  {
     "waktu": "28 Feb 2026 13:52:07 WIB",
     "lintang": "1.28 LU",
     "bujur": "120.97 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.9",
     "kedalaman": "27 km",
     "dirasakan": "II Mukomuko"
-  },
-  {
-    "waktu": "22 Feb 2026 22:35:41 WIB",
-    "lintang": "0.74 LS",
-    "bujur": "99.14 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "29 km",
-    "dirasakan": "III Kepulauan Mentawai, III Pasaman Barat, III Agam, II Pariaman, II Padang, II Padang Pariaman, II Padang Panjang, II Bukittinggi"
   }
 ]
