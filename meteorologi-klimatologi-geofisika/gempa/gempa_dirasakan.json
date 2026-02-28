@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Feb 2026 13:52:07 WIB",
+    "lintang": "1.24 LU",
+    "bujur": "120.95 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 km",
+    "dirasakan": "IV Tolitoli, IV Buol, II-III Pohuwato"
+  },
+  {
     "waktu": "28 Feb 2026 04:49:14 WIB",
     "lintang": "3.76 LS",
     "bujur": "133.52 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "29 km",
     "dirasakan": "III Kepulauan Mentawai, III Pasaman Barat, III Agam, II Pariaman, II Padang, II Padang Pariaman, II Padang Panjang, II Bukittinggi"
-  },
-  {
-    "waktu": "22 Feb 2026 04:05:10 WIB",
-    "lintang": "4.26 LU",
-    "bujur": "97.56 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Gayo Lues, II Bener Meriah"
   }
 ]
