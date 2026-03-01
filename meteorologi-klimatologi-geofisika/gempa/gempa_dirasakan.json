@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Mar 2026 20:39:51 WIB",
+    "lintang": "0.88 LS",
+    "bujur": "119.27 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "4 km",
+    "dirasakan": "II - III Palu, II - III Sigi"
+  },
+  {
     "waktu": "01 Mar 2026 14:53:51 WIB",
     "lintang": "1.21 LU",
     "bujur": "120.91 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.8",
     "kedalaman": "5 km",
     "dirasakan": "II Bener Meriah"
-  },
-  {
-    "waktu": "24 Feb 2026 14:46:50 WIB",
-    "lintang": "1.96 LS",
-    "bujur": "138.95 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Kota Jayapura, V Sarmi"
   }
 ]
