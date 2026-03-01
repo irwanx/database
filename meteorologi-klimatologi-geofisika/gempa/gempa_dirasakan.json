@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Mar 2026 14:53:51 WIB",
+    "lintang": "1.21 LU",
+    "bujur": "120.91 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Toli-toli"
+  },
+  {
     "waktu": "01 Mar 2026 10:52:49 WIB",
     "lintang": "9.27 LS",
     "bujur": "115.53 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.7",
     "kedalaman": "10 km",
     "dirasakan": "II-III Kota Jayapura, V Sarmi"
-  },
-  {
-    "waktu": "24 Feb 2026 10:08:39 WIB",
-    "lintang": "6.73 LS",
-    "bujur": "106.54 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "16 km",
-    "dirasakan": "III Kalapanunggal, III Kabandungan, II-III Leuwiliang"
   }
 ]
