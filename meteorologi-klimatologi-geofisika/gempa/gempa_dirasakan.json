@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "01 Mar 2026 07:25:43 WIB",
+    "lintang": "9.89 LS",
+    "bujur": "120.01 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "32 km",
+    "dirasakan": "III-IV Kab. Sumba Timur"
+  },
+  {
+    "waktu": "01 Mar 2026 03:29:00 WIB",
+    "lintang": "4.75 LU",
+    "bujur": "96.78 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Bener Meriah"
+  },
+  {
     "waktu": "28 Feb 2026 22:11:18 WIB",
     "lintang": "1.12 LU",
     "bujur": "120.94 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "44 km",
     "dirasakan": "II Kuta, II Kuta Selatan, II Klungkung, II Lombok Barat, II Lombok Tengah"
-  },
-  {
-    "waktu": "23 Feb 2026 06:39:26 WIB",
-    "lintang": "5.42 LS",
-    "bujur": "122.92 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Pasarwajo"
-  },
-  {
-    "waktu": "23 Feb 2026 05:59:17 WIB",
-    "lintang": "6.70 LS",
-    "bujur": "107.34 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "12 km",
-    "dirasakan": "II Cirata, II Cipendeuy"
   }
 ]
