@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Mar 2026 16:46:02 WIB",
+    "lintang": "1.14 LU",
+    "bujur": "120.74 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "5 km",
+    "dirasakan": "II Toli-Toli"
+  },
+  {
     "waktu": "01 Mar 2026 20:39:51 WIB",
     "lintang": "0.88 LS",
     "bujur": "119.87 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "53 km",
     "dirasakan": "II-III Lamno Aceh Jaya"
-  },
-  {
-    "waktu": "24 Feb 2026 22:20:46 WIB",
-    "lintang": "4.60 LU",
-    "bujur": "96.94 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "5 km",
-    "dirasakan": "II Bener Meriah"
   }
 ]
