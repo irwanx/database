@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Mar 2026 11:56:45 WIB",
+    "lintang": "1.93 LU",
+    "bujur": "96.48 BT",
+    "magnitudo": "6.4",
+    "kedalaman": "13 km",
+    "wilayah": "61 km Tenggara SINABANG-ACEH"
+  },
+  {
     "waktu": "03 Mar 2026 00:40:15 WIB",
     "lintang": "7.76 LS",
     "bujur": "127.77 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "wilayah": "101 km TimurLaut KEP.ARU-MALUKU"
-  },
-  {
-    "waktu": "13 Feb 2026 22:09:26 WIB",
-    "lintang": "4.35 LU",
-    "bujur": "128.29 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "wilayah": "141 km Tenggara PULAUKARATUNG-SULUT"
   }
 ]

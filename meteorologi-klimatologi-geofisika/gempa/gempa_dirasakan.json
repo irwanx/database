@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Mar 2026 11:56:45 WIB",
+    "lintang": "1.93 LU",
+    "bujur": "96.48 BT",
+    "magnitudo": "6.4",
+    "kedalaman": "13 km",
+    "dirasakan": "IV Aceh Singkil, IV Simeulue, IV Aceh Barat Daya, III-IV Nias, III Aceh Selatan, III Meulaboh, II-III Aceh Tengah, II Bener Meriah"
+  },
+  {
     "waktu": "02 Mar 2026 16:46:02 WIB",
     "lintang": "1.14 LU",
     "bujur": "120.74 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "10 km",
     "dirasakan": "III Maratua, II Karangan"
-  },
-  {
-    "waktu": "25 Feb 2026 10:18:54 WIB",
-    "lintang": "4.79 LU",
-    "bujur": "95.60 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "53 km",
-    "dirasakan": "II-III Lamno Aceh Jaya"
   }
 ]
