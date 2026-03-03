@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04 Mar 2026 02:10:29 WIB",
+    "lintang": "2.35 LS",
+    "bujur": "120.86 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Pamona Selatan, II-III Bone-Bone"
+  },
+  {
     "waktu": "03 Mar 2026 11:56:45 WIB",
     "lintang": "1.93 LU",
     "bujur": "96.48 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "18 km",
     "dirasakan": "II Sumbawa Barat, II Sumbawa, II Bima, II Lombok Timur"
-  },
-  {
-    "waktu": "27 Feb 2026 13:06:06 WIB",
-    "lintang": "1.47 LU",
-    "bujur": "118.81 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 km",
-    "dirasakan": "III Maratua, II Karangan"
   }
 ]
