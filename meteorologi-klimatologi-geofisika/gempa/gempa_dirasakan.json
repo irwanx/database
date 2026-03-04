@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "04 Mar 2026 20:36:57 WIB",
+    "lintang": "7.20 LS",
+    "bujur": "109.84 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "10 km",
+    "dirasakan": "II Dieng"
+  },
+  {
+    "waktu": "04 Mar 2026 19:22:01 WIB",
+    "lintang": "4.74 LU",
+    "bujur": "96.74 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "3 km",
+    "dirasakan": "II Bener Meriah"
+  },
+  {
     "waktu": "04 Mar 2026 02:10:29 WIB",
     "lintang": "2.35 LS",
     "bujur": "120.86 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.6",
     "kedalaman": "10 km",
     "dirasakan": "IV Tolitoli, IV Buol, II-III Pohuwato"
-  },
-  {
-    "waktu": "28 Feb 2026 04:49:14 WIB",
-    "lintang": "3.76 LS",
-    "bujur": "133.52 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "31 km",
-    "dirasakan": "III Kaimana"
-  },
-  {
-    "waktu": "28 Feb 2026 02:21:28 WIB",
-    "lintang": "7.79 LS",
-    "bujur": "117.35 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "18 km",
-    "dirasakan": "II Sumbawa Barat, II Sumbawa, II Bima, II Lombok Timur"
   }
 ]
