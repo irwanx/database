@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Mar 2026 02:43:46 WIB",
+    "lintang": "4.10 LS",
+    "bujur": "121.90 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "5 km",
+    "dirasakan": "III Kolaka Timur, II-III Kolaka"
+  },
+  {
     "waktu": "04 Mar 2026 20:36:57 WIB",
     "lintang": "7.20 LS",
     "bujur": "109.84 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "10 km",
     "dirasakan": "II-III Toli-toli"
-  },
-  {
-    "waktu": "28 Feb 2026 13:52:07 WIB",
-    "lintang": "1.28 LU",
-    "bujur": "120.97 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "10 km",
-    "dirasakan": "IV Tolitoli, IV Buol, II-III Pohuwato"
   }
 ]
