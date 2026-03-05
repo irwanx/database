@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Mar 2026 18:35:48 WIB",
+    "lintang": "7.54 LS",
+    "bujur": "106.42 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "28 km",
+    "dirasakan": "II Pabuaran, II Cidolog"
+  },
+  {
     "waktu": "05 Mar 2026 02:43:46 WIB",
     "lintang": "4.10 LS",
     "bujur": "121.90 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "10 km",
     "dirasakan": "III Kaimana"
-  },
-  {
-    "waktu": "28 Feb 2026 17:12:07 WIB",
-    "lintang": "1.30 LU",
-    "bujur": "120.90 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Toli-toli"
   }
 ]
