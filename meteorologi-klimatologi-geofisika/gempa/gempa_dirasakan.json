@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Mar 2026 20:59:10 WIB",
+    "lintang": "3.76 LS",
+    "bujur": "135.06 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "10 km",
+    "dirasakan": "II Nabire"
+  },
+  {
     "waktu": "05 Mar 2026 18:35:48 WIB",
     "lintang": "7.54 LS",
     "bujur": "106.42 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "5 km",
     "dirasakan": "II Toli-Toli"
-  },
-  {
-    "waktu": "28 Feb 2026 19:39:55 WIB",
-    "lintang": "4.08 LS",
-    "bujur": "133.58 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kaimana"
   }
 ]
