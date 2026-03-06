@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Mar 2026 15:11:06 WIB",
+    "lintang": "0.52 LU",
+    "bujur": "122.49 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "5 km",
+    "dirasakan": "II Kab. Gorontalo Utara"
+  },
+  {
     "waktu": "05 Mar 2026 20:59:10 WIB",
     "lintang": "3.76 LS",
     "bujur": "135.06 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "5 km",
     "dirasakan": "II-III Bener Meriah"
-  },
-  {
-    "waktu": "28 Feb 2026 22:11:18 WIB",
-    "lintang": "1.12 LU",
-    "bujur": "120.94 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "5 km",
-    "dirasakan": "II Toli-Toli"
   }
 ]
