@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Mar 2026 00:55:54 WIB",
+    "lintang": "1.57 LU",
+    "bujur": "128.81 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "dirasakan": "III - IV Halmahera Utara"
+  },
+  {
     "waktu": "06 Mar 2026 22:27:50 WIB",
     "lintang": "2.84 LS",
     "bujur": "130.17 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.1",
     "kedalaman": "128 km",
     "dirasakan": "II Pangandaran"
-  },
-  {
-    "waktu": "01 Mar 2026 07:25:43 WIB",
-    "lintang": "9.89 LS",
-    "bujur": "120.01 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "32 km",
-    "dirasakan": "III-IV Kab. Sumba Timur"
   }
 ]
