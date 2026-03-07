@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Mar 2026 07:51:21 WIB",
+    "lintang": "2.73 LU",
+    "bujur": "117.56 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "4 km",
+    "dirasakan": "III Tanjung Selor, II Tarakan"
+  },
+  {
     "waktu": "07 Mar 2026 04:23:46 WIB",
     "lintang": "8.01 LS",
     "bujur": "111.25 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.4",
     "kedalaman": "4 km",
     "dirasakan": "II - III Palu, II - III Sigi"
-  },
-  {
-    "waktu": "01 Mar 2026 14:53:51 WIB",
-    "lintang": "1.21 LU",
-    "bujur": "120.91 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Toli-toli"
   }
 ]
