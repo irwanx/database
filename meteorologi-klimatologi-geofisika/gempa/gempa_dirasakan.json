@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Mar 2026 13:42:03 WIB",
+    "lintang": "5.25 LS",
+    "bujur": "104.28 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "2 km",
+    "dirasakan": "II Bengkunat"
+  },
+  {
     "waktu": "07 Mar 2026 12:45:46 WIB",
     "lintang": "1.13 LU",
     "bujur": "120.92 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "10 km",
     "dirasakan": "II-III Pamona Selatan, II-III Bone-Bone"
-  },
-  {
-    "waktu": "03 Mar 2026 11:56:45 WIB",
-    "lintang": "1.93 LU",
-    "bujur": "96.48 BT",
-    "magnitudo": "6.4",
-    "kedalaman": "13 km",
-    "dirasakan": "IV Aceh Singkil, IV Simeulue, IV Aceh Barat Daya, III-IV Nias, III Aceh Selatan, III Meulaboh, II-III Aceh Tengah, II Bener Meriah, III-IV Pinagsori, III Blang Pidie, III Nias Utara, III Medan, III Tarutung, III Aek Godang, III Subulussalam, II-III Gung Sitoli, II-III Aceh Jaya, II-III Gayo Lues, II Banda Aceh, II Aceh Besar"
   }
 ]
