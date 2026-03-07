@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Mar 2026 23:58:45 WIB",
+    "lintang": "2.99 LS",
+    "bujur": "101.63 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "47 km",
+    "dirasakan": "III Kepahiang, IV Argamakmur, III Bengkulu , IV Mukomuko, IV Silaut, IV Rejang Lebong"
+  },
+  {
     "waktu": "07 Mar 2026 13:42:03 WIB",
     "lintang": "5.25 LS",
     "bujur": "104.28 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.3",
     "kedalaman": "3 km",
     "dirasakan": "II Bener Meriah"
-  },
-  {
-    "waktu": "04 Mar 2026 02:10:29 WIB",
-    "lintang": "2.35 LS",
-    "bujur": "120.86 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Pamona Selatan, II-III Bone-Bone"
   }
 ]
