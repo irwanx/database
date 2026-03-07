@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "07 Mar 2026 12:45:46 WIB",
+    "lintang": "1.13 LU",
+    "bujur": "120.92 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "5 km",
+    "dirasakan": "III Toli-Toli"
+  },
+  {
+    "waktu": "07 Mar 2026 11:15:39 WIB",
+    "lintang": "1.52 LS",
+    "bujur": "119.46 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Pasangkayu, II Sigi"
+  },
+  {
     "waktu": "07 Mar 2026 07:51:21 WIB",
     "lintang": "2.73 LU",
     "bujur": "117.56 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "6.4",
     "kedalaman": "13 km",
     "dirasakan": "IV Aceh Singkil, IV Simeulue, IV Aceh Barat Daya, III-IV Nias, III Aceh Selatan, III Meulaboh, II-III Aceh Tengah, II Bener Meriah, III-IV Pinagsori, III Blang Pidie, III Nias Utara, III Medan, III Tarutung, III Aek Godang, III Subulussalam, II-III Gung Sitoli, II-III Aceh Jaya, II-III Gayo Lues, II Banda Aceh, II Aceh Besar"
-  },
-  {
-    "waktu": "02 Mar 2026 16:46:02 WIB",
-    "lintang": "1.14 LU",
-    "bujur": "120.74 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "5 km",
-    "dirasakan": "II Toli-Toli"
-  },
-  {
-    "waktu": "01 Mar 2026 20:39:51 WIB",
-    "lintang": "0.88 LS",
-    "bujur": "119.87 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "4 km",
-    "dirasakan": "II - III Palu, II - III Sigi"
   }
 ]
