@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "08 Mar 2026 13:05:05 WIB",
+    "lintang": "1.90 LU",
+    "bujur": "96.40 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 km",
+    "dirasakan": "III Simeulue, II Aceh Selatan, II Subulussalam"
+  },
+  {
+    "waktu": "08 Mar 2026 12:24:26 WIB",
+    "lintang": "5.32 LS",
+    "bujur": "123.26 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "19 km",
+    "dirasakan": "III Buton"
+  },
+  {
     "waktu": "08 Mar 2026 07:50:41 WIB",
     "lintang": "3.72 LS",
     "bujur": "122.16 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "10 km",
     "dirasakan": "II Nabire"
-  },
-  {
-    "waktu": "05 Mar 2026 18:35:48 WIB",
-    "lintang": "7.54 LS",
-    "bujur": "106.42 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "28 km",
-    "dirasakan": "II Pabuaran, II Cidolog"
-  },
-  {
-    "waktu": "05 Mar 2026 02:43:46 WIB",
-    "lintang": "4.10 LS",
-    "bujur": "121.90 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "5 km",
-    "dirasakan": "III Kolaka Timur, II-III Kolaka"
   }
 ]

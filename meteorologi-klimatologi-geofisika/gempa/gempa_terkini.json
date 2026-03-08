@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08 Mar 2026 13:05:05 WIB",
+    "lintang": "1.90 LU",
+    "bujur": "96.40 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 km",
+    "wilayah": "63 km Tenggara SINABANG-ACEH"
+  },
+  {
     "waktu": "07 Mar 2026 23:58:45 WIB",
     "lintang": "2.99 LS",
     "bujur": "101.63 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "48 km",
     "wilayah": "97 km BaratDaya AGAM-SUMBAR"
-  },
-  {
-    "waktu": "15 Feb 2026 20:44:08 WIB",
-    "lintang": "11.37 LS",
-    "bujur": "118.04 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "wilayah": "223 km BaratDaya KODI-SUMBABARATDAYA-NTT"
   }
 ]
