@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "08 Mar 2026 07:50:41 WIB",
+    "lintang": "3.72 LS",
+    "bujur": "122.16 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "4 km",
+    "dirasakan": "III Konawe, III Konawe Utara"
+  },
+  {
+    "waktu": "08 Mar 2026 04:59:41 WIB",
+    "lintang": "3.73 LS",
+    "bujur": "122.18 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "5 km",
+    "dirasakan": "IV Konawe, III Konawe Utara, III Kolaka Timur"
+  },
+  {
     "waktu": "07 Mar 2026 23:58:45 WIB",
     "lintang": "2.99 LS",
     "bujur": "101.63 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.8",
     "kedalaman": "5 km",
     "dirasakan": "III Kolaka Timur, II-III Kolaka"
-  },
-  {
-    "waktu": "04 Mar 2026 20:36:57 WIB",
-    "lintang": "7.20 LS",
-    "bujur": "109.84 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "10 km",
-    "dirasakan": "II Dieng"
-  },
-  {
-    "waktu": "04 Mar 2026 19:22:01 WIB",
-    "lintang": "4.74 LU",
-    "bujur": "96.74 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "3 km",
-    "dirasakan": "II Bener Meriah"
   }
 ]
