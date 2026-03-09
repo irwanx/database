@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Mar 2026 06:25:11 WIB",
+    "lintang": "2.91 LS",
+    "bujur": "132.27 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Fak-fak"
+  },
+  {
     "waktu": "08 Mar 2026 13:05:05 WIB",
     "lintang": "1.90 LU",
     "bujur": "96.40 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.3",
     "kedalaman": "5 km",
     "dirasakan": "II Kab. Gorontalo Utara"
-  },
-  {
-    "waktu": "05 Mar 2026 20:59:10 WIB",
-    "lintang": "3.76 LS",
-    "bujur": "135.06 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "10 km",
-    "dirasakan": "II Nabire"
   }
 ]
