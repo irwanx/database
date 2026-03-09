@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Mar 2026 19:02:54 WIB",
+    "lintang": "2.48 LU",
+    "bujur": "95.98 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "58 km",
+    "dirasakan": "II-III Simeulue"
+  },
+  {
     "waktu": "09 Mar 2026 06:25:11 WIB",
     "lintang": "2.91 LS",
     "bujur": "132.27 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "9 km",
     "dirasakan": "II-III Seram Utara Timur Seti"
-  },
-  {
-    "waktu": "06 Mar 2026 15:11:06 WIB",
-    "lintang": "0.52 LU",
-    "bujur": "122.49 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "5 km",
-    "dirasakan": "II Kab. Gorontalo Utara"
   }
 ]
