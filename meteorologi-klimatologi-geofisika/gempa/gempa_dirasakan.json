@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Mar 2026 04:45:37 WIB",
+    "lintang": "9.61 LS",
+    "bujur": "120.55 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "37 km",
+    "dirasakan": "III-IV Waingapu"
+  },
+  {
     "waktu": "09 Mar 2026 19:02:54 WIB",
     "lintang": "2.48 LU",
     "bujur": "95.98 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 km",
     "dirasakan": "III - IV Halmahera Utara"
-  },
-  {
-    "waktu": "06 Mar 2026 22:27:50 WIB",
-    "lintang": "2.84 LS",
-    "bujur": "130.17 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "9 km",
-    "dirasakan": "II-III Seram Utara Timur Seti"
   }
 ]
