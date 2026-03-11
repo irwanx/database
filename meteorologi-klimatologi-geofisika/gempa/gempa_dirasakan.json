@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Mar 2026 09:12:13 WIB",
+    "lintang": "0.51 LS",
+    "bujur": "121.87 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "dirasakan": "III Ampana"
+  },
+  {
     "waktu": "11 Mar 2026 07:56:47 WIB",
     "lintang": "8.53 LS",
     "bujur": "117.24 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "10 km",
     "dirasakan": "II Pacitan"
-  },
-  {
-    "waktu": "07 Mar 2026 03:51:26 WIB",
-    "lintang": "9.10 LS",
-    "bujur": "120.15 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "13 km",
-    "dirasakan": "II-III Sumba Timur"
   }
 ]
