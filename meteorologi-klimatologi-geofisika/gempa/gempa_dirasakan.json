@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "13 Mar 2026 03:04:04 WIB",
+    "lintang": "0.01 LS",
+    "bujur": "111.90 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "dirasakan": "III Sintang, III Sanggau, II Katingan"
+  },
+  {
+    "waktu": "13 Mar 2026 02:18:20 WIB",
+    "lintang": "7.96 LS",
+    "bujur": "106.92 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "43 km",
+    "dirasakan": "IV Cidolog, IV Ciracap, III-IV Garut, III-IV Tasikmalaya, III-IV Cidahu, III-IV Cimanggu, III-IV Jampang Tengah, III-IV Kadupandak, III-IV Tegal Buleud, III Bayah, III Kabupaten Bandung, III Klapanunggal, II-III Pangandaran, II-III Ciamis, III-IV Cijati, III Campaka"
+  },
+  {
     "waktu": "12 Mar 2026 16:54:24 WIB",
     "lintang": "4.91 LU",
     "bujur": "96.80 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "2 km",
     "dirasakan": "II Bengkunat"
-  },
-  {
-    "waktu": "07 Mar 2026 12:45:46 WIB",
-    "lintang": "1.13 LU",
-    "bujur": "120.92 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "5 km",
-    "dirasakan": "III Toli-Toli"
-  },
-  {
-    "waktu": "07 Mar 2026 11:15:39 WIB",
-    "lintang": "1.52 LS",
-    "bujur": "119.46 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Pasangkayu, II Sigi"
   }
 ]
