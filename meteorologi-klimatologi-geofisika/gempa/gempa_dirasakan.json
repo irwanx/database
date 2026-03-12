@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "12 Mar 2026 16:54:24 WIB",
+    "lintang": "4.91 LU",
+    "bujur": "96.80 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "10 km",
+    "dirasakan": "II Bener Meriah"
+  },
+  {
+    "waktu": "12 Mar 2026 16:44:59 WIB",
+    "lintang": "4.97 LU",
+    "bujur": "96.72 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Bener Meriah"
+  },
+  {
     "waktu": "11 Mar 2026 09:12:13 WIB",
     "lintang": "0.51 LS",
     "bujur": "121.87 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "5 km",
     "dirasakan": "II-III Pasangkayu, II Sigi"
-  },
-  {
-    "waktu": "07 Mar 2026 07:51:21 WIB",
-    "lintang": "2.73 LU",
-    "bujur": "117.56 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "4 km",
-    "dirasakan": "III Tanjung Selor, II Tarakan"
-  },
-  {
-    "waktu": "07 Mar 2026 04:23:46 WIB",
-    "lintang": "8.01 LS",
-    "bujur": "111.25 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 km",
-    "dirasakan": "II Pacitan"
   }
 ]
