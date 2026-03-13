@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13 Mar 2026 06:48:59 WIB",
+    "lintang": "4.07 LS",
+    "bujur": "121.85 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "4 km",
+    "dirasakan": "III Kolaka Timur, II - III Kolaka"
+  },
+  {
     "waktu": "13 Mar 2026 03:04:04 WIB",
     "lintang": "0.01 LS",
     "bujur": "111.90 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.7",
     "kedalaman": "47 km",
     "dirasakan": "III Kepahiang, IV Argamakmur, III Bengkulu , IV Mukomuko, IV Silaut, IV Rejang Lebong"
-  },
-  {
-    "waktu": "07 Mar 2026 13:42:03 WIB",
-    "lintang": "5.25 LS",
-    "bujur": "104.28 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "2 km",
-    "dirasakan": "II Bengkunat"
   }
 ]
