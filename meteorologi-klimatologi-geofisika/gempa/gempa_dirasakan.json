@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "15 Mar 2026 01:15:29 WIB",
+    "lintang": "4.13 LS",
+    "bujur": "122.71 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Moramo"
+  },
+  {
+    "waktu": "15 Mar 2026 00:36:13 WIB",
+    "lintang": "6.97 LS",
+    "bujur": "106.98 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 km",
+    "dirasakan": "IV Nyalindung, III-IV Sukabumi, III-IV Kabandungan, III-IV Tugubandung, III-IV Cipeuteuy, III-IV Cihamerang, III-IV Mekarjaya, III-IV Cianaga, II-III Cianjur Kota, II-III Cipanas, II-III Kalapanunggal, II Palabuhan Ratu, II Cimahi, II Lembang"
+  },
+  {
     "waktu": "13 Mar 2026 10:55:25 WIB",
     "lintang": "5.66 LS",
     "bujur": "122.82 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "19 km",
     "dirasakan": "III Buton"
-  },
-  {
-    "waktu": "08 Mar 2026 07:50:41 WIB",
-    "lintang": "3.72 LS",
-    "bujur": "122.16 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "4 km",
-    "dirasakan": "III Konawe, III Konawe Utara"
-  },
-  {
-    "waktu": "08 Mar 2026 04:59:41 WIB",
-    "lintang": "3.73 LS",
-    "bujur": "122.18 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "5 km",
-    "dirasakan": "IV Konawe, III Konawe Utara, III Kolaka Timur"
   }
 ]
