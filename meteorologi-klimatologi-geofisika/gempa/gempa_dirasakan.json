@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16 Mar 2026 05:28:20 WIB",
+    "lintang": "4.10 LS",
+    "bujur": "121.87 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "3 km",
+    "dirasakan": "III Kolaka Timur, II-III Konawe"
+  },
+  {
     "waktu": "15 Mar 2026 01:15:29 WIB",
     "lintang": "4.13 LS",
     "bujur": "122.71 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.6",
     "kedalaman": "10 km",
     "dirasakan": "III Simeulue, II Aceh Selatan, II Subulussalam"
-  },
-  {
-    "waktu": "08 Mar 2026 12:24:26 WIB",
-    "lintang": "5.32 LS",
-    "bujur": "123.26 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "19 km",
-    "dirasakan": "III Buton"
   }
 ]
