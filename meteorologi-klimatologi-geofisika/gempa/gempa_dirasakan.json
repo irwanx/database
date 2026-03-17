@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "17 Mar 2026 08:05:15 WIB",
+    "lintang": "4.10 LS",
+    "bujur": "121.88 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "3 km",
+    "dirasakan": "II Tirawuta"
+  },
+  {
+    "waktu": "17 Mar 2026 06:44:22 WIB",
+    "lintang": "6.74 LS",
+    "bujur": "107.90 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Tanjungkerta, II-III Buahdua, II-III Cipadung, II-III Tanjung Medar"
+  },
+  {
     "waktu": "16 Mar 2026 18:53:26 WIB",
     "lintang": "2.13 LS",
     "bujur": "139.05 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "10 km",
     "dirasakan": "II Kab. Sumbawa"
-  },
-  {
-    "waktu": "11 Mar 2026 04:45:37 WIB",
-    "lintang": "9.61 LS",
-    "bujur": "120.55 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "37 km",
-    "dirasakan": "III-IV Waingapu"
-  },
-  {
-    "waktu": "09 Mar 2026 19:02:54 WIB",
-    "lintang": "2.48 LU",
-    "bujur": "95.98 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "58 km",
-    "dirasakan": "II-III Simeulue"
   }
 ]
