@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "17 Mar 2026 21:12:58 WIB",
+    "lintang": "1.41 LU",
+    "bujur": "120.85 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 km",
+    "dirasakan": "III Toli-Toli"
+  },
+  {
+    "waktu": "17 Mar 2026 21:11:00 WIB",
+    "lintang": "1.25 LU",
+    "bujur": "120.86 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 km",
+    "dirasakan": "III Toli-Toli"
+  },
+  {
     "waktu": "17 Mar 2026 18:41:49 WIB",
     "lintang": "5.41 LS",
     "bujur": "104.65 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "10 km",
     "dirasakan": "II Bener Meriah"
-  },
-  {
-    "waktu": "12 Mar 2026 16:44:59 WIB",
-    "lintang": "4.97 LU",
-    "bujur": "96.72 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Bener Meriah"
-  },
-  {
-    "waktu": "11 Mar 2026 09:12:13 WIB",
-    "lintang": "0.51 LS",
-    "bujur": "121.87 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "dirasakan": "III Ampana"
   }
 ]
