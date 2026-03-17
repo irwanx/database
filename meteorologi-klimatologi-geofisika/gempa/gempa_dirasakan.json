@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Mar 2026 18:41:49 WIB",
+    "lintang": "5.41 LS",
+    "bujur": "104.65 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "5 km",
+    "dirasakan": "II Tanggamus"
+  },
+  {
     "waktu": "17 Mar 2026 08:05:15 WIB",
     "lintang": "4.10 LS",
     "bujur": "121.88 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "dirasakan": "III Ampana"
-  },
-  {
-    "waktu": "11 Mar 2026 07:56:47 WIB",
-    "lintang": "8.53 LS",
-    "bujur": "117.24 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 km",
-    "dirasakan": "II Kab. Sumbawa"
   }
 ]
