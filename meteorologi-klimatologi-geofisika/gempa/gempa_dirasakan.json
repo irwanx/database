@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Mar 2026 00:03:39 WIB",
+    "lintang": "4.46 LU",
+    "bujur": "96.51 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "9 km",
+    "dirasakan": "II-III Aceh Tengah"
+  },
+  {
     "waktu": "18 Mar 2026 21:24:03 WIB",
     "lintang": "4.47 LS",
     "bujur": "122.69 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "13 km",
     "dirasakan": "II-III Wabula"
-  },
-  {
-    "waktu": "13 Mar 2026 06:48:59 WIB",
-    "lintang": "4.07 LS",
-    "bujur": "121.85 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "4 km",
-    "dirasakan": "III Kolaka Timur, II - III Kolaka"
   }
 ]
