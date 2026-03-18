@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Mar 2026 21:24:03 WIB",
+    "lintang": "4.47 LS",
+    "bujur": "122.69 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Muna"
+  },
+  {
     "waktu": "18 Mar 2026 10:42:33 WIB",
     "lintang": "6.76 LS",
     "bujur": "107.67 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "4 km",
     "dirasakan": "III Kolaka Timur, II - III Kolaka"
-  },
-  {
-    "waktu": "13 Mar 2026 03:04:04 WIB",
-    "lintang": "0.01 LS",
-    "bujur": "111.90 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 km",
-    "dirasakan": "III Sintang, III Sanggau, II Katingan, II Melawi"
   }
 ]
