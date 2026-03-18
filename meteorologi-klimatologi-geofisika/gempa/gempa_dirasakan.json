@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Mar 2026 10:42:33 WIB",
+    "lintang": "6.76 LS",
+    "bujur": "107.67 BT",
+    "magnitudo": "1.8",
+    "kedalaman": "18 km",
+    "dirasakan": "II - III Subang"
+  },
+  {
     "waktu": "18 Mar 2026 09:13:27 WIB",
     "lintang": "4.02 LU",
     "bujur": "117.66 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 km",
     "dirasakan": "III Sintang, III Sanggau, II Katingan, II Melawi"
-  },
-  {
-    "waktu": "13 Mar 2026 02:18:20 WIB",
-    "lintang": "7.96 LS",
-    "bujur": "106.92 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "43 km",
-    "dirasakan": "IV Cidolog, IV Ciracap, III-IV Garut, III-IV Tasikmalaya, III-IV Cidahu, III-IV Cimanggu, III-IV Jampang Tengah, III-IV Kadupandak, III-IV Tegal Buleud, III Bayah, III Kabupaten Bandung, III Klapanunggal, II-III Pangandaran, II-III Ciamis, III-IV Cijati, III Campaka"
   }
 ]
