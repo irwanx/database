@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Mar 2026 22:01:57 WIB",
+    "lintang": "0.13 LU",
+    "bujur": "111.81 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "14 km",
+    "dirasakan": "II Kayan Hilir"
+  },
+  {
     "waktu": "19 Mar 2026 14:08:20 WIB",
     "lintang": "4.21 LU",
     "bujur": "97.49 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.0",
     "kedalaman": "3 km",
     "dirasakan": "III Kolaka Timur, II-III Konawe"
-  },
-  {
-    "waktu": "15 Mar 2026 01:15:29 WIB",
-    "lintang": "4.13 LS",
-    "bujur": "122.71 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Moramo"
   }
 ]
