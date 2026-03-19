@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "19 Mar 2026 14:08:20 WIB",
+    "lintang": "4.21 LU",
+    "bujur": "97.49 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "3 km",
+    "dirasakan": "III Gayo Lues"
+  },
+  {
+    "waktu": "19 Mar 2026 14:07:44 WIB",
+    "lintang": "4.12 LU",
+    "bujur": "97.49 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "5 km",
+    "dirasakan": "IV Gayo Lues, III Aceh Tamiang, III-IV Aceh Timur, III-IV Lhokseumawe"
+  },
+  {
     "waktu": "19 Mar 2026 00:03:39 WIB",
     "lintang": "4.46 LU",
     "bujur": "96.51 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.0",
     "kedalaman": "5 km",
     "dirasakan": "II-III Moramo"
-  },
-  {
-    "waktu": "15 Mar 2026 00:36:13 WIB",
-    "lintang": "6.97 LS",
-    "bujur": "106.98 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 km",
-    "dirasakan": "IV Nyalindung, III-IV Sukabumi, III-IV Kabandungan, III-IV Tugubandung, III-IV Cipeuteuy, III-IV Cihamerang, III-IV Mekarjaya, III-IV Cianaga, II-III Cianjur Kota, II-III Cipanas, II-III Kalapanunggal, II Palabuhan Ratu, II Cimahi, II Lembang"
-  },
-  {
-    "waktu": "13 Mar 2026 10:55:25 WIB",
-    "lintang": "5.66 LS",
-    "bujur": "122.82 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "13 km",
-    "dirasakan": "II-III Wabula"
   }
 ]
