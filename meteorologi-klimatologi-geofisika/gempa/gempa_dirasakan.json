@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Mar 2026 19:28:09 WIB",
+    "lintang": "2.22 LU",
+    "bujur": "96.04 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 km",
+    "dirasakan": "IV Simeulue"
+  },
+  {
     "waktu": "19 Mar 2026 22:01:57 WIB",
     "lintang": "0.13 LU",
     "bujur": "111.81 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "37 km",
     "dirasakan": "III Sumbawa, III Bima, III Kab. Bima"
-  },
-  {
-    "waktu": "16 Mar 2026 05:28:20 WIB",
-    "lintang": "4.10 LS",
-    "bujur": "121.87 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "3 km",
-    "dirasakan": "III Kolaka Timur, II-III Konawe"
   }
 ]
