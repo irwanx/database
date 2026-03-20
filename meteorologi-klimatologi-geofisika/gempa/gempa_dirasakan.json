@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21 Mar 2026 02:33:03 WIB",
+    "lintang": "1.52 LS",
+    "bujur": "119.49 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "4 km",
+    "dirasakan": "III Pasangkayu"
+  },
+  {
     "waktu": "20 Mar 2026 19:28:09 WIB",
     "lintang": "2.22 LU",
     "bujur": "96.04 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "11 km",
     "dirasakan": "II-III Sarmi"
-  },
-  {
-    "waktu": "16 Mar 2026 18:41:59 WIB",
-    "lintang": "9.41 LS",
-    "bujur": "118.18 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "37 km",
-    "dirasakan": "III Sumbawa, III Bima, III Kab. Bima"
   }
 ]
