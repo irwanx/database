@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Mar 2026 01:08:54 WIB",
+    "lintang": "7.56 LS",
+    "bujur": "104.92 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "wilayah": "123 km BaratDaya SUMUR-BANTEN"
+  },
+  {
     "waktu": "16 Mar 2026 18:41:59 WIB",
     "lintang": "9.41 LS",
     "bujur": "118.18 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.7",
     "kedalaman": "10 km",
     "wilayah": "23 km Tenggara SARMI-PAPUA"
-  },
-  {
-    "waktu": "22 Feb 2026 22:35:41 WIB",
-    "lintang": "0.74 LS",
-    "bujur": "99.14 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "29 km",
-    "wilayah": "110 km BaratDaya AGAM-SUMBAR"
   }
 ]
