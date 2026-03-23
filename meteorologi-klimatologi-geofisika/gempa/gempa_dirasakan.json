@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Mar 2026 22:37:22 WIB",
+    "lintang": "3.28 LS",
+    "bujur": "129.15 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "2 km",
+    "dirasakan": "III-IV Negeri Sepa"
+  },
+  {
     "waktu": "23 Mar 2026 11:19:45 WIB",
     "lintang": "8.47 LS",
     "bujur": "115.69 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.7",
     "kedalaman": "3 km",
     "dirasakan": "II Tirawuta"
-  },
-  {
-    "waktu": "17 Mar 2026 06:44:22 WIB",
-    "lintang": "6.74 LS",
-    "bujur": "107.90 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Tanjungkerta, II-III Buahdua, II-III Cipadung, II-III Tanjung Medar"
   }
 ]
