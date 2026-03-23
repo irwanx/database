@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Mar 2026 11:19:45 WIB",
+    "lintang": "8.47 LS",
+    "bujur": "115.69 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "12 km",
+    "dirasakan": "II Karangasem"
+  },
+  {
     "waktu": "21 Mar 2026 02:33:03 WIB",
     "lintang": "1.52 LS",
     "bujur": "119.49 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.0",
     "kedalaman": "5 km",
     "dirasakan": "II-III Tanjungkerta, II-III Buahdua, II-III Cipadung, II-III Tanjung Medar"
-  },
-  {
-    "waktu": "16 Mar 2026 18:53:26 WIB",
-    "lintang": "2.13 LS",
-    "bujur": "139.05 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "11 km",
-    "dirasakan": "II-III Sarmi"
   }
 ]
