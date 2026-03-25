@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Mar 2026 13:36:52 WIB",
+    "lintang": "5.15 LS",
+    "bujur": "105.30 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "10 km",
+    "dirasakan": "II Metro"
+  },
+  {
     "waktu": "23 Mar 2026 22:37:22 WIB",
     "lintang": "3.28 LS",
     "bujur": "129.15 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "5 km",
     "dirasakan": "II Tanggamus"
-  },
-  {
-    "waktu": "17 Mar 2026 08:05:15 WIB",
-    "lintang": "4.10 LS",
-    "bujur": "121.88 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "3 km",
-    "dirasakan": "II Tirawuta"
   }
 ]
