@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26 Mar 2026 14:14:48 WIB",
+    "lintang": "8.47 LS",
+    "bujur": "115.69 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "14 km",
+    "dirasakan": "II Karangasem"
+  },
+  {
     "waktu": "26 Mar 2026 11:39:49 WIB",
     "lintang": "3.72 LS",
     "bujur": "123.44 BT",
@@ -108,14 +116,6 @@
     "lintang": "1.41 LU",
     "bujur": "120.85 BT",
     "magnitudo": "4.5",
-    "kedalaman": "10 km",
-    "dirasakan": "III Toli-Toli"
-  },
-  {
-    "waktu": "17 Mar 2026 21:11:00 WIB",
-    "lintang": "1.25 LU",
-    "bujur": "120.86 BT",
-    "magnitudo": "3.8",
     "kedalaman": "10 km",
     "dirasakan": "III Toli-Toli"
   }
