@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Mar 2026 05:51:02 WIB",
+    "lintang": "3.08 LS",
+    "bujur": "139.47 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "71 km",
+    "dirasakan": "II - III Wamena, III Kota Jayapura, III Kab. Jayapura, II - III Kab. Sarmi"
+  },
+  {
     "waktu": "26 Mar 2026 14:14:48 WIB",
     "lintang": "8.47 LS",
     "bujur": "115.69 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.7",
     "kedalaman": "10 km",
     "dirasakan": "III Nunukan"
-  },
-  {
-    "waktu": "17 Mar 2026 21:12:58 WIB",
-    "lintang": "1.41 LU",
-    "bujur": "120.85 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 km",
-    "dirasakan": "III Toli-Toli"
   }
 ]
