@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Mar 2026 14:35:47 WIB",
+    "lintang": "3.50 LS",
+    "bujur": "140.48 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "64 km",
+    "wilayah": "33 km BaratDaya SENGGIKEEROM-PAPUA"
+  },
+  {
     "waktu": "27 Mar 2026 05:51:02 WIB",
     "lintang": "3.08 LS",
     "bujur": "139.47 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "12 km",
     "wilayah": "206 km BaratLaut MALUKUTENGGARA"
-  },
-  {
-    "waktu": "26 Feb 2026 00:49:28 WIB",
-    "lintang": "0.41 LS",
-    "bujur": "98.98 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "18 km",
-    "wilayah": "110 km BaratDaya PASAMANBARAT-SUMBAR"
   }
 ]
