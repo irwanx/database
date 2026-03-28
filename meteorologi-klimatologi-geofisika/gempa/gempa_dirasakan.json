@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Mar 2026 01:38:32 WIB",
+    "lintang": "7.73 LS",
+    "bujur": "127.89 BT",
+    "magnitudo": "6.5",
+    "kedalaman": "141 km",
+    "dirasakan": "IV-V Tiakur"
+  },
+  {
     "waktu": "28 Mar 2026 23:56:00 WIB",
     "lintang": "4.01 LS",
     "bujur": "121.56 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "9 km",
     "dirasakan": "II-III Aceh Tengah"
-  },
-  {
-    "waktu": "18 Mar 2026 21:24:03 WIB",
-    "lintang": "4.47 LS",
-    "bujur": "122.69 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Muna"
   }
 ]
