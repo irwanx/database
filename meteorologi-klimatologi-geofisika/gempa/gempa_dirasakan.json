@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Mar 2026 21:29:44 WIB",
+    "lintang": "3.72 LS",
+    "bujur": "122.13 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "2 km",
+    "dirasakan": "III-IV Konawe Utara, III Konawe"
+  },
+  {
     "waktu": "29 Mar 2026 01:38:32 WIB",
     "lintang": "7.73 LS",
     "bujur": "127.89 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "5 km",
     "dirasakan": "IV Gayo Lues, III Aceh Tamiang, III-IV Aceh Timur, III-IV Lhokseumawe"
-  },
-  {
-    "waktu": "19 Mar 2026 00:03:39 WIB",
-    "lintang": "4.46 LU",
-    "bujur": "96.51 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "9 km",
-    "dirasakan": "II-III Aceh Tengah"
   }
 ]
