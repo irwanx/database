@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "31 Mar 2026 02:03:15 WIB",
+    "lintang": "5.41 LS",
+    "bujur": "104.65 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "4 km",
+    "dirasakan": "II Kotaagung, II Sumberejo"
+  },
+  {
     "waktu": "29 Mar 2026 21:29:44 WIB",
     "lintang": "3.72 LS",
     "bujur": "122.13 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "3 km",
     "dirasakan": "III Gayo Lues"
-  },
-  {
-    "waktu": "19 Mar 2026 14:07:44 WIB",
-    "lintang": "4.12 LU",
-    "bujur": "97.49 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "5 km",
-    "dirasakan": "IV Gayo Lues, III Aceh Tamiang, III-IV Aceh Timur, III-IV Lhokseumawe"
   }
 ]
