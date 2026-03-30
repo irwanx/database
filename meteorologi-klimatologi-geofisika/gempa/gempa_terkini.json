@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30 Mar 2026 11:00:23 WIB",
+    "lintang": "7.64 LS",
+    "bujur": "128.71 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "181 km",
+    "wilayah": "116 km TimurLaut MALUKUBRTDAYA"
+  },
+  {
     "waktu": "29 Mar 2026 01:38:32 WIB",
     "lintang": "7.73 LS",
     "bujur": "127.89 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.9",
     "kedalaman": "67 km",
     "wilayah": "108 km BaratLaut PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "28 Feb 2026 13:52:07 WIB",
-    "lintang": "1.28 LU",
-    "bujur": "120.97 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "10 km",
-    "wilayah": "50 km TimurLaut TOLI-TOLI-SULTENG"
   }
 ]
