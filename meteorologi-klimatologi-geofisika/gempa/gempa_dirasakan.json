@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "01 Apr 2026 07:10:03 WIB",
+    "lintang": "4.06 LS",
+    "bujur": "122.46 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Konawe Selatan"
+  },
+  {
+    "waktu": "01 Apr 2026 04:54:41 WIB",
+    "lintang": "4.10 LS",
+    "bujur": "121.87 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "5 km",
+    "dirasakan": "III Kolaka Timur"
+  },
+  {
     "waktu": "31 Mar 2026 11:55:21 WIB",
     "lintang": "2.84 LS",
     "bujur": "134.40 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.7",
     "kedalaman": "12 km",
     "dirasakan": "II Karangasem"
-  },
-  {
-    "waktu": "21 Mar 2026 02:33:03 WIB",
-    "lintang": "1.52 LS",
-    "bujur": "119.49 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "4 km",
-    "dirasakan": "III Pasangkayu"
-  },
-  {
-    "waktu": "20 Mar 2026 19:28:09 WIB",
-    "lintang": "2.22 LU",
-    "bujur": "96.04 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 km",
-    "dirasakan": "IV Simeulue"
   }
 ]
