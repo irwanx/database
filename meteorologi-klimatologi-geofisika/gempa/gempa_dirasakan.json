@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Apr 2026 16:07:29 WIB",
+    "lintang": "4.10 LS",
+    "bujur": "121.87 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "3 km",
+    "dirasakan": "III Kolaka Timur"
+  },
+  {
     "waktu": "01 Apr 2026 07:10:03 WIB",
     "lintang": "4.06 LS",
     "bujur": "122.46 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "2 km",
     "dirasakan": "III-IV Negeri Sepa"
-  },
-  {
-    "waktu": "23 Mar 2026 11:19:45 WIB",
-    "lintang": "8.47 LS",
-    "bujur": "115.69 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "12 km",
-    "dirasakan": "II Karangasem"
   }
 ]
