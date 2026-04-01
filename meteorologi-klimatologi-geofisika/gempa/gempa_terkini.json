@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Apr 2026 19:14:01 WIB",
+    "lintang": "0.32 LS",
+    "bujur": "129.76 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "wilayah": "119 km BaratLaut RAJAAMPAT-PAPUABRTDY"
+  },
+  {
     "waktu": "30 Mar 2026 11:00:23 WIB",
     "lintang": "7.64 LS",
     "bujur": "128.71 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "91 km",
     "wilayah": "43 km BaratLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "01 Mar 2026 00:22:21 WIB",
-    "lintang": "5.03 LU",
-    "bujur": "126.14 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "67 km",
-    "wilayah": "108 km BaratLaut PULAUKARATUNG-SULUT"
   }
 ]

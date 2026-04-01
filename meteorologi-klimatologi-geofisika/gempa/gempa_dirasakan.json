@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Apr 2026 19:14:01 WIB",
+    "lintang": "0.32 LS",
+    "bujur": "129.76 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Pulau Gag, III Pulau Gebe, II Kab. Sorong"
+  },
+  {
     "waktu": "01 Apr 2026 16:07:29 WIB",
     "lintang": "4.10 LS",
     "bujur": "121.87 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "10 km",
     "dirasakan": "II Metro"
-  },
-  {
-    "waktu": "23 Mar 2026 22:37:22 WIB",
-    "lintang": "3.28 LS",
-    "bujur": "129.15 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "2 km",
-    "dirasakan": "III-IV Negeri Sepa"
   }
 ]
