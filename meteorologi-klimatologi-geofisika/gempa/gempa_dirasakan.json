@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "02 Apr 2026 23:33:55 WIB",
+    "lintang": "1.14 LU",
+    "bujur": "126.44 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "18 km",
+    "dirasakan": "II-III Batang Dua"
+  },
+  {
+    "waktu": "02 Apr 2026 23:10:26 WIB",
+    "lintang": "1.25 LU",
+    "bujur": "126.24 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "dirasakan": "III Batang Dua"
+  },
+  {
+    "waktu": "02 Apr 2026 22:36:35 WIB",
+    "lintang": "3.57 LS",
+    "bujur": "134.93 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 km",
+    "dirasakan": "III Nabire"
+  },
+  {
+    "waktu": "02 Apr 2026 22:34:24 WIB",
+    "lintang": "1.32 LU",
+    "bujur": "126.56 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "12 km",
+    "dirasakan": "III Batang Dua"
+  },
+  {
     "waktu": "02 Apr 2026 21:34:55 WIB",
     "lintang": "1.36 LU",
     "bujur": "126.45 BT",
@@ -14,6 +46,14 @@
     "magnitudo": "5.5",
     "kedalaman": "10 km",
     "dirasakan": "II-III Manado, II-III Tondano, II-III MInahasa Utara"
+  },
+  {
+    "waktu": "02 Apr 2026 20:42:59 WIB",
+    "lintang": "3.81 LS",
+    "bujur": "122.45 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "11 km",
+    "dirasakan": ""
   },
   {
     "waktu": "02 Apr 2026 19:51:25 WIB",
@@ -78,45 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Pulau Gag, III Pulau Gebe, II Kab. Sorong"
-  },
-  {
-    "waktu": "01 Apr 2026 16:07:29 WIB",
-    "lintang": "4.10 LS",
-    "bujur": "121.87 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "3 km",
-    "dirasakan": "III Kolaka Timur"
-  },
-  {
-    "waktu": "01 Apr 2026 07:10:03 WIB",
-    "lintang": "4.06 LS",
-    "bujur": "122.46 BT",
-    "magnitudo": "2.1",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Konawe Selatan"
-  },
-  {
-    "waktu": "01 Apr 2026 04:54:41 WIB",
-    "lintang": "4.10 LS",
-    "bujur": "121.87 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "5 km",
-    "dirasakan": "III Kolaka Timur"
-  },
-  {
-    "waktu": "31 Mar 2026 11:55:21 WIB",
-    "lintang": "2.84 LS",
-    "bujur": "134.40 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "7 km",
-    "dirasakan": "II-III Kab. Teluk Wondama"
-  },
-  {
-    "waktu": "31 Mar 2026 05:35:28 WIB",
-    "lintang": "2.70 LS",
-    "bujur": "134.54 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Teluk Wondama"
   }
 ]

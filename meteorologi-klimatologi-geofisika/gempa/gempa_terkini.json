@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "02 Apr 2026 23:10:26 WIB",
+    "lintang": "1.25 LU",
+    "bujur": "126.24 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "wilayah": "126 km Tenggara BITUNG-SULUT"
+  },
+  {
+    "waktu": "02 Apr 2026 22:36:35 WIB",
+    "lintang": "3.57 LS",
+    "bujur": "134.93 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 km",
+    "wilayah": "68 km BaratDaya NABIRE-PAPUATENGAH"
+  },
+  {
     "waktu": "02 Apr 2026 21:34:55 WIB",
     "lintang": "1.36 LU",
     "bujur": "126.45 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "181 km",
     "wilayah": "116 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "29 Mar 2026 01:38:32 WIB",
-    "lintang": "7.73 LS",
-    "bujur": "127.89 BT",
-    "magnitudo": "6.5",
-    "kedalaman": "141 km",
-    "wilayah": "48 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "28 Mar 2026 14:35:47 WIB",
-    "lintang": "3.50 LS",
-    "bujur": "140.48 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "64 km",
-    "wilayah": "33 km BaratDaya SENGGIKEEROM-PAPUA"
   }
 ]
