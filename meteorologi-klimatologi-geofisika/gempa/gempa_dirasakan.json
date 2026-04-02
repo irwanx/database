@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Apr 2026 15:38:58 WIB",
+    "lintang": "1.18 LU",
+    "bujur": "126.26 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "25 km",
+    "dirasakan": "III Manado"
+  },
+  {
     "waktu": "02 Apr 2026 13:42:46 WIB",
     "lintang": "7.64 LS",
     "bujur": "106.43 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.5",
     "kedalaman": "141 km",
     "dirasakan": "IV-V Tiakur"
-  },
-  {
-    "waktu": "28 Mar 2026 23:56:00 WIB",
-    "lintang": "4.01 LS",
-    "bujur": "121.56 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "3 km",
-    "dirasakan": "II-III Latambaga, II-III Kolaka"
   }
 ]
