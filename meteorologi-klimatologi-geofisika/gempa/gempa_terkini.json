@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "02 Apr 2026 09:10:57 WIB",
+    "lintang": "1.32 LU",
+    "bujur": "126.31 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "wilayah": "131 km BaratLaut JAILOLO-MALUT"
+  },
+  {
+    "waktu": "02 Apr 2026 06:12:34 WIB",
+    "lintang": "1.23 LU",
+    "bujur": "126.33 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "27 km",
+    "wilayah": "125 km BaratLaut TERNATE-MALUT"
+  },
+  {
+    "waktu": "02 Apr 2026 06:07:23 WIB",
+    "lintang": "1.15 LU",
+    "bujur": "126.47 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 km",
+    "wilayah": "108 km BaratLaut TERNATE-MALUT"
+  },
+  {
+    "waktu": "02 Apr 2026 05:48:14 WIB",
+    "lintang": "1.21 LU",
+    "bujur": "126.25 BT",
+    "magnitudo": "7.3",
+    "kedalaman": "18 km",
+    "wilayah": "127 km Tenggara BITUNG-SULUT"
+  },
+  {
     "waktu": "01 Apr 2026 19:14:01 WIB",
     "lintang": "0.32 LS",
     "bujur": "129.76 BT",
@@ -86,37 +118,5 @@
     "magnitudo": "5.6",
     "kedalaman": "10 km",
     "wilayah": "63 km Tenggara SINABANG-ACEH"
-  },
-  {
-    "waktu": "07 Mar 2026 23:58:45 WIB",
-    "lintang": "2.99 LS",
-    "bujur": "101.63 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "47 km",
-    "wilayah": "64 km BaratLaut LEBONG-BENGKULU"
-  },
-  {
-    "waktu": "07 Mar 2026 00:55:54 WIB",
-    "lintang": "1.57 LU",
-    "bujur": "128.81 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 km",
-    "wilayah": "46 km TimurLaut HALMAHERATIMUR-MALUT"
-  },
-  {
-    "waktu": "03 Mar 2026 11:56:45 WIB",
-    "lintang": "1.93 LU",
-    "bujur": "96.48 BT",
-    "magnitudo": "6.4",
-    "kedalaman": "13 km",
-    "wilayah": "61 km Tenggara SINABANG-ACEH"
-  },
-  {
-    "waktu": "03 Mar 2026 00:40:15 WIB",
-    "lintang": "7.76 LS",
-    "bujur": "127.77 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "91 km",
-    "wilayah": "43 km BaratLaut MALUKUBRTDAYA"
   }
 ]

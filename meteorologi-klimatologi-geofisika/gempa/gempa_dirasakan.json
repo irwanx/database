@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Apr 2026 05:48:14 WIB",
+    "lintang": "1.21 LU",
+    "bujur": "126.25 BT",
+    "magnitudo": "7.3",
+    "kedalaman": "18 km",
+    "dirasakan": "V-VI Ternate, V Kec. Ibu, IV-V Manado, III Bone Bolango, III Gorontalo Utara, II-III Kabupaten Boalemo, II-III Pohuwato"
+  },
+  {
     "waktu": "01 Apr 2026 19:14:01 WIB",
     "lintang": "0.32 LS",
     "bujur": "129.76 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "10 km",
     "dirasakan": "IV Konawe Kepulauan, III Konawe Selatan, III Kendari"
-  },
-  {
-    "waktu": "25 Mar 2026 13:36:52 WIB",
-    "lintang": "5.15 LS",
-    "bujur": "105.30 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "10 km",
-    "dirasakan": "II Metro"
   }
 ]
