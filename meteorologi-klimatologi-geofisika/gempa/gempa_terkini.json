@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Apr 2026 18:35:34 WIB",
+    "lintang": "1.47 LU",
+    "bujur": "126.35 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "25 km",
+    "wilayah": "132 km BaratLaut JAILOLO-MALUT"
+  },
+  {
     "waktu": "02 Apr 2026 15:51:53 WIB",
     "lintang": "1.24 LU",
     "bujur": "127.81 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 km",
     "wilayah": "123 km BaratDaya SUMUR-BANTEN"
-  },
-  {
-    "waktu": "16 Mar 2026 18:41:59 WIB",
-    "lintang": "9.41 LS",
-    "bujur": "118.18 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "37 km",
-    "wilayah": "91 km BaratLaut KODI-SUMBABARATDAYA-NTT"
   }
 ]
