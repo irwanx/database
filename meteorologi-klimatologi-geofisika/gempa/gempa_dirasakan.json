@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "03 Apr 2026 04:20:33 WIB",
+    "lintang": "1.28 LU",
+    "bujur": "126.19 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "32 km",
+    "dirasakan": "II-III Batang Dua"
+  },
+  {
+    "waktu": "03 Apr 2026 04:06:25 WIB",
+    "lintang": "1.12 LU",
+    "bujur": "126.48 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "52 km",
+    "dirasakan": "II-III Batang Dua"
+  },
+  {
     "waktu": "03 Apr 2026 03:00:35 WIB",
     "lintang": "4.10 LS",
     "bujur": "121.88 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "25 km",
     "dirasakan": "III Ciracap, III Surade, III Kabandungan, II-III Cidolog"
-  },
-  {
-    "waktu": "02 Apr 2026 10:23:51 WIB",
-    "lintang": "1.23 LU",
-    "bujur": "126.57 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "10 km",
-    "dirasakan": "IV-V Batang Dua, IV Ternate, II-III Manado, II-III Minahasa, II-III Minahasa Tenggara, II-III MInahasa Utara"
-  },
-  {
-    "waktu": "02 Apr 2026 10:17:49 WIB",
-    "lintang": "1.28 LU",
-    "bujur": "126.44 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "15 km",
-    "dirasakan": "IV-V Batang Dua, IV Ternate, II-III Manado"
   }
 ]
