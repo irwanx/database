@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "02 Apr 2026 10:23:51 WIB",
+    "lintang": "1.25 LU",
+    "bujur": "126.58 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "10 km",
+    "wilayah": "100 km BaratLaut JAILOLO-MALUT"
+  },
+  {
+    "waktu": "02 Apr 2026 10:17:50 WIB",
+    "lintang": "1.32 LU",
+    "bujur": "126.47 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "18 km",
+    "wilayah": "114 km BaratLaut JAILOLO-MALUT"
+  },
+  {
     "waktu": "02 Apr 2026 09:10:57 WIB",
     "lintang": "1.32 LU",
     "bujur": "126.31 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "43 km",
     "wilayah": "115 km BaratDaya KOTA-SUKABUMI-JABAR"
-  },
-  {
-    "waktu": "11 Mar 2026 09:12:13 WIB",
-    "lintang": "0.51 LS",
-    "bujur": "121.87 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "wilayah": "75 km TimurLaut TOJOUNA-UNA-SULTENG"
-  },
-  {
-    "waktu": "08 Mar 2026 13:05:05 WIB",
-    "lintang": "1.90 LU",
-    "bujur": "96.40 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "10 km",
-    "wilayah": "63 km Tenggara SINABANG-ACEH"
   }
 ]

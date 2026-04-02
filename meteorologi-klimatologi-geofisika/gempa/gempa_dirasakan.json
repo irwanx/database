@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "02 Apr 2026 10:23:51 WIB",
+    "lintang": "1.23 LU",
+    "bujur": "126.57 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "10 km",
+    "dirasakan": "IV-V Batang Dua, IV Ternate, II-III Manado, II-III Minahasa, II-III Minahasa Tenggara, II-III MInahasa Utara"
+  },
+  {
+    "waktu": "02 Apr 2026 10:17:49 WIB",
+    "lintang": "1.28 LU",
+    "bujur": "126.44 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "15 km",
+    "dirasakan": "IV-V Batang Dua, IV Ternate, II-III Manado"
+  },
+  {
+    "waktu": "02 Apr 2026 09:45:15 WIB",
+    "lintang": "0.57 LU",
+    "bujur": "120.63 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "30 km",
+    "dirasakan": "II-III Tolitoli"
+  },
+  {
     "waktu": "02 Apr 2026 05:48:14 WIB",
     "lintang": "1.21 LU",
     "bujur": "126.25 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "64 km",
     "dirasakan": "III Keerom, III Jayapura, II Kab. Jayapura"
-  },
-  {
-    "waktu": "27 Mar 2026 05:51:02 WIB",
-    "lintang": "3.08 LS",
-    "bujur": "139.47 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "71 km",
-    "dirasakan": "II - III Wamena, III Kota Jayapura, III Kab. Jayapura, II - III Kab. Sarmi"
-  },
-  {
-    "waktu": "26 Mar 2026 14:14:48 WIB",
-    "lintang": "8.47 LS",
-    "bujur": "115.69 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "14 km",
-    "dirasakan": "II Karangasem"
-  },
-  {
-    "waktu": "26 Mar 2026 11:39:49 WIB",
-    "lintang": "3.72 LS",
-    "bujur": "123.44 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 km",
-    "dirasakan": "IV Konawe Kepulauan, III Konawe Selatan, III Kendari"
   }
 ]
