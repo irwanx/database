@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Apr 2026 13:42:46 WIB",
+    "lintang": "7.64 LS",
+    "bujur": "106.43 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "25 km",
+    "dirasakan": "III Ciracap, III Surade, III Kabandungan, II-III Cidolog"
+  },
+  {
     "waktu": "02 Apr 2026 10:23:51 WIB",
     "lintang": "1.23 LU",
     "bujur": "126.57 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "3 km",
     "dirasakan": "II-III Latambaga, II-III Kolaka"
-  },
-  {
-    "waktu": "28 Mar 2026 14:35:47 WIB",
-    "lintang": "3.50 LS",
-    "bujur": "140.48 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "64 km",
-    "dirasakan": "III Keerom, III Jayapura, II Kab. Jayapura"
   }
 ]
