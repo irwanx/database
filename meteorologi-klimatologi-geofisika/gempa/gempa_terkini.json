@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "02 Apr 2026 21:34:55 WIB",
+    "lintang": "1.36 LU",
+    "bujur": "126.45 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "10 km",
+    "wilayah": "117 km BaratLaut JAILOLO-MALUT"
+  },
+  {
+    "waktu": "02 Apr 2026 21:13:47 WIB",
+    "lintang": "1.39 LU",
+    "bujur": "126.56 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 km",
+    "wilayah": "107 km BaratLaut JAILOLO-MALUT"
+  },
+  {
     "waktu": "02 Apr 2026 18:35:34 WIB",
     "lintang": "1.47 LU",
     "bujur": "126.35 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "64 km",
     "wilayah": "33 km BaratDaya SENGGIKEEROM-PAPUA"
-  },
-  {
-    "waktu": "27 Mar 2026 05:51:02 WIB",
-    "lintang": "3.08 LS",
-    "bujur": "139.47 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "71 km",
-    "wilayah": "78 km TimurLaut YALIMO-PAPUAPGNGN"
-  },
-  {
-    "waktu": "22 Mar 2026 01:08:54 WIB",
-    "lintang": "7.56 LS",
-    "bujur": "104.92 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 km",
-    "wilayah": "123 km BaratDaya SUMUR-BANTEN"
   }
 ]

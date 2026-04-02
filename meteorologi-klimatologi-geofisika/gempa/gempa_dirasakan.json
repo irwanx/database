@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "02 Apr 2026 21:34:55 WIB",
+    "lintang": "1.36 LU",
+    "bujur": "126.45 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Ternate"
+  },
+  {
+    "waktu": "02 Apr 2026 21:13:47 WIB",
+    "lintang": "1.39 LU",
+    "bujur": "126.56 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Manado, II-III Tondano, II-III MInahasa Utara"
+  },
+  {
+    "waktu": "02 Apr 2026 19:51:25 WIB",
+    "lintang": "3.66 LS",
+    "bujur": "134.89 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "26 km",
+    "dirasakan": "II-III Nabire"
+  },
+  {
     "waktu": "02 Apr 2026 15:38:58 WIB",
     "lintang": "1.18 LU",
     "bujur": "126.26 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Teluk Wondama"
-  },
-  {
-    "waktu": "31 Mar 2026 02:03:15 WIB",
-    "lintang": "5.41 LS",
-    "bujur": "104.65 BT",
-    "magnitudo": "2.1",
-    "kedalaman": "4 km",
-    "dirasakan": "II Kotaagung, II Sumberejo"
-  },
-  {
-    "waktu": "29 Mar 2026 21:29:44 WIB",
-    "lintang": "3.72 LS",
-    "bujur": "122.13 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "2 km",
-    "dirasakan": "III-IV Konawe Utara, III Konawe"
-  },
-  {
-    "waktu": "29 Mar 2026 01:38:32 WIB",
-    "lintang": "7.73 LS",
-    "bujur": "127.89 BT",
-    "magnitudo": "6.5",
-    "kedalaman": "141 km",
-    "dirasakan": "IV-V Tiakur"
   }
 ]
