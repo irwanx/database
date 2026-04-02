@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "03 Apr 2026 03:00:35 WIB",
+    "lintang": "4.10 LS",
+    "bujur": "121.88 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "5 km",
+    "dirasakan": "III-IV Kolaka Timur"
+  },
+  {
+    "waktu": "03 Apr 2026 02:08:00 WIB",
+    "lintang": "1.20 LU",
+    "bujur": "126.23 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "16 km",
+    "dirasakan": "II-III Batang Dua"
+  },
+  {
+    "waktu": "03 Apr 2026 01:46:10 WIB",
+    "lintang": "1.27 LU",
+    "bujur": "126.27 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "20 km",
+    "dirasakan": "II-III Batang Dua"
+  },
+  {
     "waktu": "02 Apr 2026 23:33:55 WIB",
     "lintang": "1.14 LU",
     "bujur": "126.44 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "5.6",
     "kedalaman": "15 km",
     "dirasakan": "IV-V Batang Dua, IV Ternate, II-III Manado"
-  },
-  {
-    "waktu": "02 Apr 2026 09:45:15 WIB",
-    "lintang": "0.57 LU",
-    "bujur": "120.63 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "30 km",
-    "dirasakan": "II-III Tolitoli"
-  },
-  {
-    "waktu": "02 Apr 2026 05:48:14 WIB",
-    "lintang": "1.21 LU",
-    "bujur": "126.25 BT",
-    "magnitudo": "7.3",
-    "kedalaman": "18 km",
-    "dirasakan": "V-VI Ternate, V Kec. Ibu, IV-V Manado, III Bone Bolango, III Gorontalo Utara, II-III Kabupaten Boalemo, II-III Pohuwato"
-  },
-  {
-    "waktu": "01 Apr 2026 19:14:01 WIB",
-    "lintang": "0.32 LS",
-    "bujur": "129.76 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Pulau Gag, III Pulau Gebe, II Kab. Sorong"
   }
 ]
