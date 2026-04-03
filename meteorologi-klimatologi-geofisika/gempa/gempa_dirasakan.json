@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "03 Apr 2026 07:32:55 WIB",
+    "lintang": "1.23 LU",
+    "bujur": "126.83 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "dirasakan": ""
+  },
+  {
+    "waktu": "03 Apr 2026 07:22:18 WIB",
+    "lintang": "1.27 LU",
+    "bujur": "126.62 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Kota Ternate"
+  },
+  {
+    "waktu": "03 Apr 2026 06:16:25 WIB",
+    "lintang": "2.76 LS",
+    "bujur": "134.46 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 km",
+    "dirasakan": "II Teluk Wondama"
+  },
+  {
     "waktu": "03 Apr 2026 04:20:33 WIB",
     "lintang": "1.28 LU",
     "bujur": "126.19 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "3.1",
     "kedalaman": "11 km",
     "dirasakan": ""
-  },
-  {
-    "waktu": "02 Apr 2026 19:51:25 WIB",
-    "lintang": "3.66 LS",
-    "bujur": "134.89 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "26 km",
-    "dirasakan": "II-III Nabire"
-  },
-  {
-    "waktu": "02 Apr 2026 15:38:58 WIB",
-    "lintang": "1.18 LU",
-    "bujur": "126.26 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "25 km",
-    "dirasakan": "III Manado"
-  },
-  {
-    "waktu": "02 Apr 2026 13:42:46 WIB",
-    "lintang": "7.64 LS",
-    "bujur": "106.43 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "25 km",
-    "dirasakan": "III Ciracap, III Surade, III Kabandungan, II-III Cidolog"
   }
 ]

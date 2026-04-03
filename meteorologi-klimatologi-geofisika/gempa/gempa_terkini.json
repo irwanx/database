@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "03 Apr 2026 08:44:12 WIB",
+    "lintang": "1.00 LU",
+    "bujur": "126.47 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "wilayah": "102 km BaratLaut TERNATE-MALUT"
+  },
+  {
+    "waktu": "03 Apr 2026 07:32:55 WIB",
+    "lintang": "1.23 LU",
+    "bujur": "126.63 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "wilayah": "94 km BaratLaut JAILOLO-MALUT"
+  },
+  {
+    "waktu": "03 Apr 2026 07:22:18 WIB",
+    "lintang": "1.27 LU",
+    "bujur": "126.62 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 km",
+    "wilayah": "96 km BaratLaut JAILOLO-MALUT"
+  },
+  {
     "waktu": "02 Apr 2026 23:10:26 WIB",
     "lintang": "1.25 LU",
     "bujur": "126.24 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 km",
     "wilayah": "108 km BaratLaut TERNATE-MALUT"
-  },
-  {
-    "waktu": "02 Apr 2026 05:48:14 WIB",
-    "lintang": "1.21 LU",
-    "bujur": "126.25 BT",
-    "magnitudo": "7.3",
-    "kedalaman": "18 km",
-    "wilayah": "127 km Tenggara BITUNG-SULUT"
-  },
-  {
-    "waktu": "01 Apr 2026 19:14:01 WIB",
-    "lintang": "0.32 LS",
-    "bujur": "129.76 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "wilayah": "119 km BaratLaut RAJAAMPAT-PAPUABRTDY"
-  },
-  {
-    "waktu": "30 Mar 2026 11:00:23 WIB",
-    "lintang": "7.64 LS",
-    "bujur": "128.71 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "181 km",
-    "wilayah": "116 km TimurLaut MALUKUBRTDAYA"
   }
 ]
