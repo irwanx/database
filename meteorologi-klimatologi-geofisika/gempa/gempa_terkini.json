@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "03 Apr 2026 11:42:04 WIB",
+    "lintang": "1.44 LU",
+    "bujur": "126.26 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "17 km",
+    "wilayah": "126 km Timur BITUNG-SULUT"
+  },
+  {
+    "waktu": "03 Apr 2026 10:37:14 WIB",
+    "lintang": "0.99 LU",
+    "bujur": "126.45 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "wilayah": "104 km BaratLaut TERNATE-MALUT"
+  },
+  {
     "waktu": "03 Apr 2026 08:44:12 WIB",
     "lintang": "1.00 LU",
     "bujur": "126.47 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 km",
     "wilayah": "131 km BaratLaut JAILOLO-MALUT"
-  },
-  {
-    "waktu": "02 Apr 2026 06:12:34 WIB",
-    "lintang": "1.23 LU",
-    "bujur": "126.33 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "27 km",
-    "wilayah": "125 km BaratLaut TERNATE-MALUT"
-  },
-  {
-    "waktu": "02 Apr 2026 06:07:23 WIB",
-    "lintang": "1.15 LU",
-    "bujur": "126.47 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "10 km",
-    "wilayah": "108 km BaratLaut TERNATE-MALUT"
   }
 ]
