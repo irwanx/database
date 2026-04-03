@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Apr 2026 17:59:05 WIB",
+    "lintang": "1.46 LU",
+    "bujur": "126.37 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Bitung"
+  },
+  {
     "waktu": "03 Apr 2026 16:24:07 WIB",
     "lintang": "1.48 LU",
     "bujur": "126.32 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 km",
     "dirasakan": "III Nabire"
-  },
-  {
-    "waktu": "02 Apr 2026 22:34:24 WIB",
-    "lintang": "1.32 LU",
-    "bujur": "126.56 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "12 km",
-    "dirasakan": "III Batang Dua"
   }
 ]
