@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "04 Apr 2026 08:35:01 WIB",
+    "lintang": "1.18 LU",
+    "bujur": "126.18 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "29 km",
+    "dirasakan": "IV Manado, IV Bitung, III Tondano"
+  },
+  {
+    "waktu": "04 Apr 2026 08:14:32 WIB",
+    "lintang": "0.24 LU",
+    "bujur": "97.76 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "27 km",
+    "dirasakan": "II-III Teluk Dalam"
+  },
+  {
     "waktu": "04 Apr 2026 04:19:04 WIB",
     "lintang": "1.53 LU",
     "bujur": "126.34 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "20 km",
     "dirasakan": "II-III Batang Dua"
-  },
-  {
-    "waktu": "02 Apr 2026 23:33:55 WIB",
-    "lintang": "1.14 LU",
-    "bujur": "126.44 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "18 km",
-    "dirasakan": "II-III Batang Dua"
-  },
-  {
-    "waktu": "02 Apr 2026 23:10:26 WIB",
-    "lintang": "1.25 LU",
-    "bujur": "126.24 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "dirasakan": "III Batang Dua"
   }
 ]
