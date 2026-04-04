@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04 Apr 2026 12:21:18 WIB",
+    "lintang": "6.03 LS",
+    "bujur": "104.24 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "26 km",
+    "dirasakan": "III Bengkunat"
+  },
+  {
     "waktu": "04 Apr 2026 08:35:01 WIB",
     "lintang": "1.18 LU",
     "bujur": "126.18 BT",
@@ -109,14 +117,6 @@
     "bujur": "126.23 BT",
     "magnitudo": "4.4",
     "kedalaman": "16 km",
-    "dirasakan": "II-III Batang Dua"
-  },
-  {
-    "waktu": "03 Apr 2026 01:46:10 WIB",
-    "lintang": "1.27 LU",
-    "bujur": "126.27 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "20 km",
     "dirasakan": "II-III Batang Dua"
   }
 ]
