@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "04 Apr 2026 18:21:11 WIB",
+    "lintang": "2.05 LS",
+    "bujur": "100.05 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "11 km",
+    "dirasakan": "III-IV Padang, III-IV Kabupaten Padang Pariaman, III-IV Kota Pariaman, II-III Kabupaten Solok, II-III Kota Solok, II Bukittinggi, II Kota Padang Panjang"
+  },
+  {
+    "waktu": "04 Apr 2026 17:34:30 WIB",
+    "lintang": "4.90 LU",
+    "bujur": "126.29 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "31 km",
+    "dirasakan": "III-IV Kepulauan Talaud, III-IV Naha, II-III Manado"
+  },
+  {
     "waktu": "04 Apr 2026 12:21:18 WIB",
     "lintang": "6.03 LS",
     "bujur": "104.24 BT",
@@ -101,22 +117,6 @@
     "bujur": "126.48 BT",
     "magnitudo": "3.5",
     "kedalaman": "52 km",
-    "dirasakan": "II-III Batang Dua"
-  },
-  {
-    "waktu": "03 Apr 2026 03:00:35 WIB",
-    "lintang": "4.10 LS",
-    "bujur": "121.88 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "5 km",
-    "dirasakan": "III-IV Kolaka Timur"
-  },
-  {
-    "waktu": "03 Apr 2026 02:08:00 WIB",
-    "lintang": "1.20 LU",
-    "bujur": "126.23 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "16 km",
     "dirasakan": "II-III Batang Dua"
   }
 ]

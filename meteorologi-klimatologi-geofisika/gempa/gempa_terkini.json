@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "04 Apr 2026 18:21:11 WIB",
+    "lintang": "2.05 LS",
+    "bujur": "100.05 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "11 km",
+    "wilayah": "51 km Tenggara TUAPEJAT-SUMBAR"
+  },
+  {
+    "waktu": "04 Apr 2026 17:34:30 WIB",
+    "lintang": "4.90 LU",
+    "bujur": "126.29 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "31 km",
+    "wilayah": "89 km BaratLaut PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "04 Apr 2026 08:35:01 WIB",
     "lintang": "1.18 LU",
     "bujur": "126.18 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "25 km",
     "wilayah": "132 km BaratLaut JAILOLO-MALUT"
-  },
-  {
-    "waktu": "02 Apr 2026 15:51:53 WIB",
-    "lintang": "1.24 LU",
-    "bujur": "127.81 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 km",
-    "wilayah": "27 km Tenggara HALMAHERABARAT-MALUT"
-  },
-  {
-    "waktu": "02 Apr 2026 14:04:13 WIB",
-    "lintang": "1.36 LU",
-    "bujur": "126.62 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 km",
-    "wilayah": "99 km BaratLaut JAILOLO-MALUT"
   }
 ]
