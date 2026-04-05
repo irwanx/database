@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Apr 2026 02:23:15 WIB",
+    "lintang": "4.08 LS",
+    "bujur": "121.85 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "5 km",
+    "dirasakan": "III Kolaka Timur"
+  },
+  {
     "waktu": "05 Apr 2026 09:26:12 WIB",
     "lintang": "6.89 LS",
     "bujur": "107.08 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.1",
     "kedalaman": "10 km",
     "dirasakan": "II Teluk Wondama"
-  },
-  {
-    "waktu": "03 Apr 2026 04:20:33 WIB",
-    "lintang": "1.28 LU",
-    "bujur": "126.19 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "32 km",
-    "dirasakan": "II-III Batang Dua"
   }
 ]
