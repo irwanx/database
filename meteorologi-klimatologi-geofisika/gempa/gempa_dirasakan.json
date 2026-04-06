@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Apr 2026 08:56:46 WIB",
+    "lintang": "1.42 LU",
+    "bujur": "126.40 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "21 km",
+    "dirasakan": "II - III Batang Dua"
+  },
+  {
     "waktu": "06 Apr 2026 07:18:24 WIB",
     "lintang": "3.56 LS",
     "bujur": "128.71 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "17 km",
     "dirasakan": "III Batang Dua, III Ternate"
-  },
-  {
-    "waktu": "03 Apr 2026 10:37:14 WIB",
-    "lintang": "0.99 LU",
-    "bujur": "126.45 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Manado, II-III Tondano"
   }
 ]
