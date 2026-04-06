@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "06 Apr 2026 07:18:24 WIB",
+    "lintang": "3.56 LS",
+    "bujur": "128.71 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "3 km",
+    "dirasakan": "II - III Saparua"
+  },
+  {
+    "waktu": "06 Apr 2026 05:18:02 WIB",
+    "lintang": "0.97 LU",
+    "bujur": "126.40 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "35 km",
+    "dirasakan": "II-III Ternate"
+  },
+  {
     "waktu": "06 Apr 2026 02:23:15 WIB",
     "lintang": "4.08 LS",
     "bujur": "121.85 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 km",
     "dirasakan": "II-III Manado, II-III Tondano"
-  },
-  {
-    "waktu": "03 Apr 2026 07:22:18 WIB",
-    "lintang": "1.27 LU",
-    "bujur": "126.62 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Kota Ternate"
-  },
-  {
-    "waktu": "03 Apr 2026 06:16:25 WIB",
-    "lintang": "2.76 LS",
-    "bujur": "134.46 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 km",
-    "dirasakan": "II Teluk Wondama"
   }
 ]
