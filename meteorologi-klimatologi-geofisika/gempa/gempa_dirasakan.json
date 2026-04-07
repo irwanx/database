@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Apr 2026 13:44:18 WIB",
+    "lintang": "1.10 LU",
+    "bujur": "120.94 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 km",
+    "dirasakan": "III Toli-toli"
+  },
+  {
     "waktu": "07 Apr 2026 10:43:09 WIB",
     "lintang": "1.19 LU",
     "bujur": "126.19 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "10 km",
     "dirasakan": "II - III Batang Dua"
-  },
-  {
-    "waktu": "03 Apr 2026 15:49:57 WIB",
-    "lintang": "1.33 LU",
-    "bujur": "126.44 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 km",
-    "dirasakan": "IV-V Batang Dua"
   }
 ]
