@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Apr 2026 20:40:17 WIB",
+    "lintang": "6.20 LS",
+    "bujur": "103.73 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "27 km",
+    "dirasakan": "II-III Liwa, II Bengkunat, II Pringsewu, II Semaka"
+  },
+  {
     "waktu": "07 Apr 2026 13:44:18 WIB",
     "lintang": "1.10 LU",
     "bujur": "120.94 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "dirasakan": "II-III Bitung"
-  },
-  {
-    "waktu": "03 Apr 2026 16:24:07 WIB",
-    "lintang": "1.48 LU",
-    "bujur": "126.32 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 km",
-    "dirasakan": "II - III Batang Dua"
   }
 ]
