@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08 Apr 2026 23:17:47 WIB",
+    "lintang": "8.43 LS",
+    "bujur": "123.12 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 km",
+    "dirasakan": "III Lembata"
+  },
+  {
     "waktu": "07 Apr 2026 20:40:17 WIB",
     "lintang": "6.20 LS",
     "bujur": "103.73 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "dirasakan": "II Bitung"
-  },
-  {
-    "waktu": "03 Apr 2026 17:59:05 WIB",
-    "lintang": "1.46 LU",
-    "bujur": "126.37 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Bitung"
   }
 ]
