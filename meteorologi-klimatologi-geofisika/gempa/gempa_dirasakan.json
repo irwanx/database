@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Apr 2026 04:54:48 WIB",
+    "lintang": "8.44 LS",
+    "bujur": "123.14 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "3 km",
+    "dirasakan": "II-III Flotim"
+  },
+  {
     "waktu": "08 Apr 2026 23:17:47 WIB",
     "lintang": "8.43 LS",
     "bujur": "123.12 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "27 km",
     "dirasakan": "II-III Teluk Dalam"
-  },
-  {
-    "waktu": "04 Apr 2026 04:19:04 WIB",
-    "lintang": "1.53 LU",
-    "bujur": "126.34 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "dirasakan": "II Bitung"
   }
 ]
