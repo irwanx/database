@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Apr 2026 04:26:40 WIB",
+    "lintang": "1.33 LU",
+    "bujur": "126.35 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "6 km",
+    "dirasakan": "III-IV Batang Dua"
+  },
+  {
     "waktu": "09 Apr 2026 19:51:45 WIB",
     "lintang": "8.45 LS",
     "bujur": "123.18 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.2",
     "kedalaman": "31 km",
     "dirasakan": "III-IV Kepulauan Talaud, III-IV Naha, II-III Manado"
-  },
-  {
-    "waktu": "04 Apr 2026 12:21:18 WIB",
-    "lintang": "6.03 LS",
-    "bujur": "104.24 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "26 km",
-    "dirasakan": "III Bengkunat"
   }
 ]
