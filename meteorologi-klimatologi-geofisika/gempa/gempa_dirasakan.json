@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Apr 2026 19:51:45 WIB",
+    "lintang": "8.45 LS",
+    "bujur": "123.18 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "7 km",
+    "dirasakan": "II-III Flores Timur"
+  },
+  {
     "waktu": "09 Apr 2026 12:40:11 WIB",
     "lintang": "8.43 LS",
     "bujur": "123.14 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "26 km",
     "dirasakan": "III Bengkunat"
-  },
-  {
-    "waktu": "04 Apr 2026 08:35:01 WIB",
-    "lintang": "1.18 LU",
-    "bujur": "126.18 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "29 km",
-    "dirasakan": "IV Manado, IV Bitung, III Tondano"
   }
 ]
