@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Apr 2026 18:08:55 WIB",
+    "lintang": "3.43 LS",
+    "bujur": "102.33 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "89 km",
+    "dirasakan": "II-III Kota Bengkulu, II-III Arga Makmur, II-III Kepahiang, II Muko-Muko, II-III Putri Hijau"
+  },
+  {
     "waktu": "10 Apr 2026 12:52:24 WIB",
     "lintang": "1.36 LU",
     "bujur": "126.47 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "35 km",
     "dirasakan": "II-III Ternate"
-  },
-  {
-    "waktu": "06 Apr 2026 02:23:15 WIB",
-    "lintang": "4.08 LS",
-    "bujur": "121.85 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "5 km",
-    "dirasakan": "III Kolaka Timur"
   }
 ]
