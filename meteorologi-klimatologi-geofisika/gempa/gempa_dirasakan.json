@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "10 Apr 2026 12:52:24 WIB",
+    "lintang": "1.36 LU",
+    "bujur": "126.47 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "2 km",
+    "dirasakan": "II-III Batang Dua"
+  },
+  {
+    "waktu": "10 Apr 2026 12:39:16 WIB",
+    "lintang": "8.36 LS",
+    "bujur": "123.13 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "3 km",
+    "dirasakan": "II-III Kabupaten Flores Timur"
+  },
+  {
     "waktu": "10 Apr 2026 12:30:02 WIB",
     "lintang": "1.29 LU",
     "bujur": "126.39 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.9",
     "kedalaman": "5 km",
     "dirasakan": "III Kolaka Timur"
-  },
-  {
-    "waktu": "05 Apr 2026 09:26:12 WIB",
-    "lintang": "6.89 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "10 km",
-    "dirasakan": "II Cugenang"
-  },
-  {
-    "waktu": "04 Apr 2026 18:21:11 WIB",
-    "lintang": "2.05 LS",
-    "bujur": "100.05 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "11 km",
-    "dirasakan": "III-IV Padang, III-IV Kabupaten Padang Pariaman, III-IV Kota Pariaman, II-III Kabupaten Solok, II-III Kota Solok, II Bukittinggi, II Kota Padang Panjang"
   }
 ]
