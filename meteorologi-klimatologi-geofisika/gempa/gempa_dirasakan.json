@@ -1,6 +1,14 @@
 [
   {
-    "waktu": "11 Jun 2026 00:35:22 WIB",
+    "waktu": "11 Apr 2026 03:40:56 WIB",
+    "lintang": "1.32 LS",
+    "bujur": "134.14 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 km",
+    "dirasakan": "II Ransiki"
+  },
+  {
+    "waktu": "11 Apr 2026 00:35:22 WIB",
     "lintang": "3.10 LS",
     "bujur": "128.16 BT",
     "magnitudo": "3.3",
@@ -110,13 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "27 km",
     "dirasakan": "II-III Liwa, II Bengkunat, II Pringsewu, II Semaka"
-  },
-  {
-    "waktu": "07 Apr 2026 13:44:18 WIB",
-    "lintang": "1.10 LU",
-    "bujur": "120.94 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 km",
-    "dirasakan": "III Toli-toli"
   }
 ]
