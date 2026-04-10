@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Jun 2026 00:35:22 WIB",
+    "lintang": "3.10 LS",
+    "bujur": "128.16 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "5 km",
+    "dirasakan": "III-IV Piru"
+  },
+  {
     "waktu": "10 Apr 2026 20:56:45 WIB",
     "lintang": "2.52 LS",
     "bujur": "121.00 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "10 km",
     "dirasakan": "III Toli-toli"
-  },
-  {
-    "waktu": "07 Apr 2026 10:43:09 WIB",
-    "lintang": "1.19 LU",
-    "bujur": "126.19 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "36 km",
-    "dirasakan": "II-III Ternate, IV-V Batang Dua"
   }
 ]
