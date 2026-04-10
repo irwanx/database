@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "10 Apr 2026 20:56:45 WIB",
+    "lintang": "2.52 LS",
+    "bujur": "121.00 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "4 km",
+    "dirasakan": "III Mangkutana"
+  },
+  {
+    "waktu": "10 Apr 2026 20:50:28 WIB",
+    "lintang": "1.31 LU",
+    "bujur": "126.46 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "1 km",
+    "dirasakan": "III Batang Dua"
+  },
+  {
+    "waktu": "10 Apr 2026 20:24:48 WIB",
+    "lintang": "1.35 LU",
+    "bujur": "126.43 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "3 km",
+    "dirasakan": "III Batang Dua"
+  },
+  {
     "waktu": "10 Apr 2026 18:08:55 WIB",
     "lintang": "3.43 LS",
     "bujur": "102.33 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "36 km",
     "dirasakan": "II-III Ternate, IV-V Batang Dua"
-  },
-  {
-    "waktu": "06 Apr 2026 08:56:46 WIB",
-    "lintang": "1.42 LU",
-    "bujur": "126.40 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "21 km",
-    "dirasakan": "II - III Batang Dua"
-  },
-  {
-    "waktu": "06 Apr 2026 07:18:24 WIB",
-    "lintang": "3.56 LS",
-    "bujur": "128.71 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "3 km",
-    "dirasakan": "II - III Saparua"
-  },
-  {
-    "waktu": "06 Apr 2026 05:18:02 WIB",
-    "lintang": "0.97 LU",
-    "bujur": "126.40 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "35 km",
-    "dirasakan": "II-III Ternate"
   }
 ]
