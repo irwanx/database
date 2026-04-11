@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Apr 2026 20:49:25 WIB",
+    "lintang": "4.21 LU",
+    "bujur": "97.61 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "10 km",
+    "dirasakan": "III Gayo Lues"
+  },
+  {
     "waktu": "11 Apr 2026 12:19:00 WIB",
     "lintang": "8.45 LS",
     "bujur": "123.17 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.9",
     "kedalaman": "3 km",
     "dirasakan": "II-III Lembata"
-  },
-  {
-    "waktu": "09 Apr 2026 04:54:48 WIB",
-    "lintang": "8.44 LS",
-    "bujur": "123.14 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "3 km",
-    "dirasakan": "II-III Flotim"
   }
 ]
