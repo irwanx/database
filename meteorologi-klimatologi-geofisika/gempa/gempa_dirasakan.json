@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Apr 2026 02:03:13 WIB",
+    "lintang": "9.74 LS",
+    "bujur": "119.19 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "20 km",
+    "dirasakan": "II-III Kab. Sumba Timur"
+  },
+  {
     "waktu": "11 Apr 2026 20:49:25 WIB",
     "lintang": "4.21 LU",
     "bujur": "97.61 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.7",
     "kedalaman": "7 km",
     "dirasakan": "II-III Flores Timur"
-  },
-  {
-    "waktu": "09 Apr 2026 12:40:11 WIB",
-    "lintang": "8.43 LS",
-    "bujur": "123.14 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "3 km",
-    "dirasakan": "II-III Lembata"
   }
 ]
