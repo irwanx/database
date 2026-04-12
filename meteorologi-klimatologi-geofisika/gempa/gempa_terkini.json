@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Apr 2026 09:40:36 WIB",
+    "lintang": "1.93 LU",
+    "bujur": "94.63 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "10 km",
+    "wilayah": "202 km BaratDaya SINABANG-ACEH"
+  },
+  {
     "waktu": "10 Apr 2026 18:08:55 WIB",
     "lintang": "3.43 LS",
     "bujur": "102.33 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.7",
     "kedalaman": "10 km",
     "wilayah": "117 km BaratLaut JAILOLO-MALUT"
-  },
-  {
-    "waktu": "02 Apr 2026 21:13:47 WIB",
-    "lintang": "1.39 LU",
-    "bujur": "126.56 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "10 km",
-    "wilayah": "107 km BaratLaut JAILOLO-MALUT"
   }
 ]
