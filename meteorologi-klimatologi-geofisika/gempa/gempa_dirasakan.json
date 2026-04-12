@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "12 Apr 2026 10:09:20 WIB",
+    "lintang": "1.27 LU",
+    "bujur": "126.53 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Batang Dua"
+  },
+  {
+    "waktu": "12 Apr 2026 09:40:36 WIB",
+    "lintang": "1.93 LU",
+    "bujur": "94.63 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "10 km",
+    "dirasakan": "II Nias Utara"
+  },
+  {
     "waktu": "12 Apr 2026 02:03:13 WIB",
     "lintang": "9.74 LS",
     "bujur": "119.19 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.9",
     "kedalaman": "3 km",
     "dirasakan": "II-III Batang Dua"
-  },
-  {
-    "waktu": "10 Apr 2026 04:26:40 WIB",
-    "lintang": "1.33 LU",
-    "bujur": "126.35 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "6 km",
-    "dirasakan": "III-IV Batang Dua"
-  },
-  {
-    "waktu": "09 Apr 2026 19:51:45 WIB",
-    "lintang": "8.45 LS",
-    "bujur": "123.18 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "7 km",
-    "dirasakan": "II-III Flores Timur"
   }
 ]
