@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13 Apr 2026 22:39:05 WIB",
+    "lintang": "4.12 LS",
+    "bujur": "122.61 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "5 km",
+    "dirasakan": "II Konawe Selatan"
+  },
+  {
     "waktu": "12 Apr 2026 10:09:20 WIB",
     "lintang": "1.27 LU",
     "bujur": "126.53 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.8",
     "kedalaman": "3 km",
     "dirasakan": "II-III Kabupaten Flores Timur"
-  },
-  {
-    "waktu": "10 Apr 2026 12:30:02 WIB",
-    "lintang": "1.29 LU",
-    "bujur": "126.39 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "3 km",
-    "dirasakan": "II-III Batang Dua"
   }
 ]
