@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "14 Apr 2026 15:10:37 WIB",
+    "lintang": "1.23 LU",
+    "bujur": "126.50 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "19 km",
+    "dirasakan": "II-III Pulau Batang Dua"
+  },
+  {
+    "waktu": "14 Apr 2026 10:52:57 WIB",
+    "lintang": "4.60 LS",
+    "bujur": "120.44 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "9 km",
+    "dirasakan": "II-III Palakka"
+  },
+  {
     "waktu": "13 Apr 2026 22:39:05 WIB",
     "lintang": "4.12 LS",
     "bujur": "122.61 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "89 km",
     "dirasakan": "II-III Kota Bengkulu, II-III Arga Makmur, II-III Kepahiang, II Muko-Muko, II-III Putri Hijau"
-  },
-  {
-    "waktu": "10 Apr 2026 12:52:24 WIB",
-    "lintang": "1.36 LU",
-    "bujur": "126.47 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "2 km",
-    "dirasakan": "II-III Batang Dua"
-  },
-  {
-    "waktu": "10 Apr 2026 12:39:16 WIB",
-    "lintang": "8.36 LS",
-    "bujur": "123.13 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "3 km",
-    "dirasakan": "II-III Kabupaten Flores Timur"
   }
 ]
