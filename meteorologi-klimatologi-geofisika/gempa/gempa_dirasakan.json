@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Apr 2026 19:14:00 WIB",
+    "lintang": "3.03 LU",
+    "bujur": "97.25 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "12 km",
+    "dirasakan": "II-III Aceh Selatan"
+  },
+  {
     "waktu": "14 Apr 2026 15:10:37 WIB",
     "lintang": "1.23 LU",
     "bujur": "126.50 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.8",
     "kedalaman": "3 km",
     "dirasakan": "III Batang Dua"
-  },
-  {
-    "waktu": "10 Apr 2026 18:08:55 WIB",
-    "lintang": "3.43 LS",
-    "bujur": "102.33 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "89 km",
-    "dirasakan": "II-III Kota Bengkulu, II-III Arga Makmur, II-III Kepahiang, II Muko-Muko, II-III Putri Hijau"
   }
 ]
