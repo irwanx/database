@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Apr 2026 09:10:43 WIB",
+    "lintang": "7.32 LS",
+    "bujur": "117.14 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "469 km",
+    "wilayah": "122 km TimurLaut PULAUSARINGI-NTB"
+  },
+  {
     "waktu": "12 Apr 2026 09:40:36 WIB",
     "lintang": "1.93 LU",
     "bujur": "94.63 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 km",
     "wilayah": "68 km BaratDaya NABIRE-PAPUATENGAH"
-  },
-  {
-    "waktu": "02 Apr 2026 21:34:55 WIB",
-    "lintang": "1.36 LU",
-    "bujur": "126.45 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "10 km",
-    "wilayah": "117 km BaratLaut JAILOLO-MALUT"
   }
 ]
