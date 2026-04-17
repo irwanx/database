@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Apr 2026 00:41:50 WIB",
+    "lintang": "3.99 LS",
+    "bujur": "122.54 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "5 km",
+    "dirasakan": "III Kendari"
+  },
+  {
     "waktu": "16 Apr 2026 11:21:48 WIB",
     "lintang": "4.56 LS",
     "bujur": "122.80 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "10 km",
     "dirasakan": "II Ransiki"
-  },
-  {
-    "waktu": "11 Apr 2026 00:35:22 WIB",
-    "lintang": "3.10 LS",
-    "bujur": "128.16 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "5 km",
-    "dirasakan": "III-IV Piru"
   }
 ]
