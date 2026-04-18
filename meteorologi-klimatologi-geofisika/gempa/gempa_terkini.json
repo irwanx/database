@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Apr 2026 03:06:49 WIB",
+    "lintang": "1.14 LU",
+    "bujur": "97.04 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "10 km",
+    "wilayah": "48 km BaratDaya NIASUTARA-SUMUT"
+  },
+  {
     "waktu": "18 Apr 2026 06:21:27 WIB",
     "lintang": "0.10 LS",
     "bujur": "123.90 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 km",
     "wilayah": "94 km BaratLaut JAILOLO-MALUT"
-  },
-  {
-    "waktu": "03 Apr 2026 07:22:18 WIB",
-    "lintang": "1.27 LU",
-    "bujur": "126.62 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 km",
-    "wilayah": "96 km BaratLaut JAILOLO-MALUT"
   }
 ]
