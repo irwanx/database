@@ -1,11 +1,19 @@
 [
   {
+    "waktu": "20 Apr 2026 19:11:29 WIB",
+    "lintang": "7.28 LS",
+    "bujur": "106.36 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "34 km",
+    "dirasakan": "II Cidolog"
+  },
+  {
     "waktu": "20 Apr 2026 18:09:38 WIB",
     "lintang": "1.39 LU",
     "bujur": "117.55 BT",
     "magnitudo": "4.2",
     "kedalaman": "10 km",
-    "dirasakan": "II-III Kecamatan Karangan"
+    "dirasakan": "II-III Kecamatan Karangan, II Berau"
   },
   {
     "waktu": "19 Apr 2026 10:48:20 WIB",
@@ -110,13 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "19 km",
     "dirasakan": "II-III Pulau Batang Dua"
-  },
-  {
-    "waktu": "14 Apr 2026 10:52:57 WIB",
-    "lintang": "4.60 LS",
-    "bujur": "120.44 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "9 km",
-    "dirasakan": "II-III Palakka"
   }
 ]
