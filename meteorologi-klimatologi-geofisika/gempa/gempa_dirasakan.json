@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Apr 2026 18:09:38 WIB",
+    "lintang": "1.39 LU",
+    "bujur": "117.55 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Kecamatan Karangan"
+  },
+  {
     "waktu": "19 Apr 2026 10:48:20 WIB",
     "lintang": "8.25 LS",
     "bujur": "123.49 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "9 km",
     "dirasakan": "II-III Palakka"
-  },
-  {
-    "waktu": "13 Apr 2026 22:39:05 WIB",
-    "lintang": "4.12 LS",
-    "bujur": "122.61 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "5 km",
-    "dirasakan": "II Konawe Selatan"
   }
 ]
