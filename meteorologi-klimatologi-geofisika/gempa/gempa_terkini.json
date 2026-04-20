@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Apr 2026 12:19:37 WIB",
+    "lintang": "8.01 LS",
+    "bujur": "124.38 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "173 km",
+    "wilayah": "36 km BaratLaut ALOR-NTT"
+  },
+  {
     "waktu": "19 Apr 2026 03:06:49 WIB",
     "lintang": "1.14 LU",
     "bujur": "97.04 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 km",
     "wilayah": "102 km BaratLaut TERNATE-MALUT"
-  },
-  {
-    "waktu": "03 Apr 2026 07:32:55 WIB",
-    "lintang": "1.23 LU",
-    "bujur": "126.63 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "wilayah": "94 km BaratLaut JAILOLO-MALUT"
   }
 ]
