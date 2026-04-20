@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21 Apr 2026 01:47:06 WIB",
+    "lintang": "2.03 LS",
+    "bujur": "139.25 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Sarmi"
+  },
+  {
     "waktu": "20 Apr 2026 20:36:27 WIB",
     "lintang": "8.47 LS",
     "bujur": "123.15 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.8",
     "kedalaman": "5 km",
     "dirasakan": "III Kendari"
-  },
-  {
-    "waktu": "14 Apr 2026 19:14:00 WIB",
-    "lintang": "3.03 LU",
-    "bujur": "97.25 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "12 km",
-    "dirasakan": "II-III Aceh Selatan"
   }
 ]

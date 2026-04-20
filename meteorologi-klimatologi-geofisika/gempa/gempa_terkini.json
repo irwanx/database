@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21 Apr 2026 01:47:06 WIB",
+    "lintang": "2.03 LS",
+    "bujur": "139.25 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 km",
+    "wilayah": "57 km Tenggara SARMI-PAPUA"
+  },
+  {
     "waktu": "20 Apr 2026 12:19:37 WIB",
     "lintang": "8.01 LS",
     "bujur": "124.38 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 km",
     "wilayah": "104 km BaratLaut TERNATE-MALUT"
-  },
-  {
-    "waktu": "03 Apr 2026 08:44:12 WIB",
-    "lintang": "1.00 LU",
-    "bujur": "126.47 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "wilayah": "102 km BaratLaut TERNATE-MALUT"
   }
 ]
