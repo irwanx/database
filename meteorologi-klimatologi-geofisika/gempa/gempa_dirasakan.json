@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Apr 2026 20:36:27 WIB",
+    "lintang": "8.47 LS",
+    "bujur": "123.15 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "6 km",
+    "dirasakan": "III-IV Solor Timur"
+  },
+  {
     "waktu": "20 Apr 2026 19:11:29 WIB",
     "lintang": "7.28 LS",
     "bujur": "106.36 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "12 km",
     "dirasakan": "II-III Aceh Selatan"
-  },
-  {
-    "waktu": "14 Apr 2026 15:10:37 WIB",
-    "lintang": "1.23 LU",
-    "bujur": "126.50 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "19 km",
-    "dirasakan": "II-III Pulau Batang Dua"
   }
 ]
