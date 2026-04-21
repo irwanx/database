@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21 Apr 2026 07:14:37 WIB",
+    "lintang": "3.60 LS",
+    "bujur": "126.10 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "66 km",
+    "dirasakan": "I-II Namlea, I-II Namrole"
+  },
+  {
     "waktu": "21 Apr 2026 01:47:06 WIB",
     "lintang": "2.03 LS",
     "bujur": "139.25 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "469 km",
     "dirasakan": "II Badung"
-  },
-  {
-    "waktu": "15 Apr 2026 06:00:55 WIB",
-    "lintang": "3.97 LS",
-    "bujur": "122.54 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "5 km",
-    "dirasakan": "III Kendari"
   }
 ]
