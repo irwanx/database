@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21 Apr 2026 11:18:30 WIB",
+    "lintang": "8.45 LS",
+    "bujur": "123.12 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "11 km",
+    "dirasakan": "II-III Adonara, II-III Solor"
+  },
+  {
     "waktu": "21 Apr 2026 10:17:08 WIB",
     "lintang": "8.99 LS",
     "bujur": "124.20 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "5 km",
     "dirasakan": "III Kendari"
-  },
-  {
-    "waktu": "16 Apr 2026 11:21:48 WIB",
-    "lintang": "4.56 LS",
-    "bujur": "122.80 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 km",
-    "dirasakan": "III Maligano, III Raha"
   }
 ]
