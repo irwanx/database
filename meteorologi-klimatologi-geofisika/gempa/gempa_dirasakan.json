@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Apr 2026 12:17:58 WIB",
+    "lintang": "4.65 LS",
+    "bujur": "102.17 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 km",
+    "dirasakan": "II Kota Bengkulu"
+  },
+  {
     "waktu": "21 Apr 2026 11:18:30 WIB",
     "lintang": "8.45 LS",
     "bujur": "123.12 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.8",
     "kedalaman": "5 km",
     "dirasakan": "III Kendari, II Konawe Selatan"
-  },
-  {
-    "waktu": "18 Apr 2026 00:41:50 WIB",
-    "lintang": "3.99 LS",
-    "bujur": "122.54 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "5 km",
-    "dirasakan": "III Kendari"
   }
 ]
