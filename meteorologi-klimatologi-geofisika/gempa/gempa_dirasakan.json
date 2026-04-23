@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Apr 2026 10:48:21 WIB",
+    "lintang": "8.37 LS",
+    "bujur": "123.18 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 km",
+    "dirasakan": "II - III Flores Timur"
+  },
+  {
     "waktu": "23 Apr 2026 04:34:44 WIB",
     "lintang": "8.21 LS",
     "bujur": "115.02 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "22 km",
     "dirasakan": "II-III Batang Dua"
-  },
-  {
-    "waktu": "18 Apr 2026 06:21:27 WIB",
-    "lintang": "0.10 LS",
-    "bujur": "123.90 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "102 km",
-    "dirasakan": "II-III Kab. Gorontalo, II Minahasa Tenggara, III Kota Gorontalo, III Bone Bolango, II-III Bolaang Mongondow Timur, II-III Bolaang Mongondow Selatan"
   }
 ]
