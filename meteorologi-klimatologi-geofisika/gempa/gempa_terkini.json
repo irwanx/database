@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24 Apr 2026 05:13:25 WIB",
+    "lintang": "7.42 LS",
+    "bujur": "129.28 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "143 km",
+    "wilayah": "184 km TimurLaut MALUKUBRTDAYA"
+  },
+  {
     "waktu": "21 Apr 2026 10:17:08 WIB",
     "lintang": "8.99 LS",
     "bujur": "124.20 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "wilayah": "129 km BaratLaut JAILOLO-MALUT"
-  },
-  {
-    "waktu": "03 Apr 2026 11:42:04 WIB",
-    "lintang": "1.44 LU",
-    "bujur": "126.26 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "17 km",
-    "wilayah": "126 km Timur BITUNG-SULUT"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Apr 2026 22:15:23 WIB",
+    "lintang": "2.41 LS",
+    "bujur": "120.87 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "5 km",
+    "dirasakan": "III Mangkutana"
+  },
+  {
     "waktu": "23 Apr 2026 10:48:21 WIB",
     "lintang": "8.37 LS",
     "bujur": "123.18 BT",
@@ -109,14 +117,6 @@
     "bujur": "126.37 BT",
     "magnitudo": "4.5",
     "kedalaman": "23 km",
-    "dirasakan": "II-III Batang Dua"
-  },
-  {
-    "waktu": "18 Apr 2026 06:27:32 WIB",
-    "lintang": "1.29 LU",
-    "bujur": "126.33 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "22 km",
     "dirasakan": "II-III Batang Dua"
   }
 ]
