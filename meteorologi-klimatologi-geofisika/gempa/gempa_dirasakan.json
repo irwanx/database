@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24 Apr 2026 15:41:37 WIB",
+    "lintang": "1.51 LU",
+    "bujur": "126.62 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "11 km",
+    "dirasakan": "II-III Batang Dua"
+  },
+  {
     "waktu": "24 Apr 2026 11:45:19 WIB",
     "lintang": "1.18 LU",
     "bujur": "126.42 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.9",
     "kedalaman": "10 km",
     "dirasakan": "V Gunung Sitoli, IV Nias Barat, IV Nias Utara, IV Tapanuli Tengah"
-  },
-  {
-    "waktu": "18 Apr 2026 09:14:32 WIB",
-    "lintang": "1.27 LU",
-    "bujur": "126.33 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "18 km",
-    "dirasakan": "II-III Batang Dua"
   }
 ]
