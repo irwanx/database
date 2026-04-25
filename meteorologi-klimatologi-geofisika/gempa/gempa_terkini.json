@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Apr 2026 16:07:07 WIB",
+    "lintang": "4.95 LS",
+    "bujur": "130.63 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "119 km",
+    "wilayah": "205 km Tenggara SERAMBAGIANTIMUR-MALUKU"
+  },
+  {
     "waktu": "24 Apr 2026 11:45:19 WIB",
     "lintang": "1.18 LU",
     "bujur": "126.42 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.8",
     "kedalaman": "29 km",
     "wilayah": "121 km Tenggara BITUNG-SULUT"
-  },
-  {
-    "waktu": "04 Apr 2026 04:19:04 WIB",
-    "lintang": "1.53 LU",
-    "bujur": "126.34 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "wilayah": "135 km BaratLaut JAILOLO-MALUT"
   }
 ]
