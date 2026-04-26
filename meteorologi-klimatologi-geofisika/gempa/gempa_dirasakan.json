@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26 Apr 2026 06:01:03 WIB",
+    "lintang": "5.44 LS",
+    "bujur": "103.59 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "32 km",
+    "dirasakan": "III Liwa, III Pesisir Barat"
+  },
+  {
     "waktu": "25 Apr 2026 10:48:48 WIB",
     "lintang": "4.50 LS",
     "bujur": "129.82 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.4",
     "kedalaman": "34 km",
     "dirasakan": "II Cidolog"
-  },
-  {
-    "waktu": "20 Apr 2026 18:09:38 WIB",
-    "lintang": "1.39 LU",
-    "bujur": "117.55 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Kecamatan Karangan, II Berau"
   }
 ]
