@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Apr 2026 01:45:39 WIB",
+    "lintang": "8.09 LS",
+    "bujur": "107.74 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "19 km",
+    "dirasakan": "II-III Cipatujah, Kab. Tasikmalaya, II-III Cigalontang, Kab. Tasikmalaya, II-III Singajaya, Kab. Garut, II Sukasari, Kab. Bandung Barat"
+  },
+  {
     "waktu": "27 Apr 2026 21:53:53 WIB",
     "lintang": "5.34 LS",
     "bujur": "104.60 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "66 km",
     "dirasakan": "I-II Namlea, I-II Namrole"
-  },
-  {
-    "waktu": "21 Apr 2026 01:47:06 WIB",
-    "lintang": "2.03 LS",
-    "bujur": "139.25 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Sarmi"
   }
 ]
