@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Apr 2026 08:56:15 WIB",
+    "lintang": "7.07 LS",
+    "bujur": "110.28 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "5 km",
+    "dirasakan": "II Boja, Kendal"
+  },
+  {
     "waktu": "26 Apr 2026 06:01:03 WIB",
     "lintang": "5.44 LS",
     "bujur": "103.59 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.1",
     "kedalaman": "6 km",
     "dirasakan": "III-IV Solor Timur"
-  },
-  {
-    "waktu": "20 Apr 2026 19:11:29 WIB",
-    "lintang": "7.28 LS",
-    "bujur": "106.36 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "34 km",
-    "dirasakan": "II Cidolog"
   }
 ]
