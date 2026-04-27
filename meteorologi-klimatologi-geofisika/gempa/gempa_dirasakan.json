@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Apr 2026 21:53:53 WIB",
+    "lintang": "5.34 LS",
+    "bujur": "104.60 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "7 km",
+    "dirasakan": "II Tanggamus"
+  },
+  {
     "waktu": "27 Apr 2026 08:56:15 WIB",
     "lintang": "7.07 LS",
     "bujur": "110.28 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 km",
     "dirasakan": "II-III Sarmi"
-  },
-  {
-    "waktu": "20 Apr 2026 20:36:27 WIB",
-    "lintang": "8.47 LS",
-    "bujur": "123.15 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "6 km",
-    "dirasakan": "III-IV Solor Timur"
   }
 ]
