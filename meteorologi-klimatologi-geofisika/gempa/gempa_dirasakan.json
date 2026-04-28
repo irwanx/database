@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Apr 2026 17:47:45 WIB",
+    "lintang": "0.80 LU",
+    "bujur": "127.40 BT",
+    "magnitudo": "2.0",
+    "kedalaman": "5 km",
+    "dirasakan": "II Ternate Utara"
+  },
+  {
     "waktu": "28 Apr 2026 01:45:39 WIB",
     "lintang": "8.09 LS",
     "bujur": "107.74 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.0",
     "kedalaman": "31 km",
     "dirasakan": "III-IV Atambua, III Maumere, II-III Kota Kupang, II-III Kabupaten Kupang, II-III Kefamenanu, II-III Malaka, II-III Soe, II-III Lembata, II-III Larantuka, II-III Alor, II-III Ende, II Rote"
-  },
-  {
-    "waktu": "21 Apr 2026 07:14:37 WIB",
-    "lintang": "3.60 LS",
-    "bujur": "126.10 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "66 km",
-    "dirasakan": "I-II Namlea, I-II Namrole"
   }
 ]
