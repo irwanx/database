@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Apr 2026 17:09:04 WIB",
+    "lintang": "2.54 LS",
+    "bujur": "121.06 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "6 km",
+    "dirasakan": "III Malili, III Sorowako"
+  },
+  {
     "waktu": "29 Apr 2026 15:14:16 WIB",
     "lintang": "9.22 LS",
     "bujur": "118.13 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "10 km",
     "dirasakan": "II Kota Bengkulu"
-  },
-  {
-    "waktu": "21 Apr 2026 11:18:30 WIB",
-    "lintang": "8.45 LS",
-    "bujur": "123.12 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "11 km",
-    "dirasakan": "II-III Adonara, II-III Solor"
   }
 ]
