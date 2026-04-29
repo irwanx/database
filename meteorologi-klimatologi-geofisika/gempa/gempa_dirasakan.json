@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Apr 2026 15:14:16 WIB",
+    "lintang": "9.22 LS",
+    "bujur": "118.13 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "56 km",
+    "dirasakan": "II Kab.Sumbawa, II Kab.Sumbawa Barat, II Kab. Bima"
+  },
+  {
     "waktu": "28 Apr 2026 17:47:45 WIB",
     "lintang": "0.80 LU",
     "bujur": "127.40 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "11 km",
     "dirasakan": "II-III Adonara, II-III Solor"
-  },
-  {
-    "waktu": "21 Apr 2026 10:17:08 WIB",
-    "lintang": "8.99 LS",
-    "bujur": "124.20 BT",
-    "magnitudo": "6.0",
-    "kedalaman": "31 km",
-    "dirasakan": "III-IV Atambua, III Maumere, II-III Kota Kupang, II-III Kabupaten Kupang, II-III Kefamenanu, II-III Malaka, II-III Soe, II-III Lembata, II-III Larantuka, II-III Alor, II-III Ende, II Rote"
   }
 ]
