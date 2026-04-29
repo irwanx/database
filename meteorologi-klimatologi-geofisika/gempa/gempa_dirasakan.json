@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Apr 2026 23:33:06 WIB",
+    "lintang": "2.19 LS",
+    "bujur": "100.59 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "25 km",
+    "dirasakan": "II-III Pulau Pagai, II-III Pesisir Selatan, II-III Kerinci, I-II Muko-Muko, I-II Teluk Bayur"
+  },
+  {
     "waktu": "29 Apr 2026 17:09:04 WIB",
     "lintang": "2.54 LS",
     "bujur": "121.06 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.8",
     "kedalaman": "10 km",
     "dirasakan": "III Kab. Buleleng, III Kab. Tabanan"
-  },
-  {
-    "waktu": "22 Apr 2026 12:17:58 WIB",
-    "lintang": "4.65 LS",
-    "bujur": "102.17 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 km",
-    "dirasakan": "II Kota Bengkulu"
   }
 ]
