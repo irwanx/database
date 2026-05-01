@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Mei 2026 16:24:24 WIB",
+    "lintang": "1.31 LS",
+    "bujur": "134.40 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "12 km",
+    "dirasakan": "III Ransiki, II-III Manokwari"
+  },
+  {
     "waktu": "01 Mei 2026 01:36:35 WIB",
     "lintang": "0.49 LS",
     "bujur": "134.32 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.4",
     "kedalaman": "5 km",
     "dirasakan": "III Mangkutana"
-  },
-  {
-    "waktu": "23 Apr 2026 10:48:21 WIB",
-    "lintang": "8.37 LS",
-    "bujur": "123.18 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 km",
-    "dirasakan": "II - III Flores Timur"
   }
 ]
