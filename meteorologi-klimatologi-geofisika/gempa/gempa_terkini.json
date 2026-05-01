@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Mei 2026 01:52:47 WIB",
+    "lintang": "7.52 LS",
+    "bujur": "128.53 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "199 km",
+    "wilayah": "107 km TimurLaut MALUKUBRTDAYA"
+  },
+  {
     "waktu": "01 Mei 2026 16:24:24 WIB",
     "lintang": "1.31 LS",
     "bujur": "134.40 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.7",
     "kedalaman": "11 km",
     "wilayah": "51 km Tenggara TUAPEJAT-SUMBAR"
-  },
-  {
-    "waktu": "04 Apr 2026 17:34:30 WIB",
-    "lintang": "4.90 LU",
-    "bujur": "126.29 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "31 km",
-    "wilayah": "89 km BaratLaut PULAUKARATUNG-SULUT"
   }
 ]
