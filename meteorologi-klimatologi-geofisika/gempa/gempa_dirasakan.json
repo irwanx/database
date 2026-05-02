@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Mei 2026 18:04:12 WIB",
+    "lintang": "7.76 LS",
+    "bujur": "107.25 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "28 km",
+    "dirasakan": "II-III Cikelet, II-III Kertasari, II-III Pangalengan, II-III Tasik Selatan, II Cimaung, II Soreang"
+  },
+  {
     "waktu": "02 Mei 2026 14:42:33 WIB",
     "lintang": "7.79 LS",
     "bujur": "107.27 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "11 km",
     "dirasakan": "II-III Batang Dua"
-  },
-  {
-    "waktu": "24 Apr 2026 11:45:19 WIB",
-    "lintang": "1.18 LU",
-    "bujur": "126.42 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "12 km",
-    "dirasakan": "II-III Ternate, III-IV Batang Dua"
   }
 ]
