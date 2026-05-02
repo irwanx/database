@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Mei 2026 14:42:33 WIB",
+    "lintang": "7.79 LS",
+    "bujur": "107.27 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "28 km",
+    "dirasakan": "II Cidolog"
+  },
+  {
     "waktu": "01 Mei 2026 16:24:24 WIB",
     "lintang": "1.31 LS",
     "bujur": "134.40 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "12 km",
     "dirasakan": "II-III Ternate, III-IV Batang Dua"
-  },
-  {
-    "waktu": "23 Apr 2026 22:15:23 WIB",
-    "lintang": "2.41 LS",
-    "bujur": "120.87 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "5 km",
-    "dirasakan": "III Mangkutana"
   }
 ]
