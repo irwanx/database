@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04 Mei 2026 02:06:13 WIB",
+    "lintang": "8.25 LS",
+    "bujur": "108.27 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "29 km",
+    "dirasakan": "II-III Banjarwangi, II-III Manonjaya, II-III Singaparna, II-III Cikatomas, II-III Sukaramet, II-III Cimaragas, II-III Banjaranyar, II-III Banjarsari, II-III Pangandaran"
+  },
+  {
     "waktu": "03 Mei 2026 23:51:56 WIB",
     "lintang": "1.15 LU",
     "bujur": "126.81 BT",
@@ -108,14 +116,6 @@
     "lintang": "4.50 LS",
     "bujur": "129.82 BT",
     "magnitudo": "2.9",
-    "kedalaman": "3 km",
-    "dirasakan": "II-III Banda"
-  },
-  {
-    "waktu": "25 Apr 2026 10:42:40 WIB",
-    "lintang": "4.49 LS",
-    "bujur": "129.90 BT",
-    "magnitudo": "3.1",
     "kedalaman": "3 km",
     "dirasakan": "II-III Banda"
   }
