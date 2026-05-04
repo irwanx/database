@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04 Mei 2026 07:56:54 WIB",
+    "lintang": "7.17 LS",
+    "bujur": "107.83 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "4 km",
+    "dirasakan": "II-III Kamojang, II-III Leles, II-III Tarogong, II-III Bayongbong, II-III Banyuresmi, II-III Samarang, II-III Kadungora, II-III Sukaresmi, II-III Nagrek"
+  },
+  {
     "waktu": "04 Mei 2026 02:06:13 WIB",
     "lintang": "8.25 LS",
     "bujur": "108.27 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "32 km",
     "dirasakan": "III Liwa, III Pesisir Barat"
-  },
-  {
-    "waktu": "25 Apr 2026 10:48:48 WIB",
-    "lintang": "4.50 LS",
-    "bujur": "129.82 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "3 km",
-    "dirasakan": "II-III Banda"
   }
 ]
