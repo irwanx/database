@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "04 Mei 2026 12:56:11 WIB",
+    "lintang": "4.74 LU",
+    "bujur": "96.77 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 km",
+    "dirasakan": "III Bener Meriah"
+  },
+  {
+    "waktu": "04 Mei 2026 12:09:03 WIB",
+    "lintang": "4.74 LU",
+    "bujur": "96.72 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Bener Meriah"
+  },
+  {
+    "waktu": "04 Mei 2026 10:37:09 WIB",
+    "lintang": "3.13 LU",
+    "bujur": "126.54 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "67 km",
+    "dirasakan": "II-III Naha"
+  },
+  {
     "waktu": "04 Mei 2026 07:56:54 WIB",
     "lintang": "7.17 LS",
     "bujur": "107.83 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "19 km",
     "dirasakan": "II-III Cipatujah, Kab. Tasikmalaya, II-III Cigalontang, Kab. Tasikmalaya, II-III Singajaya, Kab. Garut, II Sukasari, Kab. Bandung Barat , II-III Pakenjeng, Kab. Garut, II-III Kab. Ciamis, II-III Pangandaran"
-  },
-  {
-    "waktu": "27 Apr 2026 21:53:53 WIB",
-    "lintang": "5.34 LS",
-    "bujur": "104.60 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "7 km",
-    "dirasakan": "II Tanggamus"
-  },
-  {
-    "waktu": "27 Apr 2026 08:56:15 WIB",
-    "lintang": "7.07 LS",
-    "bujur": "110.28 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "5 km",
-    "dirasakan": "II Boja, Kendal"
-  },
-  {
-    "waktu": "26 Apr 2026 06:01:03 WIB",
-    "lintang": "5.44 LS",
-    "bujur": "103.59 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "32 km",
-    "dirasakan": "III Liwa, III Pesisir Barat"
   }
 ]
