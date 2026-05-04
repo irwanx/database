@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Mei 2026 05:14:39 WIB",
+    "lintang": "8.08 LS",
+    "bujur": "107.92 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "14 km",
+    "dirasakan": "III Cipatujah, III Langkaplancar, II-III Kota Tasikmalaya, II-III Cikoneng, Ciamis, III Pangandaran, II-III Puspahiang, II-III Kota Banjar"
+  },
+  {
     "waktu": "04 Mei 2026 12:56:11 WIB",
     "lintang": "4.74 LU",
     "bujur": "96.77 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.0",
     "kedalaman": "5 km",
     "dirasakan": "II Ternate Utara"
-  },
-  {
-    "waktu": "28 Apr 2026 01:45:39 WIB",
-    "lintang": "8.09 LS",
-    "bujur": "107.74 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "19 km",
-    "dirasakan": "II-III Cipatujah, Kab. Tasikmalaya, II-III Cigalontang, Kab. Tasikmalaya, II-III Singajaya, Kab. Garut, II Sukasari, Kab. Bandung Barat , II-III Pakenjeng, Kab. Garut, II-III Kab. Ciamis, II-III Pangandaran"
   }
 ]
