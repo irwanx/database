@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Mei 2026 09:38:50 WIB",
+    "lintang": "6.41 LS",
+    "bujur": "130.23 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "188 km",
+    "wilayah": "210 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "02 Mei 2026 17:27:11 WIB",
     "lintang": "5.64 LS",
     "bujur": "130.92 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.7",
     "kedalaman": "10 km",
     "wilayah": "202 km BaratDaya SINABANG-ACEH"
-  },
-  {
-    "waktu": "10 Apr 2026 18:08:55 WIB",
-    "lintang": "3.43 LS",
-    "bujur": "102.33 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "89 km",
-    "wilayah": "14 km TimurLaut BENGKULUUTARA"
   }
 ]
