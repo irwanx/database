@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Mei 2026 20:17:30 WIB",
+    "lintang": "5.44 LS",
+    "bujur": "104.65 BT",
+    "magnitudo": "2.0",
+    "kedalaman": "10 km",
+    "dirasakan": "II Gisting"
+  },
+  {
     "waktu": "05 Mei 2026 13:44:50 WIB",
     "lintang": "10.11 LS",
     "bujur": "119.30 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "6 km",
     "dirasakan": "III Malili, III Sorowako"
-  },
-  {
-    "waktu": "29 Apr 2026 15:14:16 WIB",
-    "lintang": "9.22 LS",
-    "bujur": "118.13 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "56 km",
-    "dirasakan": "II Kab.Sumbawa, II Kab.Sumbawa Barat, II Kab. Bima"
   }
 ]
