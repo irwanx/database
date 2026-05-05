@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Mei 2026 13:44:50 WIB",
+    "lintang": "10.11 LS",
+    "bujur": "119.30 BT",
+    "magnitudo": "6.0",
+    "kedalaman": "10 km",
+    "dirasakan": "IV Waingapu, IV Karuni, IV Tambolaka, IV Waibakul, IV Waikabubak, III Kab. Bima , III Kota Bima, III Kab. Sumbawa Barat, III Kab. Sumbawa, II Denpasar"
+  },
+  {
     "waktu": "05 Mei 2026 05:14:39 WIB",
     "lintang": "8.08 LS",
     "bujur": "107.92 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "56 km",
     "dirasakan": "II Kab.Sumbawa, II Kab.Sumbawa Barat, II Kab. Bima"
-  },
-  {
-    "waktu": "28 Apr 2026 17:47:45 WIB",
-    "lintang": "0.80 LU",
-    "bujur": "127.40 BT",
-    "magnitudo": "2.0",
-    "kedalaman": "5 km",
-    "dirasakan": "II Ternate Utara"
   }
 ]

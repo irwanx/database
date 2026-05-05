@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Mei 2026 13:44:50 WIB",
+    "lintang": "10.11 LS",
+    "bujur": "119.30 BT",
+    "magnitudo": "6.0",
+    "kedalaman": "10 km",
+    "wilayah": "37 km BaratDaya WANOKAKA-NTT"
+  },
+  {
     "waktu": "05 Mei 2026 09:38:50 WIB",
     "lintang": "6.41 LS",
     "bujur": "130.23 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "469 km",
     "wilayah": "122 km TimurLaut PULAUSARINGI-NTB"
-  },
-  {
-    "waktu": "12 Apr 2026 09:40:36 WIB",
-    "lintang": "1.93 LU",
-    "bujur": "94.63 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "10 km",
-    "wilayah": "202 km BaratDaya SINABANG-ACEH"
   }
 ]
