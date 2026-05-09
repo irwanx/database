@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Mei 2026 07:10:29 WIB",
+    "lintang": "1.89 LS",
+    "bujur": "139.19 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 km",
+    "dirasakan": "II Sarmi"
+  },
+  {
     "waktu": "07 Mei 2026 13:17:45 WIB",
     "lintang": "4.80 LS",
     "bujur": "122.65 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "10 km",
     "dirasakan": "III Manokwari"
-  },
-  {
-    "waktu": "29 Apr 2026 23:33:06 WIB",
-    "lintang": "2.19 LS",
-    "bujur": "100.59 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "25 km",
-    "dirasakan": "II-III Pulau Pagai, II-III Pesisir Selatan, II-III Kerinci, I-II Muko-Muko, I-II Teluk Bayur"
   }
 ]
