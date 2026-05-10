@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Mei 2026 19:24:33 WIB",
+    "lintang": "1.20 LU",
+    "bujur": "120.33 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "8 km",
+    "dirasakan": "II-III Tolitoli, II-III Buol"
+  },
+  {
     "waktu": "10 Mei 2026 13:24:55 WIB",
     "lintang": "3.57 LU",
     "bujur": "98.74 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "28 km",
     "dirasakan": "II Cidolog"
-  },
-  {
-    "waktu": "01 Mei 2026 16:24:24 WIB",
-    "lintang": "1.31 LS",
-    "bujur": "134.40 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "12 km",
-    "dirasakan": "III Ransiki, II-III Manokwari"
   }
 ]
