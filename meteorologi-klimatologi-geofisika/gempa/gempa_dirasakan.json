@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Mei 2026 20:40:41 WIB",
+    "lintang": "4.06 LS",
+    "bujur": "121.87 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "9 km",
+    "dirasakan": "II-III Kolaka Timur, II-III Kolaka"
+  },
+  {
     "waktu": "10 Mei 2026 19:24:33 WIB",
     "lintang": "1.20 LU",
     "bujur": "120.33 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "28 km",
     "dirasakan": "II-III Cikelet, II-III Kertasari, II-III Pangalengan, II-III Tasik Selatan, II Cimaung, II Soreang"
-  },
-  {
-    "waktu": "02 Mei 2026 14:42:33 WIB",
-    "lintang": "7.79 LS",
-    "bujur": "107.27 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "28 km",
-    "dirasakan": "II Cidolog"
   }
 ]
