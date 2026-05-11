@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Mei 2026 04:06:20 WIB",
+    "lintang": "4.08 LS",
+    "bujur": "121.79 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 km",
+    "dirasakan": "III Kolaka Timur, II-III Kolaka"
+  },
+  {
     "waktu": "11 Mei 2026 20:40:41 WIB",
     "lintang": "4.06 LS",
     "bujur": "121.87 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "39 km",
     "dirasakan": "II-III Kota Ternate"
-  },
-  {
-    "waktu": "02 Mei 2026 18:04:12 WIB",
-    "lintang": "7.76 LS",
-    "bujur": "107.25 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "28 km",
-    "dirasakan": "II-III Cikelet, II-III Kertasari, II-III Pangalengan, II-III Tasik Selatan, II Cimaung, II Soreang"
   }
 ]
