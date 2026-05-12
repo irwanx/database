@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Mei 2026 15:54:00 WIB",
+    "lintang": "4.64 LU",
+    "bujur": "127.35 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "89 km",
+    "wilayah": "32 km Tenggara PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "05 Mei 2026 13:44:50 WIB",
     "lintang": "10.11 LS",
     "bujur": "119.30 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "99 km",
     "wilayah": "164 km BaratDaya MALUKUTENGGARA"
-  },
-  {
-    "waktu": "15 Apr 2026 09:10:43 WIB",
-    "lintang": "7.32 LS",
-    "bujur": "117.14 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "469 km",
-    "wilayah": "122 km TimurLaut PULAUSARINGI-NTB"
   }
 ]
