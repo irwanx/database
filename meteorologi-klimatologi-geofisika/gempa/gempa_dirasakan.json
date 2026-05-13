@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13 Mei 2026 13:37:38 WIB",
+    "lintang": "4.66 LS",
+    "bujur": "122.06 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "3 km",
+    "dirasakan": "II-III Bombana"
+  },
+  {
     "waktu": "12 Mei 2026 04:06:20 WIB",
     "lintang": "4.08 LS",
     "bujur": "121.79 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "29 km",
     "dirasakan": "II-III Banjarwangi, II-III Manonjaya, II-III Singaparna, II-III Cikatomas, II-III Sukaramet, II-III Cimaragas, II-III Banjaranyar, II-III Banjarsari, II-III Pangandaran"
-  },
-  {
-    "waktu": "03 Mei 2026 23:51:56 WIB",
-    "lintang": "1.15 LU",
-    "bujur": "126.81 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "39 km",
-    "dirasakan": "II-III Kota Ternate"
   }
 ]
