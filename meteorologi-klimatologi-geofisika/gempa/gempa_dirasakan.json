@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Mei 2026 13:27:35 WIB",
+    "lintang": "2.15 LS",
+    "bujur": "100.01 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "45 km",
+    "dirasakan": "I-II Pagai, I-II Sipora"
+  },
+  {
     "waktu": "13 Mei 2026 13:37:38 WIB",
     "lintang": "4.66 LS",
     "bujur": "122.06 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.8",
     "kedalaman": "4 km",
     "dirasakan": "II-III Kamojang, II-III Leles, II-III Tarogong, II-III Bayongbong, II-III Banyuresmi, II-III Samarang, II-III Kadungora, II-III Sukaresmi, II-III Nagrek"
-  },
-  {
-    "waktu": "04 Mei 2026 02:06:13 WIB",
-    "lintang": "8.25 LS",
-    "bujur": "108.27 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "29 km",
-    "dirasakan": "II-III Banjarwangi, II-III Manonjaya, II-III Singaparna, II-III Cikatomas, II-III Sukaramet, II-III Cimaragas, II-III Banjaranyar, II-III Banjarsari, II-III Pangandaran"
   }
 ]
