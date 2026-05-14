@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Mei 2026 00:53:15 WIB",
+    "lintang": "6.09 LS",
+    "bujur": "130.56 BT",
+    "magnitudo": "6.7",
+    "kedalaman": "163 km",
+    "wilayah": "224 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "12 Mei 2026 15:54:00 WIB",
     "lintang": "4.64 LU",
     "bujur": "127.35 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.8",
     "kedalaman": "102 km",
     "wilayah": "53 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
-  },
-  {
-    "waktu": "18 Apr 2026 05:19:22 WIB",
-    "lintang": "6.10 LS",
-    "bujur": "131.32 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "99 km",
-    "wilayah": "164 km BaratDaya MALUKUTENGGARA"
   }
 ]

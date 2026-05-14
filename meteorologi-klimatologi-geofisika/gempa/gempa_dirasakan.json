@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Mei 2026 00:53:15 WIB",
+    "lintang": "6.09 LS",
+    "bujur": "130.56 BT",
+    "magnitudo": "6.7",
+    "kedalaman": "163 km",
+    "dirasakan": "II-III Saumlaki, II-III Banda, II-III Tual, II-III Masela, II-III Sorong, II-III Raja Ampat, II-III Fak-Fak, II-III Kaimana"
+  },
+  {
     "waktu": "14 Mei 2026 13:27:35 WIB",
     "lintang": "2.15 LS",
     "bujur": "100.01 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "67 km",
     "dirasakan": "II-III Naha"
-  },
-  {
-    "waktu": "04 Mei 2026 07:56:54 WIB",
-    "lintang": "7.17 LS",
-    "bujur": "107.83 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "4 km",
-    "dirasakan": "II-III Kamojang, II-III Leles, II-III Tarogong, II-III Bayongbong, II-III Banyuresmi, II-III Samarang, II-III Kadungora, II-III Sukaresmi, II-III Nagrek"
   }
 ]
