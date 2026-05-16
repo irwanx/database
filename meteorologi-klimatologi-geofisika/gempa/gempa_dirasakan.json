@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16 Mei 2026 23:06:05 WIB",
+    "lintang": "8.86 LS",
+    "bujur": "111.63 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "17 km",
+    "dirasakan": "III Trenggalek, II Pacitan, II Bantul"
+  },
+  {
     "waktu": "16 Mei 2026 15:34:38 WIB",
     "lintang": "1.20 LS",
     "bujur": "119.89 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "14 km",
     "dirasakan": "III Cipatujah, III Langkaplancar, II-III Kota Tasikmalaya, II-III Cikoneng, Ciamis, III Pangandaran, II-III Puspahiang, II-III Kota Banjar"
-  },
-  {
-    "waktu": "04 Mei 2026 12:56:11 WIB",
-    "lintang": "4.74 LU",
-    "bujur": "96.77 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 km",
-    "dirasakan": "III Bener Meriah"
   }
 ]
