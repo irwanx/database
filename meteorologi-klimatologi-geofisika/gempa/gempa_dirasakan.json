@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16 Mei 2026 08:48:20 WIB",
+    "lintang": "7.23 LS",
+    "bujur": "106.69 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "87 km",
+    "dirasakan": "II Cidolog"
+  },
+  {
     "waktu": "15 Mei 2026 00:53:15 WIB",
     "lintang": "6.09 LS",
     "bujur": "130.56 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "5 km",
     "dirasakan": "II-III Bener Meriah"
-  },
-  {
-    "waktu": "04 Mei 2026 10:37:09 WIB",
-    "lintang": "3.13 LU",
-    "bujur": "126.54 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "67 km",
-    "dirasakan": "II-III Naha"
   }
 ]
