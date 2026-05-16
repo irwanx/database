@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16 Mei 2026 15:34:38 WIB",
+    "lintang": "1.20 LS",
+    "bujur": "119.89 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 km",
+    "dirasakan": "III Palu, IV Sigi"
+  },
+  {
     "waktu": "16 Mei 2026 08:48:20 WIB",
     "lintang": "7.23 LS",
     "bujur": "106.69 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "10 km",
     "dirasakan": "III Bener Meriah"
-  },
-  {
-    "waktu": "04 Mei 2026 12:09:03 WIB",
-    "lintang": "4.74 LU",
-    "bujur": "96.72 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Bener Meriah"
   }
 ]
