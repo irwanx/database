@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Mei 2026 07:30:08 WIB",
+    "lintang": "4.77 LU",
+    "bujur": "96.82 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "4 km",
+    "dirasakan": "II Bener Meriah"
+  },
+  {
     "waktu": "16 Mei 2026 23:06:05 WIB",
     "lintang": "8.86 LS",
     "bujur": "111.63 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.0",
     "kedalaman": "10 km",
     "dirasakan": "IV Waingapu, IV Karuni, IV Tambolaka, IV Waibakul, IV Waikabubak, III Kab. Bima , III Kota Bima, III Kab. Sumbawa Barat, III Kab. Sumbawa, II Denpasar"
-  },
-  {
-    "waktu": "05 Mei 2026 05:14:39 WIB",
-    "lintang": "8.08 LS",
-    "bujur": "107.92 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "14 km",
-    "dirasakan": "III Cipatujah, III Langkaplancar, II-III Kota Tasikmalaya, II-III Cikoneng, Ciamis, III Pangandaran, II-III Puspahiang, II-III Kota Banjar"
   }
 ]
