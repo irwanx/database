@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Mei 2026 14:23:19 WIB",
+    "lintang": "3.47 LS",
+    "bujur": "135.51 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "43 km",
+    "dirasakan": "II Nabire"
+  },
+  {
     "waktu": "17 Mei 2026 07:30:08 WIB",
     "lintang": "4.77 LU",
     "bujur": "96.82 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.0",
     "kedalaman": "10 km",
     "dirasakan": "II Gisting"
-  },
-  {
-    "waktu": "05 Mei 2026 13:44:50 WIB",
-    "lintang": "10.11 LS",
-    "bujur": "119.30 BT",
-    "magnitudo": "6.0",
-    "kedalaman": "10 km",
-    "dirasakan": "IV Waingapu, IV Karuni, IV Tambolaka, IV Waibakul, IV Waikabubak, III Kab. Bima , III Kota Bima, III Kab. Sumbawa Barat, III Kab. Sumbawa, II Denpasar"
   }
 ]
