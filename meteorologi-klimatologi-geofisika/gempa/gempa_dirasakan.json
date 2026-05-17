@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "17 Mei 2026 22:38:03 WIB",
+    "lintang": "3.82 LS",
+    "bujur": "128.44 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Ambon"
+  },
+  {
+    "waktu": "17 Mei 2026 22:15:01 WIB",
+    "lintang": "7.53 LS",
+    "bujur": "106.69 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "25 km",
+    "dirasakan": "II Palabuhan Ratu, II Cisolok, II Cibadak, II Cisaat, II Cidahu, II Cicantayan, II Nagrak, II Ciwidey, II Nyalindung, II Lengkong, II Parungkuda, II Caringin, II Sukabumi, II Cianjur, III Cidolog, III Cidadap, III Pabuaran, III Surade, III Ciracap, III Ciemas, III Jampang Kulon"
+  },
+  {
     "waktu": "17 Mei 2026 14:23:19 WIB",
     "lintang": "3.47 LS",
     "bujur": "135.51 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "10 km",
     "dirasakan": "II Sarmi"
-  },
-  {
-    "waktu": "07 Mei 2026 13:17:45 WIB",
-    "lintang": "4.80 LS",
-    "bujur": "122.65 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "2 km",
-    "dirasakan": "II-III Muna Barat"
-  },
-  {
-    "waktu": "05 Mei 2026 20:17:30 WIB",
-    "lintang": "5.44 LS",
-    "bujur": "104.65 BT",
-    "magnitudo": "2.0",
-    "kedalaman": "10 km",
-    "dirasakan": "II Gisting"
   }
 ]
