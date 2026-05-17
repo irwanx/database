@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Mei 2026 00:58:34 WIB",
+    "lintang": "3.93 LS",
+    "bujur": "128.38 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "4 km",
+    "dirasakan": "III Ambon"
+  },
+  {
     "waktu": "17 Mei 2026 22:38:03 WIB",
     "lintang": "3.82 LS",
     "bujur": "128.44 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.0",
     "kedalaman": "8 km",
     "dirasakan": "II Medan"
-  },
-  {
-    "waktu": "09 Mei 2026 07:10:29 WIB",
-    "lintang": "1.89 LS",
-    "bujur": "139.19 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 km",
-    "dirasakan": "II Sarmi"
   }
 ]
