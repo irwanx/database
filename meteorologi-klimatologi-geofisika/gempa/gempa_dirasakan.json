@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Mei 2026 07:32:20 WIB",
+    "lintang": "2.02 LS",
+    "bujur": "120.69 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "5 km",
+    "dirasakan": "III Kabupaten Poso"
+  },
+  {
     "waktu": "18 Mei 2026 00:58:34 WIB",
     "lintang": "3.93 LS",
     "bujur": "128.38 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "8 km",
     "dirasakan": "II-III Tolitoli, II-III Buol"
-  },
-  {
-    "waktu": "10 Mei 2026 13:24:55 WIB",
-    "lintang": "3.57 LU",
-    "bujur": "98.74 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "8 km",
-    "dirasakan": "II Medan"
   }
 ]
