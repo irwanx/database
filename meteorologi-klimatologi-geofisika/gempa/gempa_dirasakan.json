@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Mei 2026 01:51:08 WIB",
+    "lintang": "4.04 LS",
+    "bujur": "121.96 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 km",
+    "dirasakan": "III Kolaka Timur"
+  },
+  {
     "waktu": "19 Mei 2026 17:50:27 WIB",
     "lintang": "6.88 LS",
     "bujur": "106.81 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.3",
     "kedalaman": "3 km",
     "dirasakan": "II-III Bombana"
-  },
-  {
-    "waktu": "12 Mei 2026 04:06:20 WIB",
-    "lintang": "4.08 LS",
-    "bujur": "121.79 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kolaka Timur, II-III Kolaka"
   }
 ]
