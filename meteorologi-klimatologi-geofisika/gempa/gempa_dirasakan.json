@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Mei 2026 17:50:27 WIB",
+    "lintang": "6.88 LS",
+    "bujur": "106.81 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "12 km",
+    "dirasakan": "II-III Nagrak"
+  },
+  {
     "waktu": "19 Mei 2026 13:47:26 WIB",
     "lintang": "5.79 LS",
     "bujur": "112.55 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.9",
     "kedalaman": "10 km",
     "dirasakan": "III Kolaka Timur, II-III Kolaka"
-  },
-  {
-    "waktu": "11 Mei 2026 20:40:41 WIB",
-    "lintang": "4.06 LS",
-    "bujur": "121.87 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "9 km",
-    "dirasakan": "II-III Kolaka Timur, II-III Kolaka"
   }
 ]
