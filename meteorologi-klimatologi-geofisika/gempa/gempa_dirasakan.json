@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21 Mei 2026 04:04:56 WIB",
+    "lintang": "8.34 LS",
+    "bujur": "108.25 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "23 km",
+    "dirasakan": "III Tasikmalaya, III Garut, II-III Ciamis"
+  },
+  {
     "waktu": "20 Mei 2026 22:25:22 WIB",
     "lintang": "5.33 LS",
     "bujur": "104.63 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "17 km",
     "dirasakan": "III Trenggalek, II Pacitan, II Bantul"
-  },
-  {
-    "waktu": "16 Mei 2026 15:34:38 WIB",
-    "lintang": "1.20 LS",
-    "bujur": "119.89 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 km",
-    "dirasakan": "III Palu, IV Sigi"
   }
 ]
