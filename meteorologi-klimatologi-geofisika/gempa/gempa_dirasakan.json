@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Mei 2026 22:25:22 WIB",
+    "lintang": "5.33 LS",
+    "bujur": "104.63 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Ulu Belu"
+  },
+  {
     "waktu": "20 Mei 2026 20:50:40 WIB",
     "lintang": "2.44 LS",
     "bujur": "120.98 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "10 km",
     "dirasakan": "III Palu, IV Sigi"
-  },
-  {
-    "waktu": "16 Mei 2026 08:48:20 WIB",
-    "lintang": "7.23 LS",
-    "bujur": "106.69 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "87 km",
-    "dirasakan": "II Cidolog"
   }
 ]
