@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Mei 2026 20:50:40 WIB",
+    "lintang": "2.44 LS",
+    "bujur": "120.98 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 km",
+    "dirasakan": "III Luwu Timur"
+  },
+  {
     "waktu": "20 Mei 2026 17:28:50 WIB",
     "lintang": "8.09 LS",
     "bujur": "119.21 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "87 km",
     "dirasakan": "II Cidolog"
-  },
-  {
-    "waktu": "15 Mei 2026 00:53:15 WIB",
-    "lintang": "6.09 LS",
-    "bujur": "130.56 BT",
-    "magnitudo": "6.7",
-    "kedalaman": "163 km",
-    "dirasakan": "II-III Saumlaki, II-III Banda, II-III Tual, II-III Masela, II-III Sorong, II-III Raja Ampat, II-III Fak-Fak, II-III Kaimana"
   }
 ]
