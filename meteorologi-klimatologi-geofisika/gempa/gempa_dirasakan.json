@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Mei 2026 17:28:50 WIB",
+    "lintang": "8.09 LS",
+    "bujur": "119.21 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "12 km",
+    "dirasakan": "III Kota Bima, III Kab. Bima, III Kab. Dompu"
+  },
+  {
     "waktu": "20 Mei 2026 09:03:27 WIB",
     "lintang": "2.44 LU",
     "bujur": "96.20 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.7",
     "kedalaman": "163 km",
     "dirasakan": "II-III Saumlaki, II-III Banda, II-III Tual, II-III Masela, II-III Sorong, II-III Raja Ampat, II-III Fak-Fak, II-III Kaimana"
-  },
-  {
-    "waktu": "14 Mei 2026 13:27:35 WIB",
-    "lintang": "2.15 LS",
-    "bujur": "100.01 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "45 km",
-    "dirasakan": "I-II Pagai, I-II Sipora"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Mei 2026 17:28:50 WIB",
+    "lintang": "8.09 LS",
+    "bujur": "119.21 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "12 km",
+    "wilayah": "65 km TimurLaut KOTA-BIMA-NTB"
+  },
+  {
     "waktu": "15 Mei 2026 00:53:15 WIB",
     "lintang": "6.09 LS",
     "bujur": "130.56 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.9",
     "kedalaman": "10 km",
     "wilayah": "48 km BaratDaya NIASUTARA-SUMUT"
-  },
-  {
-    "waktu": "18 Apr 2026 06:21:27 WIB",
-    "lintang": "0.10 LS",
-    "bujur": "123.90 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "102 km",
-    "wilayah": "53 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
   }
 ]
