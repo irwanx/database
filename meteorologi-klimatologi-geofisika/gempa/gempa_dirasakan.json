@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Mei 2026 09:03:27 WIB",
+    "lintang": "2.44 LU",
+    "bujur": "96.20 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "16 km",
+    "dirasakan": "II-III Simeulue"
+  },
+  {
     "waktu": "20 Mei 2026 01:51:08 WIB",
     "lintang": "4.04 LS",
     "bujur": "121.96 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "45 km",
     "dirasakan": "I-II Pagai, I-II Sipora"
-  },
-  {
-    "waktu": "13 Mei 2026 13:37:38 WIB",
-    "lintang": "4.66 LS",
-    "bujur": "122.06 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "3 km",
-    "dirasakan": "II-III Bombana"
   }
 ]
