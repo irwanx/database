@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21 Mei 2026 11:56:40 WIB",
+    "lintang": "6.87 LS",
+    "bujur": "106.79 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "15 km",
+    "dirasakan": "II-III Ciambar, III Cibadak"
+  },
+  {
     "waktu": "21 Mei 2026 04:04:56 WIB",
     "lintang": "8.34 LS",
     "bujur": "108.25 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.2",
     "kedalaman": "4 km",
     "dirasakan": "II Bener Meriah"
-  },
-  {
-    "waktu": "16 Mei 2026 23:06:05 WIB",
-    "lintang": "8.86 LS",
-    "bujur": "111.63 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "17 km",
-    "dirasakan": "III Trenggalek, II Pacitan, II Bantul"
   }
 ]
