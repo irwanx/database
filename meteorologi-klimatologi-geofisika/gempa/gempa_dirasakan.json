@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Mei 2026 13:28:00 WIB",
+    "lintang": "4.19 LU",
+    "bujur": "97.55 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 km",
+    "dirasakan": "III Gayo Lues, III Sentang Blangkejeren"
+  },
+  {
     "waktu": "22 Mei 2026 08:05:09 WIB",
     "lintang": "1.07 LU",
     "bujur": "126.18 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.8",
     "kedalaman": "10 km",
     "dirasakan": "II-III Ambon"
-  },
-  {
-    "waktu": "17 Mei 2026 22:15:01 WIB",
-    "lintang": "7.53 LS",
-    "bujur": "106.69 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "25 km",
-    "dirasakan": "II Palabuhan Ratu, II Cisolok, II Cibadak, II Cisaat, II Cidahu, II Cicantayan, II Nagrak, II Ciwidey, II Nyalindung, II Lengkong, II Parungkuda, II Caringin, II Sukabumi, II Cianjur, III Cidolog, III Cidadap, III Pabuaran, III Surade, III Ciracap, III Ciemas, III Jampang Kulon"
   }
 ]
