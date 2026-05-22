@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Mei 2026 08:05:09 WIB",
+    "lintang": "1.07 LU",
+    "bujur": "126.18 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "26 km",
+    "wilayah": "124 km Tenggara BITUNG-SULUT"
+  },
+  {
     "waktu": "21 Mei 2026 06:12:56 WIB",
     "lintang": "6.06 LS",
     "bujur": "130.47 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 km",
     "wilayah": "57 km Tenggara SARMI-PAPUA"
-  },
-  {
-    "waktu": "20 Apr 2026 12:19:37 WIB",
-    "lintang": "8.01 LS",
-    "bujur": "124.38 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "173 km",
-    "wilayah": "36 km BaratLaut ALOR-NTT"
   }
 ]

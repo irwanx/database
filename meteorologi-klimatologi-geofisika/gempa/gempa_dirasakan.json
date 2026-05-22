@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "22 Mei 2026 08:05:09 WIB",
+    "lintang": "1.07 LU",
+    "bujur": "126.18 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "26 km",
+    "dirasakan": "III-IV Batang Dua, II-III Sofifi, II-III Halmahera Barat, II-III Tidore, II-III Manado, III Ternate, III MInahasa Utara"
+  },
+  {
+    "waktu": "22 Mei 2026 07:10:31 WIB",
+    "lintang": "2.32 LS",
+    "bujur": "140.50 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 km",
+    "dirasakan": "II Kota Jayapura, II Kabupaten Jayapura"
+  },
+  {
     "waktu": "21 Mei 2026 11:56:40 WIB",
     "lintang": "6.87 LS",
     "bujur": "106.79 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "25 km",
     "dirasakan": "II Palabuhan Ratu, II Cisolok, II Cibadak, II Cisaat, II Cidahu, II Cicantayan, II Nagrak, II Ciwidey, II Nyalindung, II Lengkong, II Parungkuda, II Caringin, II Sukabumi, II Cianjur, III Cidolog, III Cidadap, III Pabuaran, III Surade, III Ciracap, III Ciemas, III Jampang Kulon"
-  },
-  {
-    "waktu": "17 Mei 2026 14:23:19 WIB",
-    "lintang": "3.47 LS",
-    "bujur": "135.51 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "43 km",
-    "dirasakan": "II Nabire"
-  },
-  {
-    "waktu": "17 Mei 2026 07:30:08 WIB",
-    "lintang": "4.77 LU",
-    "bujur": "96.82 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "4 km",
-    "dirasakan": "II Bener Meriah"
   }
 ]
