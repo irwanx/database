@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "22 Mei 2026 20:39:23 WIB",
+    "lintang": "4.71 LS",
+    "bujur": "103.10 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 km",
+    "dirasakan": "III Kaur, III Muara Sahung, II Muara Dua, II Oku Selatan, II Lemong, II Pesisir Barat"
+  },
+  {
+    "waktu": "22 Mei 2026 20:13:17 WIB",
+    "lintang": "4.61 LS",
+    "bujur": "122.45 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "6 km",
+    "dirasakan": "II-III Muna Barat"
+  },
+  {
     "waktu": "22 Mei 2026 13:28:00 WIB",
     "lintang": "4.19 LU",
     "bujur": "97.55 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.9",
     "kedalaman": "5 km",
     "dirasakan": "III Kabupaten Poso"
-  },
-  {
-    "waktu": "18 Mei 2026 00:58:34 WIB",
-    "lintang": "3.93 LS",
-    "bujur": "128.38 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "4 km",
-    "dirasakan": "III Ambon"
-  },
-  {
-    "waktu": "17 Mei 2026 22:38:03 WIB",
-    "lintang": "3.82 LS",
-    "bujur": "128.44 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Ambon"
   }
 ]
