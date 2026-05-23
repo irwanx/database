@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Mei 2026 19:40:26 WIB",
+    "lintang": "4.67 LS",
+    "bujur": "102.57 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "17 km",
+    "dirasakan": "III-IV Bengkulu Selatan, III-IV Kaur, III-IV Seluma Kota Bengkulu, III Kepahiang, III Rejang Lebong, III Musi Rawas"
+  },
+  {
     "waktu": "23 Mei 2026 00:05:37 WIB",
     "lintang": "2.29 LS",
     "bujur": "140.49 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "12 km",
     "dirasakan": "II-III Nagrak"
-  },
-  {
-    "waktu": "19 Mei 2026 13:47:26 WIB",
-    "lintang": "5.79 LS",
-    "bujur": "112.55 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Bawean"
   }
 ]

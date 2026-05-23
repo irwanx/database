@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Mei 2026 19:40:26 WIB",
+    "lintang": "4.67 LS",
+    "bujur": "102.57 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "17 km",
+    "wilayah": "45 km BaratDaya BENGKULUSELATAN"
+  },
+  {
     "waktu": "22 Mei 2026 08:05:09 WIB",
     "lintang": "1.07 LU",
     "bujur": "126.18 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.0",
     "kedalaman": "31 km",
     "wilayah": "67 km BaratLaut TIMORTENGAHUT-NTT"
-  },
-  {
-    "waktu": "21 Apr 2026 01:47:06 WIB",
-    "lintang": "2.03 LS",
-    "bujur": "139.25 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 km",
-    "wilayah": "57 km Tenggara SARMI-PAPUA"
   }
 ]
