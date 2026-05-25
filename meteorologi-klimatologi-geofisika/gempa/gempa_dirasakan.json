@@ -1,11 +1,19 @@
 [
   {
+    "waktu": "26 Mei 2026 03:39:21 WIB",
+    "lintang": "1.06 LU",
+    "bujur": "126.19 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "22 km",
+    "dirasakan": "III Ternate, III Manado, III Tondano"
+  },
+  {
     "waktu": "24 Mei 2026 22:33:11 WIB",
     "lintang": "0.98 LU",
     "bujur": "126.15 BT",
     "magnitudo": "4.8",
     "kedalaman": "22 km",
-    "dirasakan": "II-III Manado, II-III Bitung, II-III MInahasa Utara"
+    "dirasakan": "II-III Manado, II-III Bitung, II-III MInahasa Utara, II-III Minahasa Tenggara"
   },
   {
     "waktu": "23 Mei 2026 19:40:26 WIB",
@@ -110,13 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "16 km",
     "dirasakan": "II-III Simeulue"
-  },
-  {
-    "waktu": "20 Mei 2026 01:51:08 WIB",
-    "lintang": "4.04 LS",
-    "bujur": "121.96 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kolaka Timur"
   }
 ]
