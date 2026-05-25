@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Mei 2026 17:23:58 WIB",
+    "lintang": "7.55 LS",
+    "bujur": "128.64 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "136 km",
+    "wilayah": "115 km TimurLaut MALUKUBRTDAYA"
+  },
+  {
     "waktu": "23 Mei 2026 19:40:26 WIB",
     "lintang": "4.67 LS",
     "bujur": "102.57 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "143 km",
     "wilayah": "184 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "21 Apr 2026 10:17:08 WIB",
-    "lintang": "8.99 LS",
-    "bujur": "124.20 BT",
-    "magnitudo": "6.0",
-    "kedalaman": "31 km",
-    "wilayah": "67 km BaratLaut TIMORTENGAHUT-NTT"
   }
 ]
