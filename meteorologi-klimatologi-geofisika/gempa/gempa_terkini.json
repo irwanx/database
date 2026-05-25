@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26 Mei 2026 05:03:43 WIB",
+    "lintang": "3.96 LS",
+    "bujur": "133.99 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "wilayah": "45 km Tenggara KAIMANA-PAPUABRT"
+  },
+  {
     "waktu": "26 Mei 2026 03:39:21 WIB",
     "lintang": "1.06 LU",
     "bujur": "126.19 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "119 km",
     "wilayah": "205 km Tenggara SERAMBAGIANTIMUR-MALUKU"
-  },
-  {
-    "waktu": "24 Apr 2026 11:45:19 WIB",
-    "lintang": "1.18 LU",
-    "bujur": "126.42 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "12 km",
-    "wilayah": "114 km BaratLaut TERNATE-MALUT"
   }
 ]
