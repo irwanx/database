@@ -1,11 +1,27 @@
 [
   {
+    "waktu": "26 Mei 2026 16:30:12 WIB",
+    "lintang": "3.22 LS",
+    "bujur": "129.01 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "10 km",
+    "dirasakan": "I-II Amahai"
+  },
+  {
+    "waktu": "26 Mei 2026 15:39:10 WIB",
+    "lintang": "9.01 LS",
+    "bujur": "113.84 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "dirasakan": "IV Jember, III Bondowoso, III Malang, II Blitar, III-IV Banyuwangi, II-III Denpasar, II Trenggalek, III Kuta, III Kuta Selatan"
+  },
+  {
     "waktu": "26 Mei 2026 03:39:21 WIB",
     "lintang": "1.06 LU",
     "bujur": "126.19 BT",
     "magnitudo": "5.7",
     "kedalaman": "22 km",
-    "dirasakan": "III Ternate, III Manado, III Tondano"
+    "dirasakan": "III Ternate, III Manado, III Tondano, III Bolaang Mongondow Timur, III Tomohon, III Bitung"
   },
   {
     "waktu": "24 Mei 2026 22:33:11 WIB",
@@ -102,21 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "10 km",
     "dirasakan": "III Luwu Timur"
-  },
-  {
-    "waktu": "20 Mei 2026 17:28:50 WIB",
-    "lintang": "8.09 LS",
-    "bujur": "119.21 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "12 km",
-    "dirasakan": "III Kota Bima, III Kab. Bima, III Kab. Dompu"
-  },
-  {
-    "waktu": "20 Mei 2026 09:03:27 WIB",
-    "lintang": "2.44 LU",
-    "bujur": "96.20 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "16 km",
-    "dirasakan": "II-III Simeulue"
   }
 ]

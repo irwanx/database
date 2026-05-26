@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26 Mei 2026 15:39:10 WIB",
+    "lintang": "9.01 LS",
+    "bujur": "113.84 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "wilayah": "93 km Tenggara JEMBER-JATIM"
+  },
+  {
     "waktu": "26 Mei 2026 05:03:43 WIB",
     "lintang": "3.96 LS",
     "bujur": "133.99 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "12 km",
     "wilayah": "33 km TimurLaut RANSIKI-PAPUABRT"
-  },
-  {
-    "waktu": "25 Apr 2026 16:07:07 WIB",
-    "lintang": "4.95 LS",
-    "bujur": "130.63 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "119 km",
-    "wilayah": "205 km Tenggara SERAMBAGIANTIMUR-MALUKU"
   }
 ]
