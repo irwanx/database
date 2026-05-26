@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Mei 2026 02:49:05 WIB",
+    "lintang": "4.12 LU",
+    "bujur": "97.48 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "4 km",
+    "dirasakan": "III Aceh Tamiang, II Langsa, II Aceh Tengah"
+  },
+  {
     "waktu": "26 Mei 2026 16:30:12 WIB",
     "lintang": "3.22 LS",
     "bujur": "129.01 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.3",
     "kedalaman": "5 km",
     "dirasakan": "II-III Ulu Belu"
-  },
-  {
-    "waktu": "20 Mei 2026 20:50:40 WIB",
-    "lintang": "2.44 LS",
-    "bujur": "120.98 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 km",
-    "dirasakan": "III Luwu Timur"
   }
 ]
