@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "29 Mei 2026 04:43:40 WIB",
+    "lintang": "8.49 LS",
+    "bujur": "116.07 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "13 km",
+    "dirasakan": "II Kota Mataram , II Lombok Barat"
+  },
+  {
+    "waktu": "29 Mei 2026 03:59:10 WIB",
+    "lintang": "8.37 LS",
+    "bujur": "109.03 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "30 km",
+    "dirasakan": "II-III Cilacap"
+  },
+  {
     "waktu": "29 Mei 2026 03:03:25 WIB",
     "lintang": "8.53 LS",
     "bujur": "116.08 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "10 km",
     "dirasakan": "II Kota Jayapura, II Kabupaten Jayapura"
-  },
-  {
-    "waktu": "21 Mei 2026 11:56:40 WIB",
-    "lintang": "6.87 LS",
-    "bujur": "106.79 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "15 km",
-    "dirasakan": "II-III Ciambar, III Cibadak"
-  },
-  {
-    "waktu": "21 Mei 2026 04:04:56 WIB",
-    "lintang": "8.34 LS",
-    "bujur": "108.25 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "23 km",
-    "dirasakan": "III Tasikmalaya, III Garut, II-III Ciamis"
   }
 ]
