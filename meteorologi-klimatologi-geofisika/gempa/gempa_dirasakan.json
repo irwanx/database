@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Mei 2026 03:03:25 WIB",
+    "lintang": "8.53 LS",
+    "bujur": "116.08 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "11 km",
+    "dirasakan": "III Kota Mataram , III Kab. Lombok Utara, III Kab. Lombok Barat, II Kab. Lombok Tengah"
+  },
+  {
     "waktu": "27 Mei 2026 02:49:05 WIB",
     "lintang": "4.12 LU",
     "bujur": "97.48 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "23 km",
     "dirasakan": "III Tasikmalaya, III Garut, II-III Ciamis"
-  },
-  {
-    "waktu": "20 Mei 2026 22:25:22 WIB",
-    "lintang": "5.33 LS",
-    "bujur": "104.63 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Ulu Belu"
   }
 ]
