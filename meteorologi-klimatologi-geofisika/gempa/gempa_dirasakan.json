@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Mei 2026 13:25:21 WIB",
+    "lintang": "2.56 LU",
+    "bujur": "98.64 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "4 km",
+    "dirasakan": "II Samosir"
+  },
+  {
     "waktu": "29 Mei 2026 06:20:01 WIB",
     "lintang": "8.53 LS",
     "bujur": "116.08 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "10 km",
     "dirasakan": "III Gayo Lues, III Sentang Blangkejeren"
-  },
-  {
-    "waktu": "22 Mei 2026 08:05:09 WIB",
-    "lintang": "1.07 LU",
-    "bujur": "126.18 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "26 km",
-    "dirasakan": "III-IV Batang Dua, II-III Sofifi, II-III Halmahera Barat, II-III Tidore, II-III Manado, III Ternate, III MInahasa Utara"
   }
 ]
