@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30 Mei 2026 04:46:49 WIB",
+    "lintang": "3.56 LS",
+    "bujur": "122.28 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "4 km",
+    "dirasakan": "III Konawe Utara"
+  },
+  {
     "waktu": "29 Mei 2026 22:37:35 WIB",
     "lintang": "6.87 LS",
     "bujur": "108.46 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "17 km",
     "dirasakan": "III-IV Bengkulu Selatan, III-IV Kaur, III-IV Seluma Kota Bengkulu, III Kepahiang, III Rejang Lebong, III Musi Rawas"
-  },
-  {
-    "waktu": "23 Mei 2026 00:05:37 WIB",
-    "lintang": "2.29 LS",
-    "bujur": "140.49 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "5 km",
-    "dirasakan": "II Kab. Jayapura"
   }
 ]
