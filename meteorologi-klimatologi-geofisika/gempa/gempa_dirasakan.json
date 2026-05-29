@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Mei 2026 06:20:01 WIB",
+    "lintang": "8.53 LS",
+    "bujur": "116.08 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 km",
+    "dirasakan": "II Kota Mataram , II Lombok Barat, II Lombok Tengah"
+  },
+  {
     "waktu": "29 Mei 2026 04:43:40 WIB",
     "lintang": "8.49 LS",
     "bujur": "116.07 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.8",
     "kedalaman": "26 km",
     "dirasakan": "III-IV Batang Dua, II-III Sofifi, II-III Halmahera Barat, II-III Tidore, II-III Manado, III Ternate, III MInahasa Utara"
-  },
-  {
-    "waktu": "22 Mei 2026 07:10:31 WIB",
-    "lintang": "2.32 LS",
-    "bujur": "140.50 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 km",
-    "dirasakan": "II Kota Jayapura, II Kabupaten Jayapura"
   }
 ]
