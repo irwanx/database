@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Mei 2026 22:37:35 WIB",
+    "lintang": "6.87 LS",
+    "bujur": "108.46 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "14 km",
+    "dirasakan": "II Kuningan"
+  },
+  {
     "waktu": "29 Mei 2026 21:50:23 WIB",
     "lintang": "5.33 LS",
     "bujur": "104.62 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "5 km",
     "dirasakan": "II Kab. Jayapura"
-  },
-  {
-    "waktu": "22 Mei 2026 20:39:23 WIB",
-    "lintang": "4.71 LS",
-    "bujur": "103.10 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kaur, III Muara Sahung, II Muara Dua, II Oku Selatan, II Lemong, II Pesisir Barat"
   }
 ]
