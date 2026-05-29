@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "29 Mei 2026 21:50:23 WIB",
+    "lintang": "5.33 LS",
+    "bujur": "104.62 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "4 km",
+    "dirasakan": "I-II Ulu Belu Tanggamus"
+  },
+  {
+    "waktu": "29 Mei 2026 21:34:43 WIB",
+    "lintang": "3.56 LS",
+    "bujur": "122.30 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "4 km",
+    "dirasakan": "III-IV Konawe Utara, III-IV Kendari, III Konawe Selatan, III Konawe"
+  },
+  {
     "waktu": "29 Mei 2026 13:25:21 WIB",
     "lintang": "2.56 LU",
     "bujur": "98.64 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "10 km",
     "dirasakan": "III Kaur, III Muara Sahung, II Muara Dua, II Oku Selatan, II Lemong, II Pesisir Barat"
-  },
-  {
-    "waktu": "22 Mei 2026 20:13:17 WIB",
-    "lintang": "4.61 LS",
-    "bujur": "122.45 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "6 km",
-    "dirasakan": "II-III Muna Barat"
-  },
-  {
-    "waktu": "22 Mei 2026 13:28:00 WIB",
-    "lintang": "4.19 LU",
-    "bujur": "97.55 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 km",
-    "dirasakan": "III Gayo Lues, III Sentang Blangkejeren"
   }
 ]
