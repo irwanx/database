@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "01 Jun 2026 04:30:07 WIB",
+    "lintang": "8.89 LS",
+    "bujur": "117.64 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 km",
+    "dirasakan": "III Kab. Sumbawa, III Kab. Sumbawa Barat"
+  },
+  {
+    "waktu": "01 Jun 2026 04:28:19 WIB",
+    "lintang": "2.01 LS",
+    "bujur": "140.27 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "7 km",
+    "dirasakan": "II Kota Jayapura, II Kab. Jayapura"
+  },
+  {
     "waktu": "30 Mei 2026 04:46:49 WIB",
     "lintang": "3.56 LS",
     "bujur": "122.28 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.7",
     "kedalaman": "22 km",
     "dirasakan": "III Ternate, III Manado, III Tondano, III Bolaang Mongondow Timur, III Tomohon, III Bitung"
-  },
-  {
-    "waktu": "24 Mei 2026 22:33:11 WIB",
-    "lintang": "0.98 LU",
-    "bujur": "126.15 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "22 km",
-    "dirasakan": "II-III Manado, II-III Bitung, II-III MInahasa Utara, II-III Minahasa Tenggara"
-  },
-  {
-    "waktu": "23 Mei 2026 19:40:26 WIB",
-    "lintang": "4.67 LS",
-    "bujur": "102.57 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "17 km",
-    "dirasakan": "III-IV Bengkulu Selatan, III-IV Kaur, III-IV Seluma Kota Bengkulu, III Kepahiang, III Rejang Lebong, III Musi Rawas"
   }
 ]
