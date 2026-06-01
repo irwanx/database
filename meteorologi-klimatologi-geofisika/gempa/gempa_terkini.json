@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Jun 2026 06:01:16 WIB",
+    "lintang": "1.94 LS",
+    "bujur": "138.95 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 km",
+    "wilayah": "22 km Tenggara SARMI-PAPUA"
+  },
+  {
     "waktu": "28 Mei 2026 08:46:21 WIB",
     "lintang": "10.55 LS",
     "bujur": "124.49 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.6",
     "kedalaman": "114 km",
     "wilayah": "201 km BaratLaut MALUKUTENGGARA"
-  },
-  {
-    "waktu": "02 Mei 2026 01:52:47 WIB",
-    "lintang": "7.52 LS",
-    "bujur": "128.53 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "199 km",
-    "wilayah": "107 km TimurLaut MALUKUBRTDAYA"
   }
 ]
