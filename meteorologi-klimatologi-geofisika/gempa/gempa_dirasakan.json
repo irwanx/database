@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Jun 2026 17:32:23 WIB",
+    "lintang": "5.32 LS",
+    "bujur": "104.60 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "9 km",
+    "dirasakan": "II-III Tanggamus, II-III Ulu Belu"
+  },
+  {
     "waktu": "01 Jun 2026 04:30:07 WIB",
     "lintang": "8.89 LS",
     "bujur": "117.64 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 km",
     "dirasakan": "IV Jember, III Bondowoso, III Malang, II Blitar, III-IV Banyuwangi, II-III Denpasar, II Trenggalek, III Kuta, III Kuta Selatan"
-  },
-  {
-    "waktu": "26 Mei 2026 03:39:21 WIB",
-    "lintang": "1.06 LU",
-    "bujur": "126.19 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "22 km",
-    "dirasakan": "III Ternate, III Manado, III Tondano, III Bolaang Mongondow Timur, III Tomohon, III Bitung"
   }
 ]
