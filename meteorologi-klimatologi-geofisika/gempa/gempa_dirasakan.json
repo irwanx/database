@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Jun 2026 02:39:49 WIB",
+    "lintang": "3.96 LS",
+    "bujur": "122.52 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "6 km",
+    "dirasakan": "II-III Kendari"
+  },
+  {
     "waktu": "02 Jun 2026 09:17:04 WIB",
     "lintang": "3.67 LS",
     "bujur": "135.41 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "11 km",
     "dirasakan": "III Kota Mataram , III Kab. Lombok Utara, III Kab. Lombok Barat, II Kab. Lombok Tengah"
-  },
-  {
-    "waktu": "27 Mei 2026 02:49:05 WIB",
-    "lintang": "4.12 LU",
-    "bujur": "97.48 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "4 km",
-    "dirasakan": "III Aceh Tamiang, II Langsa, II Aceh Tengah"
   }
 ]
