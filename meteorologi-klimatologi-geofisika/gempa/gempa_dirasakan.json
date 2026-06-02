@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "02 Jun 2026 09:17:04 WIB",
+    "lintang": "3.67 LS",
+    "bujur": "135.41 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "13 km",
+    "dirasakan": "II-III Nabire"
+  },
+  {
+    "waktu": "02 Jun 2026 06:01:16 WIB",
+    "lintang": "1.94 LS",
+    "bujur": "138.95 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 km",
+    "dirasakan": "IV Sarmi"
+  },
+  {
     "waktu": "01 Jun 2026 17:32:23 WIB",
     "lintang": "5.32 LS",
     "bujur": "104.60 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "4 km",
     "dirasakan": "III Aceh Tamiang, II Langsa, II Aceh Tengah"
-  },
-  {
-    "waktu": "26 Mei 2026 16:30:12 WIB",
-    "lintang": "3.22 LS",
-    "bujur": "129.01 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "10 km",
-    "dirasakan": "I-II Amahai"
-  },
-  {
-    "waktu": "26 Mei 2026 15:39:10 WIB",
-    "lintang": "9.01 LS",
-    "bujur": "113.84 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 km",
-    "dirasakan": "IV Jember, III Bondowoso, III Malang, II Blitar, III-IV Banyuwangi, II-III Denpasar, II Trenggalek, III Kuta, III Kuta Selatan"
   }
 ]
