@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Jun 2026 23:55:38 WIB",
+    "lintang": "8.24 LS",
+    "bujur": "120.14 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "164 km",
+    "dirasakan": "III Waingapu"
+  },
+  {
     "waktu": "03 Jun 2026 17:18:23 WIB",
     "lintang": "4.11 LS",
     "bujur": "121.81 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.4",
     "kedalaman": "14 km",
     "dirasakan": "II Kuningan"
-  },
-  {
-    "waktu": "29 Mei 2026 21:50:23 WIB",
-    "lintang": "5.33 LS",
-    "bujur": "104.62 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "4 km",
-    "dirasakan": "I-II Ulu Belu Tanggamus"
   }
 ]

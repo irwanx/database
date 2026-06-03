@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Jun 2026 23:55:38 WIB",
+    "lintang": "8.24 LS",
+    "bujur": "120.14 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "164 km",
+    "wilayah": "39 km TimurLaut LABUANBAJO-NTT"
+  },
+  {
     "waktu": "02 Jun 2026 06:01:16 WIB",
     "lintang": "1.94 LS",
     "bujur": "138.95 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "188 km",
     "wilayah": "210 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "02 Mei 2026 17:27:11 WIB",
-    "lintang": "5.64 LS",
-    "bujur": "130.92 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "114 km",
-    "wilayah": "201 km BaratLaut MALUKUTENGGARA"
   }
 ]
