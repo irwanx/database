@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "03 Jun 2026 08:51:45 WIB",
+    "lintang": "4.63 LS",
+    "bujur": "122.38 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "4 km",
+    "dirasakan": "II Muna Barat , II Konawe Selatan"
+  },
+  {
+    "waktu": "03 Jun 2026 08:00:38 WIB",
+    "lintang": "3.54 LS",
+    "bujur": "122.26 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Konawe Utara"
+  },
+  {
+    "waktu": "03 Jun 2026 06:53:16 WIB",
+    "lintang": "3.56 LS",
+    "bujur": "122.25 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "9 km",
+    "dirasakan": "II-III Konawe Utara"
+  },
+  {
+    "waktu": "03 Jun 2026 06:46:48 WIB",
+    "lintang": "3.54 LS",
+    "bujur": "122.27 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "6 km",
+    "dirasakan": "II-III Konawe Utara"
+  },
+  {
     "waktu": "03 Jun 2026 02:39:49 WIB",
     "lintang": "3.96 LS",
     "bujur": "122.52 BT",
@@ -86,37 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "4 km",
     "dirasakan": "II Samosir"
-  },
-  {
-    "waktu": "29 Mei 2026 06:20:01 WIB",
-    "lintang": "8.53 LS",
-    "bujur": "116.08 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 km",
-    "dirasakan": "II Kota Mataram , II Lombok Barat, II Lombok Tengah"
-  },
-  {
-    "waktu": "29 Mei 2026 04:43:40 WIB",
-    "lintang": "8.49 LS",
-    "bujur": "116.07 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "13 km",
-    "dirasakan": "II Kota Mataram , II Lombok Barat"
-  },
-  {
-    "waktu": "29 Mei 2026 03:59:10 WIB",
-    "lintang": "8.37 LS",
-    "bujur": "109.03 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "30 km",
-    "dirasakan": "II-III Cilacap"
-  },
-  {
-    "waktu": "29 Mei 2026 03:03:25 WIB",
-    "lintang": "8.53 LS",
-    "bujur": "116.08 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "11 km",
-    "dirasakan": "III Kota Mataram , III Kab. Lombok Utara, III Kab. Lombok Barat, II Kab. Lombok Tengah"
   }
 ]
