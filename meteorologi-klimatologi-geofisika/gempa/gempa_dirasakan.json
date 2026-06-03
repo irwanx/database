@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "03 Jun 2026 17:18:23 WIB",
+    "lintang": "4.11 LS",
+    "bujur": "121.81 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "5 km",
+    "dirasakan": "III Kolaka Timur, III Konawe Selatan"
+  },
+  {
+    "waktu": "03 Jun 2026 10:29:40 WIB",
+    "lintang": "3.52 LS",
+    "bujur": "122.29 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "10 km",
+    "dirasakan": "II Konawe Utara"
+  },
+  {
     "waktu": "03 Jun 2026 08:51:45 WIB",
     "lintang": "4.63 LS",
     "bujur": "122.38 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.0",
     "kedalaman": "4 km",
     "dirasakan": "I-II Ulu Belu Tanggamus"
-  },
-  {
-    "waktu": "29 Mei 2026 21:34:43 WIB",
-    "lintang": "3.56 LS",
-    "bujur": "122.30 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "4 km",
-    "dirasakan": "III-IV Konawe Utara, III-IV Kendari, III Konawe Selatan, III Konawe"
-  },
-  {
-    "waktu": "29 Mei 2026 13:25:21 WIB",
-    "lintang": "2.56 LU",
-    "bujur": "98.64 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "4 km",
-    "dirasakan": "II Samosir"
   }
 ]
