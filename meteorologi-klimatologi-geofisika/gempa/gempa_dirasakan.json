@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04 Jun 2026 05:58:46 WIB",
+    "lintang": "3.92 LS",
+    "bujur": "122.59 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "4 km",
+    "dirasakan": "III Kendari"
+  },
+  {
     "waktu": "03 Jun 2026 23:55:38 WIB",
     "lintang": "8.24 LS",
     "bujur": "120.14 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "4 km",
     "dirasakan": "III Konawe Utara"
-  },
-  {
-    "waktu": "29 Mei 2026 22:37:35 WIB",
-    "lintang": "6.87 LS",
-    "bujur": "108.46 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "14 km",
-    "dirasakan": "II Kuningan"
   }
 ]
