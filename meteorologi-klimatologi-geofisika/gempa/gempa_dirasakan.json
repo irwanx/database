@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04 Jun 2026 11:37:30 WIB",
+    "lintang": "0.80 LS",
+    "bujur": "133.32 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "19 km",
+    "dirasakan": "II-III Kab. Manokwari"
+  },
+  {
     "waktu": "04 Jun 2026 05:58:46 WIB",
     "lintang": "3.92 LS",
     "bujur": "122.59 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "7 km",
     "dirasakan": "II Kota Jayapura, II Kab. Jayapura"
-  },
-  {
-    "waktu": "30 Mei 2026 04:46:49 WIB",
-    "lintang": "3.56 LS",
-    "bujur": "122.28 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "4 km",
-    "dirasakan": "III Konawe Utara"
   }
 ]
