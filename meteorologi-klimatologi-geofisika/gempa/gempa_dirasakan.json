@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Jun 2026 22:57:07 WIB",
+    "lintang": "7.81 LS",
+    "bujur": "127.32 BT",
+    "magnitudo": "6.0",
+    "kedalaman": "120 km",
+    "dirasakan": "III Tiakur"
+  },
+  {
     "waktu": "05 Jun 2026 14:02:39 WIB",
     "lintang": "3.53 LS",
     "bujur": "122.26 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 km",
     "dirasakan": "IV Sarmi"
-  },
-  {
-    "waktu": "01 Jun 2026 17:32:23 WIB",
-    "lintang": "5.32 LS",
-    "bujur": "104.60 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "9 km",
-    "dirasakan": "II-III Tanggamus, II-III Ulu Belu"
   }
 ]
