@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Jun 2026 04:35:38 WIB",
+    "lintang": "0.54 LU",
+    "bujur": "99.56 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "5 km",
+    "dirasakan": "III Mandailing Natal"
+  },
+  {
     "waktu": "05 Jun 2026 22:57:07 WIB",
     "lintang": "7.81 LS",
     "bujur": "127.32 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "13 km",
     "dirasakan": "II-III Nabire"
-  },
-  {
-    "waktu": "02 Jun 2026 06:01:16 WIB",
-    "lintang": "1.94 LS",
-    "bujur": "138.95 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 km",
-    "dirasakan": "IV Sarmi"
   }
 ]
