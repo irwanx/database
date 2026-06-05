@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Jun 2026 14:02:39 WIB",
+    "lintang": "3.53 LS",
+    "bujur": "122.26 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "8 km",
+    "dirasakan": "III Konawe Utara"
+  },
+  {
     "waktu": "05 Jun 2026 06:28:33 WIB",
     "lintang": "0.18 LS",
     "bujur": "123.13 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.8",
     "kedalaman": "9 km",
     "dirasakan": "II-III Tanggamus, II-III Ulu Belu"
-  },
-  {
-    "waktu": "01 Jun 2026 04:30:07 WIB",
-    "lintang": "8.89 LS",
-    "bujur": "117.64 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kab. Sumbawa, III Kab. Sumbawa Barat"
   }
 ]
