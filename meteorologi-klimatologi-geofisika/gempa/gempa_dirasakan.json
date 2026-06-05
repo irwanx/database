@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Jun 2026 06:28:33 WIB",
+    "lintang": "0.18 LS",
+    "bujur": "123.13 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "91 km",
+    "dirasakan": "III-IV Luwuk, III Gorontalo, II Taliabu, III-IV Bone Bolango, II-III Pohuwatu, II-III Boalemo, II-III Gorontalo Utara"
+  },
+  {
     "waktu": "04 Jun 2026 11:37:30 WIB",
     "lintang": "0.80 LS",
     "bujur": "133.32 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.9",
     "kedalaman": "10 km",
     "dirasakan": "III Kab. Sumbawa, III Kab. Sumbawa Barat"
-  },
-  {
-    "waktu": "01 Jun 2026 04:28:19 WIB",
-    "lintang": "2.01 LS",
-    "bujur": "140.27 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "7 km",
-    "dirasakan": "II Kota Jayapura, II Kab. Jayapura"
   }
 ]

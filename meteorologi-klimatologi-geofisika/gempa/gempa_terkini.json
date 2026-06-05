@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Jun 2026 06:28:33 WIB",
+    "lintang": "0.18 LS",
+    "bujur": "123.13 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "91 km",
+    "wilayah": "70 km TimurLaut PULAUPUAH-SULTENG"
+  },
+  {
     "waktu": "03 Jun 2026 23:55:38 WIB",
     "lintang": "8.24 LS",
     "bujur": "120.14 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.0",
     "kedalaman": "10 km",
     "wilayah": "37 km BaratDaya WANOKAKA-NTT"
-  },
-  {
-    "waktu": "05 Mei 2026 09:38:50 WIB",
-    "lintang": "6.41 LS",
-    "bujur": "130.23 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "188 km",
-    "wilayah": "210 km BaratLaut TANIMBAR"
   }
 ]
