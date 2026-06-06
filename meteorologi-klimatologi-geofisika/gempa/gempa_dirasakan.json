@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "06 Jun 2026 19:57:14 WIB",
+    "lintang": "6.92 LS",
+    "bujur": "107.12 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "7 km",
+    "dirasakan": "II-III Cianjur, II-III Cibeber, II-III Cilaku, II-III Warungkondang, II-III Cugenang, II-III Campaka, II Sukabumi"
+  },
+  {
+    "waktu": "06 Jun 2026 17:18:30 WIB",
+    "lintang": "5.34 LS",
+    "bujur": "104.73 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "3 km",
+    "dirasakan": "II-III Tanggamus"
+  },
+  {
     "waktu": "06 Jun 2026 04:35:38 WIB",
     "lintang": "0.54 LU",
     "bujur": "99.56 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.4",
     "kedalaman": "6 km",
     "dirasakan": "II-III Konawe Utara"
-  },
-  {
-    "waktu": "03 Jun 2026 02:39:49 WIB",
-    "lintang": "3.96 LS",
-    "bujur": "122.52 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "6 km",
-    "dirasakan": "II-III Kendari"
-  },
-  {
-    "waktu": "02 Jun 2026 09:17:04 WIB",
-    "lintang": "3.67 LS",
-    "bujur": "135.41 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "13 km",
-    "dirasakan": "II-III Nabire"
   }
 ]
