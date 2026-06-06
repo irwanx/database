@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Jun 2026 01:56:47 WIB",
+    "lintang": "0.26 LS",
+    "bujur": "125.07 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "10 km",
+    "wilayah": "124 km Tenggara TUTUYAN-BOLTIM-SULUT"
+  },
+  {
     "waktu": "05 Jun 2026 22:57:07 WIB",
     "lintang": "7.81 LS",
     "bujur": "127.32 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.7",
     "kedalaman": "163 km",
     "wilayah": "224 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "12 Mei 2026 15:54:00 WIB",
-    "lintang": "4.64 LU",
-    "bujur": "127.35 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "89 km",
-    "wilayah": "32 km Tenggara PULAUKARATUNG-SULUT"
   }
 ]
