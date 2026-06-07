@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Jun 2026 20:06:08 WIB",
+    "lintang": "2.50 LU",
+    "bujur": "96.13 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Simeulue"
+  },
+  {
     "waktu": "07 Jun 2026 13:13:31 WIB",
     "lintang": "4.68 LU",
     "bujur": "96.79 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "164 km",
     "dirasakan": "III Waingapu"
-  },
-  {
-    "waktu": "03 Jun 2026 17:18:23 WIB",
-    "lintang": "4.11 LS",
-    "bujur": "121.81 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "5 km",
-    "dirasakan": "III Kolaka Timur, III Konawe Selatan"
   }
 ]
