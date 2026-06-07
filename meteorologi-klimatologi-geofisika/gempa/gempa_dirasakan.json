@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Jun 2026 09:35:35 WIB",
+    "lintang": "8.12 LS",
+    "bujur": "107.89 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "7 km",
+    "dirasakan": "II Parigi"
+  },
+  {
     "waktu": "06 Jun 2026 19:57:14 WIB",
     "lintang": "6.92 LS",
     "bujur": "107.12 BT",
@@ -109,14 +117,6 @@
     "bujur": "122.25 BT",
     "magnitudo": "3.5",
     "kedalaman": "9 km",
-    "dirasakan": "II-III Konawe Utara"
-  },
-  {
-    "waktu": "03 Jun 2026 06:46:48 WIB",
-    "lintang": "3.54 LS",
-    "bujur": "122.27 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "6 km",
     "dirasakan": "II-III Konawe Utara"
   }
 ]
