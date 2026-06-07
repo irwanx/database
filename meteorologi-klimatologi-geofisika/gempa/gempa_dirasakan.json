@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "07 Jun 2026 13:13:31 WIB",
+    "lintang": "4.68 LU",
+    "bujur": "96.79 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Bener Meriah"
+  },
+  {
+    "waktu": "07 Jun 2026 13:01:18 WIB",
+    "lintang": "4.67 LU",
+    "bujur": "96.83 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Bener Meriah"
+  },
+  {
+    "waktu": "07 Jun 2026 12:53:04 WIB",
+    "lintang": "4.77 LU",
+    "bujur": "96.77 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Bener Meriah"
+  },
+  {
+    "waktu": "07 Jun 2026 12:32:24 WIB",
+    "lintang": "4.74 LU",
+    "bujur": "96.75 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Bener Meriah, III-IV Takengon"
+  },
+  {
     "waktu": "07 Jun 2026 09:35:35 WIB",
     "lintang": "8.12 LS",
     "bujur": "107.89 BT",
@@ -86,37 +118,5 @@
     "magnitudo": "2.9",
     "kedalaman": "5 km",
     "dirasakan": "III Kolaka Timur, III Konawe Selatan"
-  },
-  {
-    "waktu": "03 Jun 2026 10:29:40 WIB",
-    "lintang": "3.52 LS",
-    "bujur": "122.29 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "10 km",
-    "dirasakan": "II Konawe Utara"
-  },
-  {
-    "waktu": "03 Jun 2026 08:51:45 WIB",
-    "lintang": "4.63 LS",
-    "bujur": "122.38 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "4 km",
-    "dirasakan": "II Muna Barat , II Konawe Selatan"
-  },
-  {
-    "waktu": "03 Jun 2026 08:00:38 WIB",
-    "lintang": "3.54 LS",
-    "bujur": "122.26 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Konawe Utara"
-  },
-  {
-    "waktu": "03 Jun 2026 06:53:16 WIB",
-    "lintang": "3.56 LS",
-    "bujur": "122.25 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "9 km",
-    "dirasakan": "II-III Konawe Utara"
   }
 ]
