@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "08 Jun 2026 21:52:59 WIB",
+    "lintang": "5.69 LU",
+    "bujur": "124.71 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 km",
+    "wilayah": "246 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
+    "waktu": "08 Jun 2026 20:37:50 WIB",
+    "lintang": "5.33 LU",
+    "bujur": "125.08 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "wilayah": "196 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
+    "waktu": "08 Jun 2026 18:22:28 WIB",
+    "lintang": "5.50 LU",
+    "bujur": "125.21 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 km",
+    "wilayah": "212 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
     "waktu": "08 Jun 2026 16:28:25 WIB",
     "lintang": "5.18 LU",
     "bujur": "125.27 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "5.7",
     "kedalaman": "10 km",
     "wilayah": "124 km Tenggara TUTUYAN-BOLTIM-SULUT"
-  },
-  {
-    "waktu": "05 Jun 2026 22:57:07 WIB",
-    "lintang": "7.81 LS",
-    "bujur": "127.32 BT",
-    "magnitudo": "6.0",
-    "kedalaman": "120 km",
-    "wilayah": "64 km BaratLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "05 Jun 2026 06:28:33 WIB",
-    "lintang": "0.18 LS",
-    "bujur": "123.13 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "91 km",
-    "wilayah": "70 km TimurLaut PULAUPUAH-SULTENG"
-  },
-  {
-    "waktu": "03 Jun 2026 23:55:38 WIB",
-    "lintang": "8.24 LS",
-    "bujur": "120.14 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "164 km",
-    "wilayah": "39 km TimurLaut LABUANBAJO-NTT"
   }
 ]
