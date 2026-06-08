@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Jun 2026 04:55:59 WIB",
+    "lintang": "3.57 LS",
+    "bujur": "122.35 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "7 km",
+    "dirasakan": "III Konawe Utara"
+  },
+  {
     "waktu": "08 Jun 2026 23:09:52 WIB",
     "lintang": "3.55 LS",
     "bujur": "122.25 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "7 km",
     "dirasakan": "II-III Cianjur, II-III Cibeber, II-III Cilaku, II-III Warungkondang, II-III Cugenang, II-III Campaka, II Sukabumi"
-  },
-  {
-    "waktu": "06 Jun 2026 17:18:30 WIB",
-    "lintang": "5.34 LS",
-    "bujur": "104.73 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "3 km",
-    "dirasakan": "II-III Tanggamus"
   }
 ]
