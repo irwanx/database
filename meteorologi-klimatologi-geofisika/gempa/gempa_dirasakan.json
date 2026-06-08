@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "08 Jun 2026 23:09:52 WIB",
+    "lintang": "3.55 LS",
+    "bujur": "122.25 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "5 km",
+    "dirasakan": "III Konawe Utara"
+  },
+  {
+    "waktu": "08 Jun 2026 23:09:13 WIB",
+    "lintang": "3.54 LS",
+    "bujur": "122.30 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "3 km",
+    "dirasakan": ""
+  },
+  {
     "waktu": "08 Jun 2026 13:39:24 WIB",
     "lintang": "0.88 LS",
     "bujur": "100.25 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.8",
     "kedalaman": "3 km",
     "dirasakan": "II-III Tanggamus"
-  },
-  {
-    "waktu": "06 Jun 2026 04:35:38 WIB",
-    "lintang": "0.54 LU",
-    "bujur": "99.56 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "5 km",
-    "dirasakan": "III Mandailing Natal"
-  },
-  {
-    "waktu": "05 Jun 2026 22:57:07 WIB",
-    "lintang": "7.81 LS",
-    "bujur": "127.32 BT",
-    "magnitudo": "6.0",
-    "kedalaman": "120 km",
-    "dirasakan": "III Tiakur"
   }
 ]
