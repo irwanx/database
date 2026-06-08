@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "08 Jun 2026 08:10:54 WIB",
+    "lintang": "5.13 LU",
+    "bujur": "125.18 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "151 km",
+    "wilayah": "172 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
+    "waktu": "08 Jun 2026 07:55:10 WIB",
+    "lintang": "5.41 LU",
+    "bujur": "125.29 BT",
+    "magnitudo": "6.0",
+    "kedalaman": "10 km",
+    "wilayah": "201 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
+    "waktu": "08 Jun 2026 07:18:18 WIB",
+    "lintang": "5.51 LU",
+    "bujur": "125.33 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "10 km",
+    "wilayah": "211 km BaratLaut PULAUKARATUNG-SULUT"
+  },
+  {
+    "waktu": "08 Jun 2026 07:11:05 WIB",
+    "lintang": "5.81 LU",
+    "bujur": "125.18 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "10 km",
+    "wilayah": "241 km BaratLaut PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "07 Jun 2026 09:53:06 WIB",
     "lintang": "7.66 LS",
     "bujur": "128.47 BT",
@@ -86,37 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "136 km",
     "wilayah": "115 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "23 Mei 2026 19:40:26 WIB",
-    "lintang": "4.67 LS",
-    "bujur": "102.57 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "17 km",
-    "wilayah": "45 km BaratDaya BENGKULUSELATAN"
-  },
-  {
-    "waktu": "22 Mei 2026 08:05:09 WIB",
-    "lintang": "1.07 LU",
-    "bujur": "126.18 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "26 km",
-    "wilayah": "124 km Tenggara BITUNG-SULUT"
-  },
-  {
-    "waktu": "21 Mei 2026 06:12:56 WIB",
-    "lintang": "6.06 LS",
-    "bujur": "130.47 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "137 km",
-    "wilayah": "231 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "20 Mei 2026 17:28:50 WIB",
-    "lintang": "8.09 LS",
-    "bujur": "119.21 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "12 km",
-    "wilayah": "65 km TimurLaut KOTA-BIMA-NTB"
   }
 ]
