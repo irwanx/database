@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "09 Jun 2026 14:00:55 WIB",
+    "lintang": "3.59 LS",
+    "bujur": "122.32 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 km",
+    "dirasakan": "III Konawe Utara"
+  },
+  {
+    "waktu": "09 Jun 2026 13:15:14 WIB",
+    "lintang": "5.27 LU",
+    "bujur": "125.32 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "dirasakan": "II Kep. Sangihe"
+  },
+  {
+    "waktu": "09 Jun 2026 11:33:45 WIB",
+    "lintang": "6.70 LS",
+    "bujur": "107.59 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Ciater, II-III Sagalaherang, II-III Serangpanjang"
+  },
+  {
     "waktu": "09 Jun 2026 04:55:59 WIB",
     "lintang": "3.57 LS",
     "bujur": "122.35 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "5 km",
     "dirasakan": "II-III Bener Meriah"
-  },
-  {
-    "waktu": "07 Jun 2026 12:32:24 WIB",
-    "lintang": "4.74 LU",
-    "bujur": "96.75 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Bener Meriah, III-IV Takengon"
-  },
-  {
-    "waktu": "07 Jun 2026 09:35:35 WIB",
-    "lintang": "8.12 LS",
-    "bujur": "107.89 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "7 km",
-    "dirasakan": "II Parigi"
-  },
-  {
-    "waktu": "06 Jun 2026 19:57:14 WIB",
-    "lintang": "6.92 LS",
-    "bujur": "107.12 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "7 km",
-    "dirasakan": "II-III Cianjur, II-III Cibeber, II-III Cilaku, II-III Warungkondang, II-III Cugenang, II-III Campaka, II Sukabumi"
   }
 ]
