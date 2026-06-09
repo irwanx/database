@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Jun 2026 00:40:18 WIB",
+    "lintang": "1.29 LU",
+    "bujur": "126.42 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "13 km",
+    "dirasakan": "II-III Pulau Batang Dua"
+  },
+  {
     "waktu": "09 Jun 2026 14:00:55 WIB",
     "lintang": "3.59 LS",
     "bujur": "122.32 BT",
@@ -108,14 +116,6 @@
     "lintang": "4.67 LU",
     "bujur": "96.83 BT",
     "magnitudo": "2.5",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Bener Meriah"
-  },
-  {
-    "waktu": "07 Jun 2026 12:53:04 WIB",
-    "lintang": "4.77 LU",
-    "bujur": "96.77 BT",
-    "magnitudo": "2.6",
     "kedalaman": "5 km",
     "dirasakan": "II-III Bener Meriah"
   }
