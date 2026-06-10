@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "10 Jun 2026 21:45:26 WIB",
+    "lintang": "1.03 LU",
+    "bujur": "96.98 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "7 km",
+    "dirasakan": "IV Lahewa, Kab. Nias Utara, IV Sirombu, Kab. Nias Barat, III Gunung Sitoli"
+  },
+  {
+    "waktu": "10 Jun 2026 20:08:44 WIB",
+    "lintang": "1.23 LU",
+    "bujur": "96.60 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "6 km",
+    "dirasakan": "II-III Sirombu"
+  },
+  {
     "waktu": "10 Jun 2026 11:01:53 WIB",
     "lintang": "1.25 LU",
     "bujur": "117.86 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "7.7",
     "kedalaman": "105 km",
     "dirasakan": "IV Morotai, IV Halmahera Utara, IV Toli-Toli, III-IV Kab. Gorontalo Utara, III Batang Dua, III Ternate, III Halmahera Barat, III Gorontalo, III Halmahera Selatan, III Halmahera Timur, III Parigi Moutong, III Manado, III Minahasa, III Palu, III Bitung, III Bolaang Mongondow Timur, III Halmahera Tengah"
-  },
-  {
-    "waktu": "07 Jun 2026 20:06:08 WIB",
-    "lintang": "2.50 LU",
-    "bujur": "96.13 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Simeulue"
-  },
-  {
-    "waktu": "07 Jun 2026 13:13:31 WIB",
-    "lintang": "4.68 LU",
-    "bujur": "96.79 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Bener Meriah"
   }
 ]
