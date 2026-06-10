@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Jun 2026 11:01:53 WIB",
+    "lintang": "1.25 LU",
+    "bujur": "117.86 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "7 km",
+    "dirasakan": "II-III Sangkulirang"
+  },
+  {
     "waktu": "10 Jun 2026 00:40:18 WIB",
     "lintang": "1.29 LU",
     "bujur": "126.42 BT",
@@ -108,14 +116,6 @@
     "lintang": "4.68 LU",
     "bujur": "96.79 BT",
     "magnitudo": "2.9",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Bener Meriah"
-  },
-  {
-    "waktu": "07 Jun 2026 13:01:18 WIB",
-    "lintang": "4.67 LU",
-    "bujur": "96.83 BT",
-    "magnitudo": "2.5",
     "kedalaman": "5 km",
     "dirasakan": "II-III Bener Meriah"
   }
