@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13 Jun 2026 19:05:35 WIB",
+    "lintang": "1.10 LU",
+    "bujur": "126.20 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "dirasakan": "III Manado, III Ternate, III Bitung, II Minahasa, II-III Tomohon"
+  },
+  {
     "waktu": "12 Jun 2026 20:18:20 WIB",
     "lintang": "0.90 LS",
     "bujur": "121.44 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "5 km",
     "dirasakan": "III Konawe Utara"
-  },
-  {
-    "waktu": "08 Jun 2026 23:09:13 WIB",
-    "lintang": "3.54 LS",
-    "bujur": "122.30 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "3 km",
-    "dirasakan": ""
   }
 ]
