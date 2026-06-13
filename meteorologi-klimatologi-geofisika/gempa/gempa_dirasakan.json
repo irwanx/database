@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Jun 2026 05:13:05 WIB",
+    "lintang": "6.98 LS",
+    "bujur": "107.16 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Sukabumi, II-III Cibeber, II-III Sukaluyu, II-III Campaka, II-III Cianjur"
+  },
+  {
     "waktu": "13 Jun 2026 19:05:35 WIB",
     "lintang": "1.10 LU",
     "bujur": "126.20 BT",
@@ -109,14 +117,6 @@
     "bujur": "122.35 BT",
     "magnitudo": "3.7",
     "kedalaman": "7 km",
-    "dirasakan": "III Konawe Utara"
-  },
-  {
-    "waktu": "08 Jun 2026 23:09:52 WIB",
-    "lintang": "3.55 LS",
-    "bujur": "122.25 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "5 km",
     "dirasakan": "III Konawe Utara"
   }
 ]
