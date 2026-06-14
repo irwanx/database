@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Jun 2026 17:14:39 WIB",
+    "lintang": "4.91 LU",
+    "bujur": "96.11 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "11 km",
+    "dirasakan": "II Kab. Pidie"
+  },
+  {
     "waktu": "14 Jun 2026 05:13:05 WIB",
     "lintang": "6.98 LS",
     "bujur": "107.16 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.3",
     "kedalaman": "5 km",
     "dirasakan": "II-III Ciater, II-III Sagalaherang, II-III Serangpanjang"
-  },
-  {
-    "waktu": "09 Jun 2026 04:55:59 WIB",
-    "lintang": "3.57 LS",
-    "bujur": "122.35 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "7 km",
-    "dirasakan": "III Konawe Utara"
   }
 ]
