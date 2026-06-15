@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Jun 2026 16:18:40 WIB",
+    "lintang": "5.99 LU",
+    "bujur": "126.83 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "93 km",
+    "dirasakan": "III Rainis, III Miangas , III Naha, III Tahuna, III Melonguane, III Beo"
+  },
+  {
     "waktu": "14 Jun 2026 17:14:39 WIB",
     "lintang": "4.91 LU",
     "bujur": "96.11 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 km",
     "dirasakan": "II Kep. Sangihe"
-  },
-  {
-    "waktu": "09 Jun 2026 11:33:45 WIB",
-    "lintang": "6.70 LS",
-    "bujur": "107.59 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Ciater, II-III Sagalaherang, II-III Serangpanjang"
   }
 ]
