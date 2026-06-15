@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Jun 2026 22:30:22 WIB",
+    "lintang": "5.60 LU",
+    "bujur": "125.39 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Naha"
+  },
+  {
     "waktu": "15 Jun 2026 16:18:40 WIB",
     "lintang": "5.99 LU",
     "bujur": "126.83 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "10 km",
     "dirasakan": "III Konawe Utara"
-  },
-  {
-    "waktu": "09 Jun 2026 13:15:14 WIB",
-    "lintang": "5.27 LU",
-    "bujur": "125.32 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 km",
-    "dirasakan": "II Kep. Sangihe"
   }
 ]
