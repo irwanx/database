@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16 Jun 2026 10:27:44 WIB",
+    "lintang": "1.04 LS",
+    "bujur": "120.23 BT",
+    "magnitudo": "6.7",
+    "kedalaman": "10 km",
+    "dirasakan": "VI-VII Palu, V-VI Sigi, III Polewali Mandar, III Mamasa, III Mamuju, II-III Pinrang, II-III Pare-pare, II-III Pohuwato, II-III Boalemo, III Pasangkayu, II Wajo, II-III Gorontalo Utara, II-III Majene, II-III Kab. Gorontalo, II-III Kota Gorontalo, II - III Luwu Utara"
+  },
+  {
     "waktu": "15 Jun 2026 22:30:22 WIB",
     "lintang": "5.60 LU",
     "bujur": "125.39 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "13 km",
     "dirasakan": "II-III Pulau Batang Dua"
-  },
-  {
-    "waktu": "09 Jun 2026 14:00:55 WIB",
-    "lintang": "3.59 LS",
-    "bujur": "122.32 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 km",
-    "dirasakan": "III Konawe Utara"
   }
 ]
