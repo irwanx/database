@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Jun 2026 01:29:38 WIB",
+    "lintang": "1.14 LS",
+    "bujur": "120.33 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "5 km",
+    "dirasakan": "III-IV Palu, III-IV Sigi"
+  },
+  {
     "waktu": "16 Jun 2026 18:03:51 WIB",
     "lintang": "1.29 LS",
     "bujur": "120.31 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.7",
     "kedalaman": "10 km",
     "dirasakan": "II-III Naha"
-  },
-  {
-    "waktu": "15 Jun 2026 16:18:40 WIB",
-    "lintang": "5.99 LU",
-    "bujur": "126.83 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "93 km",
-    "dirasakan": "III Rainis, III Miangas , III Naha, III Tahuna, III Melonguane, III Beo"
   }
 ]
