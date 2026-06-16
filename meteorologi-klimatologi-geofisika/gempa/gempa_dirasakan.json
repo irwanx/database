@@ -1,11 +1,91 @@
 [
   {
+    "waktu": "16 Jun 2026 15:04:42 WIB",
+    "lintang": "1.06 LS",
+    "bujur": "120.18 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "9 km",
+    "dirasakan": "III-IV Sigi, III Palu"
+  },
+  {
+    "waktu": "16 Jun 2026 14:49:01 WIB",
+    "lintang": "4.76 LU",
+    "bujur": "96.79 BT",
+    "magnitudo": "2.0",
+    "kedalaman": "4 km",
+    "dirasakan": "II Bener Meriah"
+  },
+  {
+    "waktu": "16 Jun 2026 12:14:13 WIB",
+    "lintang": "1.28 LU",
+    "bujur": "126.45 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Batang Dua"
+  },
+  {
+    "waktu": "16 Jun 2026 12:07:05 WIB",
+    "lintang": "1.07 LS",
+    "bujur": "120.06 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Sigi"
+  },
+  {
+    "waktu": "16 Jun 2026 11:14:00 WIB",
+    "lintang": "1.05 LS",
+    "bujur": "120.10 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Sigi, III-IV Palu"
+  },
+  {
+    "waktu": "16 Jun 2026 10:48:05 WIB",
+    "lintang": "1.18 LS",
+    "bujur": "120.11 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "14 km",
+    "dirasakan": "III Sigi, II Palu"
+  },
+  {
+    "waktu": "16 Jun 2026 10:41:32 WIB",
+    "lintang": "1.17 LS",
+    "bujur": "120.08 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "4 km",
+    "dirasakan": "III Sigi, II Palu"
+  },
+  {
+    "waktu": "16 Jun 2026 10:38:36 WIB",
+    "lintang": "1.17 LS",
+    "bujur": "120.23 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Sigi, II-III Palu"
+  },
+  {
+    "waktu": "16 Jun 2026 10:35:12 WIB",
+    "lintang": "1.20 LS",
+    "bujur": "120.11 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "5 km",
+    "dirasakan": "III Sigi, II Palu"
+  },
+  {
+    "waktu": "16 Jun 2026 10:32:16 WIB",
+    "lintang": "1.13 LS",
+    "bujur": "120.04 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "5 km",
+    "dirasakan": "III-IV Sigi, II-III Palu"
+  },
+  {
     "waktu": "16 Jun 2026 10:27:44 WIB",
     "lintang": "1.04 LS",
     "bujur": "120.23 BT",
     "magnitudo": "6.7",
     "kedalaman": "10 km",
-    "dirasakan": "VI-VII Palu, V-VI Sigi, III Polewali Mandar, III Mamasa, III Mamuju, II-III Pinrang, II-III Pare-pare, II-III Pohuwato, II-III Boalemo, III Pasangkayu, II Wajo, II-III Gorontalo Utara, II-III Majene, II-III Kab. Gorontalo, II-III Kota Gorontalo, II - III Luwu Utara"
+    "dirasakan": "VI-VII Palu, V-VI Sigi, III Polewali Mandar, III Mamasa, III Mamuju, II-III Pinrang, II-III Pare-pare, II-III Pohuwato, II-III Boalemo, III Pasangkayu, II Wajo, II-III Gorontalo Utara, II-III Majene, II-III Kab. Gorontalo, II-III Kota Gorontalo, II-III Luwu Utara, II-III Balikpapan, II-III Samarinda, II-III Pulau Laut - Kotabaru"
   },
   {
     "waktu": "15 Jun 2026 22:30:22 WIB",
@@ -38,85 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "10 km",
     "dirasakan": "II-III Sukabumi, II-III Cibeber, II-III Sukaluyu, II-III Campaka, II-III Cianjur"
-  },
-  {
-    "waktu": "13 Jun 2026 19:05:35 WIB",
-    "lintang": "1.10 LU",
-    "bujur": "126.20 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 km",
-    "dirasakan": "III Manado, III Ternate, III Bitung, II Minahasa, II-III Tomohon"
-  },
-  {
-    "waktu": "12 Jun 2026 20:18:20 WIB",
-    "lintang": "0.90 LS",
-    "bujur": "121.44 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Ampana"
-  },
-  {
-    "waktu": "12 Jun 2026 16:48:27 WIB",
-    "lintang": "3.22 LS",
-    "bujur": "135.47 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "20 km",
-    "dirasakan": "II - III Nabire"
-  },
-  {
-    "waktu": "11 Jun 2026 14:33:16 WIB",
-    "lintang": "4.87 LU",
-    "bujur": "125.35 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kep. Sangihe"
-  },
-  {
-    "waktu": "11 Jun 2026 08:57:04 WIB",
-    "lintang": "9.31 LS",
-    "bujur": "118.46 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "43 km",
-    "dirasakan": "II Kab. Bima, II Kab. Sumbawa"
-  },
-  {
-    "waktu": "11 Jun 2026 08:56:12 WIB",
-    "lintang": "4.89 LU",
-    "bujur": "125.50 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Kep. Sangihe"
-  },
-  {
-    "waktu": "10 Jun 2026 21:45:26 WIB",
-    "lintang": "1.03 LU",
-    "bujur": "96.98 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "7 km",
-    "dirasakan": "IV Lahewa, Kab. Nias Utara, IV Sirombu, Kab. Nias Barat, III Gunung Sitoli"
-  },
-  {
-    "waktu": "10 Jun 2026 20:08:44 WIB",
-    "lintang": "1.23 LU",
-    "bujur": "96.60 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "6 km",
-    "dirasakan": "II-III Sirombu"
-  },
-  {
-    "waktu": "10 Jun 2026 11:01:53 WIB",
-    "lintang": "1.25 LU",
-    "bujur": "117.86 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "7 km",
-    "dirasakan": "II-III Sangkulirang"
-  },
-  {
-    "waktu": "10 Jun 2026 00:40:18 WIB",
-    "lintang": "1.29 LU",
-    "bujur": "126.42 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "13 km",
-    "dirasakan": "II-III Pulau Batang Dua"
   }
 ]
