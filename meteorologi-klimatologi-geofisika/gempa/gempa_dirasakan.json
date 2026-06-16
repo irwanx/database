@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "16 Jun 2026 18:03:51 WIB",
+    "lintang": "1.29 LS",
+    "bujur": "120.31 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "3 km",
+    "dirasakan": "III-IV Sigi, III-IV Palu"
+  },
+  {
+    "waktu": "16 Jun 2026 17:23:51 WIB",
+    "lintang": "0.53 LU",
+    "bujur": "126.59 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "22 km",
+    "dirasakan": "II-III Kota Ternate, II-III Batang Dua"
+  },
+  {
     "waktu": "16 Jun 2026 15:04:42 WIB",
     "lintang": "1.06 LS",
     "bujur": "120.18 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "6.2",
     "kedalaman": "93 km",
     "dirasakan": "III Rainis, III Miangas , III Naha, III Tahuna, III Melonguane, III Beo"
-  },
-  {
-    "waktu": "14 Jun 2026 17:14:39 WIB",
-    "lintang": "4.91 LU",
-    "bujur": "96.11 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "11 km",
-    "dirasakan": "II Kab. Pidie"
-  },
-  {
-    "waktu": "14 Jun 2026 05:13:05 WIB",
-    "lintang": "6.98 LS",
-    "bujur": "107.16 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Sukabumi, II-III Cibeber, II-III Sukaluyu, II-III Campaka, II-III Cianjur"
   }
 ]
