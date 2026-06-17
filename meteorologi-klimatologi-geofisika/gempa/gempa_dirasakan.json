@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "17 Jun 2026 10:44:16 WIB",
+    "lintang": "9.57 LS",
+    "bujur": "119.44 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "dirasakan": "III Sumba Barat Daya, III Sumba Timur, III-IV Sumba Barat"
+  },
+  {
+    "waktu": "17 Jun 2026 08:08:01 WIB",
+    "lintang": "9.66 LS",
+    "bujur": "119.47 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "14 km",
+    "dirasakan": "IV Sumba Barat, II-III Sumba Barat Daya"
+  },
+  {
     "waktu": "17 Jun 2026 01:29:38 WIB",
     "lintang": "1.14 LS",
     "bujur": "120.33 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "5 km",
     "dirasakan": "III-IV Sigi, II-III Palu"
-  },
-  {
-    "waktu": "16 Jun 2026 10:27:44 WIB",
-    "lintang": "1.04 LS",
-    "bujur": "120.23 BT",
-    "magnitudo": "6.7",
-    "kedalaman": "10 km",
-    "dirasakan": "VI-VII Palu, V-VI Sigi, III Polewali Mandar, III Mamasa, III Mamuju, II-III Pinrang, II-III Pare-pare, II-III Pohuwato, II-III Boalemo, III Pasangkayu, II Wajo, II-III Gorontalo Utara, II-III Majene, II-III Kab. Gorontalo, II-III Kota Gorontalo, II-III Luwu Utara, II-III Balikpapan, II-III Samarinda, II-III Pulau Laut - Kotabaru"
-  },
-  {
-    "waktu": "15 Jun 2026 22:30:22 WIB",
-    "lintang": "5.60 LU",
-    "bujur": "125.39 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Naha"
   }
 ]

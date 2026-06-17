@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Jun 2026 10:44:16 WIB",
+    "lintang": "9.57 LS",
+    "bujur": "119.44 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "wilayah": "10 km TimurLaut WAIKABUBAK-NTT"
+  },
+  {
     "waktu": "17 Jun 2026 01:29:38 WIB",
     "lintang": "1.14 LS",
     "bujur": "120.33 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 km",
     "wilayah": "185 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
-  },
-  {
-    "waktu": "08 Jun 2026 21:52:59 WIB",
-    "lintang": "5.69 LU",
-    "bujur": "124.71 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "10 km",
-    "wilayah": "246 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]
