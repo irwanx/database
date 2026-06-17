@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Jun 2026 16:44:47 WIB",
+    "lintang": "5.18 LU",
+    "bujur": "94.84 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "19 km",
+    "dirasakan": "II-III Aceh Jaya, II Banda Aceh"
+  },
+  {
     "waktu": "17 Jun 2026 10:44:16 WIB",
     "lintang": "9.57 LS",
     "bujur": "119.44 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "5 km",
     "dirasakan": "III Sigi, II Palu"
-  },
-  {
-    "waktu": "16 Jun 2026 10:32:16 WIB",
-    "lintang": "1.13 LS",
-    "bujur": "120.04 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "5 km",
-    "dirasakan": "III-IV Sigi, II-III Palu"
   }
 ]
