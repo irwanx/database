@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Jun 2026 10:25:54 WIB",
+    "lintang": "1.21 LS",
+    "bujur": "120.19 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "5 km",
+    "dirasakan": "II Sigi"
+  },
+  {
     "waktu": "17 Jun 2026 16:44:47 WIB",
     "lintang": "5.18 LU",
     "bujur": "94.84 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Sigi, II-III Palu"
-  },
-  {
-    "waktu": "16 Jun 2026 10:35:12 WIB",
-    "lintang": "1.20 LS",
-    "bujur": "120.11 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "5 km",
-    "dirasakan": "III Sigi, II Palu"
   }
 ]
