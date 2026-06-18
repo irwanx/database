@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "18 Jun 2026 20:45:08 WIB",
+    "lintang": "1.35 LU",
+    "bujur": "121.32 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Tolitoli"
+  },
+  {
+    "waktu": "18 Jun 2026 20:39:04 WIB",
+    "lintang": "1.14 LS",
+    "bujur": "120.22 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "5 km",
+    "dirasakan": "III Palu, III Sigi"
+  },
+  {
+    "waktu": "18 Jun 2026 19:17:00 WIB",
+    "lintang": "5.56 LU",
+    "bujur": "125.32 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 km",
+    "dirasakan": "III Marore"
+  },
+  {
+    "waktu": "18 Jun 2026 17:08:13 WIB",
+    "lintang": "4.75 LU",
+    "bujur": "96.76 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Bener Meriah"
+  },
+  {
     "waktu": "18 Jun 2026 13:18:14 WIB",
     "lintang": "1.23 LS",
     "bujur": "120.22 BT",
@@ -86,37 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "22 km",
     "dirasakan": "II-III Kota Ternate, II-III Batang Dua"
-  },
-  {
-    "waktu": "16 Jun 2026 15:04:42 WIB",
-    "lintang": "1.06 LS",
-    "bujur": "120.18 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "9 km",
-    "dirasakan": "III-IV Sigi, III Palu"
-  },
-  {
-    "waktu": "16 Jun 2026 14:49:01 WIB",
-    "lintang": "4.76 LU",
-    "bujur": "96.79 BT",
-    "magnitudo": "2.0",
-    "kedalaman": "4 km",
-    "dirasakan": "II Bener Meriah"
-  },
-  {
-    "waktu": "16 Jun 2026 12:14:13 WIB",
-    "lintang": "1.28 LU",
-    "bujur": "126.45 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Batang Dua"
-  },
-  {
-    "waktu": "16 Jun 2026 12:07:05 WIB",
-    "lintang": "1.07 LS",
-    "bujur": "120.06 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Sigi"
   }
 ]
