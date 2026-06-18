@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "19 Jun 2026 03:29:27 WIB",
+    "lintang": "1.07 LS",
+    "bujur": "120.11 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "10 km",
+    "dirasakan": "III Palu, III Sigi"
+  },
+  {
+    "waktu": "19 Jun 2026 03:26:45 WIB",
+    "lintang": "1.03 LS",
+    "bujur": "120.07 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Palu, II-III Sigi"
+  },
+  {
     "waktu": "18 Jun 2026 23:50:34 WIB",
     "lintang": "4.77 LU",
     "bujur": "125.37 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "14 km",
     "dirasakan": "IV Sumba Barat, II-III Sumba Barat Daya"
-  },
-  {
-    "waktu": "17 Jun 2026 01:29:38 WIB",
-    "lintang": "1.14 LS",
-    "bujur": "120.33 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "5 km",
-    "dirasakan": "III-IV Palu, III-IV Sigi"
-  },
-  {
-    "waktu": "16 Jun 2026 18:03:51 WIB",
-    "lintang": "1.29 LS",
-    "bujur": "120.31 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "3 km",
-    "dirasakan": "III-IV Sigi, III-IV Palu"
   }
 ]
