@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "18 Jun 2026 13:18:14 WIB",
+    "lintang": "1.23 LS",
+    "bujur": "120.22 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "5 km",
+    "dirasakan": "II Sigi"
+  },
+  {
+    "waktu": "18 Jun 2026 12:02:37 WIB",
+    "lintang": "1.16 LS",
+    "bujur": "120.10 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "5 km",
+    "dirasakan": "II Sigi"
+  },
+  {
+    "waktu": "18 Jun 2026 11:53:42 WIB",
+    "lintang": "1.12 LS",
+    "bujur": "120.14 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III SIgi"
+  },
+  {
+    "waktu": "18 Jun 2026 11:46:28 WIB",
+    "lintang": "1.14 LS",
+    "bujur": "120.14 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "5 km",
+    "dirasakan": "II Sigi"
+  },
+  {
     "waktu": "18 Jun 2026 10:25:54 WIB",
     "lintang": "1.21 LS",
     "bujur": "120.19 BT",
@@ -86,37 +118,5 @@
     "magnitudo": "3.9",
     "kedalaman": "10 km",
     "dirasakan": "II-III Sigi"
-  },
-  {
-    "waktu": "16 Jun 2026 11:14:00 WIB",
-    "lintang": "1.05 LS",
-    "bujur": "120.10 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Sigi, III-IV Palu"
-  },
-  {
-    "waktu": "16 Jun 2026 10:48:05 WIB",
-    "lintang": "1.18 LS",
-    "bujur": "120.11 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "14 km",
-    "dirasakan": "III Sigi, II Palu"
-  },
-  {
-    "waktu": "16 Jun 2026 10:41:32 WIB",
-    "lintang": "1.17 LS",
-    "bujur": "120.08 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "4 km",
-    "dirasakan": "III Sigi, II Palu"
-  },
-  {
-    "waktu": "16 Jun 2026 10:38:36 WIB",
-    "lintang": "1.17 LS",
-    "bujur": "120.23 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Sigi, II-III Palu"
   }
 ]
