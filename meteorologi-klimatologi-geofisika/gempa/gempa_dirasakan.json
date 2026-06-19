@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Jun 2026 18:48:28 WIB",
+    "lintang": "4.74 LU",
+    "bujur": "125.53 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 km",
+    "dirasakan": "III Mamore"
+  },
+  {
     "waktu": "19 Jun 2026 08:53:20 WIB",
     "lintang": "1.17 LS",
     "bujur": "120.01 BT",
@@ -108,14 +116,6 @@
     "lintang": "1.14 LS",
     "bujur": "120.14 BT",
     "magnitudo": "2.3",
-    "kedalaman": "5 km",
-    "dirasakan": "II Sigi"
-  },
-  {
-    "waktu": "18 Jun 2026 10:25:54 WIB",
-    "lintang": "1.21 LS",
-    "bujur": "120.19 BT",
-    "magnitudo": "3.0",
     "kedalaman": "5 km",
     "dirasakan": "II Sigi"
   }
