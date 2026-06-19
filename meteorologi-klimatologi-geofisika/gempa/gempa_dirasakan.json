@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "19 Jun 2026 08:53:20 WIB",
+    "lintang": "1.17 LS",
+    "bujur": "120.01 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "4 km",
+    "dirasakan": "II Sigi"
+  },
+  {
+    "waktu": "19 Jun 2026 08:16:34 WIB",
+    "lintang": "1.17 LS",
+    "bujur": "120.26 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "3 km",
+    "dirasakan": "II Sigi"
+  },
+  {
+    "waktu": "19 Jun 2026 05:30:04 WIB",
+    "lintang": "4.08 LS",
+    "bujur": "121.87 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "2 km",
+    "dirasakan": "II-III Kolaka Timur"
+  },
+  {
     "waktu": "19 Jun 2026 03:29:27 WIB",
     "lintang": "1.07 LS",
     "bujur": "120.11 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "3.0",
     "kedalaman": "5 km",
     "dirasakan": "II Sigi"
-  },
-  {
-    "waktu": "17 Jun 2026 16:44:47 WIB",
-    "lintang": "5.18 LU",
-    "bujur": "94.84 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "19 km",
-    "dirasakan": "II-III Aceh Jaya, II Banda Aceh"
-  },
-  {
-    "waktu": "17 Jun 2026 10:44:16 WIB",
-    "lintang": "9.57 LS",
-    "bujur": "119.44 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "dirasakan": "III Sumba Barat Daya, III Sumba Timur, III-IV Sumba Barat"
-  },
-  {
-    "waktu": "17 Jun 2026 08:08:01 WIB",
-    "lintang": "9.66 LS",
-    "bujur": "119.47 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "14 km",
-    "dirasakan": "IV Sumba Barat, II-III Sumba Barat Daya"
   }
 ]
