@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "20 Jun 2026 05:33:17 WIB",
+    "lintang": "1.15 LS",
+    "bujur": "120.02 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Sigi, II-III Palu, II-III Parigi Moutong"
+  },
+  {
+    "waktu": "20 Jun 2026 04:56:18 WIB",
+    "lintang": "5.09 LU",
+    "bujur": "125.07 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "10 km",
+    "dirasakan": "II Marore"
+  },
+  {
     "waktu": "19 Jun 2026 18:48:28 WIB",
     "lintang": "4.74 LU",
     "bujur": "125.53 BT",
@@ -100,22 +116,6 @@
     "lintang": "1.16 LS",
     "bujur": "120.10 BT",
     "magnitudo": "2.2",
-    "kedalaman": "5 km",
-    "dirasakan": "II Sigi"
-  },
-  {
-    "waktu": "18 Jun 2026 11:53:42 WIB",
-    "lintang": "1.12 LS",
-    "bujur": "120.14 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III SIgi"
-  },
-  {
-    "waktu": "18 Jun 2026 11:46:28 WIB",
-    "lintang": "1.14 LS",
-    "bujur": "120.14 BT",
-    "magnitudo": "2.3",
     "kedalaman": "5 km",
     "dirasakan": "II Sigi"
   }
