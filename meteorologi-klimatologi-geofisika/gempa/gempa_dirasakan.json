@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Jun 2026 10:25:59 WIB",
+    "lintang": "1.26 LS",
+    "bujur": "99.81 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "23 km",
+    "dirasakan": "II-III Padang, II-III Padang Pariaman"
+  },
+  {
     "waktu": "20 Jun 2026 10:03:59 WIB",
     "lintang": "1.13 LS",
     "bujur": "120.00 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "10 km",
     "dirasakan": "III Marore"
-  },
-  {
-    "waktu": "18 Jun 2026 17:08:13 WIB",
-    "lintang": "4.75 LU",
-    "bujur": "96.76 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Bener Meriah"
   }
 ]
