@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Jun 2026 08:40:08 WIB",
+    "lintang": "4.95 LS",
+    "bujur": "102.95 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "23 km",
+    "wilayah": "47 km BaratDaya KAUR-BENGKULU"
+  },
+  {
     "waktu": "18 Jun 2026 13:57:32 WIB",
     "lintang": "5.62 LU",
     "bujur": "125.22 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 km",
     "wilayah": "230 km BaratLaut PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "09 Jun 2026 17:07:17 WIB",
-    "lintang": "6.27 LU",
-    "bujur": "124.61 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "10 km",
-    "wilayah": "311 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]

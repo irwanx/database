@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "20 Jun 2026 10:03:59 WIB",
+    "lintang": "1.13 LS",
+    "bujur": "120.00 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Sigi"
+  },
+  {
+    "waktu": "20 Jun 2026 08:40:08 WIB",
+    "lintang": "4.95 LS",
+    "bujur": "102.95 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "23 km",
+    "dirasakan": "III Kaur, III Bengkulu Selatan, III Seluma, II-III Argamakmur, II-III Kota Bengkulu, II Rejang Lebong, II Kepahiang"
+  },
+  {
     "waktu": "20 Jun 2026 05:33:17 WIB",
     "lintang": "1.15 LS",
     "bujur": "120.02 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.7",
     "kedalaman": "5 km",
     "dirasakan": "II-III Bener Meriah"
-  },
-  {
-    "waktu": "18 Jun 2026 13:18:14 WIB",
-    "lintang": "1.23 LS",
-    "bujur": "120.22 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "5 km",
-    "dirasakan": "II Sigi"
-  },
-  {
-    "waktu": "18 Jun 2026 12:02:37 WIB",
-    "lintang": "1.16 LS",
-    "bujur": "120.10 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "5 km",
-    "dirasakan": "II Sigi"
   }
 ]
