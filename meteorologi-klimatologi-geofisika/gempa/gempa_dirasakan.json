@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "21 Jun 2026 14:41:00 WIB",
+    "lintang": "1.08 LS",
+    "bujur": "120.01 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "6 km",
+    "dirasakan": "II-III Sigi"
+  },
+  {
+    "waktu": "21 Jun 2026 12:52:47 WIB",
+    "lintang": "1.18 LS",
+    "bujur": "120.15 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "2 km",
+    "dirasakan": "II-III Sigi"
+  },
+  {
     "waktu": "21 Jun 2026 09:33:29 WIB",
     "lintang": "1.25 LS",
     "bujur": "99.80 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "10 km",
     "dirasakan": "II-III Palu, II-III Sigi"
-  },
-  {
-    "waktu": "18 Jun 2026 23:50:34 WIB",
-    "lintang": "4.77 LU",
-    "bujur": "125.37 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Marore"
-  },
-  {
-    "waktu": "18 Jun 2026 20:45:08 WIB",
-    "lintang": "1.35 LU",
-    "bujur": "121.32 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Tolitoli"
   }
 ]
