@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Jun 2026 01:03:48 WIB",
+    "lintang": "4.68 LS",
+    "bujur": "102.74 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "38 km",
+    "dirasakan": "III - IV Bengkulu Selatan, III Seluma, III Kaur, III P. Enggano, II - III Kota Bengkulu, II - III Bengkulu Utara, II - III Kepahiang"
+  },
+  {
     "waktu": "21 Jun 2026 14:41:00 WIB",
     "lintang": "1.08 LS",
     "bujur": "120.01 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "10 km",
     "dirasakan": "III Palu, III Sigi"
-  },
-  {
-    "waktu": "19 Jun 2026 03:26:45 WIB",
-    "lintang": "1.03 LS",
-    "bujur": "120.07 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Palu, II-III Sigi"
   }
 ]
