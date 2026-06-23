@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "24 Jun 2026 04:08:50 WIB",
+    "lintang": "6.86 LS",
+    "bujur": "107.05 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "3 km",
+    "dirasakan": "II Cugenang"
+  },
+  {
+    "waktu": "24 Jun 2026 03:47:49 WIB",
+    "lintang": "6.84 LS",
+    "bujur": "107.08 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "12 km",
+    "dirasakan": "III Cilaku, III Cugenang"
+  },
+  {
     "waktu": "23 Jun 2026 23:15:10 WIB",
     "lintang": "5.44 LS",
     "bujur": "104.62 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.3",
     "kedalaman": "4 km",
     "dirasakan": "II Sigi"
-  },
-  {
-    "waktu": "19 Jun 2026 08:16:34 WIB",
-    "lintang": "1.17 LS",
-    "bujur": "120.26 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "3 km",
-    "dirasakan": "II Sigi"
-  },
-  {
-    "waktu": "19 Jun 2026 05:30:04 WIB",
-    "lintang": "4.08 LS",
-    "bujur": "121.87 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "2 km",
-    "dirasakan": "II-III Kolaka Timur"
   }
 ]
