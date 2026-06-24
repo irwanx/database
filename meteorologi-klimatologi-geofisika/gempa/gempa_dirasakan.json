@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24 Jun 2026 13:18:15 WIB",
+    "lintang": "5.02 LS",
+    "bujur": "123.03 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "6 km",
+    "dirasakan": "III Buton Utara, III Buton"
+  },
+  {
     "waktu": "24 Jun 2026 04:08:50 WIB",
     "lintang": "6.86 LS",
     "bujur": "107.05 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.4",
     "kedalaman": "10 km",
     "dirasakan": "III Mamore"
-  },
-  {
-    "waktu": "19 Jun 2026 08:53:20 WIB",
-    "lintang": "1.17 LS",
-    "bujur": "120.01 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "4 km",
-    "dirasakan": "II Sigi"
   }
 ]
