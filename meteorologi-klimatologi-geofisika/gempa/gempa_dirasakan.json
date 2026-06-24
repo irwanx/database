@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24 Jun 2026 16:00:32 WIB",
+    "lintang": "1.13 LS",
+    "bujur": "120.12 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "7 km",
+    "dirasakan": "II-III Sigi, II-III Palu"
+  },
+  {
     "waktu": "24 Jun 2026 13:18:15 WIB",
     "lintang": "5.02 LS",
     "bujur": "123.03 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "10 km",
     "dirasakan": "II Marore"
-  },
-  {
-    "waktu": "19 Jun 2026 18:48:28 WIB",
-    "lintang": "4.74 LU",
-    "bujur": "125.53 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 km",
-    "dirasakan": "III Mamore"
   }
 ]
