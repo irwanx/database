@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "26 Jun 2026 18:34:39 WIB",
+    "lintang": "5.33 LU",
+    "bujur": "125.08 BT",
+    "magnitudo": "6.8",
+    "kedalaman": "10 km",
+    "dirasakan": "III Kab. Kep. Talaud, II-III Kab. Gorontalo, II-III Kab. Toli-Toli, II-III Buol, II Tondano"
+  },
+  {
+    "waktu": "26 Jun 2026 18:27:47 WIB",
+    "lintang": "2.74 LS",
+    "bujur": "134.49 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "14 km",
+    "dirasakan": "II-III Teluk Wondama"
+  },
+  {
     "waktu": "24 Jun 2026 22:55:05 WIB",
     "lintang": "9.64 LS",
     "bujur": "119.42 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "23 km",
     "dirasakan": "II-III Padang, II-III Padang Pariaman"
-  },
-  {
-    "waktu": "20 Jun 2026 10:03:59 WIB",
-    "lintang": "1.13 LS",
-    "bujur": "120.00 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Sigi"
-  },
-  {
-    "waktu": "20 Jun 2026 08:40:08 WIB",
-    "lintang": "4.95 LS",
-    "bujur": "102.95 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "23 km",
-    "dirasakan": "III Kaur, III Bengkulu Selatan, III Seluma, II-III Argamakmur, II-III Kota Bengkulu, II Rejang Lebong, II Kepahiang"
   }
 ]
