@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Jun 2026 04:10:33 WIB",
+    "lintang": "6.24 LS",
+    "bujur": "104.74 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "25 km",
+    "dirasakan": "III Kota Agung , III Tanggamus, II Bandar Lampung"
+  },
+  {
     "waktu": "27 Jun 2026 22:13:01 WIB",
     "lintang": "9.62 LS",
     "bujur": "119.44 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.3",
     "kedalaman": "10 km",
     "dirasakan": "II-III Tanggamus"
-  },
-  {
-    "waktu": "23 Jun 2026 01:03:48 WIB",
-    "lintang": "4.68 LS",
-    "bujur": "102.74 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "38 km",
-    "dirasakan": "III - IV Bengkulu Selatan, III Seluma, III Kaur, III P. Enggano, II - III Kota Bengkulu, II - III Bengkulu Utara, II - III Kepahiang"
   }
 ]
