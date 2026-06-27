@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "27 Jun 2026 11:08:45 WIB",
+    "lintang": "3.30 LU",
+    "bujur": "97.10 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "23 km",
+    "dirasakan": "III Kab. Aceh Selatan"
+  },
+  {
+    "waktu": "27 Jun 2026 11:01:48 WIB",
+    "lintang": "3.25 LU",
+    "bujur": "97.09 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "22 km",
+    "dirasakan": "III-IV Kab. Aceh Selatan"
+  },
+  {
     "waktu": "26 Jun 2026 20:47:15 WIB",
     "lintang": "1.26 LS",
     "bujur": "120.31 BT",
@@ -101,22 +117,6 @@
     "bujur": "120.15 BT",
     "magnitudo": "3.8",
     "kedalaman": "2 km",
-    "dirasakan": "II-III Sigi"
-  },
-  {
-    "waktu": "21 Jun 2026 09:33:29 WIB",
-    "lintang": "1.25 LS",
-    "bujur": "99.80 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "24 km",
-    "dirasakan": "II Padang Panjang, II Bukittinggi, II Solok, II Muko-Muko, II Pasaman Barat, III Padang, III Pariaman, III Mentawai"
-  },
-  {
-    "waktu": "20 Jun 2026 16:10:46 WIB",
-    "lintang": "1.17 LS",
-    "bujur": "120.06 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "3 km",
     "dirasakan": "II-III Sigi"
   }
 ]
