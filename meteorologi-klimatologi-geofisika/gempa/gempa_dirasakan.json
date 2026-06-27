@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Jun 2026 14:47:21 WIB",
+    "lintang": "8.96 LS",
+    "bujur": "111.16 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 km",
+    "dirasakan": "III Pacitan, III Wonogiri, III Blitar, III Tulungagung, II Kulon Progo, II Bantul, II Sleman, II Yogyakarta, II Trenggalek, II Malang, II Nganjuk, II Magetan, II Klaten, II Ponorogo, II Jember"
+  },
+  {
     "waktu": "27 Jun 2026 11:08:45 WIB",
     "lintang": "3.30 LU",
     "bujur": "97.10 BT",
@@ -109,14 +117,6 @@
     "bujur": "120.01 BT",
     "magnitudo": "4.1",
     "kedalaman": "6 km",
-    "dirasakan": "II-III Sigi"
-  },
-  {
-    "waktu": "21 Jun 2026 12:52:47 WIB",
-    "lintang": "1.18 LS",
-    "bujur": "120.15 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "2 km",
     "dirasakan": "II-III Sigi"
   }
 ]

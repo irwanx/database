@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Jun 2026 14:47:21 WIB",
+    "lintang": "8.96 LS",
+    "bujur": "111.16 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 km",
+    "wilayah": "86 km Tenggara PACITAN-JATIM"
+  },
+  {
     "waktu": "26 Jun 2026 18:34:39 WIB",
     "lintang": "5.33 LU",
     "bujur": "125.08 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 km",
     "wilayah": "142 km TimurLaut TAHUNA-KEP.SANGIHE-SULUT"
-  },
-  {
-    "waktu": "10 Jun 2026 16:13:37 WIB",
-    "lintang": "5.71 LU",
-    "bujur": "125.15 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "wilayah": "236 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]
