@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Jun 2026 22:13:01 WIB",
+    "lintang": "9.62 LS",
+    "bujur": "119.44 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "5 km",
+    "dirasakan": "II Sumba Tengah, II Sumba Barat"
+  },
+  {
     "waktu": "27 Jun 2026 14:47:21 WIB",
     "lintang": "8.96 LS",
     "bujur": "111.16 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "38 km",
     "dirasakan": "III - IV Bengkulu Selatan, III Seluma, III Kaur, III P. Enggano, II - III Kota Bengkulu, II - III Bengkulu Utara, II - III Kepahiang"
-  },
-  {
-    "waktu": "21 Jun 2026 14:41:00 WIB",
-    "lintang": "1.08 LS",
-    "bujur": "120.01 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "6 km",
-    "dirasakan": "II-III Sigi"
   }
 ]
