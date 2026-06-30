@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "01 Jul 2026 02:53:22 WIB",
+    "lintang": "1.08 LS",
+    "bujur": "120.10 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "2 km",
+    "dirasakan": "III Palu"
+  },
+  {
+    "waktu": "01 Jul 2026 01:25:40 WIB",
+    "lintang": "3.73 LS",
+    "bujur": "123.40 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "17 km",
+    "dirasakan": "II-III Kendari, II-III Konawe"
+  },
+  {
     "waktu": "01 Jul 2026 00:05:30 WIB",
     "lintang": "1.14 LS",
     "bujur": "120.08 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "7 km",
     "dirasakan": "II-III Sigi, II-III Palu"
-  },
-  {
-    "waktu": "24 Jun 2026 13:18:15 WIB",
-    "lintang": "5.02 LS",
-    "bujur": "123.03 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "6 km",
-    "dirasakan": "III Buton Utara, III Buton"
-  },
-  {
-    "waktu": "24 Jun 2026 04:08:50 WIB",
-    "lintang": "6.86 LS",
-    "bujur": "107.05 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "3 km",
-    "dirasakan": "II Cugenang"
   }
 ]
