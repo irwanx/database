@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30 Jun 2026 11:46:45 WIB",
+    "lintang": "1.05 LU",
+    "bujur": "128.01 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "4 km",
+    "dirasakan": "II-III Kab. Halmahera Timur"
+  },
+  {
     "waktu": "28 Jun 2026 04:10:33 WIB",
     "lintang": "6.24 LS",
     "bujur": "104.74 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "12 km",
     "dirasakan": "III Cilaku, III Cugenang"
-  },
-  {
-    "waktu": "23 Jun 2026 23:15:10 WIB",
-    "lintang": "5.44 LS",
-    "bujur": "104.62 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Tanggamus"
   }
 ]
