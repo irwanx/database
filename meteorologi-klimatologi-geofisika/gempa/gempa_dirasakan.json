@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Jul 2026 00:05:30 WIB",
+    "lintang": "1.14 LS",
+    "bujur": "120.08 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "2 km",
+    "dirasakan": "III Sigi"
+  },
+  {
     "waktu": "30 Jun 2026 11:46:45 WIB",
     "lintang": "1.05 LU",
     "bujur": "128.01 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.4",
     "kedalaman": "3 km",
     "dirasakan": "II Cugenang"
-  },
-  {
-    "waktu": "24 Jun 2026 03:47:49 WIB",
-    "lintang": "6.84 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "12 km",
-    "dirasakan": "III Cilaku, III Cugenang"
   }
 ]
