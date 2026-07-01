@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "01 Jul 2026 07:31:36 WIB",
+    "lintang": "3.93 LS",
+    "bujur": "122.43 BT",
+    "magnitudo": "2.0",
+    "kedalaman": "5 km",
+    "dirasakan": "II Kendari"
+  },
+  {
+    "waktu": "01 Jul 2026 03:57:52 WIB",
+    "lintang": "7.41 LS",
+    "bujur": "106.71 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "26 km",
+    "dirasakan": "II Simpenan, Sukabumi"
+  },
+  {
     "waktu": "01 Jul 2026 02:53:22 WIB",
     "lintang": "1.08 LS",
     "bujur": "120.10 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.0",
     "kedalaman": "10 km",
     "dirasakan": "II Sumba Barat, II Sumba Tengah"
-  },
-  {
-    "waktu": "24 Jun 2026 22:42:05 WIB",
-    "lintang": "9.63 LS",
-    "bujur": "119.42 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 km",
-    "dirasakan": "III Sumba Barat Daya, III Sumba Barat, III Sumba Tengah"
-  },
-  {
-    "waktu": "24 Jun 2026 16:00:32 WIB",
-    "lintang": "1.13 LS",
-    "bujur": "120.12 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "7 km",
-    "dirasakan": "II-III Sigi, II-III Palu"
   }
 ]
