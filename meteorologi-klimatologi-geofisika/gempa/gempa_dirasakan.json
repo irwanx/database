@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04 Jul 2026 00:14:49 WIB",
+    "lintang": "9.61 LS",
+    "bujur": "119.45 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "9 km",
+    "dirasakan": "III Sumba Timur, III Tambolaka, III Sumba Tengah, III Sumba Barat"
+  },
+  {
     "waktu": "03 Jul 2026 20:38:08 WIB",
     "lintang": "5.43 LS",
     "bujur": "104.69 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.6",
     "kedalaman": "10 km",
     "dirasakan": "III Pacitan, III Wonogiri, III Blitar, III Tulungagung, II Kulon Progo, II Bantul, II Sleman, II Yogyakarta, II Trenggalek, II Malang, II Nganjuk, II Magetan, II Klaten, II Ponorogo, II Jember"
-  },
-  {
-    "waktu": "27 Jun 2026 11:08:45 WIB",
-    "lintang": "3.30 LU",
-    "bujur": "97.10 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "23 km",
-    "dirasakan": "III Kab. Aceh Selatan"
   }
 ]
