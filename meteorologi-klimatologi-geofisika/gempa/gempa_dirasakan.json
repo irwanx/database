@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "03 Jul 2026 12:19:32 WIB",
+    "lintang": "2.04 LU",
+    "bujur": "98.99 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "10 km",
+    "dirasakan": "II Tarutung"
+  },
+  {
+    "waktu": "03 Jul 2026 11:05:35 WIB",
+    "lintang": "8.40 LS",
+    "bujur": "116.20 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "12 km",
+    "dirasakan": "III Kab. Lombok Utara"
+  },
+  {
     "waktu": "03 Jul 2026 09:31:29 WIB",
     "lintang": "1.93 LU",
     "bujur": "127.39 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "22 km",
     "dirasakan": "III-IV Kab. Aceh Selatan"
-  },
-  {
-    "waktu": "26 Jun 2026 20:47:15 WIB",
-    "lintang": "1.26 LS",
-    "bujur": "120.31 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "4 km",
-    "dirasakan": "II-III Palu, II-III Sigi"
-  },
-  {
-    "waktu": "26 Jun 2026 18:34:39 WIB",
-    "lintang": "5.33 LU",
-    "bujur": "125.08 BT",
-    "magnitudo": "6.8",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kab. Kep. Talaud, II-III Kab. Gorontalo, II-III Kab. Toli-Toli, II-III Buol, II Tondano"
   }
 ]
