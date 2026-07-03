@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Jul 2026 09:31:29 WIB",
+    "lintang": "1.93 LU",
+    "bujur": "127.39 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "100 km",
+    "dirasakan": "III-IV Halmahera Utara, III Ternate, III Tidore, III Sanana, III Morotai, III Bolaang Mongondow Timur, II-III Gorontalo Utara, II-III Bone Bolango, II-III Kota Gorontalo"
+  },
+  {
     "waktu": "02 Jul 2026 08:21:12 WIB",
     "lintang": "2.84 LS",
     "bujur": "140.07 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.8",
     "kedalaman": "10 km",
     "dirasakan": "III Kab. Kep. Talaud, II-III Kab. Gorontalo, II-III Kab. Toli-Toli, II-III Buol, II Tondano"
-  },
-  {
-    "waktu": "26 Jun 2026 18:27:47 WIB",
-    "lintang": "2.74 LS",
-    "bujur": "134.49 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "14 km",
-    "dirasakan": "II-III Teluk Wondama"
   }
 ]
