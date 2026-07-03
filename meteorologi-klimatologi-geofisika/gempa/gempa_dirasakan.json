@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Jul 2026 20:38:08 WIB",
+    "lintang": "5.43 LS",
+    "bujur": "104.69 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "3 km",
+    "dirasakan": "II Gisting"
+  },
+  {
     "waktu": "03 Jul 2026 12:19:32 WIB",
     "lintang": "2.04 LU",
     "bujur": "98.99 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "23 km",
     "dirasakan": "III Kab. Aceh Selatan"
-  },
-  {
-    "waktu": "27 Jun 2026 11:01:48 WIB",
-    "lintang": "3.25 LU",
-    "bujur": "97.09 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "22 km",
-    "dirasakan": "III-IV Kab. Aceh Selatan"
   }
 ]
