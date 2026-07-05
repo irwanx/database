@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Jul 2026 03:54:52 WIB",
+    "lintang": "7.53 LS",
+    "bujur": "106.73 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "30 km",
+    "dirasakan": "II-III Kecamatan Cimanggu, II-III Simpenan, Sukabumi, II-III Jampang Barat, II-III Cigaru"
+  },
+  {
     "waktu": "04 Jul 2026 15:55:52 WIB",
     "lintang": "2.33 LS",
     "bujur": "138.28 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "25 km",
     "dirasakan": "III Kota Agung , III Tanggamus, II Bandar Lampung"
-  },
-  {
-    "waktu": "27 Jun 2026 22:13:01 WIB",
-    "lintang": "9.62 LS",
-    "bujur": "119.44 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "5 km",
-    "dirasakan": "II Sumba Tengah, II Sumba Barat"
   }
 ]
