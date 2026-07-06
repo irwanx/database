@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Jul 2026 01:47:27 WIB",
+    "lintang": "2.16 LS",
+    "bujur": "120.61 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "4 km",
+    "dirasakan": "III Poso"
+  },
+  {
     "waktu": "06 Jul 2026 17:51:28 WIB",
     "lintang": "0.66 LS",
     "bujur": "131.57 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "2 km",
     "dirasakan": "III Palu"
-  },
-  {
-    "waktu": "01 Jul 2026 01:25:40 WIB",
-    "lintang": "3.73 LS",
-    "bujur": "123.40 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "17 km",
-    "dirasakan": "II-III Kendari, II-III Konawe"
   }
 ]
