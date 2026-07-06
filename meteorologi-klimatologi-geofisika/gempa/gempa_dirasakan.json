@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "06 Jul 2026 17:51:28 WIB",
+    "lintang": "0.66 LS",
+    "bujur": "131.57 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "8 km",
+    "dirasakan": "II-III Sorong"
+  },
+  {
+    "waktu": "06 Jul 2026 17:32:55 WIB",
+    "lintang": "0.87 LS",
+    "bujur": "127.48 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "12 km",
+    "dirasakan": "II Labuha"
+  },
+  {
     "waktu": "06 Jul 2026 07:23:37 WIB",
     "lintang": "1.08 LU",
     "bujur": "120.92 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "17 km",
     "dirasakan": "II-III Kendari, II-III Konawe"
-  },
-  {
-    "waktu": "01 Jul 2026 00:05:30 WIB",
-    "lintang": "1.14 LS",
-    "bujur": "120.08 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "2 km",
-    "dirasakan": "III Sigi"
-  },
-  {
-    "waktu": "30 Jun 2026 11:46:45 WIB",
-    "lintang": "1.05 LU",
-    "bujur": "128.01 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "4 km",
-    "dirasakan": "II-III Kab. Halmahera Timur"
   }
 ]
