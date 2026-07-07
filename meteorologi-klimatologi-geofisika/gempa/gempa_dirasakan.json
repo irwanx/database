@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08 Jul 2026 02:44:53 WIB",
+    "lintang": "6.79 LS",
+    "bujur": "105.12 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Kecamatan Simpenan , II-III Kabupaten Bogor"
+  },
+  {
     "waktu": "07 Jul 2026 23:57:28 WIB",
     "lintang": "4.76 LU",
     "bujur": "96.77 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.3",
     "kedalaman": "12 km",
     "dirasakan": "III Kab. Lombok Utara"
-  },
-  {
-    "waktu": "03 Jul 2026 09:31:29 WIB",
-    "lintang": "1.93 LU",
-    "bujur": "127.39 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "100 km",
-    "dirasakan": "III-IV Halmahera Utara, III Ternate, III Tidore, III Sanana, III Morotai, III Bolaang Mongondow Timur, II-III Gorontalo Utara, II-III Bone Bolango, II-III Kota Gorontalo"
   }
 ]
