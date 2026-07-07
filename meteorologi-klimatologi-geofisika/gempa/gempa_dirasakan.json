@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Jul 2026 08:23:53 WIB",
+    "lintang": "0.66 LS",
+    "bujur": "131.50 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 km",
+    "dirasakan": "IV Kota Sorong"
+  },
+  {
     "waktu": "07 Jul 2026 01:47:27 WIB",
     "lintang": "2.16 LS",
     "bujur": "120.61 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "26 km",
     "dirasakan": "II Simpenan, Sukabumi"
-  },
-  {
-    "waktu": "01 Jul 2026 02:53:22 WIB",
-    "lintang": "1.08 LS",
-    "bujur": "120.10 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "2 km",
-    "dirasakan": "III Palu"
   }
 ]
