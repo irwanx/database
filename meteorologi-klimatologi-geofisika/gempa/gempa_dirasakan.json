@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Jul 2026 00:48:33 WIB",
+    "lintang": "2.53 LS",
+    "bujur": "121.20 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "2 km",
+    "dirasakan": "III Malili, III Wasuponda"
+  },
+  {
     "waktu": "10 Jul 2026 17:18:45 WIB",
     "lintang": "4.07 LS",
     "bujur": "121.82 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "30 km",
     "dirasakan": "II-III Kecamatan Cimanggu, II-III Simpenan, Sukabumi, II-III Jampang Barat, II-III Cigaru"
-  },
-  {
-    "waktu": "04 Jul 2026 15:55:52 WIB",
-    "lintang": "2.33 LS",
-    "bujur": "138.28 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "14 km",
-    "dirasakan": "II Sarmi"
   }
 ]
