@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Jul 2026 17:18:45 WIB",
+    "lintang": "4.07 LS",
+    "bujur": "121.82 BT",
+    "magnitudo": "1.7",
+    "kedalaman": "5 km",
+    "dirasakan": "II Kolaka Timur"
+  },
+  {
     "waktu": "09 Jul 2026 12:10:59 WIB",
     "lintang": "6.80 LS",
     "bujur": "107.68 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "14 km",
     "dirasakan": "II Sarmi"
-  },
-  {
-    "waktu": "04 Jul 2026 00:14:49 WIB",
-    "lintang": "9.61 LS",
-    "bujur": "119.45 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "9 km",
-    "dirasakan": "III Sumba Timur, III Tambolaka, III Sumba Tengah, III Sumba Barat"
   }
 ]
