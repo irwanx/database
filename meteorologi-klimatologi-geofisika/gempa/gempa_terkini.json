@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Jul 2026 00:49:28 WIB",
+    "lintang": "4.93 LU",
+    "bujur": "125.40 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "wilayah": "147 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
     "waktu": "11 Jul 2026 17:51:09 WIB",
     "lintang": "5.10 LU",
     "bujur": "125.48 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "5 km",
     "wilayah": "54 km BaratLaut POSO-SULTENG"
-  },
-  {
-    "waktu": "16 Jun 2026 11:14:00 WIB",
-    "lintang": "1.05 LS",
-    "bujur": "120.10 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "wilayah": "29 km Tenggara PALU-SULTENG"
   }
 ]
