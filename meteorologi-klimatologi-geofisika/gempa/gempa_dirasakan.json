@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Jul 2026 19:47:31 WIB",
+    "lintang": "7.66 LS",
+    "bujur": "107.00 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "22 km",
+    "dirasakan": "III Kab. Sukabumi, III Kab. Cianjur, II-III Kab. Bandung, II-III Kab. Bandung Barat, II-III Kab. Garut, II-III Kab. Tasikmalaya"
+  },
+  {
     "waktu": "11 Jul 2026 00:48:33 WIB",
     "lintang": "2.53 LS",
     "bujur": "121.20 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.4",
     "kedalaman": "3 km",
     "dirasakan": "II-III Toli-Toli"
-  },
-  {
-    "waktu": "05 Jul 2026 03:54:52 WIB",
-    "lintang": "7.53 LS",
-    "bujur": "106.73 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "30 km",
-    "dirasakan": "II-III Kecamatan Cimanggu, II-III Simpenan, Sukabumi, II-III Jampang Barat, II-III Cigaru"
   }
 ]
