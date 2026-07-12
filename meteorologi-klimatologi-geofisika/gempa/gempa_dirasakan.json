@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Jul 2026 18:38:41 WIB",
+    "lintang": "4.08 LU",
+    "bujur": "97.20 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "16 km",
+    "dirasakan": "II Bener Meriah"
+  },
+  {
     "waktu": "11 Jul 2026 19:47:31 WIB",
     "lintang": "7.66 LS",
     "bujur": "107.00 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "12 km",
     "dirasakan": "II Labuha"
-  },
-  {
-    "waktu": "06 Jul 2026 07:23:37 WIB",
-    "lintang": "1.08 LU",
-    "bujur": "120.92 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "3 km",
-    "dirasakan": "II-III Toli-Toli"
   }
 ]
