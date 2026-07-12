@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "12 Jul 2026 20:46:35 WIB",
+    "lintang": "1.31 LU",
+    "bujur": "121.38 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 km",
+    "dirasakan": "IV Tolitoli, IV Buol, II-III Pohuwato, II-III Gorontalo Utara"
+  },
+  {
+    "waktu": "12 Jul 2026 20:20:25 WIB",
+    "lintang": "9.65 LS",
+    "bujur": "119.37 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "13 km",
+    "dirasakan": "III-IV Sumba Barat Daya, III-IV Sumba Barat, III-IV Sumba Tengah, III-IV Sumba Timur, III Manggarai Barat"
+  },
+  {
     "waktu": "12 Jul 2026 18:38:41 WIB",
     "lintang": "4.08 LU",
     "bujur": "97.20 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "4 km",
     "dirasakan": "III Poso"
-  },
-  {
-    "waktu": "06 Jul 2026 17:51:28 WIB",
-    "lintang": "0.66 LS",
-    "bujur": "131.57 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "8 km",
-    "dirasakan": "II-III Sorong"
-  },
-  {
-    "waktu": "06 Jul 2026 17:32:55 WIB",
-    "lintang": "0.87 LS",
-    "bujur": "127.48 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "12 km",
-    "dirasakan": "II Labuha"
   }
 ]

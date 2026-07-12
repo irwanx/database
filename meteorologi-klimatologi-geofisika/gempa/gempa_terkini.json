@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "12 Jul 2026 20:46:35 WIB",
+    "lintang": "1.31 LU",
+    "bujur": "121.38 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 km",
+    "wilayah": "37 km TimurLaut BUOL-SULTENG"
+  },
+  {
+    "waktu": "12 Jul 2026 20:20:25 WIB",
+    "lintang": "9.65 LS",
+    "bujur": "119.37 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "13 km",
+    "wilayah": "2 km BaratDaya WAIKABUBAK-NTT"
+  },
+  {
     "waktu": "12 Jul 2026 00:49:28 WIB",
     "lintang": "4.93 LU",
     "bujur": "125.40 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 km",
     "wilayah": "225 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
-  },
-  {
-    "waktu": "17 Jun 2026 10:44:16 WIB",
-    "lintang": "9.57 LS",
-    "bujur": "119.44 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "wilayah": "10 km TimurLaut WAIKABUBAK-NTT"
-  },
-  {
-    "waktu": "17 Jun 2026 01:29:38 WIB",
-    "lintang": "1.14 LS",
-    "bujur": "120.33 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "5 km",
-    "wilayah": "54 km BaratLaut POSO-SULTENG"
   }
 ]
