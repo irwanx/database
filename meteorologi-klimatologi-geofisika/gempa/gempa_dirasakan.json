@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Jul 2026 23:40:27 WIB",
+    "lintang": "4.13 LU",
+    "bujur": "97.44 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Bener Meriah"
+  },
+  {
     "waktu": "12 Jul 2026 20:46:35 WIB",
     "lintang": "1.31 LU",
     "bujur": "121.38 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "10 km",
     "dirasakan": "IV Kota Sorong"
-  },
-  {
-    "waktu": "07 Jul 2026 01:47:27 WIB",
-    "lintang": "2.16 LS",
-    "bujur": "120.61 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "4 km",
-    "dirasakan": "III Poso"
   }
 ]
