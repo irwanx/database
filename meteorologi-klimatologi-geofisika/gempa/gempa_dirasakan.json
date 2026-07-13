@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13 Jul 2026 19:06:26 WIB",
+    "lintang": "8.16 LS",
+    "bujur": "114.77 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "12 km",
+    "dirasakan": "III Buleleng, III Jembrana, II-III Banyuwangi"
+  },
+  {
     "waktu": "13 Jul 2026 16:07:12 WIB",
     "lintang": "4.08 LS",
     "bujur": "121.84 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "44 km",
     "dirasakan": "II - III Subulussalam, II-III Aceh Singkil"
-  },
-  {
-    "waktu": "07 Jul 2026 14:16:27 WIB",
-    "lintang": "3.14 LU",
-    "bujur": "127.44 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Naha"
   }
 ]
