@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13 Jul 2026 16:07:12 WIB",
+    "lintang": "4.08 LS",
+    "bujur": "121.84 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Kolaka Timur"
+  },
+  {
     "waktu": "12 Jul 2026 23:40:27 WIB",
     "lintang": "4.13 LU",
     "bujur": "97.44 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.6",
     "kedalaman": "10 km",
     "dirasakan": "II-III Naha"
-  },
-  {
-    "waktu": "07 Jul 2026 08:23:53 WIB",
-    "lintang": "0.66 LS",
-    "bujur": "131.50 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 km",
-    "dirasakan": "IV Kota Sorong"
   }
 ]
