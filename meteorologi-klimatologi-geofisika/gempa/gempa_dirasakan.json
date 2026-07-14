@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Jul 2026 16:52:32 WIB",
+    "lintang": "9.57 LS",
+    "bujur": "119.45 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "3 km",
+    "dirasakan": "III Sumba Barat"
+  },
+  {
     "waktu": "13 Jul 2026 19:06:26 WIB",
     "lintang": "8.16 LS",
     "bujur": "114.77 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.1",
     "kedalaman": "8 km",
     "dirasakan": "II Bener Meriah"
-  },
-  {
-    "waktu": "07 Jul 2026 22:36:08 WIB",
-    "lintang": "2.86 LU",
-    "bujur": "97.66 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "44 km",
-    "dirasakan": "II - III Subulussalam, II-III Aceh Singkil"
   }
 ]
