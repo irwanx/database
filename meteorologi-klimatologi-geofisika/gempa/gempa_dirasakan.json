@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Jul 2026 22:49:37 WIB",
+    "lintang": "5.34 LU",
+    "bujur": "125.06 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Manado, III-IV Kep. Sangihe, II-III Minahasa Selatan, II-III Minahasa"
+  },
+  {
     "waktu": "14 Jul 2026 16:52:32 WIB",
     "lintang": "9.57 LS",
     "bujur": "119.45 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 km",
     "dirasakan": "II-III Kecamatan Simpenan , II-III Kabupaten Bogor"
-  },
-  {
-    "waktu": "07 Jul 2026 23:57:28 WIB",
-    "lintang": "4.76 LU",
-    "bujur": "96.77 BT",
-    "magnitudo": "2.1",
-    "kedalaman": "8 km",
-    "dirasakan": "II Bener Meriah"
   }
 ]
