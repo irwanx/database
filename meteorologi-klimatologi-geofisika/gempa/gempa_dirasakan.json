@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Jul 2026 00:43:34 WIB",
+    "lintang": "3.41 LS",
+    "bujur": "135.55 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 km",
+    "dirasakan": "II Nabire"
+  },
+  {
     "waktu": "17 Jul 2026 21:16:14 WIB",
     "lintang": "1.17 LS",
     "bujur": "120.13 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "1.7",
     "kedalaman": "5 km",
     "dirasakan": "II Kolaka Timur"
-  },
-  {
-    "waktu": "09 Jul 2026 12:10:59 WIB",
-    "lintang": "6.80 LS",
-    "bujur": "107.68 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "25 km",
-    "dirasakan": "II-III Lembang, II-III Parongpong"
   }
 ]
