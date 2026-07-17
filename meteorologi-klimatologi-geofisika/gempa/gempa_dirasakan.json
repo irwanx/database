@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Jul 2026 21:16:14 WIB",
+    "lintang": "1.17 LS",
+    "bujur": "120.13 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "6 km",
+    "dirasakan": "II-III Sigi"
+  },
+  {
     "waktu": "17 Jul 2026 07:32:50 WIB",
     "lintang": "1.09 LU",
     "bujur": "120.92 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "25 km",
     "dirasakan": "II-III Lembang, II-III Parongpong"
-  },
-  {
-    "waktu": "09 Jul 2026 10:26:42 WIB",
-    "lintang": "2.39 LS",
-    "bujur": "140.53 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "8 km",
-    "dirasakan": "III-IV Jayapura"
   }
 ]
