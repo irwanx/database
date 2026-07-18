@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "18 Jul 2026 20:14:43 WIB",
+    "lintang": "1.18 LS",
+    "bujur": "120.15 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "8 km",
+    "dirasakan": "II-III Sigi"
+  },
+  {
+    "waktu": "18 Jul 2026 19:54:38 WIB",
+    "lintang": "1.30 LU",
+    "bujur": "121.35 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "11 km",
+    "dirasakan": "II-III Buol"
+  },
+  {
     "waktu": "18 Jul 2026 11:58:50 WIB",
     "lintang": "0.24 LS",
     "bujur": "100.35 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 km",
     "dirasakan": "IV Tolitoli, IV Buol, II-III Pohuwato, II-III Gorontalo Utara"
-  },
-  {
-    "waktu": "12 Jul 2026 20:20:25 WIB",
-    "lintang": "9.65 LS",
-    "bujur": "119.37 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "13 km",
-    "dirasakan": "III-IV Sumba Barat Daya, III-IV Sumba Barat, III-IV Sumba Tengah, III-IV Sumba Timur, III Manggarai Barat"
-  },
-  {
-    "waktu": "12 Jul 2026 18:38:41 WIB",
-    "lintang": "4.08 LU",
-    "bujur": "97.20 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "16 km",
-    "dirasakan": "II Bener Meriah"
   }
 ]
