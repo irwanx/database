@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Jul 2026 07:50:04 WIB",
+    "lintang": "0.32 LS",
+    "bujur": "99.00 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "26 km",
+    "dirasakan": "II-III Sungai Beremas"
+  },
+  {
     "waktu": "18 Jul 2026 00:43:34 WIB",
     "lintang": "3.41 LS",
     "bujur": "135.55 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "2 km",
     "dirasakan": "III Malili, III Wasuponda"
-  },
-  {
-    "waktu": "10 Jul 2026 17:18:45 WIB",
-    "lintang": "4.07 LS",
-    "bujur": "121.82 BT",
-    "magnitudo": "1.7",
-    "kedalaman": "5 km",
-    "dirasakan": "II Kolaka Timur"
   }
 ]
