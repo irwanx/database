@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "18 Jul 2026 11:58:50 WIB",
+    "lintang": "0.24 LS",
+    "bujur": "100.35 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "5 km",
+    "dirasakan": "II Bukittinggi"
+  },
+  {
+    "waktu": "18 Jul 2026 10:10:44 WIB",
+    "lintang": "0.30 LS",
+    "bujur": "100.31 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "7 km",
+    "dirasakan": "II-III MMI Bukittinggi"
+  },
+  {
     "waktu": "18 Jul 2026 07:50:04 WIB",
     "lintang": "0.32 LS",
     "bujur": "99.00 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.4",
     "kedalaman": "16 km",
     "dirasakan": "II Bener Meriah"
-  },
-  {
-    "waktu": "11 Jul 2026 19:47:31 WIB",
-    "lintang": "7.66 LS",
-    "bujur": "107.00 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "22 km",
-    "dirasakan": "III Kab. Sukabumi, III Kab. Cianjur, II-III Kab. Bandung, II-III Kab. Bandung Barat, II-III Kab. Garut, II-III Kab. Tasikmalaya"
-  },
-  {
-    "waktu": "11 Jul 2026 00:48:33 WIB",
-    "lintang": "2.53 LS",
-    "bujur": "121.20 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "2 km",
-    "dirasakan": "III Malili, III Wasuponda"
   }
 ]
