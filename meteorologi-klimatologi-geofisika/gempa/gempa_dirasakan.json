@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Jul 2026 15:11:09 WIB",
+    "lintang": "7.74 LS",
+    "bujur": "106.44 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "dirasakan": "III Cikotok, III KelapaNunggal, III Cidolog, III Cisaat, III Simpenan, III Kota Sukabumi, III Nagrak, II-III Bayah, II-III Panggarangan, II-III Cimahi, II-III Banjaran, II-III Lembang"
+  },
+  {
     "waktu": "19 Jul 2026 02:55:40 WIB",
     "lintang": "8.95 LS",
     "bujur": "115.62 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.8",
     "kedalaman": "5 km",
     "dirasakan": "II-III Kolaka Timur"
-  },
-  {
-    "waktu": "12 Jul 2026 23:40:27 WIB",
-    "lintang": "4.13 LU",
-    "bujur": "97.44 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Bener Meriah"
   }
 ]

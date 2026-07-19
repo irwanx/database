@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Jul 2026 15:11:08 WIB",
+    "lintang": "7.70 LS",
+    "bujur": "106.54 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "23 km",
+    "wilayah": "79 km BaratDaya KAB-SUKABUMI-JABAR"
+  },
+  {
     "waktu": "18 Jul 2026 09:23:39 WIB",
     "lintang": "4.72 LU",
     "bujur": "124.78 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.8",
     "kedalaman": "10 km",
     "wilayah": "196 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
-  },
-  {
-    "waktu": "25 Jun 2026 11:03:35 WIB",
-    "lintang": "5.50 LU",
-    "bujur": "125.07 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 km",
-    "wilayah": "215 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]
