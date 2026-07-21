@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21 Jul 2026 19:10:00 WIB",
+    "lintang": "0.94 LS",
+    "bujur": "134.13 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "7 km",
+    "dirasakan": "II-III Manokwari"
+  },
+  {
     "waktu": "19 Jul 2026 15:11:09 WIB",
     "lintang": "7.74 LS",
     "bujur": "106.44 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "12 km",
     "dirasakan": "III Buleleng, III Jembrana, II-III Banyuwangi"
-  },
-  {
-    "waktu": "13 Jul 2026 16:07:12 WIB",
-    "lintang": "4.08 LS",
-    "bujur": "121.84 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Kolaka Timur"
   }
 ]
