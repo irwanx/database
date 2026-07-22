@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Jul 2026 21:22:12 WIB",
+    "lintang": "8.16 LS",
+    "bujur": "117.75 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "12 km",
+    "dirasakan": "III Kabupaten Bima, III Kabupaten Dompu"
+  },
+  {
     "waktu": "22 Jul 2026 11:41:09 WIB",
     "lintang": "4.19 LU",
     "bujur": "97.46 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "26 km",
     "dirasakan": "II-III Sungai Beremas"
-  },
-  {
-    "waktu": "18 Jul 2026 00:43:34 WIB",
-    "lintang": "3.41 LS",
-    "bujur": "135.55 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 km",
-    "dirasakan": "II Nabire"
   }
 ]
