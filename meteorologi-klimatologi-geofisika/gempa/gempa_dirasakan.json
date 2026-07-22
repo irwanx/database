@@ -1,5 +1,45 @@
 [
   {
+    "waktu": "22 Jul 2026 11:41:09 WIB",
+    "lintang": "4.19 LU",
+    "bujur": "97.46 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "4 km",
+    "dirasakan": "IV Gayo Lues, III Bener Meriah, II-III Lhokseumawe, II-III Aceh Utara, II Bireuen, II Aceh Tamiang, II Aceh Timur"
+  },
+  {
+    "waktu": "22 Jul 2026 11:29:22 WIB",
+    "lintang": "4.16 LU",
+    "bujur": "97.46 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "6 km",
+    "dirasakan": "IV Gayo Lues, II Bireuen, II Aceh Utara, II Lhokseumawe"
+  },
+  {
+    "waktu": "22 Jul 2026 11:26:51 WIB",
+    "lintang": "4.17 LU",
+    "bujur": "97.42 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 km",
+    "dirasakan": "III Gayo Lues"
+  },
+  {
+    "waktu": "22 Jul 2026 11:18:23 WIB",
+    "lintang": "4.25 LU",
+    "bujur": "97.62 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 km",
+    "dirasakan": "V Gayo Lues, III Medan, III Aceh Selatan, III-IV Aceh Barat Daya, III Sibolga, III Deli Serdang, III-IV Lhokseumawe, II Langsa, IV Aceh Tenggara, III-IV Aceh Utara, III-IV Aceh Timur, III-IV Bener Meriah, III-IV Aceh Tengah, III Aceh Tamiang, II Pidie, II Pidie Jaya"
+  },
+  {
+    "waktu": "22 Jul 2026 11:15:59 WIB",
+    "lintang": "4.23 LU",
+    "bujur": "97.48 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 km",
+    "dirasakan": "IV Gayo Lues"
+  },
+  {
     "waktu": "22 Jul 2026 00:49:29 WIB",
     "lintang": "10.46 LS",
     "bujur": "121.77 BT",
@@ -78,45 +118,5 @@
     "magnitudo": "3.3",
     "kedalaman": "10 km",
     "dirasakan": "II Nabire"
-  },
-  {
-    "waktu": "17 Jul 2026 21:16:14 WIB",
-    "lintang": "1.17 LS",
-    "bujur": "120.13 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "6 km",
-    "dirasakan": "II-III Sigi"
-  },
-  {
-    "waktu": "17 Jul 2026 07:32:50 WIB",
-    "lintang": "1.09 LU",
-    "bujur": "120.92 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Toli-Toli"
-  },
-  {
-    "waktu": "16 Jul 2026 00:37:36 WIB",
-    "lintang": "1.64 LU",
-    "bujur": "118.08 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "21 km",
-    "dirasakan": "II-III Berau"
-  },
-  {
-    "waktu": "14 Jul 2026 22:49:37 WIB",
-    "lintang": "5.34 LU",
-    "bujur": "125.06 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Manado, III-IV Kep. Sangihe, II-III Minahasa Selatan, II-III Minahasa"
-  },
-  {
-    "waktu": "14 Jul 2026 16:52:32 WIB",
-    "lintang": "9.57 LS",
-    "bujur": "119.45 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "3 km",
-    "dirasakan": "III Sumba Barat"
   }
 ]
