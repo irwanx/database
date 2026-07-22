@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Jul 2026 00:36:41 WIB",
+    "lintang": "4.25 LU",
+    "bujur": "97.63 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "5 km",
+    "dirasakan": "III Blangkejeren, II Kuta Cane, II Bener Meriah, II Aceh Tengah"
+  },
+  {
     "waktu": "22 Jul 2026 21:22:12 WIB",
     "lintang": "8.16 LS",
     "bujur": "117.75 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.9",
     "kedalaman": "7 km",
     "dirasakan": "II-III MMI Bukittinggi"
-  },
-  {
-    "waktu": "18 Jul 2026 07:50:04 WIB",
-    "lintang": "0.32 LS",
-    "bujur": "99.00 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "26 km",
-    "dirasakan": "II-III Sungai Beremas"
   }
 ]
