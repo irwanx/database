@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Jul 2026 00:49:29 WIB",
+    "lintang": "10.46 LS",
+    "bujur": "121.77 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "5 km",
+    "dirasakan": "II - III Sabu Raijua"
+  },
+  {
     "waktu": "21 Jul 2026 19:10:00 WIB",
     "lintang": "0.94 LS",
     "bujur": "134.13 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "3 km",
     "dirasakan": "III Sumba Barat"
-  },
-  {
-    "waktu": "13 Jul 2026 19:06:26 WIB",
-    "lintang": "8.16 LS",
-    "bujur": "114.77 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "12 km",
-    "dirasakan": "III Buleleng, III Jembrana, II-III Banyuwangi"
   }
 ]
