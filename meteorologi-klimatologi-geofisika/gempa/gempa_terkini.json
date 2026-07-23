@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24 Jul 2026 05:50:25 WIB",
+    "lintang": "5.98 LS",
+    "bujur": "100.72 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 km",
+    "wilayah": "185 km BaratDaya ENGGANO-BENGKULU"
+  },
+  {
     "waktu": "24 Jul 2026 03:15:15 WIB",
     "lintang": "2.40 LS",
     "bujur": "139.02 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.9",
     "kedalaman": "10 km",
     "wilayah": "163 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
-  },
-  {
-    "waktu": "03 Jul 2026 09:31:29 WIB",
-    "lintang": "1.93 LU",
-    "bujur": "127.39 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "100 km",
-    "wilayah": "58 km BaratDaya PULAUDOI-MALUT"
   }
 ]

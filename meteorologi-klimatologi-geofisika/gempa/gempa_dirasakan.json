@@ -72,6 +72,14 @@
     "dirasakan": "IV Gayo Lues"
   },
   {
+    "waktu": "22 Jul 2026 03:20:09 WIB",
+    "lintang": "2.42 LS",
+    "bujur": "140.41 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 km",
+    "dirasakan": "III Jayapura"
+  },
+  {
     "waktu": "22 Jul 2026 00:49:29 WIB",
     "lintang": "10.46 LS",
     "bujur": "121.77 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "8 km",
     "dirasakan": "II-III Sigi"
-  },
-  {
-    "waktu": "18 Jul 2026 19:54:38 WIB",
-    "lintang": "1.30 LU",
-    "bujur": "121.35 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "11 km",
-    "dirasakan": "II-III Buol"
   }
 ]
