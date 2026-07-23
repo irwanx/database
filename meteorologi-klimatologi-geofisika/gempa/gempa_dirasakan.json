@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Jul 2026 07:07:21 WIB",
+    "lintang": "0.66 LS",
+    "bujur": "131.20 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Sorong"
+  },
+  {
     "waktu": "23 Jul 2026 02:37:14 WIB",
     "lintang": "8.16 LS",
     "bujur": "117.75 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.3",
     "kedalaman": "11 km",
     "dirasakan": "II-III Buol"
-  },
-  {
-    "waktu": "18 Jul 2026 11:58:50 WIB",
-    "lintang": "0.24 LS",
-    "bujur": "100.35 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "5 km",
-    "dirasakan": "II Bukittinggi"
   }
 ]
