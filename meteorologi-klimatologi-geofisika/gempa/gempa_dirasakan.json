@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Jul 2026 05:27:51 WIB",
+    "lintang": "0.53 LU",
+    "bujur": "99.56 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 km",
+    "dirasakan": "III Kotanopan, Mandailing Natal"
+  },
+  {
     "waktu": "25 Jul 2026 02:22:03 WIB",
     "lintang": "4.77 LU",
     "bujur": "96.78 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.8",
     "kedalaman": "10 km",
     "dirasakan": "IV Gayo Lues"
-  },
-  {
-    "waktu": "22 Jul 2026 03:20:09 WIB",
-    "lintang": "2.42 LS",
-    "bujur": "140.41 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 km",
-    "dirasakan": "III Jayapura"
   }
 ]
