@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Jul 2026 02:22:03 WIB",
+    "lintang": "4.77 LU",
+    "bujur": "96.78 BT",
+    "magnitudo": "2.0",
+    "kedalaman": "4 km",
+    "dirasakan": "II-III Kab. Bener Meriah"
+  },
+  {
     "waktu": "25 Jul 2026 00:28:06 WIB",
     "lintang": "5.72 LS",
     "bujur": "103.90 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.9",
     "kedalaman": "10 km",
     "dirasakan": "III Jayapura"
-  },
-  {
-    "waktu": "22 Jul 2026 00:49:29 WIB",
-    "lintang": "10.46 LS",
-    "bujur": "121.77 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "5 km",
-    "dirasakan": "II - III Sabu Raijua"
   }
 ]
