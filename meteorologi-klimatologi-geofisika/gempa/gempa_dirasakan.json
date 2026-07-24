@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Jul 2026 00:28:06 WIB",
+    "lintang": "5.72 LS",
+    "bujur": "103.90 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "31 km",
+    "dirasakan": "II Kota Agung, II Tanggamus, III Pesisir Barat"
+  },
+  {
     "waktu": "24 Jul 2026 08:03:07 WIB",
     "lintang": "1.09 LU",
     "bujur": "120.91 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "5 km",
     "dirasakan": "II - III Sabu Raijua"
-  },
-  {
-    "waktu": "21 Jul 2026 19:10:00 WIB",
-    "lintang": "0.94 LS",
-    "bujur": "134.13 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "7 km",
-    "dirasakan": "II-III Manokwari"
   }
 ]
