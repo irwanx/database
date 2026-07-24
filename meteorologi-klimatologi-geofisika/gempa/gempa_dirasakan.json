@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "24 Jul 2026 08:03:07 WIB",
+    "lintang": "1.09 LU",
+    "bujur": "120.91 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "7 km",
+    "dirasakan": "III Toli-Toli"
+  },
+  {
+    "waktu": "24 Jul 2026 06:53:11 WIB",
+    "lintang": "8.13 LS",
+    "bujur": "117.79 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "19 km",
+    "dirasakan": "II Kab. Dompu"
+  },
+  {
+    "waktu": "24 Jul 2026 05:58:34 WIB",
+    "lintang": "0.72 LU",
+    "bujur": "126.31 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "10 km",
+    "dirasakan": "III Minahasa Tenggara, III Ternate, III Halmahera Barat, II-III Sofifi, II-III Manado, III Pulau Makian, III Pulau Tifure, III Mayau"
+  },
+  {
     "waktu": "23 Jul 2026 07:07:21 WIB",
     "lintang": "0.66 LS",
     "bujur": "131.20 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "3.8",
     "kedalaman": "7 km",
     "dirasakan": "II-III Manokwari"
-  },
-  {
-    "waktu": "19 Jul 2026 15:11:09 WIB",
-    "lintang": "7.74 LS",
-    "bujur": "106.44 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "dirasakan": "III Cikotok, III KelapaNunggal, III Cidolog, III Cisaat, III Simpenan, III Kota Sukabumi, III Nagrak, II-III Bayah, II-III Panggarangan, II-III Cimahi, II-III Banjaran, II-III Lembang"
-  },
-  {
-    "waktu": "19 Jul 2026 02:55:40 WIB",
-    "lintang": "8.95 LS",
-    "bujur": "115.62 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "82 km",
-    "dirasakan": "II Badung, II Gianyar"
-  },
-  {
-    "waktu": "18 Jul 2026 20:14:43 WIB",
-    "lintang": "1.18 LS",
-    "bujur": "120.15 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "8 km",
-    "dirasakan": "II-III Sigi"
   }
 ]
