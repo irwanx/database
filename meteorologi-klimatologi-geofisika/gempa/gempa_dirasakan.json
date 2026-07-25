@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Jul 2026 17:53:06 WIB",
+    "lintang": "1.69 LU",
+    "bujur": "119.01 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "26 km",
+    "dirasakan": "II Biduk-Biduk"
+  },
+  {
     "waktu": "25 Jul 2026 05:27:51 WIB",
     "lintang": "0.53 LU",
     "bujur": "99.56 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.6",
     "kedalaman": "10 km",
     "dirasakan": "V Gayo Lues, III Medan, III Aceh Selatan, III-IV Aceh Barat Daya, III Sibolga, III Deli Serdang, III-IV Lhokseumawe, II Langsa, IV Aceh Tenggara, III-IV Aceh Utara, III-IV Aceh Timur, III-IV Bener Meriah, III-IV Aceh Tengah, III Aceh Tamiang, II Pidie, II Pidie Jaya"
-  },
-  {
-    "waktu": "22 Jul 2026 11:15:59 WIB",
-    "lintang": "4.23 LU",
-    "bujur": "97.48 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 km",
-    "dirasakan": "IV Gayo Lues"
   }
 ]
