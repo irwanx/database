@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26 Jul 2026 17:57:43 WIB",
+    "lintang": "10.00 LS",
+    "bujur": "123.71 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "26 km",
+    "wilayah": "19 km BaratDaya KAB-KUPANG-NTT"
+  },
+  {
     "waktu": "24 Jul 2026 19:14:29 WIB",
     "lintang": "2.37 LS",
     "bujur": "139.01 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 km",
     "wilayah": "52 km BaratDaya SUMUR-BANTEN"
-  },
-  {
-    "waktu": "07 Jul 2026 14:16:27 WIB",
-    "lintang": "3.14 LU",
-    "bujur": "127.44 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "10 km",
-    "wilayah": "101 km BaratLaut PULAUDOI-MALUT"
   }
 ]
