@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Jul 2026 20:29:46 WIB",
+    "lintang": "9.15 LS",
+    "bujur": "112.80 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 km",
+    "dirasakan": "III Blitar, III Malang, III Lumajang, III Jember"
+  },
+  {
     "waktu": "28 Jul 2026 05:57:12 WIB",
     "lintang": "1.85 LS",
     "bujur": "139.15 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "5 km",
     "dirasakan": "III Blangkejeren, II Kuta Cane, II Bener Meriah, II Aceh Tengah, II Aceh Timur, II Langsa"
-  },
-  {
-    "waktu": "22 Jul 2026 21:22:12 WIB",
-    "lintang": "8.16 LS",
-    "bujur": "117.75 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "12 km",
-    "dirasakan": "III Kabupaten Bima, III Kabupaten Dompu"
   }
 ]
