@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Jul 2026 05:57:12 WIB",
+    "lintang": "1.85 LS",
+    "bujur": "139.15 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "16 km",
+    "dirasakan": "II Sarmi"
+  },
+  {
     "waktu": "27 Jul 2026 20:21:01 WIB",
     "lintang": "4.32 LS",
     "bujur": "122.71 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.9",
     "kedalaman": "12 km",
     "dirasakan": "III Kabupaten Bima, III Kabupaten Dompu"
-  },
-  {
-    "waktu": "22 Jul 2026 11:41:09 WIB",
-    "lintang": "4.19 LU",
-    "bujur": "97.46 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "4 km",
-    "dirasakan": "IV Gayo Lues, III Bener Meriah, II-III Lhokseumawe, II-III Aceh Utara, II Bireuen, II Aceh Tamiang, II Aceh Timur"
   }
 ]
