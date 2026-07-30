@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30 Jul 2026 18:17:13 WIB",
+    "lintang": "7.73 LS",
+    "bujur": "106.33 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "39 km",
+    "dirasakan": "II-III Ciracap, II Pelabuhan Ratu"
+  },
+  {
     "waktu": "28 Jul 2026 20:29:46 WIB",
     "lintang": "9.15 LS",
     "bujur": "112.80 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "19 km",
     "dirasakan": "III Kab.Bima, III Kab.Dompu, III Kab.Sumbawa"
-  },
-  {
-    "waktu": "23 Jul 2026 00:36:41 WIB",
-    "lintang": "4.25 LU",
-    "bujur": "97.63 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "5 km",
-    "dirasakan": "III Blangkejeren, II Kuta Cane, II Bener Meriah, II Aceh Tengah, II Aceh Timur, II Langsa"
   }
 ]
