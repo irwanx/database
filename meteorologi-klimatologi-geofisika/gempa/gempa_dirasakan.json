@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "31 Jul 2026 03:06:25 WIB",
+    "lintang": "6.85 LS",
+    "bujur": "107.09 BT",
+    "magnitudo": "1.9",
+    "kedalaman": "18 km",
+    "dirasakan": "I-II Cianjur"
+  },
+  {
     "waktu": "30 Jul 2026 18:17:13 WIB",
     "lintang": "7.73 LS",
     "bujur": "106.33 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "10 km",
     "dirasakan": "II-III Sorong"
-  },
-  {
-    "waktu": "23 Jul 2026 02:37:14 WIB",
-    "lintang": "8.16 LS",
-    "bujur": "117.75 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "19 km",
-    "dirasakan": "III Kab.Bima, III Kab.Dompu, III Kab.Sumbawa"
   }
 ]
