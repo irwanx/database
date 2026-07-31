@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "31 Jul 2026 19:12:41 WIB",
+    "lintang": "5.45 LS",
+    "bujur": "104.68 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "5 km",
+    "dirasakan": "II Gisting, II Sumberejo"
+  },
+  {
     "waktu": "31 Jul 2026 03:06:25 WIB",
     "lintang": "6.85 LS",
     "bujur": "107.09 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.8",
     "kedalaman": "10 km",
     "dirasakan": "III Minahasa Tenggara, III Ternate, III Halmahera Barat, II-III Sofifi, II-III Manado, III Pulau Makian, III Pulau Tifure, III Mayau"
-  },
-  {
-    "waktu": "23 Jul 2026 07:07:21 WIB",
-    "lintang": "0.66 LS",
-    "bujur": "131.20 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Sorong"
   }
 ]
