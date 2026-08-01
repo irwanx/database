@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Agu 2026 05:47:22 WIB",
+    "lintang": "1.28 LU",
+    "bujur": "126.38 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "11 km",
+    "dirasakan": ""
+  },
+  {
     "waktu": "31 Jul 2026 19:12:41 WIB",
     "lintang": "5.45 LS",
     "bujur": "104.68 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.9",
     "kedalaman": "19 km",
     "dirasakan": "II Kab. Dompu"
-  },
-  {
-    "waktu": "24 Jul 2026 05:58:34 WIB",
-    "lintang": "0.72 LU",
-    "bujur": "126.31 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "10 km",
-    "dirasakan": "III Minahasa Tenggara, III Ternate, III Halmahera Barat, II-III Sofifi, II-III Manado, III Pulau Makian, III Pulau Tifure, III Mayau"
   }
 ]
