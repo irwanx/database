@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Agu 2026 14:29:22 WIB",
+    "lintang": "1.11 LS",
+    "bujur": "120.07 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Sigi"
+  },
+  {
     "waktu": "01 Agu 2026 09:11:12 WIB",
     "lintang": "2.80 LU",
     "bujur": "125.26 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "31 km",
     "dirasakan": "II Kota Agung, II Tanggamus, III Pesisir Barat"
-  },
-  {
-    "waktu": "24 Jul 2026 08:03:07 WIB",
-    "lintang": "1.09 LU",
-    "bujur": "120.91 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "7 km",
-    "dirasakan": "III Toli-Toli"
   }
 ]
