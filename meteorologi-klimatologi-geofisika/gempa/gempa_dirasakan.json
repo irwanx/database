@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Agu 2026 21:17:38 WIB",
+    "lintang": "8.36 LS",
+    "bujur": "121.34 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "12 km",
+    "dirasakan": "III Ende, III Ngada"
+  },
+  {
     "waktu": "01 Agu 2026 14:29:22 WIB",
     "lintang": "1.11 LS",
     "bujur": "120.07 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.0",
     "kedalaman": "4 km",
     "dirasakan": "II-III Kab. Bener Meriah"
-  },
-  {
-    "waktu": "25 Jul 2026 00:28:06 WIB",
-    "lintang": "5.72 LS",
-    "bujur": "103.90 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "31 km",
-    "dirasakan": "II Kota Agung, II Tanggamus, III Pesisir Barat"
   }
 ]
