@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Agu 2026 20:13:31 WIB",
+    "lintang": "9.66 LS",
+    "bujur": "119.42 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "6 km",
+    "dirasakan": "III-IV Sumba Barat"
+  },
+  {
     "waktu": "02 Agu 2026 21:17:38 WIB",
     "lintang": "8.36 LS",
     "bujur": "121.34 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.3",
     "kedalaman": "10 km",
     "dirasakan": "III Kotanopan, Mandailing Natal"
-  },
-  {
-    "waktu": "25 Jul 2026 02:22:03 WIB",
-    "lintang": "4.77 LU",
-    "bujur": "96.78 BT",
-    "magnitudo": "2.0",
-    "kedalaman": "4 km",
-    "dirasakan": "II-III Kab. Bener Meriah"
   }
 ]
