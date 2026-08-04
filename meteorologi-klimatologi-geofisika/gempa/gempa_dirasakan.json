@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "04 Agu 2026 15:55:24 WIB",
+    "lintang": "7.79 LS",
+    "bujur": "107.25 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "23 km",
+    "dirasakan": "II-III Pelabuhan Ratu, II-III Pangalengan"
+  },
+  {
+    "waktu": "04 Agu 2026 13:11:10 WIB",
+    "lintang": "0.95 LU",
+    "bujur": "121.74 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "28 km",
+    "dirasakan": "II-III Buol"
+  },
+  {
     "waktu": "03 Agu 2026 20:13:31 WIB",
     "lintang": "9.66 LS",
     "bujur": "119.42 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "26 km",
     "dirasakan": "III-IV Kupang, III-IV Kab. Kupang"
-  },
-  {
-    "waktu": "25 Jul 2026 17:53:06 WIB",
-    "lintang": "1.69 LU",
-    "bujur": "119.01 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "26 km",
-    "dirasakan": "II Biduk-Biduk"
-  },
-  {
-    "waktu": "25 Jul 2026 05:27:51 WIB",
-    "lintang": "0.53 LU",
-    "bujur": "99.56 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kotanopan, Mandailing Natal"
   }
 ]
