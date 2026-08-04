@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Agu 2026 03:16:38 WIB",
+    "lintang": "1.60 LU",
+    "bujur": "126.59 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "25 km",
+    "dirasakan": "III Ternate, IV Manado, IV Minahasa Utara, IV Bitung"
+  },
+  {
     "waktu": "04 Agu 2026 15:55:24 WIB",
     "lintang": "7.79 LS",
     "bujur": "107.25 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "3 km",
     "dirasakan": "III Sibolga, III Tarutung"
-  },
-  {
-    "waktu": "26 Jul 2026 17:57:43 WIB",
-    "lintang": "10.00 LS",
-    "bujur": "123.71 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "26 km",
-    "dirasakan": "III-IV Kupang, III-IV Kab. Kupang"
   }
 ]
