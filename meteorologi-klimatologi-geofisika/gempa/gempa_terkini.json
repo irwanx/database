@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Agu 2026 11:14:04 WIB",
+    "lintang": "5.60 LU",
+    "bujur": "125.27 BT",
+    "magnitudo": "6.4",
+    "kedalaman": "10 km",
+    "wilayah": "221 km BaratLaut PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "05 Agu 2026 03:16:38 WIB",
     "lintang": "1.60 LU",
     "bujur": "126.59 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.2",
     "kedalaman": "10 km",
     "wilayah": "198 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
-  },
-  {
-    "waktu": "12 Jul 2026 20:46:35 WIB",
-    "lintang": "1.31 LU",
-    "bujur": "121.38 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 km",
-    "wilayah": "37 km TimurLaut BUOL-SULTENG"
   }
 ]
