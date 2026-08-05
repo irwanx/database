@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "05 Agu 2026 23:50:18 WIB",
+    "lintang": "1.90 LU",
+    "bujur": "127.37 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "110 km",
+    "dirasakan": "II Manado, II Minahasa, II Minahasa Utara, II Tomohon"
+  },
+  {
+    "waktu": "05 Agu 2026 21:55:41 WIB",
+    "lintang": "8.12 LS",
+    "bujur": "107.91 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "18 km",
+    "dirasakan": "III Nagrak, III Cilacap, III Kalapanunggal, III Kertasari, III Baleendah, III Dayeuhkolot, III Majalaya, III Arjasari, III Solokanjeruk, II - III Soreang, III - IV Kab. Sukabumi, II - III Kota Sukabumi, II - III Ciwidey, II - III Pangalengan, II Sumedang, II Ngamprah, II Parongpong, II Cihanjuang, II Pelabuhan Ratu, II Lembang, III - IV Kabandungan, II-III Banjarnegara"
+  },
+  {
     "waktu": "05 Agu 2026 11:14:04 WIB",
     "lintang": "5.60 LU",
     "bujur": "125.27 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "10 km",
     "dirasakan": "III Blitar, III Malang, III Lumajang, III Jember"
-  },
-  {
-    "waktu": "28 Jul 2026 05:57:12 WIB",
-    "lintang": "1.85 LS",
-    "bujur": "139.15 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "16 km",
-    "dirasakan": "II Sarmi"
-  },
-  {
-    "waktu": "27 Jul 2026 20:21:01 WIB",
-    "lintang": "4.32 LS",
-    "bujur": "122.71 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "5 km",
-    "dirasakan": "III Kab. Konawe Selatan"
   }
 ]
