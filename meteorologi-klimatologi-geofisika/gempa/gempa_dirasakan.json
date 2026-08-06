@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "06 Agu 2026 08:36:01 WIB",
+    "lintang": "1.22 LS",
+    "bujur": "120.05 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "3 km",
+    "dirasakan": "II-III Sigi"
+  },
+  {
+    "waktu": "06 Agu 2026 05:42:56 WIB",
+    "lintang": "2.83 LS",
+    "bujur": "122.25 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "8 km",
+    "dirasakan": "II-III Morowali"
+  },
+  {
     "waktu": "05 Agu 2026 23:50:18 WIB",
     "lintang": "1.90 LU",
     "bujur": "127.37 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "1.9",
     "kedalaman": "18 km",
     "dirasakan": "I-II Cianjur"
-  },
-  {
-    "waktu": "30 Jul 2026 18:17:13 WIB",
-    "lintang": "7.73 LS",
-    "bujur": "106.33 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "39 km",
-    "dirasakan": "II-III Ciracap, II Pelabuhan Ratu"
-  },
-  {
-    "waktu": "28 Jul 2026 20:29:46 WIB",
-    "lintang": "9.15 LS",
-    "bujur": "112.80 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 km",
-    "dirasakan": "III Blitar, III Malang, III Lumajang, III Jember"
   }
 ]
