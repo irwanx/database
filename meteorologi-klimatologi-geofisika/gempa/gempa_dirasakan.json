@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Agu 2026 09:59:47 WIB",
+    "lintang": "1.17 LS",
+    "bujur": "120.06 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 km",
+    "dirasakan": "III Sigi"
+  },
+  {
     "waktu": "06 Agu 2026 08:36:01 WIB",
     "lintang": "1.22 LS",
     "bujur": "120.05 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.8",
     "kedalaman": "5 km",
     "dirasakan": "II Gisting, II Sumberejo"
-  },
-  {
-    "waktu": "31 Jul 2026 03:06:25 WIB",
-    "lintang": "6.85 LS",
-    "bujur": "107.09 BT",
-    "magnitudo": "1.9",
-    "kedalaman": "18 km",
-    "dirasakan": "I-II Cianjur"
   }
 ]
