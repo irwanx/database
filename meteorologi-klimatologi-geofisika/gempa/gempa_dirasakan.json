@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Agu 2026 03:42:56 WIB",
+    "lintang": "6.71 LS",
+    "bujur": "106.70 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 km",
+    "dirasakan": "III Pamijahan, Kab. Bogor, III Leuwiliang, Kab. Bogor, III Ciomas, Kab. Bogor, III Cigombong, Kab. Bogor, III Cijeruk, Kab. Bogor, II-III Cicurug, Kab. Sukabumi, II-III Cipanas, Kab. Cianjur"
+  },
+  {
     "waktu": "06 Agu 2026 09:59:47 WIB",
     "lintang": "1.17 LS",
     "bujur": "120.06 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.9",
     "kedalaman": "11 km",
     "dirasakan": ""
-  },
-  {
-    "waktu": "31 Jul 2026 19:12:41 WIB",
-    "lintang": "5.45 LS",
-    "bujur": "104.68 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "5 km",
-    "dirasakan": "II Gisting, II Sumberejo"
   }
 ]
