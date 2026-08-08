@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08 Agu 2026 06:45:53 WIB",
+    "lintang": "6.73 LS",
+    "bujur": "106.61 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Pamijahan, II Leuwiliang"
+  },
+  {
     "waktu": "07 Agu 2026 03:42:56 WIB",
     "lintang": "6.71 LS",
     "bujur": "106.70 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "15 km",
     "dirasakan": "II-III Ondong"
-  },
-  {
-    "waktu": "01 Agu 2026 05:47:22 WIB",
-    "lintang": "1.28 LU",
-    "bujur": "126.38 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "11 km",
-    "dirasakan": ""
   }
 ]
