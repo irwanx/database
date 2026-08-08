@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08 Agu 2026 20:59:14 WIB",
+    "lintang": "3.70 LS",
+    "bujur": "119.04 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "19 km",
+    "dirasakan": "II-III Majene"
+  },
+  {
     "waktu": "08 Agu 2026 16:59:27 WIB",
     "lintang": "8.22 LS",
     "bujur": "107.89 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "12 km",
     "dirasakan": "III Ende, III Ngada"
-  },
-  {
-    "waktu": "01 Agu 2026 14:29:22 WIB",
-    "lintang": "1.11 LS",
-    "bujur": "120.07 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Sigi"
   }
 ]
