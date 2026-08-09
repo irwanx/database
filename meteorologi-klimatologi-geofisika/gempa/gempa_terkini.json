@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Agu 2026 10:02:05 WIB",
+    "lintang": "7.25 LU",
+    "bujur": "94.06 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "10 km",
+    "wilayah": "205 km BaratLaut KOTA-SABANG-ACEH"
+  },
+  {
     "waktu": "07 Agu 2026 21:07:39 WIB",
     "lintang": "5.81 LS",
     "bujur": "110.18 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 km",
     "wilayah": "65 km Tenggara SARMI-PAPUA"
-  },
-  {
-    "waktu": "22 Jul 2026 11:18:23 WIB",
-    "lintang": "4.25 LU",
-    "bujur": "97.62 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "10 km",
-    "wilayah": "41 km TimurLaut KAB-GAYOLUES-ACEH"
   }
 ]
