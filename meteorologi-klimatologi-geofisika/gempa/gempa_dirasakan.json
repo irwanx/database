@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Sep 2026 03:36:43 WIB",
+    "lintang": "0.59 LS",
+    "bujur": "130.28 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "15 km",
+    "dirasakan": "II-III Kota Sorong"
+  },
+  {
     "waktu": "09 Agu 2026 22:35:20 WIB",
     "lintang": "5.90 LS",
     "bujur": "102.72 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "23 km",
     "dirasakan": "II-III Pelabuhan Ratu, II-III Pangalengan"
-  },
-  {
-    "waktu": "04 Agu 2026 13:11:10 WIB",
-    "lintang": "0.95 LU",
-    "bujur": "121.74 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "28 km",
-    "dirasakan": "II-III Buol"
   }
 ]
