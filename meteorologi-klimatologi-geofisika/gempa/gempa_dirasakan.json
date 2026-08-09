@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "09 Agu 2026 22:35:20 WIB",
+    "lintang": "5.90 LS",
+    "bujur": "102.72 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "53 km",
+    "dirasakan": "II-III Belalau, II-III Lampung Barat, II-III Krui, II-III Pesisir Barat"
+  },
+  {
+    "waktu": "09 Agu 2026 22:15:04 WIB",
+    "lintang": "5.92 LS",
+    "bujur": "102.77 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "40 km",
+    "dirasakan": "III Bengkulu Utara, II Kaur, II Kepahiang, II Enggano, III Krui, II Sekincau"
+  },
+  {
     "waktu": "08 Agu 2026 20:59:14 WIB",
     "lintang": "3.70 LS",
     "bujur": "119.04 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "28 km",
     "dirasakan": "II-III Buol"
-  },
-  {
-    "waktu": "03 Agu 2026 20:13:31 WIB",
-    "lintang": "9.66 LS",
-    "bujur": "119.42 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "6 km",
-    "dirasakan": "III-IV Sumba Barat"
-  },
-  {
-    "waktu": "02 Agu 2026 21:17:38 WIB",
-    "lintang": "8.36 LS",
-    "bujur": "121.34 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "12 km",
-    "dirasakan": "III Ende, III Ngada"
   }
 ]

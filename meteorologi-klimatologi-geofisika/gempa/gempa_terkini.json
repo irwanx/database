@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Agu 2026 22:15:04 WIB",
+    "lintang": "5.92 LS",
+    "bujur": "102.77 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "40 km",
+    "wilayah": "84 km Tenggara ENGGANO-BENGKULU"
+  },
+  {
     "waktu": "09 Agu 2026 10:02:05 WIB",
     "lintang": "7.25 LU",
     "bujur": "94.06 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 km",
     "wilayah": "185 km BaratDaya ENGGANO-BENGKULU"
-  },
-  {
-    "waktu": "24 Jul 2026 03:15:15 WIB",
-    "lintang": "2.40 LS",
-    "bujur": "139.02 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 km",
-    "wilayah": "65 km Tenggara SARMI-PAPUA"
   }
 ]
