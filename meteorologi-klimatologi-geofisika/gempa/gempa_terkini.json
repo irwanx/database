@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Agu 2026 00:08:08 WIB",
+    "lintang": "5.89 LS",
+    "bujur": "102.43 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "30 km",
+    "wilayah": "63 km Tenggara ENGGANO-BENGKULU"
+  },
+  {
     "waktu": "09 Agu 2026 22:15:04 WIB",
     "lintang": "5.92 LS",
     "bujur": "102.77 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.8",
     "kedalaman": "10 km",
     "wilayah": "117 km BaratDaya TERNATE-MALUT"
-  },
-  {
-    "waktu": "24 Jul 2026 05:50:25 WIB",
-    "lintang": "5.98 LS",
-    "bujur": "100.72 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 km",
-    "wilayah": "185 km BaratDaya ENGGANO-BENGKULU"
   }
 ]
