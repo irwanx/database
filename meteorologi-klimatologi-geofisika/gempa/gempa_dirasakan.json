@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Agu 2026 16:10:32 WIB",
+    "lintang": "7.24 LS",
+    "bujur": "-107.58 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Pangalengan"
+  },
+  {
     "waktu": "12 Agu 2026 15:01:36 WIB",
     "lintang": "7.27 LS",
     "bujur": "107.57 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.9",
     "kedalaman": "110 km",
     "dirasakan": "II Manado, II Minahasa, II Minahasa Utara, II Tomohon"
-  },
-  {
-    "waktu": "05 Agu 2026 21:55:41 WIB",
-    "lintang": "8.12 LS",
-    "bujur": "107.91 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "18 km",
-    "dirasakan": "III Nagrak, III Cilacap, III Kalapanunggal, III Kertasari, III Baleendah, III Dayeuhkolot, III Majalaya, III Arjasari, III Solokanjeruk, II - III Soreang, III - IV Kab. Sukabumi, II - III Kota Sukabumi, II - III Ciwidey, II - III Pangalengan, II Sumedang, II Ngamprah, II Parongpong, II Cihanjuang, II Pelabuhan Ratu, II Lembang, III - IV Kabandungan, II-III Banjarnegara"
   }
 ]
