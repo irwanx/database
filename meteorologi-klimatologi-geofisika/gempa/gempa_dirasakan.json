@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Agu 2026 10:38:31 WIB",
+    "lintang": "3.52 LS",
+    "bujur": "121.92 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "11 km",
+    "dirasakan": "II - III Konawe"
+  },
+  {
     "waktu": "12 Agu 2026 16:10:32 WIB",
     "lintang": "7.24 LS",
     "bujur": "107.58 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.9",
     "kedalaman": "8 km",
     "dirasakan": "II-III Morowali"
-  },
-  {
-    "waktu": "05 Agu 2026 23:50:18 WIB",
-    "lintang": "1.90 LU",
-    "bujur": "127.37 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "110 km",
-    "dirasakan": "II Manado, II Minahasa, II Minahasa Utara, II Tomohon"
   }
 ]
