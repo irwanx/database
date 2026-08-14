@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Agu 2026 05:13:53 WIB",
+    "lintang": "8.14 LS",
+    "bujur": "120.11 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "10 km",
+    "wilayah": "46 km TimurLaut LABUANBAJO-NTT"
+  },
+  {
     "waktu": "14 Agu 2026 08:14:48 WIB",
     "lintang": "5.36 LU",
     "bujur": "125.34 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "11 km",
     "wilayah": "44 km BaratLaut SERAMBAGIANTIMUR-MALUKU"
-  },
-  {
-    "waktu": "29 Jul 2026 20:23:52 WIB",
-    "lintang": "5.27 LU",
-    "bujur": "125.11 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 km",
-    "wilayah": "189 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]
