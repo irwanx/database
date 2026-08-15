@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Agu 2026 23:25:19 WIB",
+    "lintang": "0.25 LU",
+    "bujur": "120.22 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "44 km",
+    "dirasakan": "IV Parigi Moutong, II-III Toli-Toli, III - IV Kab. Donggala, III Palu, III Pohuwato, III Kab. Gorontalo, III Kota Gorontalo, II - III Bolaang Mongodow Utara, II - III Biduk-Biduk, II - III Tanjung Selor, II - III Berau, II - III Bontang"
+  },
+  {
     "waktu": "15 Agu 2026 17:54:52 WIB",
     "lintang": "2.97 LU",
     "bujur": "98.95 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "15 km",
     "dirasakan": "II-III Kota Sorong"
-  },
-  {
-    "waktu": "09 Agu 2026 22:35:20 WIB",
-    "lintang": "5.90 LS",
-    "bujur": "102.72 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "53 km",
-    "dirasakan": "II-III Belalau, II-III Lampung Barat, II-III Krui, II-III Pesisir Barat"
   }
 ]

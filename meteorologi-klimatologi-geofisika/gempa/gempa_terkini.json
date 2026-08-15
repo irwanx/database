@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Agu 2026 23:25:19 WIB",
+    "lintang": "0.25 LU",
+    "bujur": "120.22 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "44 km",
+    "wilayah": "74 km BaratDaya PARIGIMOUTONG-SULTENG"
+  },
+  {
     "waktu": "15 Agu 2026 19:14:41 WIB",
     "lintang": "8.25 LS",
     "bujur": "121.28 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "30 km",
     "wilayah": "63 km Tenggara ENGGANO-BENGKULU"
-  },
-  {
-    "waktu": "09 Agu 2026 22:15:04 WIB",
-    "lintang": "5.92 LS",
-    "bujur": "102.77 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "40 km",
-    "wilayah": "84 km Tenggara ENGGANO-BENGKULU"
   }
 ]
