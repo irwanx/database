@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Agu 2026 13:28:05 WIB",
+    "lintang": "7.27 LS",
+    "bujur": "109.61 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Pandanarum, II-III Kalibening, II-III Karangkobar"
+  },
+  {
     "waktu": "15 Agu 2026 12:33:31 WIB",
     "lintang": "4.53 LS",
     "bujur": "122.74 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "40 km",
     "dirasakan": "III Bengkulu Utara, II Kaur, II Kepahiang, II Enggano, III Krui, II Sekincau"
-  },
-  {
-    "waktu": "08 Agu 2026 20:59:14 WIB",
-    "lintang": "3.70 LS",
-    "bujur": "119.04 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "19 km",
-    "dirasakan": "II-III Majene"
   }
 ]

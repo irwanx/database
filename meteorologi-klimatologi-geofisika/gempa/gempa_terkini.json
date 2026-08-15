@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Agu 2026 14:39:41 WIB",
+    "lintang": "7.94 LS",
+    "bujur": "120.79 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "wilayah": "82 km TimurLaut RUTENG-MANGGARAI-NTT"
+  },
+  {
     "waktu": "15 Agu 2026 12:45:09 WIB",
     "lintang": "8.40 LS",
     "bujur": "121.44 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "560 km",
     "wilayah": "102 km BaratLaut JEPARA-JATENG"
-  },
-  {
-    "waktu": "06 Agu 2026 04:41:30 WIB",
-    "lintang": "5.13 LU",
-    "bujur": "125.37 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "10 km",
-    "wilayah": "169 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]
