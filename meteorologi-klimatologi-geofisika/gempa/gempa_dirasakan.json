@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Agu 2026 08:47:12 WIB",
+    "lintang": "7.27 LS",
+    "bujur": "109.64 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "11 km",
+    "dirasakan": "III Pandanaru, III Kalibening"
+  },
+  {
     "waktu": "15 Agu 2026 05:14:39 WIB",
     "lintang": "7.20 LS",
     "bujur": "107.62 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "26 km",
     "dirasakan": "II-III Tasikmalaya, II-III Cianjur"
-  },
-  {
-    "waktu": "08 Agu 2026 06:45:53 WIB",
-    "lintang": "6.73 LS",
-    "bujur": "106.61 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Pamijahan, II Leuwiliang"
   }
 ]
