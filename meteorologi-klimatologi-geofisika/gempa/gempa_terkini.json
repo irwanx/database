@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "15 Agu 2026 05:53:14 WIB",
+    "lintang": "8.19 LS",
+    "bujur": "120.28 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "wilayah": "51 km BaratLaut RUTENG-MANGGARAI-NTT"
+  },
+  {
+    "waktu": "15 Agu 2026 05:37:19 WIB",
+    "lintang": "8.15 LS",
+    "bujur": "120.17 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "11 km",
+    "wilayah": "49 km TimurLaut LABUANBAJO-NTT"
+  },
+  {
+    "waktu": "15 Agu 2026 05:28:40 WIB",
+    "lintang": "8.34 LS",
+    "bujur": "121.54 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "10 km",
+    "wilayah": "45 km TimurLaut MBAY-NAGEKEO-NTT"
+  },
+  {
+    "waktu": "15 Agu 2026 05:27:03 WIB",
+    "lintang": "8.10 LS",
+    "bujur": "120.49 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 km",
+    "wilayah": "56 km TimurLaut RUTENG-MANGGARAI-NTT"
+  },
+  {
     "waktu": "15 Agu 2026 05:13:53 WIB",
     "lintang": "8.14 LS",
     "bujur": "120.11 BT",
@@ -86,37 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "18 km",
     "wilayah": "79 km BaratDaya KAB-PANGANDARAN-JABAR"
-  },
-  {
-    "waktu": "05 Agu 2026 11:14:04 WIB",
-    "lintang": "5.60 LU",
-    "bujur": "125.27 BT",
-    "magnitudo": "6.4",
-    "kedalaman": "10 km",
-    "wilayah": "221 km BaratLaut PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "05 Agu 2026 03:16:38 WIB",
-    "lintang": "1.60 LU",
-    "bujur": "126.59 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "25 km",
-    "wilayah": "114 km BaratLaut HALMAHERABARAT-MALUT"
-  },
-  {
-    "waktu": "01 Agu 2026 06:15:51 WIB",
-    "lintang": "2.80 LS",
-    "bujur": "130.25 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 km",
-    "wilayah": "42 km BaratLaut SERAMBAGIANTIMUR-MALUKU"
-  },
-  {
-    "waktu": "01 Agu 2026 03:18:54 WIB",
-    "lintang": "2.81 LS",
-    "bujur": "130.22 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "11 km",
-    "wilayah": "44 km BaratLaut SERAMBAGIANTIMUR-MALUKU"
   }
 ]

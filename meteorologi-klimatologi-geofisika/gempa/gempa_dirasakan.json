@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "15 Agu 2026 05:14:39 WIB",
+    "lintang": "7.20 LS",
+    "bujur": "107.62 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "8 km",
+    "dirasakan": "II Kertasari"
+  },
+  {
+    "waktu": "15 Agu 2026 05:13:53 WIB",
+    "lintang": "8.14 LS",
+    "bujur": "120.11 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "10 km",
+    "dirasakan": "III Ende, III Sumba Timur, II-III Lembata"
+  },
+  {
+    "waktu": "15 Agu 2026 05:08:59 WIB",
+    "lintang": "7.83 LS",
+    "bujur": "107.29 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "27 km",
+    "dirasakan": "II-III Pangalengan"
+  },
+  {
+    "waktu": "15 Agu 2026 04:58:23 WIB",
+    "lintang": "8.33 LS",
+    "bujur": "121.32 BT",
+    "magnitudo": "7.0",
+    "kedalaman": "10 km",
+    "dirasakan": "IV-V Ruteng, V Kota Bima, V Kab. Dompu, IV-V Ende, IV-V Labuan Bajo, IV-V Maumere, IV-V Sumba Timur, IV Kupang, IV Kab. Sumbawa Barat, III-IV Flores Timur, III-IV Lembata, III-IV Adonara, III Kab. Lombok Barat, III Kota Mataram, III Kab. Lombok Timur, II-III Denpasar , II-III Badung, II-III Bulukumba, II-III Jeneponto, II-III Takalar, II-III Gowa, II-III Makassar"
+  },
+  {
     "waktu": "14 Agu 2026 10:38:31 WIB",
     "lintang": "3.52 LS",
     "bujur": "121.92 BT",
@@ -86,37 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "10 km",
     "dirasakan": "II-III Pamijahan, II Leuwiliang"
-  },
-  {
-    "waktu": "07 Agu 2026 03:42:56 WIB",
-    "lintang": "6.71 LS",
-    "bujur": "106.70 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 km",
-    "dirasakan": "III Pamijahan, Kab. Bogor, III Leuwiliang, Kab. Bogor, III Ciomas, Kab. Bogor, III Cigombong, Kab. Bogor, III Cijeruk, Kab. Bogor, II-III Cicurug, Kab. Sukabumi, II-III Cipanas, Kab. Cianjur"
-  },
-  {
-    "waktu": "06 Agu 2026 09:59:47 WIB",
-    "lintang": "1.17 LS",
-    "bujur": "120.06 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 km",
-    "dirasakan": "III Sigi"
-  },
-  {
-    "waktu": "06 Agu 2026 08:36:01 WIB",
-    "lintang": "1.22 LS",
-    "bujur": "120.05 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "3 km",
-    "dirasakan": "II-III Sigi"
-  },
-  {
-    "waktu": "06 Agu 2026 05:42:56 WIB",
-    "lintang": "2.83 LS",
-    "bujur": "122.25 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "8 km",
-    "dirasakan": "II-III Morowali"
   }
 ]
