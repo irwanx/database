@@ -1,11 +1,19 @@
 [
   {
+    "waktu": "15 Agu 2026 12:33:31 WIB",
+    "lintang": "4.53 LS",
+    "bujur": "122.74 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "5 km",
+    "dirasakan": "III Muna"
+  },
+  {
     "waktu": "15 Agu 2026 08:47:12 WIB",
     "lintang": "7.27 LS",
     "bujur": "109.64 BT",
     "magnitudo": "2.5",
     "kedalaman": "11 km",
-    "dirasakan": "III Pandanaru, III Kalibening"
+    "dirasakan": "II-III Pandanaru, II-III Kalibening, II-III Banjarmangu"
   },
   {
     "waktu": "15 Agu 2026 05:14:39 WIB",
@@ -110,13 +118,5 @@
     "magnitudo": "3.4",
     "kedalaman": "19 km",
     "dirasakan": "II-III Majene"
-  },
-  {
-    "waktu": "08 Agu 2026 16:59:27 WIB",
-    "lintang": "8.22 LS",
-    "bujur": "107.89 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "26 km",
-    "dirasakan": "II-III Tasikmalaya, II-III Cianjur"
   }
 ]
