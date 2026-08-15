@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "15 Agu 2026 19:14:41 WIB",
+    "lintang": "8.25 LS",
+    "bujur": "121.28 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "wilayah": "47 km BaratLaut MBAY-NAGEKEO-NTT"
+  },
+  {
+    "waktu": "15 Agu 2026 17:54:52 WIB",
+    "lintang": "2.97 LU",
+    "bujur": "98.95 BT",
+    "magnitudo": "6.4",
+    "kedalaman": "163 km",
+    "wilayah": "10 km Tenggara SIMALUNGUN-SUMUT"
+  },
+  {
     "waktu": "15 Agu 2026 14:39:41 WIB",
     "lintang": "7.94 LS",
     "bujur": "120.79 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "40 km",
     "wilayah": "84 km Tenggara ENGGANO-BENGKULU"
-  },
-  {
-    "waktu": "09 Agu 2026 10:02:05 WIB",
-    "lintang": "7.25 LU",
-    "bujur": "94.06 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "10 km",
-    "wilayah": "205 km BaratLaut KOTA-SABANG-ACEH"
-  },
-  {
-    "waktu": "07 Agu 2026 21:07:39 WIB",
-    "lintang": "5.81 LS",
-    "bujur": "110.18 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "560 km",
-    "wilayah": "102 km BaratLaut JEPARA-JATENG"
   }
 ]
