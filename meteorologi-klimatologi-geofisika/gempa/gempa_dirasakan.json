@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "16 Agu 2026 15:56:27 WIB",
+    "lintang": "7.85 LS",
+    "bujur": "120.54 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "24 km",
+    "dirasakan": "III Kab. Manggarai, II Kab. Ende, III Kab. Nagekeo"
+  },
+  {
+    "waktu": "16 Agu 2026 15:46:58 WIB",
+    "lintang": "7.95 LS",
+    "bujur": "120.54 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "23 km",
+    "dirasakan": "III Ruteng"
+  },
+  {
     "waktu": "16 Agu 2026 13:59:55 WIB",
     "lintang": "8.11 LS",
     "bujur": "120.83 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "7.0",
     "kedalaman": "10 km",
     "dirasakan": "IV-V Ruteng, V Kota Bima, V Kab. Dompu, IV-V Ende, IV-V Labuan Bajo, IV-V Maumere, IV-V Sumba Timur, IV Kupang, IV Kab. Sumbawa Barat, III-IV Flores Timur, III-IV Lembata, III-IV Adonara, III Kab. Lombok Barat, III Kota Mataram, III Kab. Lombok Timur, II-III Denpasar , II-III Badung, II-III Bulukumba, II-III Jeneponto, II-III Takalar, II-III Gowa, II-III Makassar"
-  },
-  {
-    "waktu": "14 Agu 2026 10:38:31 WIB",
-    "lintang": "3.52 LS",
-    "bujur": "121.92 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "11 km",
-    "dirasakan": "II - III Konawe"
-  },
-  {
-    "waktu": "12 Agu 2026 16:10:32 WIB",
-    "lintang": "7.24 LS",
-    "bujur": "107.58 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Pangalengan"
   }
 ]
