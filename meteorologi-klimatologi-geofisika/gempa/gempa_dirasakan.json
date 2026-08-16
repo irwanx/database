@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16 Agu 2026 20:38:41 WIB",
+    "lintang": "7.95 LS",
+    "bujur": "120.58 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "dirasakan": "III Kab. Manggarai"
+  },
+  {
     "waktu": "16 Agu 2026 17:31:37 WIB",
     "lintang": "7.93 LS",
     "bujur": "120.62 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.3",
     "kedalaman": "8 km",
     "dirasakan": "II Kertasari"
-  },
-  {
-    "waktu": "15 Agu 2026 05:13:53 WIB",
-    "lintang": "8.14 LS",
-    "bujur": "120.11 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "10 km",
-    "dirasakan": "III Ende, III Sumba Timur, II-III Lembata"
   }
 ]
