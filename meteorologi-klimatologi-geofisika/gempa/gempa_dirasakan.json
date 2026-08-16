@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16 Agu 2026 11:30:52 WIB",
+    "lintang": "8.62 LS",
+    "bujur": "120.48 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "4 km",
+    "dirasakan": "III-IV Ruteng"
+  },
+  {
     "waktu": "15 Agu 2026 23:25:19 WIB",
     "lintang": "0.25 LU",
     "bujur": "120.22 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "39 km",
     "dirasakan": "II Aceh Selatan"
-  },
-  {
-    "waktu": "10 Agu 2026 03:36:43 WIB",
-    "lintang": "0.59 LS",
-    "bujur": "130.28 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "15 km",
-    "dirasakan": "II-III Kota Sorong"
   }
 ]
