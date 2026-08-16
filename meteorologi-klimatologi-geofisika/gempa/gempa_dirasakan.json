@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "16 Agu 2026 17:31:37 WIB",
+    "lintang": "7.93 LS",
+    "bujur": "120.62 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "dirasakan": "IV Kab. Manggarai"
+  },
+  {
+    "waktu": "16 Agu 2026 17:14:37 WIB",
+    "lintang": "7.93 LS",
+    "bujur": "120.65 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 km",
+    "dirasakan": "IV Kab. Manggarai, III-IV Kab. Sikkka, III-IV Kab. Nagekeo"
+  },
+  {
     "waktu": "16 Agu 2026 15:56:27 WIB",
     "lintang": "7.85 LS",
     "bujur": "120.54 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "6.2",
     "kedalaman": "10 km",
     "dirasakan": "III Ende, III Sumba Timur, II-III Lembata"
-  },
-  {
-    "waktu": "15 Agu 2026 05:08:59 WIB",
-    "lintang": "7.83 LS",
-    "bujur": "107.29 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "27 km",
-    "dirasakan": "II-III Pangalengan"
-  },
-  {
-    "waktu": "15 Agu 2026 04:58:23 WIB",
-    "lintang": "8.33 LS",
-    "bujur": "121.32 BT",
-    "magnitudo": "7.0",
-    "kedalaman": "10 km",
-    "dirasakan": "IV-V Ruteng, V Kota Bima, V Kab. Dompu, IV-V Ende, IV-V Labuan Bajo, IV-V Maumere, IV-V Sumba Timur, IV Kupang, IV Kab. Sumbawa Barat, III-IV Flores Timur, III-IV Lembata, III-IV Adonara, III Kab. Lombok Barat, III Kota Mataram, III Kab. Lombok Timur, II-III Denpasar , II-III Badung, II-III Bulukumba, II-III Jeneponto, II-III Takalar, II-III Gowa, II-III Makassar"
   }
 ]
