@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "17 Agu 2026 10:48:05 WIB",
+    "lintang": "8.30 LS",
+    "bujur": "121.28 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "wilayah": "41 km BaratLaut MBAY-NAGEKEO-NTT"
+  },
+  {
+    "waktu": "17 Agu 2026 10:36:41 WIB",
+    "lintang": "8.26 LS",
+    "bujur": "121.25 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 km",
+    "wilayah": "46 km BaratLaut MBAY-NAGEKEO-NTT"
+  },
+  {
     "waktu": "17 Agu 2026 07:46:43 WIB",
     "lintang": "8.38 LS",
     "bujur": "121.52 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "wilayah": "42 km TimurLaut MBAY-NAGEKEO-NTT"
-  },
-  {
-    "waktu": "15 Agu 2026 05:53:14 WIB",
-    "lintang": "8.19 LS",
-    "bujur": "120.28 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 km",
-    "wilayah": "51 km BaratLaut RUTENG-MANGGARAI-NTT"
-  },
-  {
-    "waktu": "15 Agu 2026 05:37:19 WIB",
-    "lintang": "8.15 LS",
-    "bujur": "120.17 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "11 km",
-    "wilayah": "49 km TimurLaut LABUANBAJO-NTT"
   }
 ]
