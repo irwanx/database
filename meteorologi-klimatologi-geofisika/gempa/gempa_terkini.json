@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Agu 2026 14:20:20 WIB",
+    "lintang": "7.84 LS",
+    "bujur": "120.52 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "wilayah": "86 km TimurLaut RUTENG-MANGGARAI-NTT"
+  },
+  {
     "waktu": "17 Agu 2026 10:48:05 WIB",
     "lintang": "8.30 LS",
     "bujur": "121.28 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "wilayah": "33 km TimurLaut MBAY-NAGEKEO-NTT"
-  },
-  {
-    "waktu": "15 Agu 2026 10:54:14 WIB",
-    "lintang": "8.32 LS",
-    "bujur": "121.45 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "wilayah": "42 km TimurLaut MBAY-NAGEKEO-NTT"
   }
 ]

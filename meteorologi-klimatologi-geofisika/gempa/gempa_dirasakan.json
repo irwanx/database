@@ -16,6 +16,14 @@
     "dirasakan": "IV Kab. Nagekeo, III-IV Kab. Ende"
   },
   {
+    "waktu": "17 Agu 2026 11:20:32 WIB",
+    "lintang": "8.31 LS",
+    "bujur": "124.42 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "6 km",
+    "dirasakan": "II - III Alor"
+  },
+  {
     "waktu": "17 Agu 2026 10:48:05 WIB",
     "lintang": "8.30 LS",
     "bujur": "121.28 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Kab. Ende, III-IV Kab. Nagekeo, III-IV Kab. Manggarai"
-  },
-  {
-    "waktu": "16 Agu 2026 13:25:12 WIB",
-    "lintang": "7.93 LS",
-    "bujur": "121.13 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "13 km",
-    "dirasakan": "II-III Ruteng"
   }
 ]
