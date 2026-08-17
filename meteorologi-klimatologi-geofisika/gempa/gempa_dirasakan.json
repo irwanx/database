@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "17 Agu 2026 12:34:57 WIB",
+    "lintang": "8.29 LS",
+    "bujur": "121.53 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "2 km",
+    "dirasakan": "II-III Nagekeo"
+  },
+  {
+    "waktu": "17 Agu 2026 12:09:13 WIB",
+    "lintang": "8.30 LS",
+    "bujur": "121.40 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "5 km",
+    "dirasakan": "IV Kab. Nagekeo, III-IV Kab. Ende"
+  },
+  {
     "waktu": "17 Agu 2026 10:48:05 WIB",
     "lintang": "8.30 LS",
     "bujur": "121.28 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "13 km",
     "dirasakan": "II-III Ruteng"
-  },
-  {
-    "waktu": "16 Agu 2026 11:30:52 WIB",
-    "lintang": "8.62 LS",
-    "bujur": "120.48 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "4 km",
-    "dirasakan": "III-IV Ruteng"
-  },
-  {
-    "waktu": "15 Agu 2026 23:25:19 WIB",
-    "lintang": "0.25 LU",
-    "bujur": "120.22 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "44 km",
-    "dirasakan": "IV Parigi Moutong, II-III Toli-Toli, III - IV Kab. Donggala, III Palu, III Pohuwato, III Kab. Gorontalo, III Kota Gorontalo, II - III Bolaang Mongodow Utara, II - III Biduk-Biduk, II - III Tanjung Selor, II - III Berau, II - III Bontang"
   }
 ]
