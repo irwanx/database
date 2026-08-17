@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "18 Agu 2026 01:11:31 WIB",
+    "lintang": "7.44 LS",
+    "bujur": "117.19 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 km",
+    "wilayah": "109 km TimurLaut PULAUSARINGI-NTB"
+  },
+  {
+    "waktu": "18 Agu 2026 01:10:06 WIB",
+    "lintang": "7.30 LS",
+    "bujur": "117.22 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "491 km",
+    "wilayah": "125 km TimurLaut PULAUSARINGI-NTB"
+  },
+  {
     "waktu": "17 Agu 2026 17:42:42 WIB",
     "lintang": "7.85 LS",
     "bujur": "120.47 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 km",
     "wilayah": "47 km BaratLaut MBAY-NAGEKEO-NTT"
-  },
-  {
-    "waktu": "15 Agu 2026 17:54:52 WIB",
-    "lintang": "2.97 LU",
-    "bujur": "98.95 BT",
-    "magnitudo": "6.4",
-    "kedalaman": "163 km",
-    "wilayah": "10 km Tenggara SIMALUNGUN-SUMUT"
-  },
-  {
-    "waktu": "15 Agu 2026 14:39:41 WIB",
-    "lintang": "7.94 LS",
-    "bujur": "120.79 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 km",
-    "wilayah": "82 km TimurLaut RUTENG-MANGGARAI-NTT"
   }
 ]
