@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Agu 2026 07:46:43 WIB",
+    "lintang": "8.38 LS",
+    "bujur": "121.52 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "10 km",
+    "dirasakan": "III Sumba Timur, III-IV Ende, III-IV Kab. Nagekeo, III-IV Kab. Manggarai, III-IV Kab. Ngada, III-IV Kab. Manggarai Timur"
+  },
+  {
     "waktu": "17 Agu 2026 00:26:17 WIB",
     "lintang": "7.93 LS",
     "bujur": "120.50 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.0",
     "kedalaman": "5 km",
     "dirasakan": "III Muna"
-  },
-  {
-    "waktu": "15 Agu 2026 08:47:12 WIB",
-    "lintang": "7.27 LS",
-    "bujur": "109.64 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "11 km",
-    "dirasakan": "II-III Pandanaru, II-III Kalibening, II-III Banjarmangu"
   }
 ]
