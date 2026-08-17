@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Agu 2026 17:42:42 WIB",
+    "lintang": "7.85 LS",
+    "bujur": "120.47 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "dirasakan": "III Kab. Manggarai"
+  },
+  {
     "waktu": "17 Agu 2026 17:06:06 WIB",
     "lintang": "7.18 LS",
     "bujur": "107.65 BT",
@@ -14,6 +22,14 @@
     "magnitudo": "4.1",
     "kedalaman": "91 km",
     "dirasakan": "II Wamena"
+  },
+  {
+    "waktu": "17 Agu 2026 16:16:08 WIB",
+    "lintang": "8.47 LS",
+    "bujur": "121.47 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "6 km",
+    "dirasakan": "III Kab. Ende, III Kab. Nagekeo"
   },
   {
     "waktu": "17 Agu 2026 14:20:20 WIB",
@@ -102,21 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "16 Agu 2026 20:38:41 WIB",
-    "lintang": "7.95 LS",
-    "bujur": "120.58 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "16 Agu 2026 17:31:37 WIB",
-    "lintang": "7.93 LS",
-    "bujur": "120.62 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 km",
-    "dirasakan": "IV Kab. Manggarai"
   }
 ]
