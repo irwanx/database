@@ -8,6 +8,14 @@
     "dirasakan": "IV Kab. Manggarai Barat, III-IV Kab Manggarai"
   },
   {
+    "waktu": "18 Agu 2026 09:22:59 WIB",
+    "lintang": "4.90 LS",
+    "bujur": "122.57 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "17 km",
+    "dirasakan": "II-III Muna"
+  },
+  {
     "waktu": "17 Agu 2026 22:27:52 WIB",
     "lintang": "7.92 LS",
     "bujur": "120.54 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.1",
     "kedalaman": "2 km",
     "dirasakan": "II-III Nagekeo"
-  },
-  {
-    "waktu": "17 Agu 2026 12:09:13 WIB",
-    "lintang": "8.30 LS",
-    "bujur": "121.40 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "5 km",
-    "dirasakan": "IV Kab. Nagekeo, III-IV Kab. Ende"
   }
 ]
