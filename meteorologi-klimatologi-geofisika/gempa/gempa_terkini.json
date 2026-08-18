@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Agu 2026 13:02:23 WIB",
+    "lintang": "0.65 LS",
+    "bujur": "98.32 BT",
+    "magnitudo": "6.1",
+    "kedalaman": "29 km",
+    "wilayah": "147 km Tenggara NIASSELATAN-SUMUT"
+  },
+  {
     "waktu": "18 Agu 2026 01:11:31 WIB",
     "lintang": "7.44 LS",
     "bujur": "117.19 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.2",
     "kedalaman": "44 km",
     "wilayah": "74 km BaratDaya PARIGIMOUTONG-SULTENG"
-  },
-  {
-    "waktu": "15 Agu 2026 19:14:41 WIB",
-    "lintang": "8.25 LS",
-    "bujur": "121.28 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 km",
-    "wilayah": "47 km BaratLaut MBAY-NAGEKEO-NTT"
   }
 ]

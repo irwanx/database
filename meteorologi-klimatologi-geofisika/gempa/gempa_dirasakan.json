@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Agu 2026 13:02:23 WIB",
+    "lintang": "0.65 LS",
+    "bujur": "98.32 BT",
+    "magnitudo": "6.1",
+    "kedalaman": "29 km",
+    "dirasakan": "IV Tapanuli Utara, III-IV Padang, III-IV Padang Pariaman, III-IV Pariaman, III-IV Pasaman Barat, III-IV Kabupaten Agam, III Padang Sidempuan, III Subulussalam, III Nias Selatan, II-III Padang Panjang, II-III Tapanuli Tengah, II Gunung Sitoli"
+  },
+  {
     "waktu": "18 Agu 2026 09:42:35 WIB",
     "lintang": "8.14 LS",
     "bujur": "120.23 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.2",
     "kedalaman": "8 km",
     "dirasakan": "III-IV Kab. Nagekeo"
-  },
-  {
-    "waktu": "17 Agu 2026 12:34:57 WIB",
-    "lintang": "8.29 LS",
-    "bujur": "121.53 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "2 km",
-    "dirasakan": "II-III Nagekeo"
   }
 ]
