@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Agu 2026 13:43:36 WIB",
+    "lintang": "8.66 LS",
+    "bujur": "120.45 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "3 km",
+    "dirasakan": "III Kab Manggarai"
+  },
+  {
     "waktu": "18 Agu 2026 13:02:23 WIB",
     "lintang": "0.65 LS",
     "bujur": "98.32 BT",
@@ -109,14 +117,6 @@
     "bujur": "120.35 BT",
     "magnitudo": "3.2",
     "kedalaman": "10 km",
-    "dirasakan": "III-IV Kab. Nagekeo"
-  },
-  {
-    "waktu": "17 Agu 2026 13:19:20 WIB",
-    "lintang": "8.47 LS",
-    "bujur": "120.73 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "8 km",
     "dirasakan": "III-IV Kab. Nagekeo"
   }
 ]
