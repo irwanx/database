@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "19 Agu 2026 02:14:34 WIB",
+    "lintang": "8.24 LS",
+    "bujur": "121.34 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "6 km",
+    "dirasakan": "III Nagekeo"
+  },
+  {
+    "waktu": "19 Agu 2026 02:14:11 WIB",
+    "lintang": "8.37 LS",
+    "bujur": "121.27 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "9 km",
+    "dirasakan": "III Nagekeo"
+  },
+  {
+    "waktu": "19 Agu 2026 02:03:09 WIB",
+    "lintang": "8.33 LS",
+    "bujur": "121.32 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "11 km",
+    "dirasakan": "III Kab. Nagekeo"
+  },
+  {
     "waktu": "18 Agu 2026 19:25:31 WIB",
     "lintang": "7.25 LS",
     "bujur": "107.61 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "5 km",
     "dirasakan": "III Pangalengan"
-  },
-  {
-    "waktu": "17 Agu 2026 16:22:12 WIB",
-    "lintang": "4.27 LS",
-    "bujur": "139.28 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "91 km",
-    "dirasakan": "II Wamena"
-  },
-  {
-    "waktu": "17 Agu 2026 16:16:08 WIB",
-    "lintang": "8.47 LS",
-    "bujur": "121.47 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "6 km",
-    "dirasakan": "III Kab. Ende, III Kab. Nagekeo"
-  },
-  {
-    "waktu": "17 Agu 2026 14:20:20 WIB",
-    "lintang": "7.84 LS",
-    "bujur": "120.52 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kab. Ende"
   }
 ]
