@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "19 Agu 2026 07:11:36 WIB",
+    "lintang": "8.25 LS",
+    "bujur": "121.33 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 km",
+    "dirasakan": "III Kab. Nagekeo"
+  },
+  {
+    "waktu": "19 Agu 2026 07:07:16 WIB",
+    "lintang": "7.28 LS",
+    "bujur": "109.64 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "12 km",
+    "dirasakan": "II Pungelan, Banjarnegara, II Pandanarum, Banjarnegara"
+  },
+  {
+    "waktu": "19 Agu 2026 06:59:14 WIB",
+    "lintang": "8.29 LS",
+    "bujur": "121.39 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "7 km",
+    "dirasakan": "III Kab. Nagekeo"
+  },
+  {
+    "waktu": "19 Agu 2026 06:35:47 WIB",
+    "lintang": "7.23 LS",
+    "bujur": "107.62 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "5 km",
+    "dirasakan": "II Pangalengan"
+  },
+  {
     "waktu": "19 Agu 2026 04:13:11 WIB",
     "lintang": "8.32 LS",
     "bujur": "121.30 BT",
@@ -86,37 +118,5 @@
     "magnitudo": "2.7",
     "kedalaman": "3 km",
     "dirasakan": "III Kab Manggarai"
-  },
-  {
-    "waktu": "18 Agu 2026 13:02:23 WIB",
-    "lintang": "0.65 LS",
-    "bujur": "98.32 BT",
-    "magnitudo": "6.1",
-    "kedalaman": "29 km",
-    "dirasakan": "IV Tapanuli Utara, III-IV Padang, III-IV Padang Pariaman, III-IV Pariaman, III-IV Pasaman Barat, III-IV Kabupaten Agam, III Padang Sidempuan, III Subulussalam, III Nias Selatan, II-III Padang Panjang, II-III Tapanuli Tengah, II Gunung Sitoli"
-  },
-  {
-    "waktu": "18 Agu 2026 09:42:35 WIB",
-    "lintang": "8.14 LS",
-    "bujur": "120.23 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "6 km",
-    "dirasakan": "IV Kab. Manggarai Barat, III-IV Kab Manggarai"
-  },
-  {
-    "waktu": "18 Agu 2026 09:22:59 WIB",
-    "lintang": "4.90 LS",
-    "bujur": "122.57 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "17 km",
-    "dirasakan": "II-III Muna"
-  },
-  {
-    "waktu": "17 Agu 2026 22:27:52 WIB",
-    "lintang": "7.92 LS",
-    "bujur": "120.54 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "22 km",
-    "dirasakan": "II Kab. Manggarai"
   }
 ]
