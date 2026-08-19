@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "19 Agu 2026 23:46:40 WIB",
+    "lintang": "8.22 LS",
+    "bujur": "120.49 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "5 km",
+    "dirasakan": "III Kab. Manggarai"
+  },
+  {
+    "waktu": "19 Agu 2026 23:36:18 WIB",
+    "lintang": "8.17 LS",
+    "bujur": "120.46 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 km",
+    "dirasakan": "III - IV Kab. Manggarai"
+  },
+  {
+    "waktu": "19 Agu 2026 23:17:40 WIB",
+    "lintang": "8.23 LS",
+    "bujur": "120.53 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "10 km",
+    "dirasakan": "IV Kab. Manggarai, IV Kab. Manggarai Barat, IV Kab. Nagekeo, III - IV Kab. Sumba Timur"
+  },
+  {
     "waktu": "19 Agu 2026 22:31:40 WIB",
     "lintang": "8.62 LS",
     "bujur": "121.52 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "2.2",
     "kedalaman": "12 km",
     "dirasakan": "II Pungelan, Banjarnegara, II Pandanarum, Banjarnegara"
-  },
-  {
-    "waktu": "19 Agu 2026 06:59:14 WIB",
-    "lintang": "8.29 LS",
-    "bujur": "121.39 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "7 km",
-    "dirasakan": "III Kab. Nagekeo"
-  },
-  {
-    "waktu": "19 Agu 2026 06:35:47 WIB",
-    "lintang": "7.23 LS",
-    "bujur": "107.62 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "5 km",
-    "dirasakan": "II Pangalengan"
-  },
-  {
-    "waktu": "19 Agu 2026 04:13:11 WIB",
-    "lintang": "8.32 LS",
-    "bujur": "121.30 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "6 km",
-    "dirasakan": "III Kab. Nagekeo"
   }
 ]
