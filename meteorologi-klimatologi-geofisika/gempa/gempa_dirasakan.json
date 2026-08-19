@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Agu 2026 10:13:28 WIB",
+    "lintang": "8.23 LS",
+    "bujur": "121.51 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Kab. Nagekeo, IV Kab. Ende"
+  },
+  {
     "waktu": "19 Agu 2026 09:00:34 WIB",
     "lintang": "7.81 LS",
     "bujur": "120.94 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "11 km",
     "dirasakan": "III Kab. Nagekeo"
-  },
-  {
-    "waktu": "18 Agu 2026 19:25:31 WIB",
-    "lintang": "7.25 LS",
-    "bujur": "107.61 BT",
-    "magnitudo": "2.1",
-    "kedalaman": "6 km",
-    "dirasakan": "II Pangalengan"
   }
 ]
