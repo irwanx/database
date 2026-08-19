@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "19 Agu 2026 14:14:57 WIB",
+    "lintang": "2.91 LU",
+    "bujur": "125.41 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "11 km",
+    "dirasakan": "II-III Kab. Kep. Sitaro"
+  },
+  {
+    "waktu": "19 Agu 2026 14:13:25 WIB",
+    "lintang": "4.12 LS",
+    "bujur": "136.25 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "11 km",
+    "dirasakan": "II-III Kab. Paniai"
+  },
+  {
+    "waktu": "19 Agu 2026 13:57:39 WIB",
+    "lintang": "8.18 LS",
+    "bujur": "120.58 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "6 km",
+    "dirasakan": "III-IV Kab. Manggarai, III Kab. Nagekeo"
+  },
+  {
     "waktu": "19 Agu 2026 11:57:06 WIB",
     "lintang": "8.41 LS",
     "bujur": "120.69 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "7 km",
     "dirasakan": "III-IV Kab. Nagekeo"
-  },
-  {
-    "waktu": "19 Agu 2026 03:15:42 WIB",
-    "lintang": "8.30 LS",
-    "bujur": "121.31 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "7 km",
-    "dirasakan": "IV Nagekeo"
-  },
-  {
-    "waktu": "19 Agu 2026 02:14:34 WIB",
-    "lintang": "8.24 LS",
-    "bujur": "121.34 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "6 km",
-    "dirasakan": "III Nagekeo"
-  },
-  {
-    "waktu": "19 Agu 2026 02:14:11 WIB",
-    "lintang": "8.37 LS",
-    "bujur": "121.27 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "9 km",
-    "dirasakan": "III Nagekeo"
   }
 ]
