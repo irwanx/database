@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "20 Agu 2026 06:20:13 WIB",
+    "lintang": "8.28 LS",
+    "bujur": "120.57 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "3 km",
+    "dirasakan": "II Kab. Manggarai"
+  },
+  {
+    "waktu": "20 Agu 2026 05:55:49 WIB",
+    "lintang": "8.35 LS",
+    "bujur": "120.58 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "6 km",
+    "dirasakan": "II Kab. Manggarai"
+  },
+  {
+    "waktu": "20 Agu 2026 05:45:19 WIB",
+    "lintang": "8.30 LS",
+    "bujur": "120.59 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 km",
+    "dirasakan": "V-VI Kab. Manggarai, IV Kab. Nagekeo, III-IV Kab. Manggarai Barat, III Kab. Sikka, III Kota Bima, III Kab. Bima"
+  },
+  {
+    "waktu": "20 Agu 2026 05:28:10 WIB",
+    "lintang": "8.32 LS",
+    "bujur": "120.57 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Kab. Manggarai"
+  },
+  {
     "waktu": "20 Agu 2026 04:43:38 WIB",
     "lintang": "8.17 LS",
     "bujur": "120.53 BT",
@@ -86,37 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "31 km",
     "dirasakan": "II Kab. Nagekeo"
-  },
-  {
-    "waktu": "19 Agu 2026 14:14:57 WIB",
-    "lintang": "2.91 LU",
-    "bujur": "125.41 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "11 km",
-    "dirasakan": "II-III Kab. Kep. Sitaro"
-  },
-  {
-    "waktu": "19 Agu 2026 14:13:25 WIB",
-    "lintang": "4.12 LS",
-    "bujur": "136.25 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "11 km",
-    "dirasakan": "II-III Kab. Paniai"
-  },
-  {
-    "waktu": "19 Agu 2026 13:57:39 WIB",
-    "lintang": "8.18 LS",
-    "bujur": "120.58 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "6 km",
-    "dirasakan": "III-IV Kab. Manggarai, III Kab. Nagekeo"
-  },
-  {
-    "waktu": "19 Agu 2026 11:57:06 WIB",
-    "lintang": "8.41 LS",
-    "bujur": "120.69 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Kab. Manggarai"
   }
 ]
