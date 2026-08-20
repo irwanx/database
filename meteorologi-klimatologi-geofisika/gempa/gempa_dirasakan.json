@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Agu 2026 21:31:33 WIB",
+    "lintang": "8.09 LS",
+    "bujur": "107.88 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "17 km",
+    "dirasakan": "III Pangandaran, III Kalapanunggal, III Ciamis, III Pameungpeuk"
+  },
+  {
     "waktu": "20 Agu 2026 17:31:51 WIB",
     "lintang": "8.28 LS",
     "bujur": "120.58 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "2 km",
     "dirasakan": "II Manggarai"
-  },
-  {
-    "waktu": "20 Agu 2026 09:47:00 WIB",
-    "lintang": "8.28 LS",
-    "bujur": "120.60 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "10 km",
-    "dirasakan": "V-VI Manggarai, V Nagekeo, V Ende, III-IV Manggarai Barat, III-IV Sumba Timur, III-IV Sikka, III Kota Bima, III Kab. Bima"
   }
 ]
