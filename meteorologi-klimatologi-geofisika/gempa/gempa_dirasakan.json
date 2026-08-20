@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "20 Agu 2026 11:23:56 WIB",
+    "lintang": "8.18 LS",
+    "bujur": "120.59 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "1 km",
+    "dirasakan": "II Manggarai"
+  },
+  {
+    "waktu": "20 Agu 2026 10:36:45 WIB",
+    "lintang": "8.25 LS",
+    "bujur": "120.62 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "5 km",
+    "dirasakan": "II Kab. Manggarai, II Kab. Ende"
+  },
+  {
+    "waktu": "20 Agu 2026 09:51:38 WIB",
+    "lintang": "8.21 LS",
+    "bujur": "120.59 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "2 km",
+    "dirasakan": "II Manggarai"
+  },
+  {
+    "waktu": "20 Agu 2026 09:47:00 WIB",
+    "lintang": "8.28 LS",
+    "bujur": "120.60 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "10 km",
+    "dirasakan": "V-VI Manggarai, V Nagekeo, V Ende, III-IV Manggarai Barat, III-IV Sumba Timur, III-IV Sikka, III Kota Bima, III Kab. Bima"
+  },
+  {
     "waktu": "20 Agu 2026 09:24:47 WIB",
     "lintang": "8.21 LS",
     "bujur": "120.59 BT",
@@ -86,37 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "12 km",
     "dirasakan": "III - IV Kab. Manggarai"
-  },
-  {
-    "waktu": "19 Agu 2026 23:17:40 WIB",
-    "lintang": "8.23 LS",
-    "bujur": "120.53 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "10 km",
-    "dirasakan": "IV Kab. Manggarai, IV Kab. Manggarai Barat, IV Kab. Nagekeo, III - IV Kab. Sumba Timur"
-  },
-  {
-    "waktu": "19 Agu 2026 22:31:40 WIB",
-    "lintang": "8.62 LS",
-    "bujur": "121.52 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "6 km",
-    "dirasakan": "III-IV Kab. Manggarai"
-  },
-  {
-    "waktu": "19 Agu 2026 21:40:43 WIB",
-    "lintang": "8.54 LS",
-    "bujur": "120.62 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "4 km",
-    "dirasakan": "III-IV Kab. Manggarai"
-  },
-  {
-    "waktu": "19 Agu 2026 21:30:59 WIB",
-    "lintang": "8.09 LS",
-    "bujur": "120.59 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "3 km",
-    "dirasakan": "III-IV Kab. Manggarai"
   }
 ]
