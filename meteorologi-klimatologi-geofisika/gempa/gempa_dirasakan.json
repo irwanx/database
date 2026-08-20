@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "20 Agu 2026 17:31:51 WIB",
+    "lintang": "8.28 LS",
+    "bujur": "120.58 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "7 km",
+    "dirasakan": "II Kab. Manggarai"
+  },
+  {
+    "waktu": "20 Agu 2026 17:20:57 WIB",
+    "lintang": "7.88 LS",
+    "bujur": "110.45 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "21 km",
+    "dirasakan": "III Bantul, II Klaten"
+  },
+  {
     "waktu": "20 Agu 2026 16:50:35 WIB",
     "lintang": "8.33 LS",
     "bujur": "120.60 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.7",
     "kedalaman": "10 km",
     "dirasakan": "V-VI Manggarai, V Nagekeo, V Ende, III-IV Manggarai Barat, III-IV Sumba Timur, III-IV Sikka, III Kota Bima, III Kab. Bima"
-  },
-  {
-    "waktu": "20 Agu 2026 09:24:47 WIB",
-    "lintang": "8.21 LS",
-    "bujur": "120.59 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "2 km",
-    "dirasakan": "III Kab. Manggarai, II Kab. Nagekeo"
-  },
-  {
-    "waktu": "20 Agu 2026 06:20:13 WIB",
-    "lintang": "8.28 LS",
-    "bujur": "120.57 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "3 km",
-    "dirasakan": "II Kab. Manggarai"
   }
 ]
