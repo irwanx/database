@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Agu 2026 00:45:11 WIB",
+    "lintang": "8.34 LS",
+    "bujur": "121.31 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "11 km",
+    "dirasakan": "II-III Kab. Nagekeo"
+  },
+  {
     "waktu": "22 Agu 2026 00:06:39 WIB",
     "lintang": "7.77 LS",
     "bujur": "120.41 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "3 km",
     "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "20 Agu 2026 15:01:32 WIB",
-    "lintang": "8.24 LS",
-    "bujur": "120.62 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Manggarai"
   }
 ]
