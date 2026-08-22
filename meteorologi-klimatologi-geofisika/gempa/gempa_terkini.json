@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Agu 2026 02:54:08 WIB",
+    "lintang": "0.30 LS",
+    "bujur": "123.06 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "86 km",
+    "wilayah": "57 km TimurLaut PULAUPUAH-SULTENG"
+  },
+  {
     "waktu": "22 Agu 2026 08:31:00 WIB",
     "lintang": "8.03 LS",
     "bujur": "120.68 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "wilayah": "84 km TimurLaut RUTENG-MANGGARAI-NTT"
-  },
-  {
-    "waktu": "17 Agu 2026 14:20:20 WIB",
-    "lintang": "7.84 LS",
-    "bujur": "120.52 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "wilayah": "86 km TimurLaut RUTENG-MANGGARAI-NTT"
   }
 ]

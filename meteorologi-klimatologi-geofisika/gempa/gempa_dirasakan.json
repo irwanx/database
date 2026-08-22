@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Agu 2026 02:54:08 WIB",
+    "lintang": "0.30 LS",
+    "bujur": "123.06 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "86 km",
+    "dirasakan": "III-IV Luwuk, II-III Kab. Gorontalo"
+  },
+  {
     "waktu": "22 Agu 2026 20:56:12 WIB",
     "lintang": "8.66 LS",
     "bujur": "120.50 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "7 km",
     "dirasakan": "II-III MMI Kab. Manggarai"
-  },
-  {
-    "waktu": "21 Agu 2026 01:18:35 WIB",
-    "lintang": "7.26 LS",
-    "bujur": "107.60 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "4 km",
-    "dirasakan": "III - IV Pangalengan, III - IV Ciwidey, III - IV Kertasari, III Pasirwangi"
   }
 ]
