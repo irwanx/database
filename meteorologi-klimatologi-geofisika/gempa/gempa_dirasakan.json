@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "22 Agu 2026 16:02:16 WIB",
+    "lintang": "8.49 LS",
+    "bujur": "120.46 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Kab. Manggarai"
+  },
+  {
+    "waktu": "22 Agu 2026 15:29:01 WIB",
+    "lintang": "7.99 LS",
+    "bujur": "120.71 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "21 km",
+    "dirasakan": "III-IV Kab. Manggarai"
+  },
+  {
     "waktu": "22 Agu 2026 13:21:57 WIB",
     "lintang": "8.31 LS",
     "bujur": "120.55 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "17 km",
     "dirasakan": "III Pangandaran, III Kalapanunggal, III Ciamis, III Pameungpeuk"
-  },
-  {
-    "waktu": "20 Agu 2026 17:31:51 WIB",
-    "lintang": "8.28 LS",
-    "bujur": "120.58 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "7 km",
-    "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "20 Agu 2026 17:20:57 WIB",
-    "lintang": "7.88 LS",
-    "bujur": "110.45 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "21 km",
-    "dirasakan": "III Bantul, II Klaten"
   }
 ]
