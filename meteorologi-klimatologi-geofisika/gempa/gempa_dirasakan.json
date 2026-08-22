@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "22 Agu 2026 20:56:12 WIB",
+    "lintang": "8.66 LS",
+    "bujur": "120.50 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "4 km",
+    "dirasakan": "III Kab. Manggarai"
+  },
+  {
+    "waktu": "22 Agu 2026 20:52:21 WIB",
+    "lintang": "8.64 LS",
+    "bujur": "120.51 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "4 km",
+    "dirasakan": "III Kab. Manggarai"
+  },
+  {
     "waktu": "22 Agu 2026 16:02:16 WIB",
     "lintang": "8.49 LS",
     "bujur": "120.46 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.3",
     "kedalaman": "4 km",
     "dirasakan": "III - IV Pangalengan, III - IV Ciwidey, III - IV Kertasari, III Pasirwangi"
-  },
-  {
-    "waktu": "21 Agu 2026 00:49:12 WIB",
-    "lintang": "5.31 LS",
-    "bujur": "122.26 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III MMI Mawasangka"
-  },
-  {
-    "waktu": "20 Agu 2026 21:31:33 WIB",
-    "lintang": "8.09 LS",
-    "bujur": "107.88 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "17 km",
-    "dirasakan": "III Pangandaran, III Kalapanunggal, III Ciamis, III Pameungpeuk"
   }
 ]
