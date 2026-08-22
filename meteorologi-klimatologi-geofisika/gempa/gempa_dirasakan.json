@@ -8,6 +8,14 @@
     "dirasakan": "III Kab. Manggarai"
   },
   {
+    "waktu": "22 Agu 2026 12:55:00 WIB",
+    "lintang": "0.37 LU",
+    "bujur": "127.37 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 km",
+    "dirasakan": "III Pulau Makian"
+  },
+  {
     "waktu": "22 Agu 2026 08:31:00 WIB",
     "lintang": "8.03 LS",
     "bujur": "120.68 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "21 km",
     "dirasakan": "III Bantul, II Klaten"
-  },
-  {
-    "waktu": "20 Agu 2026 16:50:35 WIB",
-    "lintang": "8.33 LS",
-    "bujur": "120.60 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "5 km",
-    "dirasakan": "III Kab. Manggarai Barat"
   }
 ]
