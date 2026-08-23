@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24 Agu 2026 04:20:18 WIB",
+    "lintang": "8.30 LS",
+    "bujur": "120.62 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "wilayah": "38 km TimurLaut RUTENG-MANGGARAI-NTT"
+  },
+  {
     "waktu": "23 Agu 2026 02:54:08 WIB",
     "lintang": "0.30 LS",
     "bujur": "123.06 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "491 km",
     "wilayah": "125 km TimurLaut PULAUSARINGI-NTB"
-  },
-  {
-    "waktu": "17 Agu 2026 17:42:42 WIB",
-    "lintang": "7.85 LS",
-    "bujur": "120.47 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "wilayah": "84 km TimurLaut RUTENG-MANGGARAI-NTT"
   }
 ]

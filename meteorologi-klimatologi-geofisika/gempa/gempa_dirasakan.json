@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "24 Agu 2026 04:27:02 WIB",
+    "lintang": "8.27 LS",
+    "bujur": "120.62 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "5 km",
+    "dirasakan": "III Kab. Manggarai, III Kab. Manggarai Barat"
+  },
+  {
+    "waktu": "24 Agu 2026 03:35:11 WIB",
+    "lintang": "8.72 LS",
+    "bujur": "120.53 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "6 km",
+    "dirasakan": "III Kab. Manggarai"
+  },
+  {
     "waktu": "23 Agu 2026 20:16:08 WIB",
     "lintang": "8.40 LS",
     "bujur": "123.09 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.9",
     "kedalaman": "10 km",
     "dirasakan": "III Pulau Makian"
-  },
-  {
-    "waktu": "22 Agu 2026 08:31:00 WIB",
-    "lintang": "8.03 LS",
-    "bujur": "120.68 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kab. Sikka"
-  },
-  {
-    "waktu": "22 Agu 2026 03:04:04 WIB",
-    "lintang": "8.31 LS",
-    "bujur": "121.51 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "3 km",
-    "dirasakan": "II Kab. Sikka"
   }
 ]
