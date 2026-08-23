@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "23 Agu 2026 20:16:08 WIB",
+    "lintang": "8.40 LS",
+    "bujur": "123.09 BT",
+    "magnitudo": "1.9",
+    "kedalaman": "7 km",
+    "dirasakan": "II Kab. Flores Timur"
+  },
+  {
+    "waktu": "23 Agu 2026 20:03:12 WIB",
+    "lintang": "8.34 LS",
+    "bujur": "121.45 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "10 km",
+    "dirasakan": "II Kab. Sikka"
+  },
+  {
+    "waktu": "23 Agu 2026 19:45:32 WIB",
+    "lintang": "8.40 LS",
+    "bujur": "123.09 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "6 km",
+    "dirasakan": "II-III Kab. Flores Timur"
+  },
+  {
+    "waktu": "23 Agu 2026 19:43:19 WIB",
+    "lintang": "8.13 LS",
+    "bujur": "120.53 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "7 km",
+    "dirasakan": "IV Kab. Manggarai"
+  },
+  {
     "waktu": "23 Agu 2026 10:41:26 WIB",
     "lintang": "8.26 LS",
     "bujur": "120.59 BT",
@@ -86,37 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "3 km",
     "dirasakan": "II Kab. Sikka"
-  },
-  {
-    "waktu": "22 Agu 2026 00:45:11 WIB",
-    "lintang": "8.34 LS",
-    "bujur": "121.31 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "11 km",
-    "dirasakan": "II-III Kab. Nagekeo"
-  },
-  {
-    "waktu": "22 Agu 2026 00:06:39 WIB",
-    "lintang": "7.77 LS",
-    "bujur": "120.41 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "16 km",
-    "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "21 Agu 2026 23:05:29 WIB",
-    "lintang": "8.21 LS",
-    "bujur": "120.60 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "7 km",
-    "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "21 Agu 2026 19:39:10 WIB",
-    "lintang": "8.28 LS",
-    "bujur": "120.61 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "7 km",
-    "dirasakan": "II Kab. Manggarai"
   }
 ]
