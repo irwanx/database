@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Agu 2026 10:41:26 WIB",
+    "lintang": "8.26 LS",
+    "bujur": "120.59 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Kab. Manggarai"
+  },
+  {
     "waktu": "23 Agu 2026 08:04:09 WIB",
     "lintang": "8.26 LS",
     "bujur": "120.58 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.9",
     "kedalaman": "7 km",
     "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "21 Agu 2026 16:43:19 WIB",
-    "lintang": "6.98 LS",
-    "bujur": "107.01 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "8 km",
-    "dirasakan": "II Sukabumi, II Cireunghas"
   }
 ]
