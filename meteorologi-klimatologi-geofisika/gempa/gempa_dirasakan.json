@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24 Agu 2026 08:12:59 WIB",
+    "lintang": "8.17 LS",
+    "bujur": "120.49 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "7 km",
+    "dirasakan": "III Kab. Manggarai"
+  },
+  {
     "waktu": "24 Agu 2026 06:29:39 WIB",
     "lintang": "8.30 LS",
     "bujur": "107.86 BT",
@@ -108,14 +116,6 @@
     "lintang": "8.66 LS",
     "bujur": "120.50 BT",
     "magnitudo": "2.8",
-    "kedalaman": "4 km",
-    "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "22 Agu 2026 20:52:21 WIB",
-    "lintang": "8.64 LS",
-    "bujur": "120.51 BT",
-    "magnitudo": "3.0",
     "kedalaman": "4 km",
     "dirasakan": "III Kab. Manggarai"
   }
