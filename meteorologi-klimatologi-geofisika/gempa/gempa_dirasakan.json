@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "24 Agu 2026 13:22:02 WIB",
+    "lintang": "8.32 LS",
+    "bujur": "120.61 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "10 km",
+    "dirasakan": "II Kab. Manggarai"
+  },
+  {
+    "waktu": "24 Agu 2026 12:34:50 WIB",
+    "lintang": "2.50 LS",
+    "bujur": "120.92 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "6 km",
+    "dirasakan": "III-IV Malili, III-IV Towuti, III-IV Tomoni, III Kalaena"
+  },
+  {
     "waktu": "24 Agu 2026 08:12:59 WIB",
     "lintang": "8.17 LS",
     "bujur": "120.49 BT",
@@ -101,22 +117,6 @@
     "bujur": "120.58 BT",
     "magnitudo": "4.1",
     "kedalaman": "10 km",
-    "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "23 Agu 2026 02:54:08 WIB",
-    "lintang": "0.30 LS",
-    "bujur": "123.06 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "86 km",
-    "dirasakan": "III-IV Luwuk, II-III Kab. Gorontalo, II-III Kab. Bone Bolango"
-  },
-  {
-    "waktu": "22 Agu 2026 20:56:12 WIB",
-    "lintang": "8.66 LS",
-    "bujur": "120.50 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "4 km",
     "dirasakan": "III Kab. Manggarai"
   }
 ]
