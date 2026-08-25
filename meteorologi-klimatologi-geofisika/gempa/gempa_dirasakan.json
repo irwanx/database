@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Agu 2026 06:27:15 WIB",
+    "lintang": "8.25 LS",
+    "bujur": "120.58 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "5 km",
+    "dirasakan": "II Kab. Manggarai"
+  },
+  {
     "waktu": "24 Agu 2026 21:10:18 WIB",
     "lintang": "6.67 LS",
     "bujur": "127.45 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "6 km",
     "dirasakan": "II-III Kab. Flores Timur"
-  },
-  {
-    "waktu": "23 Agu 2026 19:43:19 WIB",
-    "lintang": "8.13 LS",
-    "bujur": "120.53 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "7 km",
-    "dirasakan": "IV Kab. Manggarai"
   }
 ]
