@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26 Agu 2026 00:59:13 WIB",
+    "lintang": "1.15 LS",
+    "bujur": "120.08 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "5 km",
+    "dirasakan": "III Sigi"
+  },
+  {
     "waktu": "25 Agu 2026 21:58:56 WIB",
     "lintang": "8.00 LS",
     "bujur": "120.77 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "1.9",
     "kedalaman": "7 km",
     "dirasakan": "II Kab. Flores Timur"
-  },
-  {
-    "waktu": "23 Agu 2026 20:03:12 WIB",
-    "lintang": "8.34 LS",
-    "bujur": "121.45 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "10 km",
-    "dirasakan": "II Kab. Sikka"
   }
 ]
