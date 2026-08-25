@@ -16,6 +16,14 @@
     "dirasakan": "III-IV Kab. Manggarai, III Kab. Manggarai Timur, III Kab. Ngada, III Kab. Nagekeo, II Kab. Ende, II Kab. Sumba Timur"
   },
   {
+    "waktu": "25 Agu 2026 18:29:46 WIB",
+    "lintang": "3.70 LS",
+    "bujur": "127.34 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Pulau Manipa"
+  },
+  {
     "waktu": "25 Agu 2026 06:27:15 WIB",
     "lintang": "8.25 LS",
     "bujur": "120.58 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.4",
     "kedalaman": "6 km",
     "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "23 Agu 2026 20:16:08 WIB",
-    "lintang": "8.40 LS",
-    "bujur": "123.09 BT",
-    "magnitudo": "1.9",
-    "kedalaman": "7 km",
-    "dirasakan": "II Kab. Flores Timur"
   }
 ]
