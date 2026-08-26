@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26 Agu 2026 19:30:34 WIB",
+    "lintang": "3.28 LS",
+    "bujur": "135.52 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "22 km",
+    "dirasakan": "II Nabire"
+  },
+  {
     "waktu": "26 Agu 2026 00:59:13 WIB",
     "lintang": "1.15 LS",
     "bujur": "120.08 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 km",
     "dirasakan": "V Kab. Manggarai, III Kab. Manggarai Barat"
-  },
-  {
-    "waktu": "24 Agu 2026 03:35:11 WIB",
-    "lintang": "8.72 LS",
-    "bujur": "120.53 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "6 km",
-    "dirasakan": "III Kab. Manggarai"
   }
 ]
