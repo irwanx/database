@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "26 Agu 2026 21:15:33 WIB",
+    "lintang": "8.36 LS",
+    "bujur": "121.52 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "dirasakan": "IV Nagekeo, IV Maumere, IV Bajawa, IV Ende"
+  },
+  {
+    "waktu": "26 Agu 2026 20:43:43 WIB",
+    "lintang": "8.04 LS",
+    "bujur": "107.90 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "19 km",
+    "dirasakan": "II Pangandaran"
+  },
+  {
     "waktu": "26 Agu 2026 19:30:34 WIB",
     "lintang": "3.28 LS",
     "bujur": "135.52 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.4",
     "kedalaman": "16 km",
     "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "24 Agu 2026 04:27:02 WIB",
-    "lintang": "8.27 LS",
-    "bujur": "120.62 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "5 km",
-    "dirasakan": "III Kab. Manggarai, III Kab. Manggarai Barat"
-  },
-  {
-    "waktu": "24 Agu 2026 04:20:18 WIB",
-    "lintang": "8.30 LS",
-    "bujur": "120.62 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "dirasakan": "V Kab. Manggarai, III Kab. Manggarai Barat"
   }
 ]
