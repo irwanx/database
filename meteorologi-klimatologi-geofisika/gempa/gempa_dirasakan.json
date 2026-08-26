@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "27 Agu 2026 01:34:58 WIB",
+    "lintang": "8.19 LS",
+    "bujur": "120.64 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Kab. Manggarai"
+  },
+  {
+    "waktu": "27 Agu 2026 01:23:14 WIB",
+    "lintang": "8.26 LS",
+    "bujur": "120.62 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "7 km",
+    "dirasakan": "III-IV Kab. Manggarai"
+  },
+  {
     "waktu": "26 Agu 2026 21:15:33 WIB",
     "lintang": "8.36 LS",
     "bujur": "121.52 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "13 km",
     "dirasakan": "II-III Cigedug, II-III Singaparna, II-III Pangandaran, II Cimaung, II Cianjur Selatan"
-  },
-  {
-    "waktu": "24 Agu 2026 05:57:30 WIB",
-    "lintang": "8.17 LS",
-    "bujur": "120.57 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "24 Agu 2026 05:17:08 WIB",
-    "lintang": "8.36 LS",
-    "bujur": "120.60 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "16 km",
-    "dirasakan": "II Kab. Manggarai"
   }
 ]
