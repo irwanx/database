@@ -1,5 +1,53 @@
 [
   {
+    "waktu": "28 Agu 2026 02:17:29 WIB",
+    "lintang": "8.27 LS",
+    "bujur": "120.59 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "11 km",
+    "dirasakan": "II Manggarai"
+  },
+  {
+    "waktu": "27 Agu 2026 22:04:56 WIB",
+    "lintang": "8.29 LS",
+    "bujur": "120.56 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "5 km",
+    "dirasakan": "II Kab. Manggarai"
+  },
+  {
+    "waktu": "27 Agu 2026 21:48:02 WIB",
+    "lintang": "8.19 LS",
+    "bujur": "120.49 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "6 km",
+    "dirasakan": "III Kab. Nagekeo"
+  },
+  {
+    "waktu": "27 Agu 2026 21:46:32 WIB",
+    "lintang": "8.21 LS",
+    "bujur": "120.49 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "5 km",
+    "dirasakan": "III Kab. Nagekeo"
+  },
+  {
+    "waktu": "27 Agu 2026 18:33:48 WIB",
+    "lintang": "5.54 LS",
+    "bujur": "103.63 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "25 km",
+    "dirasakan": "III Bengkunat, II Liwa"
+  },
+  {
+    "waktu": "27 Agu 2026 17:33:25 WIB",
+    "lintang": "8.07 LS",
+    "bujur": "120.09 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "dirasakan": "III Kab. Manggarai"
+  },
+  {
     "waktu": "27 Agu 2026 12:16:51 WIB",
     "lintang": "8.12 LS",
     "bujur": "120.61 BT",
@@ -70,53 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "10 km",
     "dirasakan": "II-III Pulau Manipa"
-  },
-  {
-    "waktu": "25 Agu 2026 06:27:15 WIB",
-    "lintang": "8.25 LS",
-    "bujur": "120.58 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "5 km",
-    "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "24 Agu 2026 21:10:18 WIB",
-    "lintang": "6.67 LS",
-    "bujur": "127.45 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Romang"
-  },
-  {
-    "waktu": "24 Agu 2026 17:03:00 WIB",
-    "lintang": "5.01 LS",
-    "bujur": "129.68 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Banda"
-  },
-  {
-    "waktu": "24 Agu 2026 13:22:02 WIB",
-    "lintang": "8.32 LS",
-    "bujur": "120.61 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "10 km",
-    "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "24 Agu 2026 12:34:50 WIB",
-    "lintang": "2.50 LS",
-    "bujur": "120.92 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "6 km",
-    "dirasakan": "III-IV Malili, III-IV Towuti, III-IV Tomoni, III Kalaena"
-  },
-  {
-    "waktu": "24 Agu 2026 08:12:59 WIB",
-    "lintang": "8.17 LS",
-    "bujur": "120.49 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "7 km",
-    "dirasakan": "III Kab. Manggarai"
   }
 ]
