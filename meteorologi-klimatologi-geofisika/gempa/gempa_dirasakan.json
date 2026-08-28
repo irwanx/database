@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "28 Agu 2026 23:50:43 WIB",
+    "lintang": "4.35 LS",
+    "bujur": "139.65 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "118 km",
+    "dirasakan": "II Jayawijaya"
+  },
+  {
+    "waktu": "28 Agu 2026 18:38:56 WIB",
+    "lintang": "3.81 LU",
+    "bujur": "116.28 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "3 km",
+    "dirasakan": "II-III Krayan, Kab. Nunukan"
+  },
+  {
     "waktu": "28 Agu 2026 02:17:29 WIB",
     "lintang": "8.27 LS",
     "bujur": "120.59 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "5 km",
     "dirasakan": "III Sigi"
-  },
-  {
-    "waktu": "25 Agu 2026 21:58:56 WIB",
-    "lintang": "8.00 LS",
-    "bujur": "120.77 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Kab. Manggarai, III Kab. Manggarai Timur, III Kab. Ngada, III Kab. Nagekeo, II Kab. Ende, II Kab. Sumba Timur"
-  },
-  {
-    "waktu": "25 Agu 2026 18:29:46 WIB",
-    "lintang": "3.70 LS",
-    "bujur": "127.34 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Pulau Manipa"
   }
 ]
