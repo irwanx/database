@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Agu 2026 15:08:45 WIB",
+    "lintang": "0.67 LS",
+    "bujur": "126.75 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "12 km",
+    "wilayah": "83 km BaratDaya LABUHA-MALUT"
+  },
+  {
     "waktu": "27 Agu 2026 17:33:25 WIB",
     "lintang": "8.07 LS",
     "bujur": "120.09 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.6",
     "kedalaman": "10 km",
     "wilayah": "37 km TimurLaut RUTENG-MANGGARAI-NTT"
-  },
-  {
-    "waktu": "19 Agu 2026 23:17:40 WIB",
-    "lintang": "8.23 LS",
-    "bujur": "120.53 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "10 km",
-    "wilayah": "43 km TimurLaut RUTENG-MANGGARAI-NTT"
   }
 ]
