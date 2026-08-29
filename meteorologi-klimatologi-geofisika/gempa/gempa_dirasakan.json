@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "29 Agu 2026 07:50:06 WIB",
+    "lintang": "7.27 LS",
+    "bujur": "109.65 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "7 km",
+    "dirasakan": "II Banjarnegara"
+  },
+  {
+    "waktu": "29 Agu 2026 04:45:45 WIB",
+    "lintang": "8.10 LS",
+    "bujur": "120.76 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "9 km",
+    "dirasakan": "III Kab. Manggarai"
+  },
+  {
     "waktu": "28 Agu 2026 23:50:43 WIB",
     "lintang": "4.35 LS",
     "bujur": "139.65 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "19 km",
     "dirasakan": "II Pangandaran"
-  },
-  {
-    "waktu": "26 Agu 2026 19:30:34 WIB",
-    "lintang": "3.28 LS",
-    "bujur": "135.52 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "22 km",
-    "dirasakan": "II Nabire"
-  },
-  {
-    "waktu": "26 Agu 2026 00:59:13 WIB",
-    "lintang": "1.15 LS",
-    "bujur": "120.08 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "5 km",
-    "dirasakan": "III Sigi"
   }
 ]
