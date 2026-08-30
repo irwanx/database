@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "30 Agu 2026 18:03:03 WIB",
+    "lintang": "8.23 LS",
+    "bujur": "120.51 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "6 km",
+    "dirasakan": "III Kab. Manggarai"
+  },
+  {
+    "waktu": "30 Agu 2026 14:37:49 WIB",
+    "lintang": "3.51 LS",
+    "bujur": "101.46 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "23 km",
+    "dirasakan": "II-III Kab. Seluma, II-III Kota Bengkulu"
+  },
+  {
     "waktu": "30 Agu 2026 09:54:08 WIB",
     "lintang": "7.27 LS",
     "bujur": "109.64 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "5 km",
     "dirasakan": "III Kab. Nagekeo"
-  },
-  {
-    "waktu": "27 Agu 2026 18:33:48 WIB",
-    "lintang": "5.54 LS",
-    "bujur": "103.63 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "25 km",
-    "dirasakan": "III Bengkunat, II Liwa"
-  },
-  {
-    "waktu": "27 Agu 2026 17:33:25 WIB",
-    "lintang": "8.07 LS",
-    "bujur": "120.09 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kab. Manggarai"
   }
 ]
