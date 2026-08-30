@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "30 Agu 2026 09:54:08 WIB",
+    "lintang": "7.27 LS",
+    "bujur": "109.64 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "10 km",
+    "dirasakan": "II Pandanarum, II Punggelan"
+  },
+  {
+    "waktu": "30 Agu 2026 08:23:19 WIB",
+    "lintang": "8.31 LS",
+    "bujur": "120.54 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "3 km",
+    "dirasakan": "II Kab. Manggarai"
+  },
+  {
     "waktu": "29 Agu 2026 20:46:15 WIB",
     "lintang": "8.20 LS",
     "bujur": "120.41 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 km",
     "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "27 Agu 2026 12:16:51 WIB",
-    "lintang": "8.12 LS",
-    "bujur": "120.61 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "3 km",
-    "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "27 Agu 2026 01:34:58 WIB",
-    "lintang": "8.19 LS",
-    "bujur": "120.64 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Kab. Manggarai"
   }
 ]
