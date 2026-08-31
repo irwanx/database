@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "31 Agu 2026 13:53:46 WIB",
+    "lintang": "8.09 LS",
+    "bujur": "120.58 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "4 km",
+    "dirasakan": "II-III Kab. Manggarai"
+  },
+  {
+    "waktu": "31 Agu 2026 09:51:58 WIB",
+    "lintang": "1.10 LS",
+    "bujur": "120.18 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "4 km",
+    "dirasakan": "III Kab. Sigi"
+  },
+  {
+    "waktu": "31 Agu 2026 09:48:39 WIB",
+    "lintang": "8.15 LS",
+    "bujur": "120.64 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 km",
+    "dirasakan": "II Kab. Manggarai"
+  },
+  {
+    "waktu": "31 Agu 2026 07:42:39 WIB",
+    "lintang": "8.19 LS",
+    "bujur": "120.61 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "11 km",
+    "dirasakan": "II Kab. Manggarai"
+  },
+  {
     "waktu": "30 Agu 2026 18:03:03 WIB",
     "lintang": "8.23 LS",
     "bujur": "120.51 BT",
@@ -86,37 +118,5 @@
     "magnitudo": "2.8",
     "kedalaman": "3 km",
     "dirasakan": "II-III Krayan, Kab. Nunukan"
-  },
-  {
-    "waktu": "28 Agu 2026 02:17:29 WIB",
-    "lintang": "8.27 LS",
-    "bujur": "120.59 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "11 km",
-    "dirasakan": "II Manggarai"
-  },
-  {
-    "waktu": "27 Agu 2026 22:04:56 WIB",
-    "lintang": "8.29 LS",
-    "bujur": "120.56 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "5 km",
-    "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "27 Agu 2026 21:48:02 WIB",
-    "lintang": "8.19 LS",
-    "bujur": "120.49 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "6 km",
-    "dirasakan": "III Kab. Nagekeo"
-  },
-  {
-    "waktu": "27 Agu 2026 21:46:32 WIB",
-    "lintang": "8.21 LS",
-    "bujur": "120.49 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "5 km",
-    "dirasakan": "III Kab. Nagekeo"
   }
 ]
