@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "31 Agu 2026 18:47:08 WIB",
+    "lintang": "2.34 LS",
+    "bujur": "120.58 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "5 km",
+    "dirasakan": "II Kab. Luwu Utara"
+  },
+  {
+    "waktu": "31 Agu 2026 15:03:29 WIB",
+    "lintang": "8.17 LS",
+    "bujur": "120.58 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Kab.Manggarai, III Kab.Manggarai Barat, III Kab.Sikka, II-III Kab.Sumba Timur"
+  },
+  {
     "waktu": "31 Agu 2026 13:53:46 WIB",
     "lintang": "8.09 LS",
     "bujur": "120.58 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "9 km",
     "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "28 Agu 2026 23:50:43 WIB",
-    "lintang": "4.35 LS",
-    "bujur": "139.65 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "118 km",
-    "dirasakan": "II Jayawijaya"
-  },
-  {
-    "waktu": "28 Agu 2026 18:38:56 WIB",
-    "lintang": "3.81 LU",
-    "bujur": "116.28 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "3 km",
-    "dirasakan": "II-III Krayan, Kab. Nunukan"
   }
 ]
