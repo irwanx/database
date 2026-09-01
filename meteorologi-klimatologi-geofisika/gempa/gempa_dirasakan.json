@@ -1,5 +1,53 @@
 [
   {
+    "waktu": "01 Sep 2026 17:53:10 WIB",
+    "lintang": "6.93 LS",
+    "bujur": "107.10 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "5 km",
+    "dirasakan": "III-IV Cianjur, II-III Kota Sukabumi, II-III Cibadak, II-III Nagrak, II-III Warung Kondang, II Cibubur"
+  },
+  {
+    "waktu": "01 Sep 2026 15:24:18 WIB",
+    "lintang": "8.83 LS",
+    "bujur": "120.42 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "3 km",
+    "dirasakan": "II Kab. Manggarai"
+  },
+  {
+    "waktu": "01 Sep 2026 15:22:21 WIB",
+    "lintang": "0.26 LU",
+    "bujur": "128.92 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 km",
+    "dirasakan": "III Maba"
+  },
+  {
+    "waktu": "01 Sep 2026 13:20:32 WIB",
+    "lintang": "8.34 LS",
+    "bujur": "120.59 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "17 km",
+    "dirasakan": "II-III Kab. Manggarai"
+  },
+  {
+    "waktu": "01 Sep 2026 12:15:20 WIB",
+    "lintang": "8.22 LS",
+    "bujur": "124.74 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "15 km",
+    "dirasakan": "II-III Alor"
+  },
+  {
+    "waktu": "01 Sep 2026 11:50:09 WIB",
+    "lintang": "8.23 LS",
+    "bujur": "120.60 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "1 km",
+    "dirasakan": "II Kab. Manggarai"
+  },
+  {
     "waktu": "31 Agu 2026 18:47:08 WIB",
     "lintang": "2.34 LS",
     "bujur": "120.58 BT",
@@ -70,53 +118,5 @@
     "magnitudo": "2.2",
     "kedalaman": "10 km",
     "dirasakan": "II Pandanarum, II Punggelan"
-  },
-  {
-    "waktu": "30 Agu 2026 08:23:19 WIB",
-    "lintang": "8.31 LS",
-    "bujur": "120.54 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "3 km",
-    "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "29 Agu 2026 20:46:15 WIB",
-    "lintang": "8.20 LS",
-    "bujur": "120.41 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 km",
-    "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "29 Agu 2026 10:28:54 WIB",
-    "lintang": "7.26 LS",
-    "bujur": "109.72 BT",
-    "magnitudo": "1.8",
-    "kedalaman": "4 km",
-    "dirasakan": "II-III Kalibening"
-  },
-  {
-    "waktu": "29 Agu 2026 10:09:01 WIB",
-    "lintang": "8.18 LS",
-    "bujur": "120.57 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "2 km",
-    "dirasakan": "II-III Kab. Manggarai"
-  },
-  {
-    "waktu": "29 Agu 2026 07:50:06 WIB",
-    "lintang": "7.27 LS",
-    "bujur": "109.65 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "7 km",
-    "dirasakan": "II Banjarnegara"
-  },
-  {
-    "waktu": "29 Agu 2026 04:45:45 WIB",
-    "lintang": "8.10 LS",
-    "bujur": "120.76 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "9 km",
-    "dirasakan": "III Kab. Manggarai"
   }
 ]
