@@ -1,11 +1,19 @@
 [
   {
+    "waktu": "01 Sep 2026 22:22:59 WIB",
+    "lintang": "4.19 LS",
+    "bujur": "121.91 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "10 km",
+    "dirasakan": "III Kolaka Timur"
+  },
+  {
     "waktu": "01 Sep 2026 17:53:10 WIB",
     "lintang": "6.93 LS",
     "bujur": "107.10 BT",
     "magnitudo": "4.3",
     "kedalaman": "5 km",
-    "dirasakan": "III-IV Cianjur, II-III Kota Sukabumi, II-III Cibadak, II-III Nagrak, II-III Warung Kondang, II Cibubur"
+    "dirasakan": "III-IV Cianjur, II-III Kota Sukabumi, II-III Cibadak, II-III Nagrak, II-III Warung Kondang, II Cibubur, II Kota Bandung, II Sukaraja"
   },
   {
     "waktu": "01 Sep 2026 15:24:18 WIB",
@@ -110,13 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "23 km",
     "dirasakan": "II-III Kab. Seluma, II-III Kota Bengkulu"
-  },
-  {
-    "waktu": "30 Agu 2026 09:54:08 WIB",
-    "lintang": "7.27 LS",
-    "bujur": "109.64 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "10 km",
-    "dirasakan": "II Pandanarum, II Punggelan"
   }
 ]
