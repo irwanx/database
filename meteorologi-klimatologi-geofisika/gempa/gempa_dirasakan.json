@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Sep 2026 22:01:01 WIB",
+    "lintang": "8.17 LS",
+    "bujur": "120.56 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "11 km",
+    "dirasakan": "II-III Manggarai"
+  },
+  {
     "waktu": "02 Sep 2026 18:56:56 WIB",
     "lintang": "8.37 LS",
     "bujur": "120.54 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "4 km",
     "dirasakan": "II-III Kab. Manggarai"
-  },
-  {
-    "waktu": "31 Agu 2026 09:51:58 WIB",
-    "lintang": "1.10 LS",
-    "bujur": "120.18 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "4 km",
-    "dirasakan": "III Kab. Sigi"
   }
 ]
