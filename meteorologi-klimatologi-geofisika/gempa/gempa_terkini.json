@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Sep 2026 07:04:55 WIB",
+    "lintang": "3.15 LS",
+    "bujur": "139.41 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "100 km",
+    "wilayah": "69 km TimurLaut KOBAGMA-PAPUAPGNGN"
+  },
+  {
     "waktu": "01 Sep 2026 15:22:21 WIB",
     "lintang": "0.26 LU",
     "bujur": "128.92 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 km",
     "wilayah": "36 km TimurLaut RUTENG-MANGGARAI-NTT"
-  },
-  {
-    "waktu": "20 Agu 2026 15:01:32 WIB",
-    "lintang": "8.24 LS",
-    "bujur": "120.62 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "wilayah": "44 km TimurLaut RUTENG-MANGGARAI-NTT"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Sep 2026 07:04:55 WIB",
+    "lintang": "3.15 LS",
+    "bujur": "139.41 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "100 km",
+    "dirasakan": "II-III Jayapura, II-III Wamena, II Yakuhimo"
+  },
+  {
     "waktu": "02 Sep 2026 01:11:46 WIB",
     "lintang": "8.15 LS",
     "bujur": "120.58 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "11 km",
     "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "30 Agu 2026 18:03:03 WIB",
-    "lintang": "8.23 LS",
-    "bujur": "120.51 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "6 km",
-    "dirasakan": "III Kab. Manggarai"
   }
 ]
