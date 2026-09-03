@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03 Sep 2026 11:24:22 WIB",
+    "lintang": "6.73 LS",
+    "bujur": "106.60 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "3 km",
+    "dirasakan": "II Kabandungan"
+  },
+  {
     "waktu": "03 Sep 2026 09:45:22 WIB",
     "lintang": "8.42 LS",
     "bujur": "121.55 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "15 km",
     "dirasakan": "II-III Alor"
-  },
-  {
-    "waktu": "01 Sep 2026 11:50:09 WIB",
-    "lintang": "8.23 LS",
-    "bujur": "120.60 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "1 km",
-    "dirasakan": "II Kab. Manggarai"
   }
 ]
