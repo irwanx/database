@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "04 Sep 2026 04:05:15 WIB",
+    "lintang": "0.63 LU",
+    "bujur": "122.04 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "74 km",
+    "dirasakan": "II-III Kab.Gorontalo, III Kota.Gorontalo, III Kab.Pohuwato"
+  },
+  {
+    "waktu": "04 Sep 2026 04:00:11 WIB",
+    "lintang": "8.33 LS",
+    "bujur": "121.58 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "7 km",
+    "dirasakan": "II Kab.Sikka, III Kab.Nagekeo"
+  },
+  {
     "waktu": "03 Sep 2026 20:25:03 WIB",
     "lintang": "8.19 LS",
     "bujur": "120.52 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "3 km",
     "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "01 Sep 2026 15:22:21 WIB",
-    "lintang": "0.26 LU",
-    "bujur": "128.92 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "10 km",
-    "dirasakan": "III Maba"
-  },
-  {
-    "waktu": "01 Sep 2026 13:20:32 WIB",
-    "lintang": "8.34 LS",
-    "bujur": "120.59 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "17 km",
-    "dirasakan": "II-III Kab. Manggarai"
   }
 ]
