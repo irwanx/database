@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04 Sep 2026 05:36:16 WIB",
+    "lintang": "8.20 LS",
+    "bujur": "120.55 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "12 km",
+    "dirasakan": "II Kab. Manggarai"
+  },
+  {
     "waktu": "04 Sep 2026 04:05:15 WIB",
     "lintang": "0.63 LU",
     "bujur": "122.04 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "5 km",
     "dirasakan": "III-IV Cianjur, II-III Kota Sukabumi, II-III Cibadak, II-III Nagrak, II-III Warung Kondang, II Cibubur, II Kota Bandung, II Sukaraja"
-  },
-  {
-    "waktu": "01 Sep 2026 15:24:18 WIB",
-    "lintang": "8.83 LS",
-    "bujur": "120.42 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "3 km",
-    "dirasakan": "II Kab. Manggarai"
   }
 ]
