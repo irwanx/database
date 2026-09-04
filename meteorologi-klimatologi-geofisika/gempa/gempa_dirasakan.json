@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04 Sep 2026 12:04:59 WIB",
+    "lintang": "8.42 LS",
+    "bujur": "109.02 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 km",
+    "dirasakan": "III Kebumen, III Bantul, III Cilacap, III Kulonprogo, II-III Pangandaran, II Sleman, II Pacitan, III Purwokerto, II Wonogiri"
+  },
+  {
     "waktu": "04 Sep 2026 05:36:16 WIB",
     "lintang": "8.20 LS",
     "bujur": "120.55 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.8",
     "kedalaman": "10 km",
     "dirasakan": "III Kolaka Timur"
-  },
-  {
-    "waktu": "01 Sep 2026 17:53:10 WIB",
-    "lintang": "6.93 LS",
-    "bujur": "107.10 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "5 km",
-    "dirasakan": "III-IV Cianjur, II-III Kota Sukabumi, II-III Cibadak, II-III Nagrak, II-III Warung Kondang, II Cibubur, II Kota Bandung, II Sukaraja"
   }
 ]
