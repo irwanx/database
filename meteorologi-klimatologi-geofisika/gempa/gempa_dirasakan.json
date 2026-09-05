@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "05 Sep 2026 21:06:05 WIB",
+    "lintang": "1.05 LU",
+    "bujur": "98.41 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "28 km",
+    "dirasakan": "II Panyabungan, Mandailing Natal"
+  },
+  {
+    "waktu": "05 Sep 2026 19:35:02 WIB",
+    "lintang": "8.08 LS",
+    "bujur": "120.70 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 km",
+    "dirasakan": "II Kab. Manggarai"
+  },
+  {
     "waktu": "05 Sep 2026 17:59:15 WIB",
     "lintang": "4.53 LS",
     "bujur": "102.56 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.3",
     "kedalaman": "3 km",
     "dirasakan": "II Kabandungan"
-  },
-  {
-    "waktu": "03 Sep 2026 09:45:22 WIB",
-    "lintang": "8.42 LS",
-    "bujur": "121.55 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "8 km",
-    "dirasakan": "III Nagekeo"
-  },
-  {
-    "waktu": "03 Sep 2026 09:24:55 WIB",
-    "lintang": "8.12 LS",
-    "bujur": "120.58 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "6 km",
-    "dirasakan": "III Kab. Manggarai"
   }
 ]
