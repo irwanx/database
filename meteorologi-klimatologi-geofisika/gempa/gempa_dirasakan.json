@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "05 Sep 2026 17:59:15 WIB",
+    "lintang": "4.53 LS",
+    "bujur": "102.56 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "21 km",
+    "dirasakan": "III Kota Bengkulu, III Enggano, II Bengkulu Selatan, II Kepahiang, II Curup"
+  },
+  {
+    "waktu": "05 Sep 2026 16:09:28 WIB",
+    "lintang": "8.20 LS",
+    "bujur": "120.61 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "8 km",
+    "dirasakan": "III Kab. Manggarai"
+  },
+  {
     "waktu": "05 Sep 2026 13:34:49 WIB",
     "lintang": "0.29 LS",
     "bujur": "123.18 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "6 km",
     "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "03 Sep 2026 03:52:36 WIB",
-    "lintang": "9.00 LS",
-    "bujur": "111.28 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 km",
-    "dirasakan": "III Pacitan, II Lumajang, II Blitar, II Malang, II Tulungagung"
-  },
-  {
-    "waktu": "02 Sep 2026 22:01:01 WIB",
-    "lintang": "8.17 LS",
-    "bujur": "120.56 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "11 km",
-    "dirasakan": "II-III Manggarai"
   }
 ]
