@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Sep 2026 13:41:25 WIB",
+    "lintang": "0.38 LS",
+    "bujur": "123.13 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "7 km",
+    "dirasakan": "II - III Luwuk"
+  },
+  {
     "waktu": "06 Sep 2026 09:06:37 WIB",
     "lintang": "7.73 LS",
     "bujur": "107.34 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "7 km",
     "dirasakan": "II Kab.Sikka, III Kab.Nagekeo"
-  },
-  {
-    "waktu": "03 Sep 2026 20:25:03 WIB",
-    "lintang": "8.19 LS",
-    "bujur": "120.52 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "8 km",
-    "dirasakan": "II Kab. Manggarai"
   }
 ]
