@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Sep 2026 09:06:37 WIB",
+    "lintang": "7.73 LS",
+    "bujur": "107.34 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "58 km",
+    "dirasakan": "III Sindangbarang, III Singajaya, III Pamengpeuk, III Rancabuaya, II Pangalengan"
+  },
+  {
     "waktu": "05 Sep 2026 21:06:05 WIB",
     "lintang": "1.05 LU",
     "bujur": "98.41 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "8 km",
     "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "03 Sep 2026 11:24:22 WIB",
-    "lintang": "6.73 LS",
-    "bujur": "106.60 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "3 km",
-    "dirasakan": "II Kabandungan"
   }
 ]
