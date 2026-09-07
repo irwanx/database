@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "07 Sep 2026 19:50:39 WIB",
+    "lintang": "8.34 LS",
+    "bujur": "121.30 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Kabupaten Nagekeo, II - III Kabupaten Ngada"
+  },
+  {
+    "waktu": "07 Sep 2026 17:40:05 WIB",
+    "lintang": "8.20 LS",
+    "bujur": "120.37 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "9 km",
+    "dirasakan": "III Kab. Manggarai"
+  },
+  {
     "waktu": "07 Sep 2026 14:22:23 WIB",
     "lintang": "5.40 LS",
     "bujur": "104.63 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 km",
     "dirasakan": "III Kebumen, III Bantul, III Cilacap, III Kulonprogo, II-III Pangandaran, II Sleman, II Pacitan, III Purwokerto, II Wonogiri"
-  },
-  {
-    "waktu": "04 Sep 2026 05:36:16 WIB",
-    "lintang": "8.20 LS",
-    "bujur": "120.55 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "12 km",
-    "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "04 Sep 2026 04:05:15 WIB",
-    "lintang": "0.63 LU",
-    "bujur": "122.04 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "74 km",
-    "dirasakan": "II-III Kab.Gorontalo, III Kota.Gorontalo, III Kab.Pohuwato"
   }
 ]
