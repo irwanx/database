@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Sep 2026 14:22:23 WIB",
+    "lintang": "5.40 LS",
+    "bujur": "104.63 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "6 km",
+    "dirasakan": "II-III Kota Agung , II-III Sumberejo"
+  },
+  {
     "waktu": "06 Sep 2026 13:41:25 WIB",
     "lintang": "0.38 LS",
     "bujur": "123.13 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "74 km",
     "dirasakan": "II-III Kab.Gorontalo, III Kota.Gorontalo, III Kab.Pohuwato"
-  },
-  {
-    "waktu": "04 Sep 2026 04:00:11 WIB",
-    "lintang": "8.33 LS",
-    "bujur": "121.58 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "7 km",
-    "dirasakan": "II Kab.Sikka, III Kab.Nagekeo"
   }
 ]
