@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "08 Sep 2026 13:37:52 WIB",
+    "lintang": "5.33 LS",
+    "bujur": "104.55 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "11 km",
+    "dirasakan": "II Ulu Belu"
+  },
+  {
+    "waktu": "08 Sep 2026 11:40:29 WIB",
+    "lintang": "8.08 LS",
+    "bujur": "120.56 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Kab. Manggarai, III Kab. Manggarai Barat, III Kab. Nagekeo, III Kab. Ngada, II-III Kab. Sumba Timur"
+  },
+  {
     "waktu": "08 Sep 2026 00:38:38 WIB",
     "lintang": "8.12 LS",
     "bujur": "120.60 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "75 km",
     "dirasakan": "III Pandan Tapanuli Tengah, III Gunung Sitoli"
-  },
-  {
-    "waktu": "04 Sep 2026 20:13:46 WIB",
-    "lintang": "8.39 LS",
-    "bujur": "121.53 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "3 km",
-    "dirasakan": "II-III Kab. Sikka"
-  },
-  {
-    "waktu": "04 Sep 2026 17:20:27 WIB",
-    "lintang": "3.11 LU",
-    "bujur": "117.41 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Kota Tarakan"
   }
 ]
