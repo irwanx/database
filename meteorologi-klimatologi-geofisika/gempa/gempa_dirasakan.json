@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08 Sep 2026 20:00:51 WIB",
+    "lintang": "7.91 LS",
+    "bujur": "120.56 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "6 km",
+    "dirasakan": "II Kab. Manggarai"
+  },
+  {
     "waktu": "08 Sep 2026 13:37:52 WIB",
     "lintang": "5.33 LS",
     "bujur": "104.55 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "7 km",
     "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "04 Sep 2026 23:24:40 WIB",
-    "lintang": "1.20 LU",
-    "bujur": "98.93 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "75 km",
-    "dirasakan": "III Pandan Tapanuli Tengah, III Gunung Sitoli"
   }
 ]
