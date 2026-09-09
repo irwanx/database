@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "09 Sep 2026 13:21:30 WIB",
+    "lintang": "6.92 LS",
+    "bujur": "105.49 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "25 km",
+    "dirasakan": "II Sumur"
+  },
+  {
+    "waktu": "09 Sep 2026 12:09:55 WIB",
+    "lintang": "6.90 LS",
+    "bujur": "105.56 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "31 km",
+    "dirasakan": "II Sumur"
+  },
+  {
     "waktu": "09 Sep 2026 08:04:26 WIB",
     "lintang": "9.82 LS",
     "bujur": "119.55 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "28 km",
     "dirasakan": "II Panyabungan, Mandailing Natal"
-  },
-  {
-    "waktu": "05 Sep 2026 19:35:02 WIB",
-    "lintang": "8.08 LS",
-    "bujur": "120.70 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 km",
-    "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "05 Sep 2026 17:59:15 WIB",
-    "lintang": "4.53 LS",
-    "bujur": "102.56 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "21 km",
-    "dirasakan": "III Kota Bengkulu, III Enggano, II Bengkulu Selatan, II Kepahiang, II Curup"
   }
 ]
