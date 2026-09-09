@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Sep 2026 22:24:41 WIB",
+    "lintang": "0.24 LS",
+    "bujur": "119.85 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "5 km",
+    "dirasakan": "II - III Donggala"
+  },
+  {
     "waktu": "09 Sep 2026 17:21:38 WIB",
     "lintang": "8.15 LS",
     "bujur": "120.51 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "7 km",
     "dirasakan": "II - III Luwuk"
-  },
-  {
-    "waktu": "06 Sep 2026 09:06:37 WIB",
-    "lintang": "7.73 LS",
-    "bujur": "107.34 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "58 km",
-    "dirasakan": "III Sindangbarang, III Singajaya, III Pamengpeuk, III Rancabuaya, II Pangalengan"
   }
 ]
