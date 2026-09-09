@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "09 Sep 2026 08:04:26 WIB",
+    "lintang": "9.82 LS",
+    "bujur": "119.55 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "21 km",
+    "dirasakan": "III Sumba Tengah, II Sumba Barat, II Sumba Barat Daya"
+  },
+  {
+    "waktu": "09 Sep 2026 07:23:23 WIB",
+    "lintang": "4.94 LS",
+    "bujur": "103.04 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "28 km",
+    "dirasakan": "II - III Enggano , II - III Kaur, II - III Oku Selatan, I - II Pesisir Selatan"
+  },
+  {
     "waktu": "09 Sep 2026 04:42:23 WIB",
     "lintang": "8.21 LS",
     "bujur": "120.41 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "21 km",
     "dirasakan": "III Kota Bengkulu, III Enggano, II Bengkulu Selatan, II Kepahiang, II Curup"
-  },
-  {
-    "waktu": "05 Sep 2026 16:09:28 WIB",
-    "lintang": "8.20 LS",
-    "bujur": "120.61 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "8 km",
-    "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "05 Sep 2026 13:34:49 WIB",
-    "lintang": "0.29 LS",
-    "bujur": "123.18 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "124 km",
-    "dirasakan": "II-III Luwuk"
   }
 ]
