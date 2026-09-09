@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Sep 2026 17:21:38 WIB",
+    "lintang": "8.15 LS",
+    "bujur": "120.51 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "3 km",
+    "dirasakan": "II-III Kab. Manggarai"
+  },
+  {
     "waktu": "09 Sep 2026 13:21:30 WIB",
     "lintang": "6.92 LS",
     "bujur": "105.49 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "58 km",
     "dirasakan": "III Sindangbarang, III Singajaya, III Pamengpeuk, III Rancabuaya, II Pangalengan"
-  },
-  {
-    "waktu": "05 Sep 2026 21:06:05 WIB",
-    "lintang": "1.05 LU",
-    "bujur": "98.41 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "28 km",
-    "dirasakan": "II Panyabungan, Mandailing Natal"
   }
 ]
