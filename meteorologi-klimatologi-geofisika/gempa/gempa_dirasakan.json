@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "10 Sep 2026 20:41:37 WIB",
+    "lintang": "8.49 LS",
+    "bujur": "120.46 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Kab. Manggarai"
+  },
+  {
+    "waktu": "10 Sep 2026 16:03:32 WIB",
+    "lintang": "7.30 LS",
+    "bujur": "109.63 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 km",
+    "dirasakan": "III Punggelan, III Pandanarum, III Kalibening, II-III Sidamulya, II-III Karangkobar, II-III Pasegeran"
+  },
+  {
     "waktu": "09 Sep 2026 22:24:41 WIB",
     "lintang": "0.24 LS",
     "bujur": "119.85 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "9 km",
     "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "07 Sep 2026 14:22:23 WIB",
-    "lintang": "5.40 LS",
-    "bujur": "104.63 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "6 km",
-    "dirasakan": "II-III Kota Agung , II-III Sumberejo"
-  },
-  {
-    "waktu": "06 Sep 2026 13:41:25 WIB",
-    "lintang": "0.38 LS",
-    "bujur": "123.13 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "7 km",
-    "dirasakan": "II - III Luwuk"
   }
 ]
