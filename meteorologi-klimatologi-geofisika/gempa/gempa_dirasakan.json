@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Sep 2026 01:44:43 WIB",
+    "lintang": "8.57 LS",
+    "bujur": "127.81 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "dirasakan": "III Tiakur"
+  },
+  {
     "waktu": "10 Sep 2026 20:54:13 WIB",
     "lintang": "2.57 LS",
     "bujur": "140.45 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "10 km",
     "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "07 Sep 2026 19:50:39 WIB",
-    "lintang": "8.34 LS",
-    "bujur": "121.30 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Kabupaten Nagekeo, II - III Kabupaten Ngada"
   }
 ]
