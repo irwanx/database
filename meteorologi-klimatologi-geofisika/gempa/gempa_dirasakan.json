@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Sep 2026 20:54:13 WIB",
+    "lintang": "2.57 LS",
+    "bujur": "140.45 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "15 km",
+    "dirasakan": "III Kota Jayapura, III Kab. Jayapura"
+  },
+  {
     "waktu": "10 Sep 2026 20:41:37 WIB",
     "lintang": "8.49 LS",
     "bujur": "120.46 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "10 km",
     "dirasakan": "II-III Kabupaten Nagekeo, II - III Kabupaten Ngada"
-  },
-  {
-    "waktu": "07 Sep 2026 17:40:05 WIB",
-    "lintang": "8.20 LS",
-    "bujur": "120.37 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "9 km",
-    "dirasakan": "III Kab. Manggarai"
   }
 ]

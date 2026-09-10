@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Sep 2026 01:44:43 WIB",
+    "lintang": "8.57 LS",
+    "bujur": "127.81 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "wilayah": "46 km Tenggara MALUKUBRTDAYA"
+  },
+  {
     "waktu": "08 Sep 2026 11:40:29 WIB",
     "lintang": "8.08 LS",
     "bujur": "120.56 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 km",
     "wilayah": "68 km TimurLaut RUTENG-MANGGARAI-NTT"
-  },
-  {
-    "waktu": "22 Agu 2026 00:41:43 WIB",
-    "lintang": "7.72 LS",
-    "bujur": "104.47 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "10 km",
-    "wilayah": "170 km BaratDaya SUMUR-BANTEN"
   }
 ]
