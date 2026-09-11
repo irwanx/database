@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Sep 2026 02:43:01 WIB",
+    "lintang": "7.26 LS",
+    "bujur": "109.91 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 km",
+    "dirasakan": "II Batang , II-III Dieng, II-III Banjarnegara, III Wanayasa, III Wonosobo"
+  },
+  {
     "waktu": "11 Sep 2026 20:08:11 WIB",
     "lintang": "0.56 LS",
     "bujur": "99.84 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "28 km",
     "dirasakan": "II - III Enggano , II - III Kaur, II - III Oku Selatan, I - II Pesisir Selatan"
-  },
-  {
-    "waktu": "09 Sep 2026 04:42:23 WIB",
-    "lintang": "8.21 LS",
-    "bujur": "120.41 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "12 km",
-    "dirasakan": "III Kab. Manggarai"
   }
 ]

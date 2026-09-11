@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Sep 2026 04:23:56 WIB",
+    "lintang": "5.81 LS",
+    "bujur": "106.56 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "376 km",
+    "wilayah": "6 km Tenggara KEPSERIBU-DKI"
+  },
+  {
     "waktu": "11 Sep 2026 18:56:24 WIB",
     "lintang": "7.44 LS",
     "bujur": "129.11 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 km",
     "wilayah": "38 km TimurLaut RUTENG-MANGGARAI-NTT"
-  },
-  {
-    "waktu": "23 Agu 2026 02:54:08 WIB",
-    "lintang": "0.30 LS",
-    "bujur": "123.06 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "86 km",
-    "wilayah": "57 km TimurLaut PULAUPUAH-SULTENG"
   }
 ]
