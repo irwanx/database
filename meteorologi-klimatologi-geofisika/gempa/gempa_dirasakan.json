@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Sep 2026 13:00:53 WIB",
+    "lintang": "4.76 LU",
+    "bujur": "96.81 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "4 km",
+    "dirasakan": "III Bener Meriah"
+  },
+  {
     "waktu": "11 Sep 2026 07:53:46 WIB",
     "lintang": "0.32 LS",
     "bujur": "119.82 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "11 km",
     "dirasakan": "II Ulu Belu"
-  },
-  {
-    "waktu": "08 Sep 2026 11:40:29 WIB",
-    "lintang": "8.08 LS",
-    "bujur": "120.56 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Kab. Manggarai, III Kab. Manggarai Barat, III Kab. Nagekeo, III Kab. Ngada, II-III Kab. Sumba Timur"
   }
 ]
