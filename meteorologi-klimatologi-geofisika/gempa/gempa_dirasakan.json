@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Sep 2026 07:53:46 WIB",
+    "lintang": "0.32 LS",
+    "bujur": "119.82 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Donggala, II-III Palu, II-III Sigi"
+  },
+  {
     "waktu": "11 Sep 2026 01:44:43 WIB",
     "lintang": "8.57 LS",
     "bujur": "127.81 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Kab. Manggarai, III Kab. Manggarai Barat, III Kab. Nagekeo, III Kab. Ngada, II-III Kab. Sumba Timur"
-  },
-  {
-    "waktu": "08 Sep 2026 00:38:38 WIB",
-    "lintang": "8.12 LS",
-    "bujur": "120.60 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kab. Manggarai"
   }
 ]
