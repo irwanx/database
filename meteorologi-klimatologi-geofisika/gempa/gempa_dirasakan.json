@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "11 Sep 2026 20:08:11 WIB",
+    "lintang": "0.56 LS",
+    "bujur": "99.84 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "70 km",
+    "dirasakan": "II Padang, II Pariaman"
+  },
+  {
+    "waktu": "11 Sep 2026 18:56:24 WIB",
+    "lintang": "7.44 LS",
+    "bujur": "129.11 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "143 km",
+    "dirasakan": "III Tiakur"
+  },
+  {
     "waktu": "11 Sep 2026 13:00:53 WIB",
     "lintang": "4.76 LU",
     "bujur": "96.81 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "12 km",
     "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "08 Sep 2026 20:00:51 WIB",
-    "lintang": "7.91 LS",
-    "bujur": "120.56 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "6 km",
-    "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "08 Sep 2026 13:37:52 WIB",
-    "lintang": "5.33 LS",
-    "bujur": "104.55 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "11 km",
-    "dirasakan": "II Ulu Belu"
   }
 ]
