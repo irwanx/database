@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "12 Sep 2026 20:42:16 WIB",
+    "lintang": "3.48 LS",
+    "bujur": "135.55 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "5 km",
+    "dirasakan": "III Nabire"
+  },
+  {
+    "waktu": "12 Sep 2026 20:05:59 WIB",
+    "lintang": "8.96 LS",
+    "bujur": "116.84 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "10 km",
+    "dirasakan": "III Sumbawa Barat"
+  },
+  {
     "waktu": "12 Sep 2026 13:34:42 WIB",
     "lintang": "8.31 LS",
     "bujur": "120.58 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "5 km",
     "dirasakan": "II - III Donggala"
-  },
-  {
-    "waktu": "09 Sep 2026 17:21:38 WIB",
-    "lintang": "8.15 LS",
-    "bujur": "120.51 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "3 km",
-    "dirasakan": "II-III Kab. Manggarai"
-  },
-  {
-    "waktu": "09 Sep 2026 13:21:30 WIB",
-    "lintang": "6.92 LS",
-    "bujur": "105.49 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "25 km",
-    "dirasakan": "II Sumur"
   }
 ]
