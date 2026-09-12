@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "12 Sep 2026 13:34:42 WIB",
+    "lintang": "8.31 LS",
+    "bujur": "120.58 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "6 km",
+    "dirasakan": "II-III Kab. Manggarai"
+  },
+  {
+    "waktu": "12 Sep 2026 10:34:56 WIB",
+    "lintang": "8.22 LS",
+    "bujur": "120.58 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "7 km",
+    "dirasakan": "II-III Kab. Manggarai"
+  },
+  {
     "waktu": "12 Sep 2026 04:23:56 WIB",
     "lintang": "5.81 LS",
     "bujur": "106.56 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.8",
     "kedalaman": "25 km",
     "dirasakan": "II Sumur"
-  },
-  {
-    "waktu": "09 Sep 2026 12:09:55 WIB",
-    "lintang": "6.90 LS",
-    "bujur": "105.56 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "31 km",
-    "dirasakan": "II Sumur"
-  },
-  {
-    "waktu": "09 Sep 2026 08:04:26 WIB",
-    "lintang": "9.82 LS",
-    "bujur": "119.55 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "21 km",
-    "dirasakan": "III Sumba Tengah, II Sumba Barat, II Sumba Barat Daya"
   }
 ]
