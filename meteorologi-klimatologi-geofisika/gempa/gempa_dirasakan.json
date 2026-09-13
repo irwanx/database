@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13 Sep 2026 10:14:42 WIB",
+    "lintang": "8.30 LS",
+    "bujur": "121.52 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "6 km",
+    "dirasakan": "II-III Kab. Nagekeo, II-III Kab. Sikka, II Kab. Manggarai"
+  },
+  {
     "waktu": "12 Sep 2026 20:42:16 WIB",
     "lintang": "3.48 LS",
     "bujur": "135.55 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.9",
     "kedalaman": "10 km",
     "dirasakan": "III Punggelan, III Pandanarum, III Kalibening, II-III Sidamulya, II-III Karangkobar, II-III Pasegeran"
-  },
-  {
-    "waktu": "09 Sep 2026 22:24:41 WIB",
-    "lintang": "0.24 LS",
-    "bujur": "119.85 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "5 km",
-    "dirasakan": "II - III Donggala"
   }
 ]
