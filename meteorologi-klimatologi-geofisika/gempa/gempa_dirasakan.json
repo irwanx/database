@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "13 Sep 2026 17:06:52 WIB",
+    "lintang": "7.74 LS",
+    "bujur": "106.55 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "23 km",
+    "dirasakan": "III Kab. Cianjur, II Kab. Sukabumi, II Kab. Bandung Barat"
+  },
+  {
+    "waktu": "13 Sep 2026 16:02:01 WIB",
+    "lintang": "8.20 LS",
+    "bujur": "120.45 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "25 km",
+    "dirasakan": "II-III Kab. Manggarai"
+  },
+  {
     "waktu": "13 Sep 2026 10:14:42 WIB",
     "lintang": "8.30 LS",
     "bujur": "121.52 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "15 km",
     "dirasakan": "III Kota Jayapura, III Kab. Jayapura"
-  },
-  {
-    "waktu": "10 Sep 2026 20:41:37 WIB",
-    "lintang": "8.49 LS",
-    "bujur": "120.46 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Kab. Manggarai"
-  },
-  {
-    "waktu": "10 Sep 2026 16:03:32 WIB",
-    "lintang": "7.30 LS",
-    "bujur": "109.63 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 km",
-    "dirasakan": "III Punggelan, III Pandanarum, III Kalibening, II-III Sidamulya, II-III Karangkobar, II-III Pasegeran"
   }
 ]
