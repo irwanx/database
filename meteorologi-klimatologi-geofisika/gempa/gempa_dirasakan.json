@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Sep 2026 17:58:04 WIB",
+    "lintang": "2.52 LU",
+    "bujur": "128.09 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "145 km",
+    "dirasakan": "III-IV Morotai, III Halmahera Utara, III Manado"
+  },
+  {
     "waktu": "14 Sep 2026 08:42:08 WIB",
     "lintang": "9.52 LS",
     "bujur": "112.85 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.7",
     "kedalaman": "4 km",
     "dirasakan": "III Bener Meriah"
-  },
-  {
-    "waktu": "11 Sep 2026 07:53:46 WIB",
-    "lintang": "0.32 LS",
-    "bujur": "119.82 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Donggala, II-III Palu, II-III Sigi"
   }
 ]

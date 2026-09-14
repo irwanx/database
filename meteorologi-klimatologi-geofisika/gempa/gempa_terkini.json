@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Sep 2026 17:58:04 WIB",
+    "lintang": "2.52 LU",
+    "bujur": "128.09 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "145 km",
+    "wilayah": "42 km TimurLaut PULAUDOI-MALUT"
+  },
+  {
     "waktu": "14 Sep 2026 16:27:39 WIB",
     "lintang": "8.54 LS",
     "bujur": "105.78 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "wilayah": "41 km TimurLaut MBAY-NAGEKEO-NTT"
-  },
-  {
-    "waktu": "25 Agu 2026 13:48:21 WIB",
-    "lintang": "3.44 LU",
-    "bujur": "124.53 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "295 km",
-    "wilayah": "108 km BaratDaya TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]
