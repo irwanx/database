@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Sep 2026 08:42:08 WIB",
+    "lintang": "9.52 LS",
+    "bujur": "112.85 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "wilayah": "156 km Tenggara KAB-MALANG-JATIM"
+  },
+  {
     "waktu": "12 Sep 2026 13:14:33 WIB",
     "lintang": "6.03 LS",
     "bujur": "130.66 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.2",
     "kedalaman": "10 km",
     "wilayah": "168 km BaratLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "24 Agu 2026 17:03:00 WIB",
-    "lintang": "5.01 LS",
-    "bujur": "129.68 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "10 km",
-    "wilayah": "206 km Tenggara MALUKUTENGAH"
   }
 ]

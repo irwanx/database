@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "14 Sep 2026 08:42:08 WIB",
+    "lintang": "9.52 LS",
+    "bujur": "112.85 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Pacitan, II-III Tulungagung, II-III Blitar, II-III Lumajang, II-III Jember, II-III Kediri, II-III Bondowoso, II-III Batu, II-III Banyuwangi, II Badung"
+  },
+  {
+    "waktu": "14 Sep 2026 05:40:05 WIB",
+    "lintang": "8.13 LS",
+    "bujur": "120.30 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Kab. Manggarai, III-IV Kab. Manggarai Barat, II Kab. Ngada"
+  },
+  {
     "waktu": "13 Sep 2026 17:06:52 WIB",
     "lintang": "7.74 LS",
     "bujur": "106.55 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Donggala, II-III Palu, II-III Sigi"
-  },
-  {
-    "waktu": "11 Sep 2026 01:44:43 WIB",
-    "lintang": "8.57 LS",
-    "bujur": "127.81 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "dirasakan": "III Tiakur"
-  },
-  {
-    "waktu": "10 Sep 2026 20:54:13 WIB",
-    "lintang": "2.57 LS",
-    "bujur": "140.45 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "15 km",
-    "dirasakan": "III Kota Jayapura, III Kab. Jayapura"
   }
 ]
