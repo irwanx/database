@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Sep 2026 23:12:48 WIB",
+    "lintang": "4.36 LS",
+    "bujur": "101.99 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "34 km",
+    "dirasakan": "II-III Bengkulu"
+  },
+  {
     "waktu": "15 Sep 2026 09:27:41 WIB",
     "lintang": "8.26 LS",
     "bujur": "120.57 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.8",
     "kedalaman": "70 km",
     "dirasakan": "II Padang, II Pariaman"
-  },
-  {
-    "waktu": "11 Sep 2026 18:56:24 WIB",
-    "lintang": "7.44 LS",
-    "bujur": "129.11 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "143 km",
-    "dirasakan": "III Tiakur"
   }
 ]
