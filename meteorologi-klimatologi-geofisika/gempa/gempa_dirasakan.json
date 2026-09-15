@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Sep 2026 09:27:41 WIB",
+    "lintang": "8.26 LS",
+    "bujur": "120.57 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "7 km",
+    "dirasakan": "II-III Kab. Manggarai"
+  },
+  {
     "waktu": "14 Sep 2026 17:58:04 WIB",
     "lintang": "2.52 LU",
     "bujur": "128.09 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.2",
     "kedalaman": "143 km",
     "dirasakan": "III Tiakur"
-  },
-  {
-    "waktu": "11 Sep 2026 13:00:53 WIB",
-    "lintang": "4.76 LU",
-    "bujur": "96.81 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "4 km",
-    "dirasakan": "III Bener Meriah"
   }
 ]
