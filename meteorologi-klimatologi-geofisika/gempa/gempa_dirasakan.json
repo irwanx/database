@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16 Sep 2026 01:26:34 WIB",
+    "lintang": "8.19 LS",
+    "bujur": "120.35 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "6 km",
+    "dirasakan": "III-IV Kab. Manggarai"
+  },
+  {
     "waktu": "15 Sep 2026 23:12:48 WIB",
     "lintang": "4.36 LS",
     "bujur": "101.99 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.8",
     "kedalaman": "10 km",
     "dirasakan": "II Batang , II-III Dieng, II-III Banjarnegara, III Wanayasa, III Wonosobo"
-  },
-  {
-    "waktu": "11 Sep 2026 20:08:11 WIB",
-    "lintang": "0.56 LS",
-    "bujur": "99.84 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "70 km",
-    "dirasakan": "II Padang, II Pariaman"
   }
 ]
