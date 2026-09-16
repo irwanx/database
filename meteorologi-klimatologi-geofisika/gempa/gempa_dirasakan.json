@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16 Sep 2026 06:21:32 WIB",
+    "lintang": "7.25 LS",
+    "bujur": "107.58 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "5 km",
+    "dirasakan": "II Pangalengan"
+  },
+  {
     "waktu": "16 Sep 2026 01:26:34 WIB",
     "lintang": "8.19 LS",
     "bujur": "120.35 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.9",
     "kedalaman": "376 km",
     "dirasakan": "III Cilacap, III Nagrak, III Kalapanunggal, II-III Rancaekek, II-III Lembang, II-III Garut, II-III Bandung, II-III Sukabumi, II-III Cianjur, II-III Yogyakarta, II-III Pacitan, II-III Ponorogo, II-III Malang, II-III Kota Bengkulu, II-III Sumur, II-III Padang, II-III Mentawai, II-III Pariaman, II-III Solok Selatan, II Lemong, II Semaka, II Bengkunat, II Nias Tengah"
-  },
-  {
-    "waktu": "12 Sep 2026 02:43:01 WIB",
-    "lintang": "7.26 LS",
-    "bujur": "109.91 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 km",
-    "dirasakan": "II Batang , II-III Dieng, II-III Banjarnegara, III Wanayasa, III Wonosobo"
   }
 ]
