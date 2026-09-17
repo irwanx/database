@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "17 Sep 2026 06:21:05 WIB",
+    "lintang": "7.25 LS",
+    "bujur": "107.61 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "4 km",
+    "dirasakan": "III Pangalengan, III Talegong, III Cisewu"
+  },
+  {
+    "waktu": "17 Sep 2026 04:59:20 WIB",
+    "lintang": "7.22 LS",
+    "bujur": "107.60 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "3 km",
+    "dirasakan": "III Pangalengan, III Kertasari"
+  },
+  {
     "waktu": "16 Sep 2026 17:14:19 WIB",
     "lintang": "7.26 LS",
     "bujur": "107.60 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "5 km",
     "dirasakan": "III Nabire"
-  },
-  {
-    "waktu": "12 Sep 2026 20:05:59 WIB",
-    "lintang": "8.96 LS",
-    "bujur": "116.84 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "10 km",
-    "dirasakan": "III Sumbawa Barat"
-  },
-  {
-    "waktu": "12 Sep 2026 13:34:42 WIB",
-    "lintang": "8.31 LS",
-    "bujur": "120.58 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "6 km",
-    "dirasakan": "II-III Kab. Manggarai"
   }
 ]
