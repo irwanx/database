@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Sep 2026 15:28:28 WIB",
+    "lintang": "8.39 LS",
+    "bujur": "121.28 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 km",
+    "dirasakan": "III Kab. Nagekeo"
+  },
+  {
     "waktu": "17 Sep 2026 13:20:53 WIB",
     "lintang": "1.35 LU",
     "bujur": "126.44 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "25 km",
     "dirasakan": "II-III Kab. Manggarai"
-  },
-  {
-    "waktu": "13 Sep 2026 10:14:42 WIB",
-    "lintang": "8.30 LS",
-    "bujur": "121.52 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "6 km",
-    "dirasakan": "II-III Kab. Nagekeo, II-III Kab. Sikka, II Kab. Manggarai"
   }
 ]
