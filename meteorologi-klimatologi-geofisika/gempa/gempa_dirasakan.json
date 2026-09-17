@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Sep 2026 13:20:53 WIB",
+    "lintang": "1.35 LU",
+    "bujur": "126.44 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "24 km",
+    "dirasakan": "III-IV Batang Dua, III Manado , III Ternate"
+  },
+  {
     "waktu": "17 Sep 2026 06:21:05 WIB",
     "lintang": "7.25 LS",
     "bujur": "107.61 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "6 km",
     "dirasakan": "II-III Kab. Nagekeo, II-III Kab. Sikka, II Kab. Manggarai"
-  },
-  {
-    "waktu": "12 Sep 2026 20:42:16 WIB",
-    "lintang": "3.48 LS",
-    "bujur": "135.55 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "5 km",
-    "dirasakan": "III Nabire"
   }
 ]

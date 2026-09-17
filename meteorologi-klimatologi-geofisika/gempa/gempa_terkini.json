@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Sep 2026 13:20:53 WIB",
+    "lintang": "1.35 LU",
+    "bujur": "126.44 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "24 km",
+    "wilayah": "118 km BaratLaut JAILOLO-MALUT"
+  },
+  {
     "waktu": "14 Sep 2026 17:58:04 WIB",
     "lintang": "2.52 LU",
     "bujur": "128.09 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 km",
     "wilayah": "52 km TimurLaut LABUANBAJO-NTT"
-  },
-  {
-    "waktu": "26 Agu 2026 21:15:32 WIB",
-    "lintang": "8.38 LS",
-    "bujur": "121.54 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "wilayah": "41 km TimurLaut MBAY-NAGEKEO-NTT"
   }
 ]
