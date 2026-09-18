@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Sep 2026 23:37:21 WIB",
+    "lintang": "4.26 LS",
+    "bujur": "102.07 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "29 km",
+    "dirasakan": "III-IV Kota Bengkulu, II Kepahiang"
+  },
+  {
     "waktu": "18 Sep 2026 19:20:56 WIB",
     "lintang": "8.20 LS",
     "bujur": "120.50 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.2",
     "kedalaman": "145 km",
     "dirasakan": "III-IV Morotai, III Halmahera Utara, III Manado"
-  },
-  {
-    "waktu": "14 Sep 2026 08:42:08 WIB",
-    "lintang": "9.52 LS",
-    "bujur": "112.85 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Pacitan, II-III Tulungagung, II-III Blitar, II-III Lumajang, II-III Jember, II-III Kediri, II-III Bondowoso, II-III Batu, II-III Banyuwangi, II Badung"
   }
 ]
