@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Sep 2026 21:36:17 WIB",
+    "lintang": "8.64 LS",
+    "bujur": "105.74 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "wilayah": "198 km BaratDaya BAYAH-BANTEN"
+  },
+  {
     "waktu": "17 Sep 2026 13:20:53 WIB",
     "lintang": "1.35 LU",
     "bujur": "126.44 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "12 km",
     "wilayah": "83 km BaratDaya LABUHA-MALUT"
-  },
-  {
-    "waktu": "27 Agu 2026 17:33:25 WIB",
-    "lintang": "8.07 LS",
-    "bujur": "120.09 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "wilayah": "52 km TimurLaut LABUANBAJO-NTT"
   }
 ]

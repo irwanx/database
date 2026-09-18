@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Sep 2026 19:20:56 WIB",
+    "lintang": "8.20 LS",
+    "bujur": "120.50 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "8 km",
+    "dirasakan": "III-IV Kab. Manggarai, II Kab. Manggarai Barat"
+  },
+  {
     "waktu": "18 Sep 2026 15:22:57 WIB",
     "lintang": "8.14 LS",
     "bujur": "120.57 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 km",
     "dirasakan": "II-III Pacitan, II-III Tulungagung, II-III Blitar, II-III Lumajang, II-III Jember, II-III Kediri, II-III Bondowoso, II-III Batu, II-III Banyuwangi, II Badung"
-  },
-  {
-    "waktu": "14 Sep 2026 05:40:05 WIB",
-    "lintang": "8.13 LS",
-    "bujur": "120.30 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Kab. Manggarai, III-IV Kab. Manggarai Barat, II Kab. Ngada"
   }
 ]
