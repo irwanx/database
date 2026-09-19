@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "19 Sep 2026 12:46:44 WIB",
+    "lintang": "1.13 LU",
+    "bujur": "120.90 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "5 km",
+    "dirasakan": "II-III Toli-Toli"
+  },
+  {
+    "waktu": "19 Sep 2026 11:18:36 WIB",
+    "lintang": "1.60 LS",
+    "bujur": "138.88 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "dirasakan": "III Sarmi"
+  },
+  {
     "waktu": "19 Sep 2026 07:40:22 WIB",
     "lintang": "7.33 LS",
     "bujur": "108.25 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "6 km",
     "dirasakan": "III-IV Kab. Manggarai"
-  },
-  {
-    "waktu": "15 Sep 2026 23:12:48 WIB",
-    "lintang": "4.36 LS",
-    "bujur": "101.99 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "34 km",
-    "dirasakan": "II-III Bengkulu"
-  },
-  {
-    "waktu": "15 Sep 2026 09:27:41 WIB",
-    "lintang": "8.26 LS",
-    "bujur": "120.57 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "7 km",
-    "dirasakan": "II-III Kab. Manggarai"
   }
 ]

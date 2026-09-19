@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Sep 2026 11:18:36 WIB",
+    "lintang": "1.60 LS",
+    "bujur": "138.88 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "wilayah": "33 km TimurLaut SARMI-PAPUA"
+  },
+  {
     "waktu": "18 Sep 2026 21:36:17 WIB",
     "lintang": "8.64 LS",
     "bujur": "105.74 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 km",
     "wilayah": "50 km TimurLaut RUTENG-MANGGARAI-NTT"
-  },
-  {
-    "waktu": "29 Agu 2026 15:08:45 WIB",
-    "lintang": "0.67 LS",
-    "bujur": "126.75 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "12 km",
-    "wilayah": "83 km BaratDaya LABUHA-MALUT"
   }
 ]
