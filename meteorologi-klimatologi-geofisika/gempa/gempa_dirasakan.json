@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Sep 2026 20:56:03 WIB",
+    "lintang": "8.05 LS",
+    "bujur": "120.86 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "7 km",
+    "dirasakan": "II-III Kab. Manggarai"
+  },
+  {
     "waktu": "19 Sep 2026 12:46:44 WIB",
     "lintang": "1.13 LU",
     "bujur": "120.90 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.2",
     "kedalaman": "5 km",
     "dirasakan": "II Pangalengan"
-  },
-  {
-    "waktu": "16 Sep 2026 01:26:34 WIB",
-    "lintang": "8.19 LS",
-    "bujur": "120.35 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "6 km",
-    "dirasakan": "III-IV Kab. Manggarai"
   }
 ]
