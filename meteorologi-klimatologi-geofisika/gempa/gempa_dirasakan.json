@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "20 Sep 2026 20:35:02 WIB",
+    "lintang": "8.20 LS",
+    "bujur": "120.36 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "7 km",
+    "dirasakan": "II - III Kab. Manggarai"
+  },
+  {
+    "waktu": "20 Sep 2026 17:20:32 WIB",
+    "lintang": "5.82 LS",
+    "bujur": "122.84 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "14 km",
+    "dirasakan": "III Kab. Buton"
+  },
+  {
     "waktu": "19 Sep 2026 20:56:03 WIB",
     "lintang": "8.05 LS",
     "bujur": "120.86 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "6 km",
     "dirasakan": "III Pangalengan"
-  },
-  {
-    "waktu": "16 Sep 2026 08:11:31 WIB",
-    "lintang": "7.22 LS",
-    "bujur": "107.62 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "5 km",
-    "dirasakan": "III Pangalengan, III Kertasari"
-  },
-  {
-    "waktu": "16 Sep 2026 06:21:32 WIB",
-    "lintang": "7.25 LS",
-    "bujur": "107.58 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "5 km",
-    "dirasakan": "II Pangalengan"
   }
 ]
