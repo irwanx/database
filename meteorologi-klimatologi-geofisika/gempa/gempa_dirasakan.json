@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "21 Sep 2026 14:31:07 WIB",
+    "lintang": "0.70 LS",
+    "bujur": "122.45 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "dirasakan": "IV-V Luwuk, II-III Kab. Pohuwato"
+  },
+  {
+    "waktu": "21 Sep 2026 12:59:25 WIB",
+    "lintang": "8.28 LS",
+    "bujur": "120.57 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "7 km",
+    "dirasakan": "II-III Manggarai"
+  },
+  {
     "waktu": "21 Sep 2026 08:41:37 WIB",
     "lintang": "8.33 LS",
     "bujur": "120.59 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "3 km",
     "dirasakan": "II-III Kab. Manggarai"
-  },
-  {
-    "waktu": "18 Sep 2026 14:42:20 WIB",
-    "lintang": "5.36 LS",
-    "bujur": "104.60 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Ulu Belu"
-  },
-  {
-    "waktu": "17 Sep 2026 15:28:28 WIB",
-    "lintang": "8.39 LS",
-    "bujur": "121.28 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kab. Nagekeo"
   }
 ]
