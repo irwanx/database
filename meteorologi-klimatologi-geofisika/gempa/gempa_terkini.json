@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21 Sep 2026 08:41:37 WIB",
+    "lintang": "8.33 LS",
+    "bujur": "120.59 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "wilayah": "34 km TimurLaut RUTENG-MANGGARAI-NTT"
+  },
+  {
     "waktu": "19 Sep 2026 11:18:36 WIB",
     "lintang": "1.60 LS",
     "bujur": "138.88 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 km",
     "wilayah": "65 km Tenggara HALMAHERATENGAH-MALUT"
-  },
-  {
-    "waktu": "31 Agu 2026 15:03:29 WIB",
-    "lintang": "8.17 LS",
-    "bujur": "120.58 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "10 km",
-    "wilayah": "50 km TimurLaut RUTENG-MANGGARAI-NTT"
   }
 ]

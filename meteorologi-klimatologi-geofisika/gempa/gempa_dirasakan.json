@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21 Sep 2026 08:41:37 WIB",
+    "lintang": "8.33 LS",
+    "bujur": "120.59 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Manggarai, III-IV Bajawa, III-IV Labuan Bajo, II-III Nagekeo, II-III Waingapu, II Maumere"
+  },
+  {
     "waktu": "21 Sep 2026 04:33:46 WIB",
     "lintang": "7.24 LS",
     "bujur": "107.62 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "10 km",
     "dirasakan": "III Kab. Nagekeo"
-  },
-  {
-    "waktu": "17 Sep 2026 13:20:53 WIB",
-    "lintang": "1.35 LU",
-    "bujur": "126.44 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "24 km",
-    "dirasakan": "III-IV Batang Dua, III Manado , III Ternate"
   }
 ]
