@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21 Sep 2026 19:35:22 WIB",
+    "lintang": "0.52 LS",
+    "bujur": "99.37 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Agam, II-III Kab. Padang Pariaman, II-III Kota Pariaman, II-III Kota Padang"
+  },
+  {
     "waktu": "21 Sep 2026 14:31:07 WIB",
     "lintang": "0.70 LS",
     "bujur": "122.45 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "8 km",
     "dirasakan": "III-IV Kab. Manggarai, II Kab. Manggarai Barat"
-  },
-  {
-    "waktu": "18 Sep 2026 15:22:57 WIB",
-    "lintang": "8.14 LS",
-    "bujur": "120.57 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "3 km",
-    "dirasakan": "II-III Kab. Manggarai"
   }
 ]
