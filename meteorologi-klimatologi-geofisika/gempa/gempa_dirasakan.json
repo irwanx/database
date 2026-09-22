@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Sep 2026 03:25:30 WIB",
+    "lintang": "4.15 LS",
+    "bujur": "122.66 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "2 km",
+    "dirasakan": "III Kendari"
+  },
+  {
     "waktu": "23 Sep 2026 00:20:14 WIB",
     "lintang": "8.21 LS",
     "bujur": "120.28 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 km",
     "dirasakan": "III Sarmi"
-  },
-  {
-    "waktu": "19 Sep 2026 07:40:22 WIB",
-    "lintang": "7.33 LS",
-    "bujur": "108.25 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "7 km",
-    "dirasakan": "III Tasikmalaya, III Ciamis"
   }
 ]
