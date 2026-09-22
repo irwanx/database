@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Sep 2026 00:20:14 WIB",
+    "lintang": "8.21 LS",
+    "bujur": "120.28 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "7 km",
+    "dirasakan": "II-III Kab. Manggarai"
+  },
+  {
     "waktu": "22 Sep 2026 10:36:27 WIB",
     "lintang": "8.43 LS",
     "bujur": "121.44 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "7 km",
     "dirasakan": "III Tasikmalaya, III Ciamis"
-  },
-  {
-    "waktu": "18 Sep 2026 23:37:21 WIB",
-    "lintang": "4.26 LS",
-    "bujur": "102.07 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "29 km",
-    "dirasakan": "III-IV Kota Bengkulu, II Kepahiang"
   }
 ]
