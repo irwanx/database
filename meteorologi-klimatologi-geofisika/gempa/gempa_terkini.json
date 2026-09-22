@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Sep 2026 06:48:13 WIB",
+    "lintang": "4.74 LU",
+    "bujur": "125.30 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 km",
+    "wilayah": "127 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
     "waktu": "21 Sep 2026 14:31:07 WIB",
     "lintang": "0.70 LS",
     "bujur": "122.45 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 km",
     "wilayah": "77 km Tenggara CILACAP-JATENG"
-  },
-  {
-    "waktu": "02 Sep 2026 07:04:55 WIB",
-    "lintang": "3.15 LS",
-    "bujur": "139.41 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "100 km",
-    "wilayah": "69 km TimurLaut KOBAGMA-PAPUAPGNGN"
   }
 ]
