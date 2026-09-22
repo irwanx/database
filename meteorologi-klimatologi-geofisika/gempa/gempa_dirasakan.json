@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Sep 2026 10:36:27 WIB",
+    "lintang": "8.43 LS",
+    "bujur": "121.44 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "14 km",
+    "dirasakan": "IV Kab. Nagekeo, III Kab. Ngada, III Kab. Sikka, III Kab. Ende, II Kab. Manggarai"
+  },
+  {
     "waktu": "21 Sep 2026 19:35:22 WIB",
     "lintang": "0.52 LS",
     "bujur": "99.37 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "29 km",
     "dirasakan": "III-IV Kota Bengkulu, II Kepahiang"
-  },
-  {
-    "waktu": "18 Sep 2026 19:20:56 WIB",
-    "lintang": "8.20 LS",
-    "bujur": "120.50 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "8 km",
-    "dirasakan": "III-IV Kab. Manggarai, II Kab. Manggarai Barat"
   }
 ]
