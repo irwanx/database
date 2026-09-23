@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23 Sep 2026 19:16:56 WIB",
+    "lintang": "8.51 LS",
+    "bujur": "123.27 BT",
+    "magnitudo": "1.8",
+    "kedalaman": "12 km",
+    "dirasakan": "II-III Kab. Lembata"
+  },
+  {
     "waktu": "23 Sep 2026 09:02:44 WIB",
     "lintang": "8.21 LS",
     "bujur": "120.61 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "7 km",
     "dirasakan": "II - III Kab. Manggarai"
-  },
-  {
-    "waktu": "20 Sep 2026 17:20:32 WIB",
-    "lintang": "5.82 LS",
-    "bujur": "122.84 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "14 km",
-    "dirasakan": "III Kab. Buton"
   }
 ]
