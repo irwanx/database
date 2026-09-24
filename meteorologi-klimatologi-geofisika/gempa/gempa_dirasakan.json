@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24 Sep 2026 07:26:35 WIB",
+    "lintang": "1.60 LS",
+    "bujur": "138.93 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 km",
+    "dirasakan": "II Sarmi"
+  },
+  {
     "waktu": "23 Sep 2026 19:16:56 WIB",
     "lintang": "8.51 LS",
     "bujur": "123.27 BT",
@@ -109,14 +117,6 @@
     "bujur": "120.34 BT",
     "magnitudo": "3.6",
     "kedalaman": "3 km",
-    "dirasakan": "II - III Kab. Manggarai"
-  },
-  {
-    "waktu": "20 Sep 2026 20:35:02 WIB",
-    "lintang": "8.20 LS",
-    "bujur": "120.36 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "7 km",
     "dirasakan": "II - III Kab. Manggarai"
   }
 ]
