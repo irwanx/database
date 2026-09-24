@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24 Sep 2026 10:30:28 WIB",
+    "lintang": "8.32 LS",
+    "bujur": "119.25 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "12 km",
+    "dirasakan": "II - III Kota Bima, II - III Kabupaten Bima"
+  },
+  {
     "waktu": "24 Sep 2026 07:26:35 WIB",
     "lintang": "1.60 LS",
     "bujur": "138.93 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "22 km",
     "dirasakan": "II Mataram, II Kab. Lombok Barat, II Kab. Lombok Tengah"
-  },
-  {
-    "waktu": "20 Sep 2026 23:56:57 WIB",
-    "lintang": "8.15 LS",
-    "bujur": "120.34 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "3 km",
-    "dirasakan": "II - III Kab. Manggarai"
   }
 ]
