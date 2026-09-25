@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Sep 2026 15:04:42 WIB",
+    "lintang": "6.90 LS",
+    "bujur": "107.11 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "7 km",
+    "dirasakan": "II - III Kota Cianjur, II - III Cibeber, II - III Warungkondang"
+  },
+  {
     "waktu": "25 Sep 2026 04:01:35 WIB",
     "lintang": "5.21 LU",
     "bujur": "95.76 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Manggarai, III-IV Bajawa, III-IV Labuan Bajo, II-III Nagekeo, II-III Waingapu, II Maumere"
-  },
-  {
-    "waktu": "21 Sep 2026 04:33:46 WIB",
-    "lintang": "7.24 LS",
-    "bujur": "107.62 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "4 km",
-    "dirasakan": "III Pangalengan, III Kertasari"
   }
 ]
