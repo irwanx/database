@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25 Sep 2026 20:47:30 WIB",
+    "lintang": "7.04 LS",
+    "bujur": "105.22 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 km",
+    "dirasakan": "III Sumur, III Muara Binuangeun, III Bayah, III Panggarangan, III Malingping, II - III Anyer, II - III Rangkasbitung"
+  },
+  {
     "waktu": "25 Sep 2026 15:04:42 WIB",
     "lintang": "6.90 LS",
     "bujur": "107.11 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "7 km",
     "dirasakan": "II-III Manggarai"
-  },
-  {
-    "waktu": "21 Sep 2026 08:41:37 WIB",
-    "lintang": "8.33 LS",
-    "bujur": "120.59 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Manggarai, III-IV Bajawa, III-IV Labuan Bajo, II-III Nagekeo, II-III Waingapu, II Maumere"
   }
 ]
