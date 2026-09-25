@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26 Sep 2026 02:39:29 WIB",
+    "lintang": "8.23 LS",
+    "bujur": "120.31 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "9 km",
+    "dirasakan": "II - III Kab. Manggarai"
+  },
+  {
     "waktu": "25 Sep 2026 20:47:30 WIB",
     "lintang": "7.04 LS",
     "bujur": "105.22 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 km",
     "dirasakan": "IV-V Luwuk, II-III Kab. Pohuwato"
-  },
-  {
-    "waktu": "21 Sep 2026 12:59:25 WIB",
-    "lintang": "8.28 LS",
-    "bujur": "120.57 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "7 km",
-    "dirasakan": "II-III Manggarai"
   }
 ]
