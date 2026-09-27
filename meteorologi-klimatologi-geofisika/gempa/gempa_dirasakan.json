@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Sep 2026 18:29:00 WIB",
+    "lintang": "2.93 LS",
+    "bujur": "119.40 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "5 km",
+    "dirasakan": "II Mamasa"
+  },
+  {
     "waktu": "27 Sep 2026 02:37:02 WIB",
     "lintang": "8.10 LS",
     "bujur": "120.28 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "14 km",
     "dirasakan": "IV Kab. Nagekeo, III Kab. Ngada, III Kab. Sikka, III Kab. Ende, II Kab. Manggarai"
-  },
-  {
-    "waktu": "21 Sep 2026 19:35:22 WIB",
-    "lintang": "0.52 LS",
-    "bujur": "99.37 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Agam, II-III Kab. Padang Pariaman, II-III Kota Pariaman, II-III Kota Padang"
   }
 ]
