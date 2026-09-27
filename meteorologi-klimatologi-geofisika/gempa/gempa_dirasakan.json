@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Sep 2026 00:54:05 WIB",
+    "lintang": "4.76 LU",
+    "bujur": "96.70 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 km",
+    "dirasakan": "III Aceh Tengah, III Bener Meriah"
+  },
+  {
     "waktu": "27 Sep 2026 18:29:00 WIB",
     "lintang": "2.93 LS",
     "bujur": "119.40 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "7 km",
     "dirasakan": "II-III Kab. Manggarai"
-  },
-  {
-    "waktu": "22 Sep 2026 10:36:27 WIB",
-    "lintang": "8.43 LS",
-    "bujur": "121.44 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "14 km",
-    "dirasakan": "IV Kab. Nagekeo, III Kab. Ngada, III Kab. Sikka, III Kab. Ende, II Kab. Manggarai"
   }
 ]
