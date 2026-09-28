@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "28 Sep 2026 21:43:09 WIB",
+    "lintang": "5.19 LU",
+    "bujur": "94.41 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Aceh Besar, III-IV Banda Aceh"
+  },
+  {
+    "waktu": "28 Sep 2026 17:41:49 WIB",
+    "lintang": "8.09 LS",
+    "bujur": "120.60 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "6 km",
+    "dirasakan": "II - III Kab. Manggarai"
+  },
+  {
     "waktu": "28 Sep 2026 11:30:48 WIB",
     "lintang": "8.10 LS",
     "bujur": "120.49 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "20 km",
     "dirasakan": "II - III Sumur"
-  },
-  {
-    "waktu": "23 Sep 2026 04:36:35 WIB",
-    "lintang": "8.16 LS",
-    "bujur": "120.38 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "2 km",
-    "dirasakan": "II - III Kab. Manggarai"
-  },
-  {
-    "waktu": "23 Sep 2026 03:25:30 WIB",
-    "lintang": "4.15 LS",
-    "bujur": "122.66 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "2 km",
-    "dirasakan": "III Kendari"
   }
 ]
