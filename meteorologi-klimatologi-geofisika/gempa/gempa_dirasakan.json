@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Sep 2026 21:39:13 WIB",
+    "lintang": "4.05 LS",
+    "bujur": "121.58 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "3 km",
+    "dirasakan": "III Kolaka"
+  },
+  {
     "waktu": "28 Sep 2026 21:43:09 WIB",
     "lintang": "5.19 LU",
     "bujur": "94.41 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "9 km",
     "dirasakan": "II - III Kab. Manggarai"
-  },
-  {
-    "waktu": "23 Sep 2026 05:27:42 WIB",
-    "lintang": "7.00 LS",
-    "bujur": "105.57 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "20 km",
-    "dirasakan": "II - III Sumur"
   }
 ]
