@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "01 Okt 2026 18:51:40 WIB",
+    "lintang": "0.95 LU",
+    "bujur": "122.69 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "47 km",
+    "dirasakan": "II - III Kab. Gorontalo Utara"
+  },
+  {
+    "waktu": "01 Okt 2026 13:24:52 WIB",
+    "lintang": "2.46 LS",
+    "bujur": "140.38 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "25 km",
+    "dirasakan": "II Kab. Jayapura"
+  },
+  {
     "waktu": "01 Okt 2026 07:43:06 WIB",
     "lintang": "10.04 LS",
     "bujur": "123.61 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "10 km",
     "dirasakan": "III Sumur, III Muara Binuangeun, III Bayah, III Panggarangan, III Malingping, II - III Anyer, II - III Rangkasbitung"
-  },
-  {
-    "waktu": "25 Sep 2026 15:04:42 WIB",
-    "lintang": "6.90 LS",
-    "bujur": "107.11 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "7 km",
-    "dirasakan": "II - III Kota Cianjur, II - III Cibeber, II - III Warungkondang"
-  },
-  {
-    "waktu": "25 Sep 2026 04:01:35 WIB",
-    "lintang": "5.21 LU",
-    "bujur": "95.76 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "7 km",
-    "dirasakan": "III Pidie, II Pidie Jaya"
   }
 ]
