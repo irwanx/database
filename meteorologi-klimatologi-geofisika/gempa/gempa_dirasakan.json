@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Okt 2026 07:43:06 WIB",
+    "lintang": "10.04 LS",
+    "bujur": "123.61 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "6 km",
+    "dirasakan": "II - III Kab. Kupang, II - III Kota Kupang"
+  },
+  {
     "waktu": "30 Sep 2026 17:58:51 WIB",
     "lintang": "10.02 LS",
     "bujur": "123.65 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "7 km",
     "dirasakan": "III Pidie, II Pidie Jaya"
-  },
-  {
-    "waktu": "24 Sep 2026 10:30:28 WIB",
-    "lintang": "8.32 LS",
-    "bujur": "119.25 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "12 km",
-    "dirasakan": "II - III Kota Bima, II - III Kabupaten Bima"
   }
 ]
