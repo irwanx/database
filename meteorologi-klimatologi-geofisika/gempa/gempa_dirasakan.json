@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "02 Okt 2026 18:34:10 WIB",
+    "lintang": "4.06 LS",
+    "bujur": "121.60 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "5 km",
+    "dirasakan": "II - III Kolaka"
+  },
+  {
+    "waktu": "02 Okt 2026 13:48:10 WIB",
+    "lintang": "8.00 LS",
+    "bujur": "120.88 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "17 km",
+    "dirasakan": "II-III Kab. Manggarai"
+  },
+  {
     "waktu": "02 Okt 2026 07:46:54 WIB",
     "lintang": "8.67 LS",
     "bujur": "114.89 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.4",
     "kedalaman": "10 km",
     "dirasakan": "III Aceh Tengah, III Bener Meriah"
-  },
-  {
-    "waktu": "27 Sep 2026 18:29:00 WIB",
-    "lintang": "2.93 LS",
-    "bujur": "119.40 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "5 km",
-    "dirasakan": "II Mamasa"
-  },
-  {
-    "waktu": "27 Sep 2026 02:37:02 WIB",
-    "lintang": "8.10 LS",
-    "bujur": "120.28 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kab. Manggarai Barat"
   }
 ]
