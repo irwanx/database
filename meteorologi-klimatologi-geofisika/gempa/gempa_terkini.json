@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "04 Okt 2026 06:37:31 WIB",
+    "lintang": "4.56 LU",
+    "bujur": "94.97 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "26 km",
+    "wilayah": "68 km BaratDaya CALANG-ACEHJAYA"
+  },
+  {
+    "waktu": "04 Okt 2026 05:55:52 WIB",
+    "lintang": "9.70 LS",
+    "bujur": "118.92 BT",
+    "magnitudo": "6.1",
+    "kedalaman": "10 km",
+    "wilayah": "14 km BaratDaya KODI-SUMBABARATDAYA-NTT"
+  },
+  {
     "waktu": "01 Okt 2026 21:20:00 WIB",
     "lintang": "7.07 LS",
     "bujur": "120.80 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "6.2",
     "kedalaman": "143 km",
     "wilayah": "166 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "11 Sep 2026 01:44:43 WIB",
-    "lintang": "8.57 LS",
-    "bujur": "127.81 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "wilayah": "46 km Tenggara MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "08 Sep 2026 11:40:29 WIB",
-    "lintang": "8.08 LS",
-    "bujur": "120.56 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "wilayah": "60 km TimurLaut RUTENG-MANGGARAI-NTT"
   }
 ]

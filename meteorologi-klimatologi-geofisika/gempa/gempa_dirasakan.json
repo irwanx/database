@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "04 Okt 2026 08:31:56 WIB",
+    "lintang": "7.51 LS",
+    "bujur": "106.73 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "36 km",
+    "dirasakan": "II - III Pelabuhan Ratu, II - III Cianjur, II Cidolog"
+  },
+  {
+    "waktu": "04 Okt 2026 06:37:31 WIB",
+    "lintang": "4.56 LU",
+    "bujur": "94.97 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "26 km",
+    "dirasakan": "III-IV Aceh Besar, III Banda Aceh, III Aceh Barat, II Aceh Selatan, II Pidie Jaya , II Bener Meriah, II Nagan Raya, II Aceh Tengah, II Sigli"
+  },
+  {
+    "waktu": "04 Okt 2026 05:55:52 WIB",
+    "lintang": "9.70 LS",
+    "bujur": "118.92 BT",
+    "magnitudo": "6.1",
+    "kedalaman": "10 km",
+    "dirasakan": "V Sumba Barat, IV - V Manggarai Barat, IV Kab. Sumba Timur , III-IV Kab. Manggarai"
+  },
+  {
     "waktu": "02 Okt 2026 18:34:10 WIB",
     "lintang": "4.06 LS",
     "bujur": "121.60 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "10 km",
     "dirasakan": "III-IV Aceh Besar, III-IV Banda Aceh"
-  },
-  {
-    "waktu": "28 Sep 2026 17:41:49 WIB",
-    "lintang": "8.09 LS",
-    "bujur": "120.60 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "6 km",
-    "dirasakan": "II - III Kab. Manggarai"
-  },
-  {
-    "waktu": "28 Sep 2026 11:30:48 WIB",
-    "lintang": "8.10 LS",
-    "bujur": "120.49 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "1 km",
-    "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "28 Sep 2026 00:54:05 WIB",
-    "lintang": "4.76 LU",
-    "bujur": "96.70 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 km",
-    "dirasakan": "III Aceh Tengah, III Bener Meriah"
   }
 ]
