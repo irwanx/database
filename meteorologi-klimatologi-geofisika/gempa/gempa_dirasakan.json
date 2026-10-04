@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "04 Okt 2026 21:59:43 WIB",
+    "lintang": "9.71 LS",
+    "bujur": "118.98 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "21 km",
+    "dirasakan": "III Tambolaka, II-III Waingapu"
+  },
+  {
+    "waktu": "04 Okt 2026 21:47:58 WIB",
+    "lintang": "7.45 LS",
+    "bujur": "106.76 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "30 km",
+    "dirasakan": "III Lengkong, III Waluran, III Cimanggu, II-III Kab. Sukabumi"
+  },
+  {
+    "waktu": "04 Okt 2026 19:36:47 WIB",
+    "lintang": "9.47 LS",
+    "bujur": "112.76 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 km",
+    "dirasakan": "III Malang, III Lumajang, II Tulungagung, II Blitar, II Jember"
+  },
+  {
     "waktu": "04 Okt 2026 18:22:20 WIB",
     "lintang": "8.17 LS",
     "bujur": "120.45 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "3.6",
     "kedalaman": "47 km",
     "dirasakan": "II - III Kab. Gorontalo Utara"
-  },
-  {
-    "waktu": "01 Okt 2026 13:24:52 WIB",
-    "lintang": "2.46 LS",
-    "bujur": "140.38 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "25 km",
-    "dirasakan": "II Kab. Jayapura"
-  },
-  {
-    "waktu": "01 Okt 2026 07:43:06 WIB",
-    "lintang": "10.04 LS",
-    "bujur": "123.61 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "6 km",
-    "dirasakan": "II - III Kab. Kupang, II - III Kota Kupang"
-  },
-  {
-    "waktu": "30 Sep 2026 17:58:51 WIB",
-    "lintang": "10.02 LS",
-    "bujur": "123.65 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 km",
-    "dirasakan": "IV Kab. Kupang, IV Kota Kupang"
   }
 ]
