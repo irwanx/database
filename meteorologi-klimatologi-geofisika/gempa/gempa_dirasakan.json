@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Okt 2026 09:16:32 WIB",
+    "lintang": "9.13 LS",
+    "bujur": "113.07 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "4 km",
+    "dirasakan": "III Lumajang, II Blitar, II Malang, II Jember"
+  },
+  {
     "waktu": "05 Okt 2026 06:19:11 WIB",
     "lintang": "9.64 LS",
     "bujur": "119.00 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.8",
     "kedalaman": "86 km",
     "dirasakan": "II - III Kuta, II - III Kuta Selatan, II Denpasar"
-  },
-  {
-    "waktu": "01 Okt 2026 21:20:00 WIB",
-    "lintang": "7.07 LS",
-    "bujur": "120.80 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 km",
-    "dirasakan": "III Benteng Selayar, IV Jampea Kep. Selayar"
   }
 ]
