@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05 Okt 2026 06:19:11 WIB",
+    "lintang": "9.64 LS",
+    "bujur": "119.00 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "14 km",
+    "dirasakan": "III Tambolaka"
+  },
+  {
     "waktu": "04 Okt 2026 21:59:43 WIB",
     "lintang": "9.71 LS",
     "bujur": "118.98 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 km",
     "dirasakan": "III Benteng Selayar, IV Jampea Kep. Selayar"
-  },
-  {
-    "waktu": "01 Okt 2026 18:51:40 WIB",
-    "lintang": "0.95 LU",
-    "bujur": "122.69 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "47 km",
-    "dirasakan": "II - III Kab. Gorontalo Utara"
   }
 ]
