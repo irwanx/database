@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "05 Okt 2026 20:06:22 WIB",
+    "lintang": "8.27 LS",
+    "bujur": "120.62 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "8 km",
+    "dirasakan": "II - III Kab. Manggarai"
+  },
+  {
+    "waktu": "05 Okt 2026 20:05:49 WIB",
+    "lintang": "8.19 LS",
+    "bujur": "120.62 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "2 km",
+    "dirasakan": "III Kab. Manggarai"
+  },
+  {
+    "waktu": "05 Okt 2026 19:46:17 WIB",
+    "lintang": "8.52 LS",
+    "bujur": "122.01 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "12 km",
+    "dirasakan": "II-III Sikka"
+  },
+  {
+    "waktu": "05 Okt 2026 19:17:20 WIB",
+    "lintang": "9.77 LS",
+    "bujur": "118.94 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "16 km",
+    "dirasakan": "III-IV Kab. Sumba Barat Daya, III Kab. Bima"
+  },
+  {
     "waktu": "05 Okt 2026 09:16:32 WIB",
     "lintang": "9.13 LS",
     "bujur": "113.07 BT",
@@ -86,37 +118,5 @@
     "magnitudo": "5.9",
     "kedalaman": "26 km",
     "dirasakan": "III-IV Aceh Besar, III Banda Aceh, III Aceh Barat, II Aceh Selatan, II Pidie Jaya , II Bener Meriah, II Nagan Raya, II Aceh Tengah, II Sigli"
-  },
-  {
-    "waktu": "04 Okt 2026 05:55:52 WIB",
-    "lintang": "9.70 LS",
-    "bujur": "118.92 BT",
-    "magnitudo": "6.1",
-    "kedalaman": "10 km",
-    "dirasakan": "V Sumba Barat, IV - V Manggarai Barat, IV Kab. Sumba Timur , III-IV Kab. Manggarai"
-  },
-  {
-    "waktu": "02 Okt 2026 18:34:10 WIB",
-    "lintang": "4.06 LS",
-    "bujur": "121.60 BT",
-    "magnitudo": "2.1",
-    "kedalaman": "5 km",
-    "dirasakan": "II - III Kolaka"
-  },
-  {
-    "waktu": "02 Okt 2026 13:48:10 WIB",
-    "lintang": "8.00 LS",
-    "bujur": "120.88 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "17 km",
-    "dirasakan": "II-III Kab. Manggarai"
-  },
-  {
-    "waktu": "02 Okt 2026 07:46:54 WIB",
-    "lintang": "8.67 LS",
-    "bujur": "114.89 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "86 km",
-    "dirasakan": "II - III Kuta, II - III Kuta Selatan, II Denpasar"
   }
 ]
