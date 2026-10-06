@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Okt 2026 10:42:45 WIB",
+    "lintang": "7.86 LS",
+    "bujur": "120.38 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "21 km",
+    "dirasakan": "II - III Kab. Manggarai"
+  },
+  {
     "waktu": "06 Okt 2026 04:38:04 WIB",
     "lintang": "9.72 LS",
     "bujur": "118.96 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "10 km",
     "dirasakan": "II - III Kab. Manggarai"
-  },
-  {
-    "waktu": "04 Okt 2026 08:31:56 WIB",
-    "lintang": "7.51 LS",
-    "bujur": "106.73 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "36 km",
-    "dirasakan": "II - III Pelabuhan Ratu, II - III Cianjur, II Cidolog"
   }
 ]
