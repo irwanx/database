@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Okt 2026 03:15:26 WIB",
+    "lintang": "8.77 LS",
+    "bujur": "116.14 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "92 km",
+    "wilayah": "9 km Tenggara LOMBOKBARAT-NTB"
+  },
+  {
     "waktu": "06 Okt 2026 20:11:23 WIB",
     "lintang": "4.94 LU",
     "bujur": "118.77 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "124 km",
     "wilayah": "227 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "12 Sep 2026 04:23:56 WIB",
-    "lintang": "5.81 LS",
-    "bujur": "106.56 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "376 km",
-    "wilayah": "6 km Tenggara KEPSERIBU-DKI"
   }
 ]
