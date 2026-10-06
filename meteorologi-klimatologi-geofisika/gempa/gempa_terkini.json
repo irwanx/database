@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Okt 2026 20:11:23 WIB",
+    "lintang": "4.94 LU",
+    "bujur": "118.77 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "wilayah": "219 km TimurLaut TARAKAN-KALTARA"
+  },
+  {
     "waktu": "04 Okt 2026 06:37:31 WIB",
     "lintang": "4.56 LU",
     "bujur": "94.97 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.9",
     "kedalaman": "376 km",
     "wilayah": "6 km Tenggara KEPSERIBU-DKI"
-  },
-  {
-    "waktu": "11 Sep 2026 18:56:24 WIB",
-    "lintang": "7.44 LS",
-    "bujur": "129.11 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "143 km",
-    "wilayah": "166 km TimurLaut MALUKUBRTDAYA"
   }
 ]

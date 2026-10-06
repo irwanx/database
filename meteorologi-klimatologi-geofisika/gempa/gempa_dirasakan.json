@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "06 Okt 2026 20:53:22 WIB",
+    "lintang": "6.90 LS",
+    "bujur": "105.36 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "28 km",
+    "dirasakan": "II-III Sumur"
+  },
+  {
+    "waktu": "06 Okt 2026 20:11:23 WIB",
+    "lintang": "4.94 LU",
+    "bujur": "118.77 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Tarakan, II-III Nunukan"
+  },
+  {
+    "waktu": "06 Okt 2026 19:40:21 WIB",
+    "lintang": "9.76 LS",
+    "bujur": "118.97 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "15 km",
+    "dirasakan": "II Kab. Sumba Barat Daya"
+  },
+  {
+    "waktu": "06 Okt 2026 18:36:54 WIB",
+    "lintang": "9.72 LS",
+    "bujur": "119.02 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "26 km",
+    "dirasakan": "III Sumba Barat Daya, II Kab. Bima"
+  },
+  {
     "waktu": "06 Okt 2026 10:42:45 WIB",
     "lintang": "7.86 LS",
     "bujur": "120.38 BT",
@@ -86,37 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "10 km",
     "dirasakan": "III Malang, III Lumajang, II Tulungagung, II Blitar, II Jember"
-  },
-  {
-    "waktu": "04 Okt 2026 18:22:20 WIB",
-    "lintang": "8.17 LS",
-    "bujur": "120.45 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "6 km",
-    "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "04 Okt 2026 17:52:27 WIB",
-    "lintang": "8.16 LS",
-    "bujur": "120.46 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "4 km",
-    "dirasakan": "II-III Kab. Manggarai"
-  },
-  {
-    "waktu": "04 Okt 2026 17:13:09 WIB",
-    "lintang": "8.25 LS",
-    "bujur": "120.42 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 km",
-    "dirasakan": "II - III Kab. Manggarai"
-  },
-  {
-    "waktu": "04 Okt 2026 15:10:20 WIB",
-    "lintang": "8.18 LS",
-    "bujur": "120.46 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "10 km",
-    "dirasakan": "II - III Kab. Manggarai"
   }
 ]
