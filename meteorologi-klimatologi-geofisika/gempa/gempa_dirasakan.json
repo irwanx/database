@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Okt 2026 04:38:04 WIB",
+    "lintang": "9.72 LS",
+    "bujur": "118.96 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "19 km",
+    "dirasakan": "II Kab. Sumba Barat Daya"
+  },
+  {
     "waktu": "05 Okt 2026 20:06:22 WIB",
     "lintang": "8.27 LS",
     "bujur": "120.62 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "36 km",
     "dirasakan": "II - III Pelabuhan Ratu, II - III Cianjur, II Cidolog"
-  },
-  {
-    "waktu": "04 Okt 2026 06:37:31 WIB",
-    "lintang": "4.56 LU",
-    "bujur": "94.97 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "26 km",
-    "dirasakan": "III-IV Aceh Besar, III Banda Aceh, III Aceh Barat, II Aceh Selatan, II Pidie Jaya , II Bener Meriah, II Nagan Raya, II Aceh Tengah, II Sigli"
   }
 ]
