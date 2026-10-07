@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "07 Okt 2026 19:03:42 WIB",
+    "lintang": "8.35 LS",
+    "bujur": "121.44 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 km",
+    "dirasakan": "II - III Kab. Ende"
+  },
+  {
+    "waktu": "07 Okt 2026 14:28:20 WIB",
+    "lintang": "9.68 LS",
+    "bujur": "119.00 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "19 km",
+    "dirasakan": "II Kab. Sumba Barat Daya"
+  },
+  {
+    "waktu": "07 Okt 2026 12:44:23 WIB",
+    "lintang": "0.88 LS",
+    "bujur": "134.16 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "16 km",
+    "dirasakan": "III Manokwari"
+  },
+  {
     "waktu": "07 Okt 2026 10:09:28 WIB",
     "lintang": "8.07 LS",
     "bujur": "120.51 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "3.1",
     "kedalaman": "12 km",
     "dirasakan": "II-III Sikka"
-  },
-  {
-    "waktu": "05 Okt 2026 19:17:20 WIB",
-    "lintang": "9.77 LS",
-    "bujur": "118.94 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "16 km",
-    "dirasakan": "III-IV Kab. Sumba Barat Daya, III Kab. Bima"
-  },
-  {
-    "waktu": "05 Okt 2026 09:16:32 WIB",
-    "lintang": "9.13 LS",
-    "bujur": "113.07 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "4 km",
-    "dirasakan": "III Lumajang, II Blitar, II Malang, II Jember"
-  },
-  {
-    "waktu": "05 Okt 2026 06:19:11 WIB",
-    "lintang": "9.64 LS",
-    "bujur": "119.00 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "14 km",
-    "dirasakan": "III Tambolaka"
   }
 ]
