@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "08 Okt 2026 22:23:47 WIB",
+    "lintang": "3.51 LS",
+    "bujur": "101.56 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 km",
+    "dirasakan": "III Kota Bengkulu, III Kab. Bengkulu Tengah, III Kab. Bengkulu Utara, III Kab. Mukomuko, III Kab. Seluma"
+  },
+  {
+    "waktu": "08 Okt 2026 16:21:53 WIB",
+    "lintang": "0.56 LU",
+    "bujur": "120.44 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "13 km",
+    "dirasakan": "II-III Palasa"
+  },
+  {
     "waktu": "08 Okt 2026 15:07:56 WIB",
     "lintang": "5.66 LU",
     "bujur": "125.19 BT",
@@ -101,22 +117,6 @@
     "bujur": "120.38 BT",
     "magnitudo": "4.4",
     "kedalaman": "21 km",
-    "dirasakan": "II - III Kab. Manggarai"
-  },
-  {
-    "waktu": "06 Okt 2026 04:38:04 WIB",
-    "lintang": "9.72 LS",
-    "bujur": "118.96 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "19 km",
-    "dirasakan": "II Kab. Sumba Barat Daya"
-  },
-  {
-    "waktu": "05 Okt 2026 20:06:22 WIB",
-    "lintang": "8.27 LS",
-    "bujur": "120.62 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "8 km",
     "dirasakan": "II - III Kab. Manggarai"
   }
 ]
