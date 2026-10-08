@@ -1,11 +1,27 @@
 [
   {
+    "waktu": "08 Okt 2026 15:07:56 WIB",
+    "lintang": "5.66 LU",
+    "bujur": "125.19 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "10 km",
+    "dirasakan": "II Tahuna"
+  },
+  {
+    "waktu": "08 Okt 2026 09:30:17 WIB",
+    "lintang": "9.62 LS",
+    "bujur": "119.44 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "5 km",
+    "dirasakan": "IV-V Kab. Sumba Barat, III-IV Kab. Sumba Tengah"
+  },
+  {
     "waktu": "07 Okt 2026 19:03:42 WIB",
     "lintang": "8.35 LS",
     "bujur": "121.44 BT",
     "magnitudo": "4.2",
     "kedalaman": "10 km",
-    "dirasakan": "II - III Kab. Ende"
+    "dirasakan": "II-III Kab. Ende, II Kab. Sikka, II-III Kab. Nagekeo"
   },
   {
     "waktu": "07 Okt 2026 14:28:20 WIB",
@@ -102,21 +118,5 @@
     "magnitudo": "3.8",
     "kedalaman": "8 km",
     "dirasakan": "II - III Kab. Manggarai"
-  },
-  {
-    "waktu": "05 Okt 2026 20:05:49 WIB",
-    "lintang": "8.19 LS",
-    "bujur": "120.62 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "2 km",
-    "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "05 Okt 2026 19:46:17 WIB",
-    "lintang": "8.52 LS",
-    "bujur": "122.01 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "12 km",
-    "dirasakan": "II-III Sikka"
   }
 ]
