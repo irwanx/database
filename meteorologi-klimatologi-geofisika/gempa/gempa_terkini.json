@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Okt 2026 12:11:04 WIB",
+    "lintang": "0.77 LU",
+    "bujur": "126.03 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "wilayah": "125 km Tenggara BITUNG-SULUT"
+  },
+  {
     "waktu": "08 Okt 2026 15:07:56 WIB",
     "lintang": "5.66 LU",
     "bujur": "125.19 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.6",
     "kedalaman": "10 km",
     "wilayah": "186 km BaratDaya BAYAH-BANTEN"
-  },
-  {
-    "waktu": "14 Sep 2026 08:42:08 WIB",
-    "lintang": "9.52 LS",
-    "bujur": "112.85 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "wilayah": "156 km Tenggara KAB-MALANG-JATIM"
   }
 ]
