@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "10 Okt 2026 19:28:18 WIB",
+    "lintang": "1.91 LU",
+    "bujur": "97.96 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "9 km",
+    "dirasakan": "III Aceh Singkil"
+  },
+  {
+    "waktu": "10 Okt 2026 18:53:23 WIB",
+    "lintang": "8.98 LS",
+    "bujur": "110.69 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "75 km",
+    "dirasakan": "II Pacitan"
+  },
+  {
     "waktu": "09 Okt 2026 17:34:55 WIB",
     "lintang": "3.96 LS",
     "bujur": "122.40 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "50 km",
     "dirasakan": "II Wamena"
-  },
-  {
-    "waktu": "07 Okt 2026 03:15:26 WIB",
-    "lintang": "8.77 LS",
-    "bujur": "116.14 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "92 km",
-    "dirasakan": "IV-V Mataram, III-IV Kab. Lombok Tengah, III Kab. Lombok Timur, III Kab. Lombok Utara, III Sumbawa Barat, III Sumbawa, II-III Kuta, II Denpasar"
-  },
-  {
-    "waktu": "06 Okt 2026 20:53:22 WIB",
-    "lintang": "6.90 LS",
-    "bujur": "105.36 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "28 km",
-    "dirasakan": "II-III Sumur"
   }
 ]
