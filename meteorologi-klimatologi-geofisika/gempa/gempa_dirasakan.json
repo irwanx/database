@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Okt 2026 17:17:12 WIB",
+    "lintang": "0.09 LU",
+    "bujur": "100.16 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "16 km",
+    "dirasakan": "II - III Kota Padang Panjang, II - III Kota Bukittinggi, III Kabupaten Pasaman"
+  },
+  {
     "waktu": "10 Okt 2026 19:28:18 WIB",
     "lintang": "1.91 LU",
     "bujur": "97.96 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "7 km",
     "dirasakan": "III-IV Kab. Manggarai"
-  },
-  {
-    "waktu": "07 Okt 2026 04:56:46 WIB",
-    "lintang": "3.80 LS",
-    "bujur": "139.66 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "50 km",
-    "dirasakan": "II Wamena"
   }
 ]
