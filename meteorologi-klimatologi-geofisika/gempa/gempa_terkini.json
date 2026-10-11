@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12 Okt 2026 04:34:53 WIB",
+    "lintang": "0.64 LU",
+    "bujur": "121.75 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "76 km",
+    "wilayah": "29 km BaratLaut POHUWATO-GORONTALO"
+  },
+  {
     "waktu": "11 Okt 2026 10:30:20 WIB",
     "lintang": "8.73 LS",
     "bujur": "106.47 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "24 km",
     "wilayah": "118 km BaratLaut JAILOLO-MALUT"
-  },
-  {
-    "waktu": "14 Sep 2026 17:58:04 WIB",
-    "lintang": "2.52 LU",
-    "bujur": "128.09 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "145 km",
-    "wilayah": "42 km TimurLaut PULAUDOI-MALUT"
   }
 ]

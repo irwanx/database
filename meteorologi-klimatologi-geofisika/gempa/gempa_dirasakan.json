@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "12 Okt 2026 05:07:28 WIB",
+    "lintang": "4.08 LS",
+    "bujur": "136.34 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 km",
+    "dirasakan": "III Enarotali"
+  },
+  {
+    "waktu": "12 Okt 2026 04:34:53 WIB",
+    "lintang": "0.64 LU",
+    "bujur": "121.75 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "76 km",
+    "dirasakan": "III-IV Buol, III-IV Tolitoli, III Kab. Gorontalo, II - III Kota Gorontalo, II - III Kab. Bone Bolango, III Kab. Boalemo, III Kab. Pohuwato"
+  },
+  {
     "waktu": "11 Okt 2026 17:17:12 WIB",
     "lintang": "0.09 LU",
     "bujur": "100.16 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "19 km",
     "dirasakan": "II Kab. Sumba Barat Daya"
-  },
-  {
-    "waktu": "07 Okt 2026 12:44:23 WIB",
-    "lintang": "0.88 LS",
-    "bujur": "134.16 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "16 km",
-    "dirasakan": "III Manokwari"
-  },
-  {
-    "waktu": "07 Okt 2026 10:09:28 WIB",
-    "lintang": "8.07 LS",
-    "bujur": "120.51 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "7 km",
-    "dirasakan": "III-IV Kab. Manggarai"
   }
 ]
