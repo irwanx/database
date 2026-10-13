@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13 Okt 2026 11:00:21 WIB",
+    "lintang": "9.45 LS",
+    "bujur": "113.95 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "12 km",
+    "dirasakan": "III Jember, II - III Kuta Selatan, II - III Denpasar, II - III Karangasem, II Lumajang, II Malang, II Blitar, II Bondowoso"
+  },
+  {
     "waktu": "12 Okt 2026 23:56:33 WIB",
     "lintang": "9.75 LS",
     "bujur": "118.93 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "59 km",
     "dirasakan": "III Kab. Sumba Timur"
-  },
-  {
-    "waktu": "08 Okt 2026 22:23:47 WIB",
-    "lintang": "3.51 LS",
-    "bujur": "101.56 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kota Bengkulu, III Kab. Bengkulu Tengah, III Kab. Bengkulu Utara, III Kab. Mukomuko, III Kab. Seluma"
   }
 ]
