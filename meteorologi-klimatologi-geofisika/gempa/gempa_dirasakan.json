@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14 Okt 2026 17:30:57 WIB",
+    "lintang": "8.14 LS",
+    "bujur": "120.56 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 km",
+    "dirasakan": "II - III Kab. Manggarai"
+  },
+  {
     "waktu": "13 Okt 2026 17:22:02 WIB",
     "lintang": "9.06 LS",
     "bujur": "111.37 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "75 km",
     "dirasakan": "II Pacitan"
-  },
-  {
-    "waktu": "09 Okt 2026 17:34:55 WIB",
-    "lintang": "3.96 LS",
-    "bujur": "122.40 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "3 km",
-    "dirasakan": "II - III Ranometo"
   }
 ]
