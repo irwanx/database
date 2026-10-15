@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "15 Okt 2026 17:58:23 WIB",
+    "lintang": "6.73 LS",
+    "bujur": "106.61 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "5 km",
+    "dirasakan": "IV Pamijahan, IV Kabandungan"
+  },
+  {
+    "waktu": "15 Okt 2026 17:49:43 WIB",
+    "lintang": "6.77 LS",
+    "bujur": "106.60 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 km",
+    "dirasakan": "III Kalapanunggal, III Leuwiliang, III Cipeuteuy"
+  },
+  {
     "waktu": "14 Okt 2026 17:30:57 WIB",
     "lintang": "8.14 LS",
     "bujur": "120.56 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "16 km",
     "dirasakan": "II - III Kota Padang Panjang, II - III Kota Bukittinggi, III Kabupaten Pasaman"
-  },
-  {
-    "waktu": "10 Okt 2026 19:28:18 WIB",
-    "lintang": "1.91 LU",
-    "bujur": "97.96 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "9 km",
-    "dirasakan": "III Aceh Singkil"
-  },
-  {
-    "waktu": "10 Okt 2026 18:53:23 WIB",
-    "lintang": "8.98 LS",
-    "bujur": "110.69 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "75 km",
-    "dirasakan": "II Pacitan"
   }
 ]
