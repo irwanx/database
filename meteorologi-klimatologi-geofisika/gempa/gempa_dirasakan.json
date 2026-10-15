@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15 Okt 2026 22:32:38 WIB",
+    "lintang": "7.22 LS",
+    "bujur": "107.71 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "4 km",
+    "dirasakan": "III Darajat, III Pasirwangi"
+  },
+  {
     "waktu": "15 Okt 2026 17:58:23 WIB",
     "lintang": "6.73 LS",
     "bujur": "106.61 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.7",
     "kedalaman": "76 km",
     "dirasakan": "III-IV Buol, III-IV Tolitoli, III Kab. Gorontalo, II - III Kota Gorontalo, II - III Kab. Bone Bolango, III Kab. Boalemo, III Kab. Pohuwato"
-  },
-  {
-    "waktu": "11 Okt 2026 17:17:12 WIB",
-    "lintang": "0.09 LU",
-    "bujur": "100.16 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "16 km",
-    "dirasakan": "II - III Kota Padang Panjang, II - III Kota Bukittinggi, III Kabupaten Pasaman"
   }
 ]
