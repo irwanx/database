@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16 Okt 2026 10:21:55 WIB",
+    "lintang": "6.69 LS",
+    "bujur": "106.63 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "9 km",
+    "dirasakan": "II Kabandungan"
+  },
+  {
     "waktu": "15 Okt 2026 22:32:38 WIB",
     "lintang": "7.22 LS",
     "bujur": "107.71 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "10 km",
     "dirasakan": "III Enarotali"
-  },
-  {
-    "waktu": "12 Okt 2026 04:34:53 WIB",
-    "lintang": "0.64 LU",
-    "bujur": "121.75 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "76 km",
-    "dirasakan": "III-IV Buol, III-IV Tolitoli, III Kab. Gorontalo, II - III Kota Gorontalo, II - III Kab. Bone Bolango, III Kab. Boalemo, III Kab. Pohuwato"
   }
 ]
