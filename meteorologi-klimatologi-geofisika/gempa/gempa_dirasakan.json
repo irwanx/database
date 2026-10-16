@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16 Okt 2026 21:22:04 WIB",
+    "lintang": "6.76 LS",
+    "bujur": "106.63 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "18 km",
+    "dirasakan": "II Leuwiliang"
+  },
+  {
     "waktu": "16 Okt 2026 10:21:55 WIB",
     "lintang": "6.69 LS",
     "bujur": "106.63 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "18 km",
     "dirasakan": "II-III Palabuhan Ratu, II Labuan, II Ciemas, II Gekbrong"
-  },
-  {
-    "waktu": "12 Okt 2026 05:07:28 WIB",
-    "lintang": "4.08 LS",
-    "bujur": "136.34 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 km",
-    "dirasakan": "III Enarotali"
   }
 ]
