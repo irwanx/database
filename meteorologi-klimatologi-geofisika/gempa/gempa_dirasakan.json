@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "17 Okt 2026 19:46:17 WIB",
+    "lintang": "9.52 LS",
+    "bujur": "118.54 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 km",
+    "dirasakan": "III Sumba Barat Daya, III Kota Bima, III Kab. Bima, III Sumbawa"
+  },
+  {
+    "waktu": "17 Okt 2026 15:20:52 WIB",
+    "lintang": "0.75 LS",
+    "bujur": "131.38 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "3 km",
+    "dirasakan": "III Sorong"
+  },
+  {
     "waktu": "16 Okt 2026 21:22:04 WIB",
     "lintang": "6.76 LS",
     "bujur": "106.63 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "21 km",
     "dirasakan": "III Lumajang, III Malang, III Jember, II Blitar"
-  },
-  {
-    "waktu": "12 Okt 2026 12:28:13 WIB",
-    "lintang": "8.53 LS",
-    "bujur": "112.27 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "101 km",
-    "dirasakan": "III Malang, III Blitar, II Trenggalek, II Lumajang"
-  },
-  {
-    "waktu": "12 Okt 2026 12:19:47 WIB",
-    "lintang": "7.16 LS",
-    "bujur": "105.77 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "18 km",
-    "dirasakan": "II-III Palabuhan Ratu, II Labuan, II Ciemas, II Gekbrong"
   }
 ]
