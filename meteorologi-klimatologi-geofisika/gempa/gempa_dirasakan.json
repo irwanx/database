@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18 Okt 2026 15:00:08 WIB",
+    "lintang": "8.09 LS",
+    "bujur": "120.26 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "dirasakan": "IV-V Kab. Manggarai, III Kab. Manggarai Barat, II-III Kab. Bima, II-III Kota Bima, I-II Kab. Nagekeo"
+  },
+  {
     "waktu": "17 Okt 2026 22:45:27 WIB",
     "lintang": "1.98 LS",
     "bujur": "121.33 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "19 km",
     "dirasakan": "III-IV Kab. Sumba Barat Daya"
-  },
-  {
-    "waktu": "12 Okt 2026 21:27:04 WIB",
-    "lintang": "8.24 LS",
-    "bujur": "120.54 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "7 km",
-    "dirasakan": "II-III Kab. Manggarai"
   }
 ]
