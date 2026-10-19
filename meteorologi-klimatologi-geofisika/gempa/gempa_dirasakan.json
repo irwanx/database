@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "19 Okt 2026 19:06:02 WIB",
+    "lintang": "7.99 LS",
+    "bujur": "120.09 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "6 km",
+    "dirasakan": "II Kab. Manggarai"
+  },
+  {
+    "waktu": "19 Okt 2026 17:10:56 WIB",
+    "lintang": "7.97 LS",
+    "bujur": "120.06 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "5 km",
+    "dirasakan": "II Kab. Manggarai"
+  },
+  {
+    "waktu": "19 Okt 2026 16:45:57 WIB",
+    "lintang": "8.12 LS",
+    "bujur": "120.05 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "19 km",
+    "dirasakan": "I-II Kab. Manggarai"
+  },
+  {
     "waktu": "18 Okt 2026 15:02:46 WIB",
     "lintang": "8.14 LS",
     "bujur": "120.29 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "4.5",
     "kedalaman": "10 km",
     "dirasakan": "III Trenggalek"
-  },
-  {
-    "waktu": "13 Okt 2026 16:48:27 WIB",
-    "lintang": "9.83 LS",
-    "bujur": "118.98 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "9 km",
-    "dirasakan": "III Kab. Sumba Barat Daya"
-  },
-  {
-    "waktu": "13 Okt 2026 13:42:28 WIB",
-    "lintang": "9.75 LS",
-    "bujur": "119.00 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "16 km",
-    "dirasakan": "III Kab. Sumba Barat Daya"
-  },
-  {
-    "waktu": "13 Okt 2026 11:00:21 WIB",
-    "lintang": "9.45 LS",
-    "bujur": "113.95 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "12 km",
-    "dirasakan": "III Jember, II - III Kuta Selatan, II - III Denpasar, II - III Karangasem, II Lumajang, II Malang, II Blitar, II Bondowoso"
   }
 ]
