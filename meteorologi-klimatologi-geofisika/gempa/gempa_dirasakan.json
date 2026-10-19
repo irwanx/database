@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Okt 2026 20:46:11 WIB",
+    "lintang": "4.16 LU",
+    "bujur": "97.51 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "5 km",
+    "dirasakan": "III Kab. Gayo Lues, II Aceh Timur"
+  },
+  {
     "waktu": "19 Okt 2026 19:06:02 WIB",
     "lintang": "7.99 LS",
     "bujur": "120.09 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.8",
     "kedalaman": "10 km",
     "dirasakan": "II - III Kab. Manggarai"
-  },
-  {
-    "waktu": "13 Okt 2026 17:22:02 WIB",
-    "lintang": "9.06 LS",
-    "bujur": "111.37 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 km",
-    "dirasakan": "III Trenggalek"
   }
 ]
