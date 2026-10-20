@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "20 Okt 2026 18:28:11 WIB",
+    "lintang": "8.37 LS",
+    "bujur": "116.99 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "15 km",
+    "dirasakan": "III Kab. Sumbawa"
+  },
+  {
+    "waktu": "20 Okt 2026 16:56:38 WIB",
+    "lintang": "10.19 LS",
+    "bujur": "123.71 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "4 km",
+    "dirasakan": "III Kab. Kupang, III Kota Kupang"
+  },
+  {
     "waktu": "19 Okt 2026 20:46:11 WIB",
     "lintang": "4.16 LU",
     "bujur": "97.51 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "5 km",
     "dirasakan": "IV Pamijahan, IV Kabandungan"
-  },
-  {
-    "waktu": "15 Okt 2026 17:49:43 WIB",
-    "lintang": "6.77 LS",
-    "bujur": "106.60 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kalapanunggal, III Leuwiliang, III Cipeuteuy"
-  },
-  {
-    "waktu": "14 Okt 2026 17:30:57 WIB",
-    "lintang": "8.14 LS",
-    "bujur": "120.56 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 km",
-    "dirasakan": "II - III Kab. Manggarai"
   }
 ]
