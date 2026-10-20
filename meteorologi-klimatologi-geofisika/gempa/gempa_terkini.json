@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Okt 2026 23:29:35 WIB",
+    "lintang": "3.79 LU",
+    "bujur": "95.72 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "74 km",
+    "wilayah": "59 km BaratDaya MEULABOH-ACEHBARAT"
+  },
+  {
     "waktu": "18 Okt 2026 15:00:08 WIB",
     "lintang": "8.09 LS",
     "bujur": "120.26 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 km",
     "wilayah": "33 km TimurLaut SARMI-PAPUA"
-  },
-  {
-    "waktu": "18 Sep 2026 21:36:17 WIB",
-    "lintang": "8.64 LS",
-    "bujur": "105.74 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "wilayah": "198 km BaratDaya BAYAH-BANTEN"
   }
 ]
