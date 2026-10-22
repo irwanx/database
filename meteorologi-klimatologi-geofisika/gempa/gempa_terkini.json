@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Okt 2026 17:57:49 WIB",
+    "lintang": "3.11 LS",
+    "bujur": "102.14 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "120 km",
+    "wilayah": "6 km BaratLaut LEBONG-BENGKULU"
+  },
+  {
     "waktu": "21 Okt 2026 14:44:15 WIB",
     "lintang": "7.75 LS",
     "bujur": "128.18 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 km",
     "wilayah": "26 km BaratDaya PULAUPUAH-SULTENG"
-  },
-  {
-    "waktu": "21 Sep 2026 08:41:37 WIB",
-    "lintang": "8.33 LS",
-    "bujur": "120.59 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 km",
-    "wilayah": "34 km TimurLaut RUTENG-MANGGARAI-NTT"
   }
 ]

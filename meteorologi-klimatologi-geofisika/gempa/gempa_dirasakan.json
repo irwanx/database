@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Okt 2026 17:57:49 WIB",
+    "lintang": "3.11 LS",
+    "bujur": "102.14 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "120 km",
+    "dirasakan": "III Kota Bengkulu, II - III Curup, III Arga Makmur"
+  },
+  {
     "waktu": "21 Okt 2026 18:58:36 WIB",
     "lintang": "5.40 LS",
     "bujur": "104.68 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "3 km",
     "dirasakan": "III Sorong"
-  },
-  {
-    "waktu": "16 Okt 2026 21:22:04 WIB",
-    "lintang": "6.76 LS",
-    "bujur": "106.63 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "18 km",
-    "dirasakan": "II Leuwiliang"
   }
 ]
