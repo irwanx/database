@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "25 Okt 2026 19:47:26 WIB",
+    "lintang": "0.73 LS",
+    "bujur": "131.39 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "6 km",
+    "dirasakan": "II Kota Sorong"
+  },
+  {
+    "waktu": "25 Okt 2026 14:40:01 WIB",
+    "lintang": "4.24 LU",
+    "bujur": "97.65 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 km",
+    "dirasakan": "IV Gayo Lues"
+  },
+  {
     "waktu": "22 Okt 2026 17:57:49 WIB",
     "lintang": "3.11 LS",
     "bujur": "102.14 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.6",
     "kedalaman": "5 km",
     "dirasakan": "II - III Kolonodale"
-  },
-  {
-    "waktu": "17 Okt 2026 19:46:17 WIB",
-    "lintang": "9.52 LS",
-    "bujur": "118.54 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 km",
-    "dirasakan": "III Sumba Barat Daya, III Kota Bima, III Kab. Bima, III Sumbawa, III Sumba Barat"
-  },
-  {
-    "waktu": "17 Okt 2026 15:20:52 WIB",
-    "lintang": "0.75 LS",
-    "bujur": "131.38 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "3 km",
-    "dirasakan": "III Sorong"
   }
 ]
