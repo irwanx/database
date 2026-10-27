@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Okt 2026 21:43:13 WIB",
+    "lintang": "9.20 LS",
+    "bujur": "110.39 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 km",
+    "dirasakan": "II Bantul, II Sleman, II Wonogiri, II Kulon Progo, II Sukoharjo, II Trenggalek, II Nganjuk, II Pacitan, II Klaten, II Kediri, II Ponorogo, II Banjarnegara, II Lumajang, II Blitar"
+  },
+  {
     "waktu": "26 Okt 2026 11:53:42 WIB",
     "lintang": "8.45 LS",
     "bujur": "121.45 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "5 km",
     "dirasakan": "II-III Kab. Manggarai"
-  },
-  {
-    "waktu": "18 Okt 2026 15:00:08 WIB",
-    "lintang": "8.09 LS",
-    "bujur": "120.26 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 km",
-    "dirasakan": "IV-V Kab. Manggarai, III Kab. Manggarai Barat, II-III Kab. Bima, II-III Kota Bima, I-II Kab. Nagekeo"
   }
 ]

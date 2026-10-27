@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27 Okt 2026 21:43:13 WIB",
+    "lintang": "9.20 LS",
+    "bujur": "110.39 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 km",
+    "wilayah": "136 km BaratDaya GUNUNGKIDUL-DIY"
+  },
+  {
     "waktu": "22 Okt 2026 17:57:49 WIB",
     "lintang": "3.11 LS",
     "bujur": "102.14 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 km",
     "wilayah": "127 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
-  },
-  {
-    "waktu": "21 Sep 2026 14:31:07 WIB",
-    "lintang": "0.70 LS",
-    "bujur": "122.45 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 km",
-    "wilayah": "26 km BaratDaya PULAUPUAH-SULTENG"
   }
 ]
