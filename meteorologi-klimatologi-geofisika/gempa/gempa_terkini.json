@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Okt 2026 16:32:49 WIB",
+    "lintang": "5.30 LU",
+    "bujur": "125.42 BT",
+    "magnitudo": "5.0",
+    "kedalaman": "10 km",
+    "wilayah": "187 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
     "waktu": "28 Okt 2026 08:11:54 WIB",
     "lintang": "5.59 LU",
     "bujur": "125.27 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.1",
     "kedalaman": "10 km",
     "wilayah": "14 km BaratDaya KODI-SUMBABARATDAYA-NTT"
-  },
-  {
-    "waktu": "01 Okt 2026 21:20:00 WIB",
-    "lintang": "7.07 LS",
-    "bujur": "120.80 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 km",
-    "wilayah": "111 km Tenggara SELAYAR-SULSEL"
   }
 ]

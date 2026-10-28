@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "28 Okt 2026 18:59:15 WIB",
+    "lintang": "5.40 LS",
+    "bujur": "104.66 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "4 km",
+    "dirasakan": "II Kotaagung, II Sumberejo, II Ulu Belu, II Talang Padang, II Pulau Panggung, II Sukoharjo"
+  },
+  {
+    "waktu": "28 Okt 2026 15:23:46 WIB",
+    "lintang": "5.45 LS",
+    "bujur": "104.62 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 km",
+    "dirasakan": "III Kotaagung, II Kotabumi, II Pringsewu, II Ulu Belu, II Gisting, II Sumberejo, II Kotaagung Timur"
+  },
+  {
     "waktu": "27 Okt 2026 21:43:13 WIB",
     "lintang": "9.20 LS",
     "bujur": "110.39 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.7",
     "kedalaman": "5 km",
     "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "19 Okt 2026 16:45:57 WIB",
-    "lintang": "8.12 LS",
-    "bujur": "120.05 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "19 km",
-    "dirasakan": "I-II Kab. Manggarai"
-  },
-  {
-    "waktu": "18 Okt 2026 15:02:46 WIB",
-    "lintang": "8.14 LS",
-    "bujur": "120.29 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "5 km",
-    "dirasakan": "II-III Kab. Manggarai"
   }
 ]
