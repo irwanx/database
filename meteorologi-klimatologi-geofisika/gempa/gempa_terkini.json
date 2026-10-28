@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Okt 2026 08:11:54 WIB",
+    "lintang": "5.59 LU",
+    "bujur": "125.27 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 km",
+    "wilayah": "221 km BaratLaut PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "27 Okt 2026 21:43:13 WIB",
     "lintang": "9.20 LS",
     "bujur": "110.39 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 km",
     "wilayah": "111 km Tenggara SELAYAR-SULSEL"
-  },
-  {
-    "waktu": "22 Sep 2026 06:48:13 WIB",
-    "lintang": "4.74 LU",
-    "bujur": "125.30 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 km",
-    "wilayah": "127 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]
