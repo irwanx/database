@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Okt 2026 05:06:47 WIB",
+    "lintang": "6.34 LS",
+    "bujur": "130.52 BT",
+    "magnitudo": "6.4",
+    "kedalaman": "160 km",
+    "wilayah": "201 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "28 Okt 2026 16:32:49 WIB",
     "lintang": "5.30 LU",
     "bujur": "125.42 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.9",
     "kedalaman": "26 km",
     "wilayah": "68 km BaratDaya CALANG-ACEHJAYA"
-  },
-  {
-    "waktu": "04 Okt 2026 05:55:52 WIB",
-    "lintang": "9.70 LS",
-    "bujur": "118.92 BT",
-    "magnitudo": "6.1",
-    "kedalaman": "10 km",
-    "wilayah": "14 km BaratDaya KODI-SUMBABARATDAYA-NTT"
   }
 ]

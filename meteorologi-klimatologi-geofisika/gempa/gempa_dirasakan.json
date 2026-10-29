@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Okt 2026 05:06:47 WIB",
+    "lintang": "6.34 LS",
+    "bujur": "130.52 BT",
+    "magnitudo": "6.4",
+    "kedalaman": "160 km",
+    "dirasakan": "II - III Banda Naira, II - III Tanimbar, II - III Kaimana, II - III Sorong"
+  },
+  {
     "waktu": "28 Okt 2026 18:59:15 WIB",
     "lintang": "5.40 LS",
     "bujur": "104.66 BT",
@@ -109,14 +117,6 @@
     "bujur": "120.09 BT",
     "magnitudo": "4.5",
     "kedalaman": "6 km",
-    "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "19 Okt 2026 17:10:56 WIB",
-    "lintang": "7.97 LS",
-    "bujur": "120.06 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "5 km",
     "dirasakan": "II Kab. Manggarai"
   }
 ]
