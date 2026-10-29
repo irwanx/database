@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Okt 2026 10:26:49 WIB",
+    "lintang": "5.45 LS",
+    "bujur": "141.90 BT",
+    "magnitudo": "6.0",
+    "kedalaman": "120 km",
+    "dirasakan": "III Boven Digoel, II Jayapura, II Merauke"
+  },
+  {
     "waktu": "29 Okt 2026 05:06:47 WIB",
     "lintang": "6.34 LS",
     "bujur": "130.52 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "5 km",
     "dirasakan": "III Kab. Gayo Lues, II Aceh Timur"
-  },
-  {
-    "waktu": "19 Okt 2026 19:06:02 WIB",
-    "lintang": "7.99 LS",
-    "bujur": "120.09 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "6 km",
-    "dirasakan": "II Kab. Manggarai"
   }
 ]

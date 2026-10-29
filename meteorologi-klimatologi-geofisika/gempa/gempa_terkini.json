@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29 Okt 2026 10:26:49 WIB",
+    "lintang": "5.45 LS",
+    "bujur": "141.90 BT",
+    "magnitudo": "6.0",
+    "kedalaman": "120 km",
+    "wilayah": "153 km Tenggara OKSIBIL-PAPUAPGNGN"
+  },
+  {
     "waktu": "29 Okt 2026 05:06:47 WIB",
     "lintang": "6.34 LS",
     "bujur": "130.52 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 km",
     "wilayah": "219 km TimurLaut TARAKAN-KALTARA"
-  },
-  {
-    "waktu": "04 Okt 2026 06:37:31 WIB",
-    "lintang": "4.56 LU",
-    "bujur": "94.97 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "26 km",
-    "wilayah": "68 km BaratDaya CALANG-ACEHJAYA"
   }
 ]
