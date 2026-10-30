@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "30 Okt 2026 17:29:39 WIB",
+    "lintang": "2.57 LU",
+    "bujur": "98.66 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "3 km",
+    "dirasakan": "II Pangururan, II Kec. Ronggur Nihuta"
+  },
+  {
+    "waktu": "30 Okt 2026 13:03:45 WIB",
+    "lintang": "0.72 LS",
+    "bujur": "131.38 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 km",
+    "dirasakan": "II-III Sorong"
+  },
+  {
     "waktu": "30 Okt 2026 01:58:30 WIB",
     "lintang": "4.18 LU",
     "bujur": "97.55 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "74 km",
     "dirasakan": "III Kab. Aceh Selatan, III Kab. Simeulue, III-IV Kab. Aceh Barat, III-IV Kab. Aceh Barat Daya, II Kab. Bener Meriah, II-III Kota Banda Aceh, II-III Kab. Aceh Besar , III-IV Kab. Nagan Raya"
-  },
-  {
-    "waktu": "20 Okt 2026 18:28:11 WIB",
-    "lintang": "8.37 LS",
-    "bujur": "116.99 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "15 km",
-    "dirasakan": "III Kab. Sumbawa"
-  },
-  {
-    "waktu": "20 Okt 2026 16:56:38 WIB",
-    "lintang": "10.19 LS",
-    "bujur": "123.71 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "4 km",
-    "dirasakan": "III Kab. Kupang, III Kota Kupang"
   }
 ]
