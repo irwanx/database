@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "31 Okt 2026 15:23:13 WIB",
+    "lintang": "2.87 LS",
+    "bujur": "122.21 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "4 km",
+    "dirasakan": "II - III Morowali"
+  },
+  {
+    "waktu": "31 Okt 2026 12:39:20 WIB",
+    "lintang": "9.45 LS",
+    "bujur": "118.11 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "28 km",
+    "dirasakan": "III Sumbawa"
+  },
+  {
     "waktu": "30 Okt 2026 17:29:39 WIB",
     "lintang": "2.57 LU",
     "bujur": "98.66 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "3 km",
     "dirasakan": "II Tanggamus"
-  },
-  {
-    "waktu": "21 Okt 2026 18:03:28 WIB",
-    "lintang": "5.39 LS",
-    "bujur": "104.68 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 km",
-    "dirasakan": "III Ulu Belu, Tanggamus, III Pulau Panggung, Tanggamus"
-  },
-  {
-    "waktu": "20 Okt 2026 23:29:35 WIB",
-    "lintang": "3.79 LU",
-    "bujur": "95.72 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "74 km",
-    "dirasakan": "III Kab. Aceh Selatan, III Kab. Simeulue, III-IV Kab. Aceh Barat, III-IV Kab. Aceh Barat Daya, II Kab. Bener Meriah, II-III Kota Banda Aceh, II-III Kab. Aceh Besar , III-IV Kab. Nagan Raya"
   }
 ]
