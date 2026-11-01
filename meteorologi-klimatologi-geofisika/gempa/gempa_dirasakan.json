@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01 Nov 2026 03:48:49 WIB",
+    "lintang": "3.92 LS",
+    "bujur": "122.63 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "10 km",
+    "dirasakan": "II - III Kota Kendari"
+  },
+  {
     "waktu": "31 Okt 2026 15:23:13 WIB",
     "lintang": "2.87 LS",
     "bujur": "122.21 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.2",
     "kedalaman": "120 km",
     "dirasakan": "III Kota Bengkulu, II - III Curup, III Arga Makmur"
-  },
-  {
-    "waktu": "21 Okt 2026 18:58:36 WIB",
-    "lintang": "5.40 LS",
-    "bujur": "104.68 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "3 km",
-    "dirasakan": "II Tanggamus"
   }
 ]
