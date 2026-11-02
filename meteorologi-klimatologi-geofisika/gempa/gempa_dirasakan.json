@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Nov 2026 16:58:58 WIB",
+    "lintang": "2.49 LS",
+    "bujur": "140.66 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "8 km",
+    "dirasakan": "III Jayapura"
+  },
+  {
     "waktu": "02 Nov 2026 15:13:10 WIB",
     "lintang": "1.31 LU",
     "bujur": "124.83 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 km",
     "dirasakan": "II Bantul, II Sleman, II Wonogiri, II Kulon Progo, II Sukoharjo, II Trenggalek, II Nganjuk, II Pacitan, II Klaten, II Kediri, II Ponorogo, II Banjarnegara, II Lumajang, II Blitar"
-  },
-  {
-    "waktu": "26 Okt 2026 11:53:42 WIB",
-    "lintang": "8.45 LS",
-    "bujur": "121.45 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "13 km",
-    "dirasakan": "III Bajawa, III Maumere, II - III Ruteng"
   }
 ]
