@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Nov 2026 15:13:10 WIB",
+    "lintang": "1.31 LU",
+    "bujur": "124.83 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "148 km",
+    "dirasakan": "II - III Ternate, II Minahasa"
+  },
+  {
     "waktu": "02 Nov 2026 07:53:11 WIB",
     "lintang": "7.08 LS",
     "bujur": "130.07 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.9",
     "kedalaman": "13 km",
     "dirasakan": "III Bajawa, III Maumere, II - III Ruteng"
-  },
-  {
-    "waktu": "25 Okt 2026 19:47:26 WIB",
-    "lintang": "0.73 LS",
-    "bujur": "131.39 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "6 km",
-    "dirasakan": "II Kota Sorong"
   }
 ]
