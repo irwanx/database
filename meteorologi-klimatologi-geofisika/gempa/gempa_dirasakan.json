@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02 Nov 2026 07:53:11 WIB",
+    "lintang": "7.08 LS",
+    "bujur": "130.07 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "130 km",
+    "dirasakan": "II Saumlaki"
+  },
+  {
     "waktu": "01 Nov 2026 12:38:59 WIB",
     "lintang": "4.79 LU",
     "bujur": "96.20 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.8",
     "kedalaman": "6 km",
     "dirasakan": "II Kota Sorong"
-  },
-  {
-    "waktu": "25 Okt 2026 14:40:01 WIB",
-    "lintang": "4.24 LU",
-    "bujur": "97.65 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 km",
-    "dirasakan": "IV Gayo Lues"
   }
 ]
