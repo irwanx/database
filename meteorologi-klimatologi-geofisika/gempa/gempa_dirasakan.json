@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "03 Nov 2026 22:37:50 WIB",
+    "lintang": "0.20 LS",
+    "bujur": "123.32 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "87 km",
+    "dirasakan": "III Kab. Gorontalo, II - III Kab. Bone Bolango, II - III Kab. Gorontalo Utara, II - III Kota Gorontalo, II - III Kab. Banggai, II - III Kab. Banggai Kepulauan"
+  },
+  {
+    "waktu": "03 Nov 2026 18:43:49 WIB",
+    "lintang": "8.27 LS",
+    "bujur": "120.63 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 km",
+    "dirasakan": "II - III Kab. Nagekeo, II - III Kab. Manggarai"
+  },
+  {
     "waktu": "02 Nov 2026 16:58:58 WIB",
     "lintang": "2.49 LS",
     "bujur": "140.66 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.4",
     "kedalaman": "4 km",
     "dirasakan": "II Kotaagung, II Sumberejo, II Ulu Belu, II Talang Padang, II Pulau Panggung, II Sukoharjo"
-  },
-  {
-    "waktu": "28 Okt 2026 15:23:46 WIB",
-    "lintang": "5.45 LS",
-    "bujur": "104.62 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 km",
-    "dirasakan": "III Kotaagung, II Kotabumi, II Pringsewu, II Ulu Belu, II Gisting, II Sumberejo, II Kotaagung Timur"
-  },
-  {
-    "waktu": "27 Okt 2026 21:43:13 WIB",
-    "lintang": "9.20 LS",
-    "bujur": "110.39 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 km",
-    "dirasakan": "II Bantul, II Sleman, II Wonogiri, II Kulon Progo, II Sukoharjo, II Trenggalek, II Nganjuk, II Pacitan, II Klaten, II Kediri, II Ponorogo, II Banjarnegara, II Lumajang, II Blitar"
   }
 ]
