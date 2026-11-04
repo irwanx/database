@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04 Nov 2026 03:28:35 WIB",
+    "lintang": "2.08 LS",
+    "bujur": "121.02 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "6 km",
+    "dirasakan": "II - III Morowali Utara"
+  },
+  {
     "waktu": "03 Nov 2026 22:37:50 WIB",
     "lintang": "0.20 LS",
     "bujur": "123.32 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.4",
     "kedalaman": "160 km",
     "dirasakan": "II - III Banda Naira, II - III Tanimbar, II - III Kaimana, II - III Sorong"
-  },
-  {
-    "waktu": "28 Okt 2026 18:59:15 WIB",
-    "lintang": "5.40 LS",
-    "bujur": "104.66 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "4 km",
-    "dirasakan": "II Kotaagung, II Sumberejo, II Ulu Belu, II Talang Padang, II Pulau Panggung, II Sukoharjo"
   }
 ]
