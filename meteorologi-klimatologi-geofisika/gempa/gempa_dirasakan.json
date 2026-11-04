@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "04 Nov 2026 14:56:34 WIB",
+    "lintang": "1.14 LS",
+    "bujur": "120.15 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 km",
+    "dirasakan": "III Sigi, II Palu"
+  },
+  {
+    "waktu": "04 Nov 2026 07:50:34 WIB",
+    "lintang": "7.94 LS",
+    "bujur": "120.89 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "15 km",
+    "dirasakan": "III Kab. Manggarai"
+  },
+  {
+    "waktu": "04 Nov 2026 07:46:08 WIB",
+    "lintang": "3.22 LS",
+    "bujur": "135.53 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "23 km",
+    "dirasakan": "II - III Nabire"
+  },
+  {
     "waktu": "04 Nov 2026 03:28:35 WIB",
     "lintang": "2.08 LS",
     "bujur": "121.02 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "3.7",
     "kedalaman": "10 km",
     "dirasakan": "II-III Sorong"
-  },
-  {
-    "waktu": "30 Okt 2026 01:58:30 WIB",
-    "lintang": "4.18 LU",
-    "bujur": "97.55 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "5 km",
-    "dirasakan": "III Takengon"
-  },
-  {
-    "waktu": "29 Okt 2026 10:26:49 WIB",
-    "lintang": "5.45 LS",
-    "bujur": "141.90 BT",
-    "magnitudo": "6.0",
-    "kedalaman": "120 km",
-    "dirasakan": "III Boven Digoel, II Jayapura, II Merauke"
-  },
-  {
-    "waktu": "29 Okt 2026 05:06:47 WIB",
-    "lintang": "6.34 LS",
-    "bujur": "130.52 BT",
-    "magnitudo": "6.4",
-    "kedalaman": "160 km",
-    "dirasakan": "II - III Banda Naira, II - III Tanimbar, II - III Kaimana, II - III Sorong"
   }
 ]
