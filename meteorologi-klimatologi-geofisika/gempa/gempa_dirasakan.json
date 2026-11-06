@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Nov 2026 02:07:01 WIB",
+    "lintang": "1.13 LS",
+    "bujur": "120.22 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 km",
+    "dirasakan": "IV Sigi, III Palu"
+  },
+  {
     "waktu": "07 Nov 2026 01:32:08 WIB",
     "lintang": "8.48 LS",
     "bujur": "115.87 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.8",
     "kedalaman": "10 km",
     "dirasakan": "II - III Kota Kendari"
-  },
-  {
-    "waktu": "31 Okt 2026 15:23:13 WIB",
-    "lintang": "2.87 LS",
-    "bujur": "122.21 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "4 km",
-    "dirasakan": "II - III Morowali"
   }
 ]
