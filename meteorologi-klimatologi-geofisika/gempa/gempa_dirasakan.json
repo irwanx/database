@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06 Nov 2026 17:30:55 WIB",
+    "lintang": "1.19 LS",
+    "bujur": "98.73 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "17 km",
+    "dirasakan": "III Siberut Barat, III Siberut Utara, II Siberut Tengah, I Kab. Nias Selatan"
+  },
+  {
     "waktu": "04 Nov 2026 14:56:34 WIB",
     "lintang": "1.14 LS",
     "bujur": "120.15 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "3 km",
     "dirasakan": "II Pangururan, II Kec. Ronggur Nihuta"
-  },
-  {
-    "waktu": "30 Okt 2026 13:03:45 WIB",
-    "lintang": "0.72 LS",
-    "bujur": "131.38 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 km",
-    "dirasakan": "II-III Sorong"
   }
 ]
