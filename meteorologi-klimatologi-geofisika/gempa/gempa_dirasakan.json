@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "07 Nov 2026 01:32:08 WIB",
+    "lintang": "8.48 LS",
+    "bujur": "115.87 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "18 km",
+    "dirasakan": "II Mataram, II Lombok Barat, II Lombok Tengah"
+  },
+  {
+    "waktu": "07 Nov 2026 00:38:52 WIB",
+    "lintang": "2.96 LS",
+    "bujur": "122.31 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "5 km",
+    "dirasakan": "II - III Bungku Morowali"
+  },
+  {
     "waktu": "06 Nov 2026 17:30:55 WIB",
     "lintang": "1.19 LS",
     "bujur": "98.73 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "4 km",
     "dirasakan": "II - III Morowali"
-  },
-  {
-    "waktu": "31 Okt 2026 12:39:20 WIB",
-    "lintang": "9.45 LS",
-    "bujur": "118.11 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "28 km",
-    "dirasakan": "III Sumbawa"
-  },
-  {
-    "waktu": "30 Okt 2026 17:29:39 WIB",
-    "lintang": "2.57 LU",
-    "bujur": "98.66 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "3 km",
-    "dirasakan": "II Pangururan, II Kec. Ronggur Nihuta"
   }
 ]
