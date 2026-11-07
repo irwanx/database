@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07 Nov 2026 17:05:52 WIB",
+    "lintang": "8.37 LS",
+    "bujur": "116.54 BT",
+    "magnitudo": "3.0",
+    "kedalaman": "10 km",
+    "dirasakan": "II Lombok Timur"
+  },
+  {
     "waktu": "07 Nov 2026 02:07:01 WIB",
     "lintang": "1.13 LS",
     "bujur": "120.22 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "6 km",
     "dirasakan": ""
-  },
-  {
-    "waktu": "01 Nov 2026 03:48:49 WIB",
-    "lintang": "3.92 LS",
-    "bujur": "122.63 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 km",
-    "dirasakan": "II - III Kota Kendari"
   }
 ]
