@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08 Nov 2026 01:54:12 WIB",
+    "lintang": "4.01 LS",
+    "bujur": "122.69 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "5 km",
+    "dirasakan": ""
+  },
+  {
     "waktu": "07 Nov 2026 17:05:52 WIB",
     "lintang": "8.37 LS",
     "bujur": "116.54 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "130 km",
     "dirasakan": "II Saumlaki"
-  },
-  {
-    "waktu": "01 Nov 2026 12:38:59 WIB",
-    "lintang": "4.79 LU",
-    "bujur": "96.20 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "6 km",
-    "dirasakan": ""
   }
 ]
