@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Nov 2026 07:44:58 WIB",
+    "lintang": "1.06 LU",
+    "bujur": "127.47 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "10 km",
+    "dirasakan": "II Kab. Halmahera Barat"
+  },
+  {
     "waktu": "08 Nov 2026 01:54:12 WIB",
     "lintang": "4.01 LS",
     "bujur": "122.69 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "148 km",
     "dirasakan": "II - III Ternate, II Minahasa"
-  },
-  {
-    "waktu": "02 Nov 2026 07:53:11 WIB",
-    "lintang": "7.08 LS",
-    "bujur": "130.07 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "130 km",
-    "dirasakan": "II Saumlaki"
   }
 ]
