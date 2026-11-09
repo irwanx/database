@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09 Nov 2026 16:48:29 WIB",
+    "lintang": "2.93 LS",
+    "bujur": "130.44 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 km",
+    "wilayah": "20 km BaratLaut SERAMBAGIANTIMUR-MALUKU"
+  },
+  {
     "waktu": "02 Nov 2026 15:13:10 WIB",
     "lintang": "1.31 LU",
     "bujur": "124.83 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.7",
     "kedalaman": "10 km",
     "wilayah": "193 km BaratDaya KAB-SUKABUMI-JABAR"
-  },
-  {
-    "waktu": "09 Okt 2026 12:11:04 WIB",
-    "lintang": "0.77 LU",
-    "bujur": "126.03 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 km",
-    "wilayah": "125 km Tenggara BITUNG-SULUT"
   }
 ]

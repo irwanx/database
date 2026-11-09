@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "09 Nov 2026 17:38:54 WIB",
+    "lintang": "8.34 LS",
+    "bujur": "121.52 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 km",
+    "dirasakan": "II - III Kab. Nagekeo"
+  },
+  {
+    "waktu": "09 Nov 2026 16:48:29 WIB",
+    "lintang": "2.93 LS",
+    "bujur": "130.44 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 km",
+    "dirasakan": "III-IV Kecamatan Bula"
+  },
+  {
     "waktu": "09 Nov 2026 07:44:58 WIB",
     "lintang": "1.06 LU",
     "bujur": "127.47 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "10 km",
     "dirasakan": "II - III Kab. Nagekeo, II - III Kab. Manggarai"
-  },
-  {
-    "waktu": "02 Nov 2026 16:58:58 WIB",
-    "lintang": "2.49 LS",
-    "bujur": "140.66 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "8 km",
-    "dirasakan": "III Jayapura"
-  },
-  {
-    "waktu": "02 Nov 2026 15:13:10 WIB",
-    "lintang": "1.31 LU",
-    "bujur": "124.83 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "148 km",
-    "dirasakan": "II - III Ternate, II Minahasa"
   }
 ]
