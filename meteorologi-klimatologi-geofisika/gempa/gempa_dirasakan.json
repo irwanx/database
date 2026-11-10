@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "11 Nov 2026 05:09:09 WIB",
+    "lintang": "4.05 LU",
+    "bujur": "97.34 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "4 km",
+    "dirasakan": "III-IV Gayo Lues, III-IV Aceh Timur, III Aceh Tengah, III Bener Meriah, III Lhokseumawe"
+  },
+  {
+    "waktu": "10 Nov 2026 23:04:15 WIB",
+    "lintang": "4.29 LS",
+    "bujur": "122.38 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "5 km",
+    "dirasakan": "IV Konawe Selatan, III Kendari"
+  },
+  {
     "waktu": "10 Nov 2026 21:31:38 WIB",
     "lintang": "7.04 LS",
     "bujur": "106.98 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.3",
     "kedalaman": "17 km",
     "dirasakan": "III Siberut Barat, III Siberut Utara, II Siberut Tengah, I Kab. Nias Selatan"
-  },
-  {
-    "waktu": "04 Nov 2026 14:56:34 WIB",
-    "lintang": "1.14 LS",
-    "bujur": "120.15 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 km",
-    "dirasakan": "III Sigi, II Palu"
-  },
-  {
-    "waktu": "04 Nov 2026 07:50:34 WIB",
-    "lintang": "7.94 LS",
-    "bujur": "120.89 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "15 km",
-    "dirasakan": "III Kab. Manggarai"
   }
 ]
