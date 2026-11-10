@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "10 Nov 2026 21:31:38 WIB",
+    "lintang": "7.04 LS",
+    "bujur": "106.98 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "102 km",
+    "dirasakan": "III Cianjur, II Sukabumi, II - III Ciwidey, II - III Pangalengan, II - III Nagrak, II Kec. Kebonpedes, II Cihanjuang, II Padalarang, II Cihideung, II Ngamprah, II Cisarua, II Lembang, II Karawang Selatan"
+  },
+  {
+    "waktu": "10 Nov 2026 15:34:04 WIB",
+    "lintang": "0.19 LS",
+    "bujur": "132.98 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "dirasakan": "II - III Manokwari"
+  },
+  {
     "waktu": "10 Nov 2026 08:53:28 WIB",
     "lintang": "8.02 LS",
     "bujur": "130.49 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.4",
     "kedalaman": "15 km",
     "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "04 Nov 2026 07:46:08 WIB",
-    "lintang": "3.22 LS",
-    "bujur": "135.53 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "23 km",
-    "dirasakan": "II - III Nabire"
-  },
-  {
-    "waktu": "04 Nov 2026 03:28:35 WIB",
-    "lintang": "2.08 LS",
-    "bujur": "121.02 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "6 km",
-    "dirasakan": "II - III Morowali Utara"
   }
 ]

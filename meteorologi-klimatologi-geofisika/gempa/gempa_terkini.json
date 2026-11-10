@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "10 Nov 2026 22:51:37 WIB",
+    "lintang": "0.93 LS",
+    "bujur": "128.60 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 km",
+    "wilayah": "116 km TimurLaut HALMAHERASELATAN-MALUT"
+  },
+  {
+    "waktu": "10 Nov 2026 15:34:04 WIB",
+    "lintang": "0.19 LS",
+    "bujur": "132.98 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "wilayah": "69 km BaratLaut KEBARMANOKWARI-PAPUABRT"
+  },
+  {
     "waktu": "10 Nov 2026 08:53:28 WIB",
     "lintang": "8.02 LS",
     "bujur": "130.49 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.4",
     "kedalaman": "74 km",
     "wilayah": "59 km BaratDaya MEULABOH-ACEHBARAT"
-  },
-  {
-    "waktu": "18 Okt 2026 15:00:08 WIB",
-    "lintang": "8.09 LS",
-    "bujur": "120.26 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 km",
-    "wilayah": "60 km TimurLaut LABUANBAJO-NTT"
-  },
-  {
-    "waktu": "12 Okt 2026 04:34:53 WIB",
-    "lintang": "0.64 LU",
-    "bujur": "121.75 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "76 km",
-    "wilayah": "29 km BaratLaut POHUWATO-GORONTALO"
   }
 ]
