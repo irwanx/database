@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "10 Nov 2026 08:53:28 WIB",
+    "lintang": "8.02 LS",
+    "bujur": "130.49 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "84 km",
+    "dirasakan": "III Saumlaki"
+  },
+  {
+    "waktu": "10 Nov 2026 07:49:12 WIB",
+    "lintang": "0.52 LS",
+    "bujur": "123.76 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "14 km",
+    "dirasakan": "II - III Luwuk"
+  },
+  {
     "waktu": "09 Nov 2026 17:38:54 WIB",
     "lintang": "8.34 LS",
     "bujur": "121.52 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "6 km",
     "dirasakan": "II - III Morowali Utara"
-  },
-  {
-    "waktu": "03 Nov 2026 22:37:50 WIB",
-    "lintang": "0.20 LS",
-    "bujur": "123.32 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "87 km",
-    "dirasakan": "III Kab. Gorontalo, II - III Kab. Bone Bolango, II - III Kab. Gorontalo Utara, II - III Kota Gorontalo, II - III Kab. Banggai, II - III Kab. Banggai Kepulauan"
-  },
-  {
-    "waktu": "03 Nov 2026 18:43:49 WIB",
-    "lintang": "8.27 LS",
-    "bujur": "120.63 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 km",
-    "dirasakan": "II - III Kab. Nagekeo, II - III Kab. Manggarai"
   }
 ]

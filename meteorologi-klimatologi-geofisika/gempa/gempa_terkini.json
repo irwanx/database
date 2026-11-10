@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10 Nov 2026 08:53:28 WIB",
+    "lintang": "8.02 LS",
+    "bujur": "130.49 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "84 km",
+    "wilayah": "90 km BaratDaya TANIMBAR"
+  },
+  {
     "waktu": "09 Nov 2026 16:48:29 WIB",
     "lintang": "2.93 LS",
     "bujur": "130.44 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.7",
     "kedalaman": "76 km",
     "wilayah": "29 km BaratLaut POHUWATO-GORONTALO"
-  },
-  {
-    "waktu": "11 Okt 2026 10:30:20 WIB",
-    "lintang": "8.73 LS",
-    "bujur": "106.47 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "10 km",
-    "wilayah": "193 km BaratDaya KAB-SUKABUMI-JABAR"
   }
 ]
