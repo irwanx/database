@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11 Nov 2026 06:05:21 WIB",
+    "lintang": "4.15 LU",
+    "bujur": "97.49 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "5 km",
+    "dirasakan": "III Gayo Lues, II-III Aceh Tengah, II-III Bener Meriah"
+  },
+  {
     "waktu": "11 Nov 2026 05:09:09 WIB",
     "lintang": "4.05 LU",
     "bujur": "97.34 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.3",
     "kedalaman": "5 km",
     "dirasakan": "II - III Bungku Morowali"
-  },
-  {
-    "waktu": "06 Nov 2026 17:30:55 WIB",
-    "lintang": "1.19 LS",
-    "bujur": "98.73 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "17 km",
-    "dirasakan": "III Siberut Barat, III Siberut Utara, II Siberut Tengah, I Kab. Nias Selatan"
   }
 ]
