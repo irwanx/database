@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "13 Nov 2026 02:14:40 WIB",
+    "lintang": "8.20 LS",
+    "bujur": "116.76 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "17 km",
+    "dirasakan": "III Kab. Sumbawa, III Kab. Sumbawa Barat, III Kab. Lombok Utara, III Kab. Lombok Timur, II Kota Mataram"
+  },
+  {
+    "waktu": "12 Nov 2026 21:19:05 WIB",
+    "lintang": "3.95 LS",
+    "bujur": "121.66 BT",
+    "magnitudo": "1.9",
+    "kedalaman": "17 km",
+    "dirasakan": "II Kolaka"
+  },
+  {
     "waktu": "12 Nov 2026 18:16:30 WIB",
     "lintang": "8.06 LS",
     "bujur": "120.81 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.0",
     "kedalaman": "10 km",
     "dirasakan": "II Lombok Timur"
-  },
-  {
-    "waktu": "07 Nov 2026 02:07:01 WIB",
-    "lintang": "1.13 LS",
-    "bujur": "120.22 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 km",
-    "dirasakan": "IV Sigi, III Palu"
-  },
-  {
-    "waktu": "07 Nov 2026 01:32:08 WIB",
-    "lintang": "8.48 LS",
-    "bujur": "115.87 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "18 km",
-    "dirasakan": "II Mataram, II Lombok Barat, II Lombok Tengah"
   }
 ]
