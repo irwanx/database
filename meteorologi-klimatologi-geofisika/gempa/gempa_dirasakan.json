@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "13 Nov 2026 14:31:39 WIB",
+    "lintang": "5.56 LS",
+    "bujur": "102.24 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "24 km",
+    "dirasakan": "II - III Enggano"
+  },
+  {
+    "waktu": "13 Nov 2026 11:49:34 WIB",
+    "lintang": "8.22 LS",
+    "bujur": "116.77 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "17 km",
+    "dirasakan": "IV Kab. Lombok Timur, III Kab. Lombok Tengah, III Kab. Lombok Barat, II-III Kota Mataram, II Kab. Sumbawa"
+  },
+  {
     "waktu": "13 Nov 2026 02:14:40 WIB",
     "lintang": "8.20 LS",
     "bujur": "116.76 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "2.5",
     "kedalaman": "10 km",
     "dirasakan": "II Kab. Halmahera Barat"
-  },
-  {
-    "waktu": "08 Nov 2026 01:54:12 WIB",
-    "lintang": "4.01 LS",
-    "bujur": "122.69 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "5 km",
-    "dirasakan": ""
-  },
-  {
-    "waktu": "07 Nov 2026 17:05:52 WIB",
-    "lintang": "8.37 LS",
-    "bujur": "116.54 BT",
-    "magnitudo": "3.0",
-    "kedalaman": "10 km",
-    "dirasakan": "II Lombok Timur"
   }
 ]
