@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16 Nov 2026 18:36:57 WIB",
+    "lintang": "5.41 LS",
+    "bujur": "104.60 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 km",
+    "dirasakan": "III Tanggamus"
+  },
+  {
     "waktu": "15 Nov 2026 04:24:20 WIB",
     "lintang": "8.10 LS",
     "bujur": "120.49 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "3.9",
     "kedalaman": "10 km",
     "dirasakan": "II - III Kab. Nagekeo"
-  },
-  {
-    "waktu": "09 Nov 2026 16:48:29 WIB",
-    "lintang": "2.93 LS",
-    "bujur": "130.44 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "10 km",
-    "dirasakan": "III-IV Kecamatan Bula"
   }
 ]
