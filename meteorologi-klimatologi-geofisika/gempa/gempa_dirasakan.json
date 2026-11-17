@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17 Nov 2026 07:49:17 WIB",
+    "lintang": "8.22 LS",
+    "bujur": "120.66 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "2 km",
+    "dirasakan": "III Kab. Manggarai"
+  },
+  {
     "waktu": "17 Nov 2026 06:30:16 WIB",
     "lintang": "7.00 LS",
     "bujur": "106.95 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 km",
     "dirasakan": "II - III Manokwari"
-  },
-  {
-    "waktu": "10 Nov 2026 08:53:28 WIB",
-    "lintang": "8.02 LS",
-    "bujur": "130.49 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "84 km",
-    "dirasakan": "III Saumlaki"
   }
 ]
