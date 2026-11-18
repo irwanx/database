@@ -1,122 +1,122 @@
 [
   {
-    "waktu": "17 Nov 2026 07:49:17 WIB",
-    "lintang": "8.22 LS",
-    "bujur": "120.66 BT",
-    "magnitudo": "4.8",
+    "waktu": "18 Nov 2026 15:01:44 WIB",
+    "lintang": "8.24 LS",
+    "bujur": "120.52 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "19 km",
+    "dirasakan": "II - III Kab. Manggarai"
+  },
+  {
+    "waktu": "18 Nov 2026 13:52:16 WIB",
+    "lintang": "8.10 LS",
+    "bujur": "120.51 BT",
+    "magnitudo": "4.0",
     "kedalaman": "2 km",
+    "dirasakan": "II - III Kab. Manggarai"
+  },
+  {
+    "waktu": "18 Nov 2026 12:49:33 WIB",
+    "lintang": "8.12 LS",
+    "bujur": "120.51 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "3 km",
     "dirasakan": "III Kab. Manggarai"
   },
   {
-    "waktu": "17 Nov 2026 06:30:16 WIB",
-    "lintang": "7.00 LS",
-    "bujur": "106.95 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "5 km",
-    "dirasakan": "III Nyalindung"
-  },
-  {
-    "waktu": "17 Nov 2026 04:11:20 WIB",
-    "lintang": "6.03 LS",
-    "bujur": "131.62 BT",
-    "magnitudo": "7.1",
-    "kedalaman": "115 km",
-    "dirasakan": "III Saumlaki, III Tiakur, III Dobo, III Sorong, III Manokwari, III Manokwari Selatan, III Bintuni, III Tual, III Fakfak, III Kaimana, II Nabire, II Serui"
-  },
-  {
-    "waktu": "16 Nov 2026 18:36:57 WIB",
-    "lintang": "5.41 LS",
-    "bujur": "104.60 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 km",
-    "dirasakan": "III Tanggamus"
-  },
-  {
-    "waktu": "15 Nov 2026 04:24:20 WIB",
-    "lintang": "8.10 LS",
-    "bujur": "120.49 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "2 km",
-    "dirasakan": "II Manggarai"
-  },
-  {
-    "waktu": "13 Nov 2026 14:31:39 WIB",
-    "lintang": "5.56 LS",
-    "bujur": "102.24 BT",
+    "waktu": "18 Nov 2026 12:48:50 WIB",
+    "lintang": "8.17 LS",
+    "bujur": "120.50 BT",
     "magnitudo": "4.1",
-    "kedalaman": "24 km",
-    "dirasakan": "II - III Enggano"
-  },
-  {
-    "waktu": "13 Nov 2026 11:49:34 WIB",
-    "lintang": "8.22 LS",
-    "bujur": "116.77 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "17 km",
-    "dirasakan": "IV Kab. Lombok Timur, III Kab. Lombok Tengah, III Kab. Lombok Barat, II-III Kota Mataram, II Kab. Sumbawa"
-  },
-  {
-    "waktu": "13 Nov 2026 02:14:40 WIB",
-    "lintang": "8.20 LS",
-    "bujur": "116.76 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "17 km",
-    "dirasakan": "III Kab. Sumbawa, III Kab. Sumbawa Barat, III Kab. Lombok Utara, III Kab. Lombok Timur, II Kota Mataram"
-  },
-  {
-    "waktu": "12 Nov 2026 21:19:05 WIB",
-    "lintang": "3.95 LS",
-    "bujur": "121.66 BT",
-    "magnitudo": "1.9",
-    "kedalaman": "17 km",
-    "dirasakan": "II Kolaka"
-  },
-  {
-    "waktu": "12 Nov 2026 18:16:30 WIB",
-    "lintang": "8.06 LS",
-    "bujur": "120.81 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "13 km",
+    "kedalaman": "5 km",
     "dirasakan": "II Kab. Manggarai"
   },
   {
-    "waktu": "11 Nov 2026 06:05:21 WIB",
-    "lintang": "4.15 LU",
-    "bujur": "97.49 BT",
-    "magnitudo": "4.3",
+    "waktu": "18 Nov 2026 12:24:54 WIB",
+    "lintang": "8.08 LS",
+    "bujur": "120.56 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "2 km",
+    "dirasakan": "III-IV Kab. Manggarai"
+  },
+  {
+    "waktu": "18 Nov 2026 12:23:41 WIB",
+    "lintang": "8.17 LS",
+    "bujur": "120.51 BT",
+    "magnitudo": "4.5",
     "kedalaman": "5 km",
-    "dirasakan": "III Gayo Lues, II-III Aceh Tengah, II-III Bener Meriah"
+    "dirasakan": "III Kab. Manggarai"
   },
   {
-    "waktu": "11 Nov 2026 05:09:09 WIB",
-    "lintang": "4.05 LU",
-    "bujur": "97.34 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "4 km",
-    "dirasakan": "III-IV Gayo Lues, III-IV Aceh Timur, III Aceh Tengah, III Bener Meriah, III Lhokseumawe"
+    "waktu": "18 Nov 2026 12:15:20 WIB",
+    "lintang": "8.11 LS",
+    "bujur": "120.55 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "7 km",
+    "dirasakan": "III Kab. Manggarai"
   },
   {
-    "waktu": "10 Nov 2026 23:04:15 WIB",
-    "lintang": "4.29 LS",
-    "bujur": "122.38 BT",
+    "waktu": "18 Nov 2026 12:11:30 WIB",
+    "lintang": "8.13 LS",
+    "bujur": "120.53 BT",
     "magnitudo": "4.0",
     "kedalaman": "5 km",
-    "dirasakan": "IV Konawe Selatan, III Kendari"
+    "dirasakan": "III Kab. Manggarai"
   },
   {
-    "waktu": "10 Nov 2026 21:31:38 WIB",
-    "lintang": "7.04 LS",
-    "bujur": "106.98 BT",
+    "waktu": "18 Nov 2026 12:08:21 WIB",
+    "lintang": "8.18 LS",
+    "bujur": "120.48 BT",
     "magnitudo": "4.0",
-    "kedalaman": "102 km",
-    "dirasakan": "III Cianjur, II Sukabumi, II - III Ciwidey, II - III Pangalengan, II - III Nagrak, II Kec. Kebonpedes, II Cihanjuang, II Padalarang, II Cihideung, II Ngamprah, II Cisarua, II Lembang, II Karawang Selatan"
+    "kedalaman": "12 km",
+    "dirasakan": "II Kab. Manggarai"
   },
   {
-    "waktu": "10 Nov 2026 15:34:04 WIB",
-    "lintang": "0.19 LS",
-    "bujur": "132.98 BT",
-    "magnitudo": "5.3",
+    "waktu": "18 Nov 2026 12:01:22 WIB",
+    "lintang": "8.12 LS",
+    "bujur": "120.54 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "1 km",
+    "dirasakan": "III Kab. Manggarai"
+  },
+  {
+    "waktu": "18 Nov 2026 11:57:28 WIB",
+    "lintang": "8.17 LS",
+    "bujur": "120.51 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "5 km",
+    "dirasakan": "III Kab. Manggarai"
+  },
+  {
+    "waktu": "18 Nov 2026 11:56:31 WIB",
+    "lintang": "8.20 LS",
+    "bujur": "120.46 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "12 km",
+    "dirasakan": "II Kab. Manggarai"
+  },
+  {
+    "waktu": "18 Nov 2026 11:55:54 WIB",
+    "lintang": "8.17 LS",
+    "bujur": "120.51 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "5 km",
+    "dirasakan": "III Kab. Manggarai"
+  },
+  {
+    "waktu": "18 Nov 2026 11:43:31 WIB",
+    "lintang": "8.19 LS",
+    "bujur": "120.55 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "7 km",
+    "dirasakan": "III-IV Kab. Manggarai"
+  },
+  {
+    "waktu": "18 Nov 2026 11:41:32 WIB",
+    "lintang": "8.17 LS",
+    "bujur": "120.54 BT",
+    "magnitudo": "5.8",
     "kedalaman": "10 km",
-    "dirasakan": "II - III Manokwari"
+    "dirasakan": "IV-V Kab. Manggarai, II-III Kab. Ngada, III-IV Kab. Sumba Timur , III-IV Kab. Sumba Barat Daya, III-IV Kab. Manggarai Barat"
   }
 ]

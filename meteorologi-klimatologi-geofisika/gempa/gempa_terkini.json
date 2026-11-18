@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "18 Nov 2026 11:41:32 WIB",
+    "lintang": "8.17 LS",
+    "bujur": "120.54 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "10 km",
+    "wilayah": "49 km TimurLaut RUTENG-MANGGARAI-NTT"
+  },
+  {
+    "waktu": "18 Nov 2026 10:24:03 WIB",
+    "lintang": "2.83 LS",
+    "bujur": "136.73 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "56 km",
+    "wilayah": "75 km BaratLaut INTANJAYA-PAPUATENGAH"
+  },
+  {
     "waktu": "17 Nov 2026 04:11:20 WIB",
     "lintang": "6.03 LS",
     "bujur": "131.62 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 km",
     "wilayah": "187 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
-  },
-  {
-    "waktu": "28 Okt 2026 08:11:54 WIB",
-    "lintang": "5.59 LU",
-    "bujur": "125.27 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 km",
-    "wilayah": "221 km BaratLaut PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "27 Okt 2026 21:43:13 WIB",
-    "lintang": "9.20 LS",
-    "bujur": "110.39 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 km",
-    "wilayah": "136 km BaratDaya GUNUNGKIDUL-DIY"
   }
 ]
