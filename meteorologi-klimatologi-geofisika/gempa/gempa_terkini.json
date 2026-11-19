@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19 Nov 2026 08:34:48 WIB",
+    "lintang": "0.47 LU",
+    "bujur": "96.56 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "12 km",
+    "wilayah": "114 km BaratDaya NIASBARAT-SUMUT"
+  },
+  {
     "waktu": "18 Nov 2026 11:41:32 WIB",
     "lintang": "8.17 LS",
     "bujur": "120.54 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "6.4",
     "kedalaman": "160 km",
     "wilayah": "201 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "28 Okt 2026 16:32:49 WIB",
-    "lintang": "5.30 LU",
-    "bujur": "125.42 BT",
-    "magnitudo": "5.0",
-    "kedalaman": "10 km",
-    "wilayah": "187 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]
