@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "19 Nov 2026 16:08:41 WIB",
+    "lintang": "8.34 LS",
+    "bujur": "117.52 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 km",
+    "dirasakan": "II - III Sumbawa"
+  },
+  {
+    "waktu": "19 Nov 2026 13:31:50 WIB",
+    "lintang": "2.49 LS",
+    "bujur": "121.25 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "5 km",
+    "dirasakan": "III Malili"
+  },
+  {
+    "waktu": "19 Nov 2026 08:34:48 WIB",
+    "lintang": "0.47 LU",
+    "bujur": "96.56 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "12 km",
+    "dirasakan": "II Nias Selatan"
+  },
+  {
     "waktu": "18 Nov 2026 23:11:00 WIB",
     "lintang": "8.10 LS",
     "bujur": "120.49 BT",
@@ -93,30 +117,6 @@
     "bujur": "120.54 BT",
     "magnitudo": "4.2",
     "kedalaman": "1 km",
-    "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "18 Nov 2026 11:57:28 WIB",
-    "lintang": "8.17 LS",
-    "bujur": "120.51 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "5 km",
-    "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "18 Nov 2026 11:56:31 WIB",
-    "lintang": "8.20 LS",
-    "bujur": "120.46 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "12 km",
-    "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "18 Nov 2026 11:55:54 WIB",
-    "lintang": "8.17 LS",
-    "bujur": "120.51 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "5 km",
     "dirasakan": "III Kab. Manggarai"
   }
 ]
