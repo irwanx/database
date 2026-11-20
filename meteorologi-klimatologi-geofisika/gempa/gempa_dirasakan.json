@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "21 Nov 2026 00:50:26 WIB",
+    "lintang": "7.51 LS",
+    "bujur": "106.85 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "17 km",
+    "dirasakan": "III Lengkong, III Pabuaran, III Ciemas, III Cidolog, II - III Palabuanratu, II - III Nagrak, II Kota Cimahi, II Ciparay, II Pangalengan, II Kab. Bandung"
+  },
+  {
+    "waktu": "20 Nov 2026 20:51:01 WIB",
+    "lintang": "8.10 LS",
+    "bujur": "120.49 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "3 km",
+    "dirasakan": "II - III Kab. Manggarai"
+  },
+  {
     "waktu": "20 Nov 2026 18:34:42 WIB",
     "lintang": "3.88 LS",
     "bujur": "122.51 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.8",
     "kedalaman": "2 km",
     "dirasakan": "III-IV Kab. Manggarai"
-  },
-  {
-    "waktu": "18 Nov 2026 12:23:41 WIB",
-    "lintang": "8.17 LS",
-    "bujur": "120.51 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "5 km",
-    "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "18 Nov 2026 12:15:20 WIB",
-    "lintang": "8.11 LS",
-    "bujur": "120.55 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "7 km",
-    "dirasakan": "III Kab. Manggarai"
   }
 ]
