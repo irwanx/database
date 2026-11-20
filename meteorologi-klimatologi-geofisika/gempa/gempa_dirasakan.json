@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "20 Nov 2026 18:34:42 WIB",
+    "lintang": "3.88 LS",
+    "bujur": "122.51 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "6 km",
+    "dirasakan": "III Kota Kendari, II - III Konawe Selatan"
+  },
+  {
+    "waktu": "20 Nov 2026 18:33:00 WIB",
+    "lintang": "3.93 LS",
+    "bujur": "122.51 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "5 km",
+    "dirasakan": "III-IV Kota Kendari, II-III Konawe Selatan, III Konawe Utara"
+  },
+  {
     "waktu": "20 Nov 2026 04:42:40 WIB",
     "lintang": "8.19 LS",
     "bujur": "120.52 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "4.2",
     "kedalaman": "7 km",
     "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "18 Nov 2026 12:11:30 WIB",
-    "lintang": "8.13 LS",
-    "bujur": "120.53 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "5 km",
-    "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "18 Nov 2026 12:08:21 WIB",
-    "lintang": "8.18 LS",
-    "bujur": "120.48 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "12 km",
-    "dirasakan": "II Kab. Manggarai"
   }
 ]
