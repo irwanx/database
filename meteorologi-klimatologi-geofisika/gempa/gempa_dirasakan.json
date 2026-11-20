@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20 Nov 2026 04:42:40 WIB",
+    "lintang": "8.19 LS",
+    "bujur": "120.52 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "2 km",
+    "dirasakan": "II - III Kab. Manggarai"
+  },
+  {
     "waktu": "19 Nov 2026 16:08:41 WIB",
     "lintang": "8.34 LS",
     "bujur": "117.52 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "12 km",
     "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "18 Nov 2026 12:01:22 WIB",
-    "lintang": "8.12 LS",
-    "bujur": "120.54 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "1 km",
-    "dirasakan": "III Kab. Manggarai"
   }
 ]
