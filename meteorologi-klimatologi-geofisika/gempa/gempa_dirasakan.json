@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "21 Nov 2026 16:42:11 WIB",
+    "lintang": "7.88 LS",
+    "bujur": "127.51 BT",
+    "magnitudo": "7.2",
+    "kedalaman": "125 km",
+    "dirasakan": "IV Tiakur, III Saumlaki, III Waingapu, II-III Kupang, III Kab. Alor, IV Romang, IV Pulau Babar, II-III Kota Kupang, II-III Kab. Kupang, II-III Kab. Timur Tengah Utara, II-III Kab. Malaka, II-III Kab. Melu, II-III Kab. Lembata"
+  },
+  {
+    "waktu": "21 Nov 2026 09:37:18 WIB",
+    "lintang": "8.14 LS",
+    "bujur": "120.46 BT",
+    "magnitudo": "4.0",
+    "kedalaman": "5 km",
+    "dirasakan": "II - III Kab. Manggarai"
+  },
+  {
+    "waktu": "21 Nov 2026 05:16:05 WIB",
+    "lintang": "8.07 LS",
+    "bujur": "120.56 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "3 km",
+    "dirasakan": "II - III Kab. Manggarai"
+  },
+  {
     "waktu": "21 Nov 2026 00:50:26 WIB",
     "lintang": "7.51 LS",
     "bujur": "106.85 BT",
@@ -94,29 +118,5 @@
     "magnitudo": "4.0",
     "kedalaman": "2 km",
     "dirasakan": "II - III Kab. Manggarai"
-  },
-  {
-    "waktu": "18 Nov 2026 12:49:33 WIB",
-    "lintang": "8.12 LS",
-    "bujur": "120.51 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "3 km",
-    "dirasakan": "III Kab. Manggarai"
-  },
-  {
-    "waktu": "18 Nov 2026 12:48:50 WIB",
-    "lintang": "8.17 LS",
-    "bujur": "120.50 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "5 km",
-    "dirasakan": "II Kab. Manggarai"
-  },
-  {
-    "waktu": "18 Nov 2026 12:24:54 WIB",
-    "lintang": "8.08 LS",
-    "bujur": "120.56 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "2 km",
-    "dirasakan": "III-IV Kab. Manggarai"
   }
 ]
