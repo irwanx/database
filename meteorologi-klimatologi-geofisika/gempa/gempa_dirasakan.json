@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Nov 2026 02:52:18 WIB",
+    "lintang": "1.27 LS",
+    "bujur": "100.28 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "55 km",
+    "dirasakan": "II - III Kota Padang, II - III Pesisir Selatan, I - II Solok"
+  },
+  {
     "waktu": "21 Nov 2026 16:42:11 WIB",
     "lintang": "7.88 LS",
     "bujur": "127.51 BT",
@@ -109,14 +117,6 @@
     "bujur": "120.52 BT",
     "magnitudo": "4.2",
     "kedalaman": "19 km",
-    "dirasakan": "II - III Kab. Manggarai"
-  },
-  {
-    "waktu": "18 Nov 2026 13:52:16 WIB",
-    "lintang": "8.10 LS",
-    "bujur": "120.51 BT",
-    "magnitudo": "4.0",
-    "kedalaman": "2 km",
     "dirasakan": "II - III Kab. Manggarai"
   }
 ]
