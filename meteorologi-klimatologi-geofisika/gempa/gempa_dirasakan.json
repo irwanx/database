@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Nov 2026 06:16:01 WIB",
+    "lintang": "2.29 LS",
+    "bujur": "140.30 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "6 km",
+    "dirasakan": "II - III Kota Jayapura, II - III Kab. Jayapura"
+  },
+  {
     "waktu": "22 Nov 2026 02:52:18 WIB",
     "lintang": "1.27 LS",
     "bujur": "100.28 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "2.0",
     "kedalaman": "4 km",
     "dirasakan": "II Kendari"
-  },
-  {
-    "waktu": "18 Nov 2026 15:01:44 WIB",
-    "lintang": "8.24 LS",
-    "bujur": "120.52 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "19 km",
-    "dirasakan": "II - III Kab. Manggarai"
   }
 ]
