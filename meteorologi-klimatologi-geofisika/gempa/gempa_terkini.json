@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22 Nov 2026 14:54:39 WIB",
+    "lintang": "3.12 LU",
+    "bujur": "126.57 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 km",
+    "wilayah": "98 km BaratDaya MELONGUANE-SULUT"
+  },
+  {
     "waktu": "21 Nov 2026 16:42:11 WIB",
     "lintang": "7.88 LS",
     "bujur": "127.51 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "130 km",
     "wilayah": "169 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "30 Okt 2026 03:32:13 WIB",
-    "lintang": "4.40 LS",
-    "bujur": "132.49 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 km",
-    "wilayah": "139 km BaratLaut TUAL-MALUKU"
   }
 ]
