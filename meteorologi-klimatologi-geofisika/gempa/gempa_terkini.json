@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "23 Nov 2026 18:24:32 WIB",
+    "lintang": "1.44 LU",
+    "bujur": "131.96 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 km",
+    "wilayah": "241 km TimurLaut RAJAAMPAT-PAPUABRTDY"
+  },
+  {
+    "waktu": "23 Nov 2026 14:36:24 WIB",
+    "lintang": "7.63 LS",
+    "bujur": "128.38 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "141 km",
+    "wilayah": "87 km TimurLaut MALUKUBRTDAYA"
+  },
+  {
     "waktu": "22 Nov 2026 14:54:39 WIB",
     "lintang": "3.12 LU",
     "bujur": "126.57 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 km",
     "wilayah": "20 km BaratLaut SERAMBAGIANTIMUR-MALUKU"
-  },
-  {
-    "waktu": "02 Nov 2026 15:13:10 WIB",
-    "lintang": "1.31 LU",
-    "bujur": "124.83 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "148 km",
-    "wilayah": "1 km BaratDaya TOMOHON-SULUT"
-  },
-  {
-    "waktu": "02 Nov 2026 07:53:11 WIB",
-    "lintang": "7.08 LS",
-    "bujur": "130.07 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "130 km",
-    "wilayah": "169 km BaratLaut TANIMBAR"
   }
 ]
