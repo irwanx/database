@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "25 Nov 2026 20:28:30 WIB",
+    "lintang": "8.36 LS",
+    "bujur": "120.52 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "5 km",
+    "dirasakan": "II - III Kab. Manggarai"
+  },
+  {
+    "waktu": "25 Nov 2026 19:08:11 WIB",
+    "lintang": "0.43 LS",
+    "bujur": "123.08 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "56 km",
+    "dirasakan": "III Luwuk, III Kota Gorontalo, III Kab. Gorontalo, III Bone Bolango, III Gorontalo Utara, III Pohuwato, III Minahasa Tenggara, III Boalemo"
+  },
+  {
     "waktu": "25 Nov 2026 12:33:27 WIB",
     "lintang": "8.14 LS",
     "bujur": "120.49 BT",
@@ -102,21 +118,5 @@
     "magnitudo": "3.5",
     "kedalaman": "10 km",
     "dirasakan": "II - III Sumbawa"
-  },
-  {
-    "waktu": "19 Nov 2026 13:31:50 WIB",
-    "lintang": "2.49 LS",
-    "bujur": "121.25 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "5 km",
-    "dirasakan": "III Malili"
-  },
-  {
-    "waktu": "19 Nov 2026 08:34:48 WIB",
-    "lintang": "0.47 LU",
-    "bujur": "96.56 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "12 km",
-    "dirasakan": "II Nias Selatan"
   }
 ]
