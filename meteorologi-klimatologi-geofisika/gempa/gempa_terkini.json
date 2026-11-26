@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26 Nov 2026 16:08:39 WIB",
+    "lintang": "10.79 LS",
+    "bujur": "117.26 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 km",
+    "wilayah": "230 km Tenggara SUMBAWABARAT-NTB"
+  },
+  {
     "waktu": "25 Nov 2026 19:08:11 WIB",
     "lintang": "0.43 LS",
     "bujur": "123.08 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 km",
     "wilayah": "69 km BaratLaut KEBARMANOKWARI-PAPUABRT"
-  },
-  {
-    "waktu": "10 Nov 2026 08:53:28 WIB",
-    "lintang": "8.02 LS",
-    "bujur": "130.49 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "84 km",
-    "wilayah": "90 km BaratDaya TANIMBAR"
   }
 ]
