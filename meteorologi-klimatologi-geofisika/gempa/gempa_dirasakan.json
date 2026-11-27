@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "27 Nov 2026 10:59:44 WIB",
+    "lintang": "4.74 LU",
+    "bujur": "96.74 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "3 km",
+    "dirasakan": "II - III Bener Meriah"
+  },
+  {
+    "waktu": "27 Nov 2026 10:56:37 WIB",
+    "lintang": "8.55 LS",
+    "bujur": "116.04 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 km",
+    "dirasakan": "III Kota Mataram , III Kab. Lombok Barat"
+  },
+  {
+    "waktu": "27 Nov 2026 10:51:14 WIB",
+    "lintang": "2.49 LS",
+    "bujur": "140.66 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "16 km",
+    "dirasakan": "III Kota Jayapura"
+  },
+  {
+    "waktu": "27 Nov 2026 09:39:21 WIB",
+    "lintang": "7.79 LS",
+    "bujur": "120.49 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "21 km",
+    "dirasakan": "II Manggarai"
+  },
+  {
     "waktu": "26 Nov 2026 22:40:36 WIB",
     "lintang": "1.22 LS",
     "bujur": "134.27 BT",
@@ -86,37 +118,5 @@
     "magnitudo": "4.6",
     "kedalaman": "17 km",
     "dirasakan": "III Lengkong, III Pabuaran, III Ciemas, III Cidolog, II - III Palabuanratu, II - III Nagrak, II Kota Cimahi, II Ciparay, II Pangalengan, II Kab. Bandung"
-  },
-  {
-    "waktu": "20 Nov 2026 20:51:01 WIB",
-    "lintang": "8.10 LS",
-    "bujur": "120.49 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "3 km",
-    "dirasakan": "II - III Kab. Manggarai"
-  },
-  {
-    "waktu": "20 Nov 2026 18:34:42 WIB",
-    "lintang": "3.88 LS",
-    "bujur": "122.51 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "6 km",
-    "dirasakan": "III Kota Kendari, II - III Konawe Selatan"
-  },
-  {
-    "waktu": "20 Nov 2026 18:33:00 WIB",
-    "lintang": "3.93 LS",
-    "bujur": "122.51 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "5 km",
-    "dirasakan": "III-IV Kota Kendari, II-III Konawe Selatan, III Konawe Utara"
-  },
-  {
-    "waktu": "20 Nov 2026 04:42:40 WIB",
-    "lintang": "8.19 LS",
-    "bujur": "120.52 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "2 km",
-    "dirasakan": "II - III Kab. Manggarai"
   }
 ]
