@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28 Nov 2026 02:28:05 WIB",
+    "lintang": "2.06 LS",
+    "bujur": "120.62 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "4 km",
+    "dirasakan": "III Pendolo"
+  },
+  {
     "waktu": "27 Nov 2026 10:59:44 WIB",
     "lintang": "4.74 LU",
     "bujur": "96.74 BT",
@@ -110,13 +118,5 @@
     "magnitudo": "4.1",
     "kedalaman": "3 km",
     "dirasakan": "II - III Kab. Manggarai"
-  },
-  {
-    "waktu": "21 Nov 2026 00:50:26 WIB",
-    "lintang": "7.51 LS",
-    "bujur": "106.85 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "17 km",
-    "dirasakan": "III Lengkong, III Pabuaran, III Ciemas, III Cidolog, II - III Palabuanratu, II - III Nagrak, II Kota Cimahi, II Ciparay, II Pangalengan, II Kab. Bandung"
   }
 ]
